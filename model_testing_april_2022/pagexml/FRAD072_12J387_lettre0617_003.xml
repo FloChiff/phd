@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.469176+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.469205+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0617_003.jpg" imageWidth="1729" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_43402909" >
+        <Coords points="827,150 827,120 957,120 957,150 957,166 827,175"/>
+        <Baseline points="827,150 957,150"/>
+        <TextEquiv>
+          <Unicode>- 3 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3948b894" >
+        <Coords points="313,280 311,239 391,250 410,239 412,239 412,239 413,239 413,239 413,239 413,239 415,239 415,239 415,239 417,239 417,239 448,250 481,241 483,241 483,241 485,241 485,241 558,248 569,239 569,239 571,239 571,239 571,239 571,239 573,239 573,239 573,239 575,239 575,239 576,239 576,239 615,248 796,248 820,239 831,236 833,236 833,236 833,236 835,236 835,236 875,239 950,247 1056,239 1168,232 1170,232 1225,232 1225,232 1225,232 1227,232 1227,232 1227,232 1228,232 1239,239 1245,243 1280,239 1381,230 1381,230 1382,230 1382,230 1384,230 1424,239 1430,241 1437,239 1476,230 1478,230 1478,230 1479,230 1479,230 1597,241 1600,269 1602,287 1571,298 1569,298 1569,298 1569,298 1567,298 1390,291 1386,291 1386,291 1368,300 1368,300 1368,300 1366,300 1366,300 1366,300 1364,300 1254,292 1170,302 1170,303 313,303"/>
+        <Baseline points="313,280 1600,269"/>
+        <TextEquiv>
+          <Unicode>nos désastres de 1870, la France a senti la nécessité de s&#39;orga-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_86968aab" >
+        <Coords points="315,346 311,322 1564,314 1569,338 1567,358 624,371 622,371 587,371 388,364 315,373"/>
+        <Baseline points="315,346 1569,338"/>
+        <TextEquiv>
+          <Unicode>niser. Après la victoire de 1918, son Gouvernement n&#39;a pas su</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1e48844d" >
+        <Coords points="316,411 313,389 615,377 617,377 1327,380 1340,371 1340,371 1342,371 1342,371 1342,371 1344,371 1344,371 1346,371 1595,380 1598,402 1597,430 316,439"/>
+        <Baseline points="316,411 1598,402"/>
+        <TextEquiv>
+          <Unicode>lui révéler son devoir et lui ouvrir la voie d&#39;une paix durable,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4359102b" >
+        <Coords points="315,477 311,452 1582,437 1587,468 1587,487 1467,497 1465,497 1065,496 842,494 829,497 816,503 816,503 815,503 815,503 813,503 719,499 602,496 576,501 565,505 564,505 564,505 564,507 315,507"/>
+        <Baseline points="315,477 1587,468"/>
+        <TextEquiv>
+          <Unicode>parce qu&#39;il n&#39;avait pas la foi, parce qu&#39;il ne croyait pas à la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3f11ef24" >
+        <Coords points="316,545 313,519 1501,508 1507,534 1505,554 316,565"/>
+        <Baseline points="316,545 1507,534"/>
+        <TextEquiv>
+          <Unicode>paix, se moquait de la paix, du droit, de la justice, parce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4a88e37a" >
+        <Coords points="318,611 315,584 1580,569 1586,602 1584,627 318,629"/>
+        <Baseline points="318,611 1586,602"/>
+        <TextEquiv>
+          <Unicode>qu&#39;il ne songeait qu&#39;à mettre à l&#39;écart et dans l&#39;impossibilité</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_29e39703" >
+        <Coords points="318,677 315,651 1567,642 1573,668 1571,686 318,695"/>
+        <Baseline points="318,677 1573,668"/>
+        <TextEquiv>
+          <Unicode>de servir quiconque croyait à la paix. Et maintenant, il nous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_29d30828" >
+        <Coords points="316,741 313,708 1598,703 1604,734 1602,759 316,768"/>
+        <Baseline points="316,741 1604,734"/>
+        <TextEquiv>
+          <Unicode>faut r evenir au 11 Novembre 1918, à l&#39;armistice;- mais comment</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c2ef6d40" >
+        <Coords points="316,805 311,783 353,772 355,772 355,772 357,772 580,779 626,779 1564,767 1569,798 1565,829 315,827"/>
+        <Baseline points="316,805 1569,798"/>
+        <TextEquiv>
+          <Unicode>vivre dans le monde en suspens? On n&#39;arrête pas impunément le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7a8590db" >
+        <Coords points="316,873 313,847 732,838 738,869 734,902 706,893 677,904 670,906 670,906 668,906 668,906 666,906 666,906 666,906 664,906 664,906 664,906 663,906 663,906 663,904 661,904 652,895 637,904 635,906 633,906 633,906 633,906 631,906 631,906 630,906 630,906 630,906 628,906 628,906 624,904 598,893 586,904 586,906 586,906 586,906 584,906 584,906 582,906 582,906 582,906 580,906 580,906 578,906 578,906 578,906 576,906 551,893 461,895 448,908 448,908 448,908 446,908 446,908 446,908 445,908 445,908 445,908 443,908 443,908 443,908 441,908 441,908 441,908 412,895 395,909 395,909 395,909 393,909 393,909 393,909 391,909 391,909 391,911 316,911"/>
+        <Baseline points="316,873 738,869"/>
+        <TextEquiv>
+          <Unicode>mouvement universel.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_77a73f4e" >
+        <Coords points="1012,968 1009,944 1060,933 1060,933 1060,933 1062,933 1219,939 1283,941 1291,937 1304,931 1304,931 1304,931 1305,931 1305,931 1307,931 1598,931 1602,964 1598,997 1011,990"/>
+        <Baseline points="1012,968 1602,964"/>
+        <TextEquiv>
+          <Unicode>Votre affectueusement dévoué,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9b424ac6" >
+        <Coords points="1071,1043 1069,1008 1227,997 1228,997 1228,997 1228,997 1230,997 1230,997 1230,997 1252,1008 1271,1017 1291,1010 1291,1010 1293,1010 1293,1010 1294,1010 1294,1010 1296,1010 1296,1010 1324,1019 1406,1008 1419,1008 1419,1008 1421,1008 1421,1008 1423,1008 1423,1008 1423,1008 1424,1008 1446,1021 1544,1021 1565,1010 1569,1043 1569,1063 1498,1080 1498,1080 1498,1082 1320,1082 1318,1080 1318,1080 1316,1080 1316,1080 1300,1072 1282,1065 1252,1074 1252,1074 1250,1074 1250,1074 1250,1074 1249,1074 1249,1074 1247,1074 1190,1065 1071,1080"/>
+        <Baseline points="1072,1045 1571,1045"/>
+        <TextEquiv>
+          <Unicode>££</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1bc9dfc9" >
+        <Coords points="141,1303 137,1261 197,1274 364,1261 371,1261 373,1261 373,1261 373,1261 375,1261 437,1274 448,1261 450,1261 450,1261 450,1259 450,1259 452,1259 452,1259 452,1259 454,1259 454,1259 456,1259 456,1259 456,1259 457,1259 465,1261 500,1272 512,1261 514,1259 514,1259 516,1259 516,1259 516,1259 518,1259 518,1259 518,1259 520,1259 520,1259 536,1261 606,1272 639,1261 646,1259 648,1259 648,1259 650,1259 714,1259 714,1259 714,1259 716,1259 716,1259 716,1259 721,1261 741,1272 1082,1263 1087,1298 1087,1327 141,1332"/>
+        <Baseline points="141,1303 1087,1298"/>
+        <TextEquiv>
+          <Unicode>à Monsieur le Président Nicholas Murray BUTLER,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1c0c0513" >
+        <Coords points="578,1367 573,1342 765,1336 771,1362 771,1391 705,1407 705,1407 705,1407 703,1407 576,1396"/>
+        <Baseline points="578,1367 771,1362"/>
+        <TextEquiv>
+          <Unicode>NEW-YORK.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5d7a8a1b" >
+        <Coords points="141,1664 139,1642 360,1636 362,1664 362,1684 141,1691"/>
+        <Baseline points="141,1664 362,1664"/>
+        <TextEquiv>
+          <Unicode>2 annexes.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.806407+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.806428+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J390_lettre1103_002.jpg" imageWidth="1760" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_135c327a" >
+        <Coords points="803,186 803,153 937,162 937,186 937,205 853,219 853,219 851,219 851,219 851,219 849,219 800,205"/>
+        <Baseline points="803,186 937,186"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c7ba79fc" >
+        <Coords points="316,292 313,258 1629,250 1635,283 1635,305 423,320 421,320 315,311"/>
+        <Baseline points="316,292 1635,283"/>
+        <TextEquiv>
+          <Unicode>est devenu un conférencier assez apprécié pour gagner sa vie, sans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2e992dcd" >
+        <Coords points="316,357 315,327 1076,327 1089,324 1135,316 1135,316 1137,316 1302,324 1320,324 1322,324 1335,314 1336,314 1336,314 1336,314 1338,314 1338,314 1340,314 1593,324 1597,347 1595,369 316,378"/>
+        <Baseline points="316,357 1597,347"/>
+        <TextEquiv>
+          <Unicode>mon aide, tout en poursuivant ses études dans la ligne qui l&#39;in-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d619130d" >
+        <Coords points="318,424 316,393 569,397 664,389 705,386 706,386 706,386 738,388 811,395 822,388 825,384 825,384 827,384 827,384 827,384 829,384 829,384 831,384 992,384 992,384 1010,386 1080,393 1184,384 1208,382 1208,382 1210,382 1210,382 1221,384 1267,391 1556,391 1589,380 1597,415 1595,435 318,444"/>
+        <Baseline points="318,424 1597,415"/>
+        <TextEquiv>
+          <Unicode>téresse. Il n&#39;a déjà que l&#39;embarras du choix des entreprises et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_962c094b" >
+        <Coords points="318,492 315,465 1558,446 1564,481 1564,505 1003,505 988,507 937,514 937,514 935,514 825,507 805,507 794,507 730,516 730,516 728,516 560,508 545,508 540,508 481,518 481,518 479,518 316,508"/>
+        <Baseline points="318,492 1564,481"/>
+        <TextEquiv>
+          <Unicode>des relations; il réussit enfin au delà de mon attente et dans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_53301f5a" >
+        <Coords points="316,558 313,530 1534,521 1540,547 1538,569 1457,578 1457,578 1455,578 1382,571 1357,569 1333,571 1269,580 1269,580 1267,580 1267,580 1216,573 1203,571 1188,573 1131,582 1131,582 1129,582 976,574 934,573 924,574 893,584 891,584 891,584 890,584 890,584 814,574 802,574 789,576 723,585 723,585 721,585 721,585 639,576 630,576 619,576 547,585 547,585 545,585 545,585 543,585 543,585 543,585 542,585 542,585 532,578 531,576 523,578 481,587 481,587 481,587 479,587 315,578"/>
+        <Baseline points="316,558 1540,547"/>
+        <TextEquiv>
+          <Unicode>une voie qui ne peut aller qu&#39;en s&#39;élargissant et en montant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1dceabe4" >
+        <Coords points="322,693 318,668 523,655 525,655 776,660 827,651 827,651 827,651 829,651 937,659 966,649 968,649 968,649 968,649 970,649 1415,653 1426,644 1426,644 1428,644 1428,644 1428,644 1430,644 1430,644 1430,644 1432,644 1580,653 1584,679 1580,703 1225,703 1212,706 1194,712 1192,712 1192,712 1192,712 1190,712 1190,712 1148,706 1115,703 1095,706 1067,714 1065,714 1065,714 1064,714 952,708 908,706 879,708 794,717 794,717 793,717 686,710 655,708 650,710 639,719 637,719 637,719 637,719 635,719 635,719 635,719 633,719 633,719 633,719 595,710 587,710 556,710 362,721 360,721 360,721 360,721 320,712"/>
+        <Baseline points="322,693 1584,679"/>
+        <TextEquiv>
+          <Unicode>sans jamais me demander mon secours, comme il s&#39;est marié, mais</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4a9d2247" >
+        <Coords points="631,620 626,595 653,585 655,585 655,585 655,585 657,585 657,585 659,585 659,585 659,585 661,585 673,595 677,596 776,596 783,593 814,584 816,584 816,584 818,584 932,584 932,584 932,584 934,584 934,584 934,584 935,584 948,593 950,593 956,593 1007,582 1007,582 1007,582 1009,582 1173,591 1192,591 1201,591 1272,580 1272,580 1274,580 1274,580 1274,580 1276,580 1311,589 1311,589 1573,589 1578,611 1576,642 631,642"/>
+        <Baseline points="631,620 1578,611"/>
+        <TextEquiv>
+          <Unicode>Vous remarquerez qu&#39;il a fait cela de lui-même,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e7953d49" >
+        <Coords points="320,759 316,726 1615,712 1620,746 1618,772 1501,772 1496,772 1435,789 1434,789 1434,789 1434,789 1217,790 1216,790 1216,790 1214,790 1214,790 1214,790 1188,776 1184,776 926,776 891,779 675,796 673,796 673,796 673,796 600,783 600,783 600,783 571,794 571,794 569,794 569,794 569,794 567,794 567,794 567,794 523,783 512,781 509,783 490,798 488,798 488,798 488,798 487,798 487,798 487,798 485,798 318,785"/>
+        <Baseline points="320,759 1620,746"/>
+        <TextEquiv>
+          <Unicode>toujours avec la certitude anticipée de mon approbation. Un jour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1cf6871a" >
+        <Coords points="320,825 316,798 507,783 509,783 771,790 833,790 849,789 901,779 901,779 901,779 902,779 985,787 1021,789 1060,785 1128,778 1128,778 1129,778 1129,778 1162,783 1184,787 1455,779 1461,814 1457,847 1245,840 1232,849 1230,851 1230,851 1228,851 1228,851 1228,851 1227,851 1227,851 1227,851 1225,851 1184,849 1087,842 1043,849 1018,853 1018,853 1016,853 1016,853 1016,853 1014,853 1014,853 1005,849 992,844 948,849 913,853 913,853 912,853 912,853 912,853 910,853 910,853 908,853 902,849 890,842 793,849 697,856 697,856 695,856 597,849 534,845 507,849 457,858 457,858 456,858 456,858 456,858 454,858 454,858 454,858 437,849 432,847 415,849 364,858 364,858 362,858 362,858 362,858 318,849"/>
+        <Baseline points="320,825 1461,814"/>
+        <TextEquiv>
+          <Unicode>viendra j&#39;espère, je le crois, où c&#39;est lui qui m&#39;aidera.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_add51693" >
+        <Coords points="778,911 776,889 1366,887 1368,913 1362,975 1336,964 1151,964 1139,974 1133,979 1133,979 1131,979 1131,979 1131,979 1129,979 1129,979 1129,981 941,981 939,979 939,979 937,979 910,972 880,964 776,970"/>
+        <Baseline points="779,912 1369,915"/>
+        <TextEquiv>
+          <Unicode>Votre affectueusement dévoué,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1811593f" >
+        <Coords points="315,1321 309,1298 518,1290 523,1316 523,1342 461,1343 457,1349 446,1356 446,1358 445,1358 443,1358 441,1358 438,1352 410,1352 388,1349 315,1351"/>
+        <Baseline points="315,1321 523,1316"/>
+        <TextEquiv>
+          <Unicode>1 annexe.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bdec684a" >
+        <Coords points="221,1385 223,1364 1045,1352 1049,1376 1049,1424 953,1413 890,1410 856,1411 803,1410 768,1410 736,1412 696,1408 676,1404 653,1404 633,1403 604,1399 546,1399 482,1403 436,1410 373,1416 328,1419 275,1422 221,1431"/>
+        <Baseline points="223,1386 1051,1377"/>
+        <TextEquiv>
+          <Unicode>à Monsieur le Président N! Murray BUTLER</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_493c5913" >
+        <Coords points="468,1426 472,1404 641,1404 659,1417 654,1439 468,1444"/>
+        <Baseline points="470,1427 660,1418"/>
+        <TextEquiv>
+          <Unicode>NEW-YORK</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.782842+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.782864+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J389_lettre1029_003.jpg" imageWidth="1737" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_83f3bb2e" >
+        <Coords points="881,166 881,139 1005,140 1005,166 1005,181 925,195 925,195 923,195 923,195 923,195 921,195 877,181"/>
+        <Baseline points="881,166 1005,166"/>
+        <TextEquiv>
+          <Unicode>- 3 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_173deb2d" >
+        <Coords points="326,272 322,241 1619,239 1625,267 1623,292 326,292"/>
+        <Baseline points="326,272 1625,267"/>
+        <TextEquiv>
+          <Unicode>comme vous, que Fargniers soit un village modèle que la Dotation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e1470a83" >
+        <Coords points="326,336 326,313 1548,313 1548,336 1548,357 326,364"/>
+        <Baseline points="326,336 1548,336"/>
+        <TextEquiv>
+          <Unicode>Carnegie soit fière d&#39;avoir fait construire et qui trouve en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8ccfdcaf" >
+        <Coords points="326,402 326,377 1542,377 1542,402 1540,426 324,422"/>
+        <Baseline points="326,402 1542,402"/>
+        <TextEquiv>
+          <Unicode>France des imitateurs. C&#39;est pourquoi nous avons décidé de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9ca65acf" >
+        <Coords points="324,472 324,443 1573,444 1573,472 1573,499 324,499"/>
+        <Baseline points="324,472 1573,472"/>
+        <TextEquiv>
+          <Unicode>faire remanier les plans provisoires dont vous avez le double.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ef36bc5a" >
+        <Coords points="322,538 322,508 1579,512 1579,538 1577,562 320,560"/>
+        <Baseline points="322,538 1579,538"/>
+        <TextEquiv>
+          <Unicode>M.M. Bigot et Landowski s&#39;entendent dans l&#39;esprit le plus con-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5a531c56" >
+        <Coords points="324,602 324,565 414,576 586,567 610,567 611,567 611,567 613,567 613,567 613,567 615,567 633,576 705,569 729,567 731,567 731,567 756,569 813,576 839,571 853,567 855,567 855,567 857,567 857,567 894,571 952,578 993,573 1018,569 1018,569 1020,569 1020,569 1020,569 1022,569 1022,569 1024,569 1024,569 1027,573 1035,578 1049,573 1060,569 1060,569 1062,569 1062,569 1064,569 1064,569 1064,569 1066,569 1066,569 1079,573 1092,578 1152,574 1233,569 1234,569 1559,580 1561,606 1559,622 945,631 943,631 943,631 941,631 903,622 349,629 348,629 348,629 346,629 346,629 320,618"/>
+        <Baseline points="324,602 1561,606"/>
+        <TextEquiv>
+          <Unicode>ciliant avec les architectes des régions libérées. Nous con-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_065ea387" >
+        <Coords points="324,671 322,638 1575,640 1579,668 1577,688 324,692"/>
+        <Baseline points="324,671 1579,668"/>
+        <TextEquiv>
+          <Unicode>voquons à Paris M. L&#39;Hérondelle pour discuter avec lui les ré-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dd3cb64d" >
+        <Coords points="326,739 324,710 1595,706 1597,739 1597,759 326,759"/>
+        <Baseline points="326,739 1597,739"/>
+        <TextEquiv>
+          <Unicode>sultats de leur accord. Les choses vont aller très vite; nous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fbfdfe24" >
+        <Coords points="324,805 320,778 1533,772 1539,801 1537,822 324,833"/>
+        <Baseline points="324,805 1539,801"/>
+        <TextEquiv>
+          <Unicode>vous tiendrons bien au courant. N&#39;oubliez pas que, de votre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d0ce4213" >
+        <Coords points="324,871 324,847 1588,847 1588,871 1586,893 322,891"/>
+        <Baseline points="324,871 1588,871"/>
+        <TextEquiv>
+          <Unicode>côté, vous devez nous envoyer dans le plus bref délai possible,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4c50c4a2" >
+        <Coords points="324,933 324,908 1630,915 1630,941 1628,961 1308,972 1306,972 1306,972 1304,972 1304,972 1304,972 1280,961 1280,961 1260,961 978,970 976,970 872,968 872,968 872,968 870,968 870,968 870,968 868,968 868,968 859,959 857,959 835,959 670,968 668,968 668,968 668,968 666,968 666,968 665,968 650,959 646,957 633,959 589,966 589,966 588,966 322,957"/>
+        <Baseline points="324,933 1630,941"/>
+        <TextEquiv>
+          <Unicode>la réponse à mes précédentes communications concernant Fargniers.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4f8dd1f3" >
+        <Coords points="859,1069 859,1034 1015,1041 1068,1034 1082,1032 1082,1032 1084,1032 1084,1032 1099,1034 1156,1043 1443,1036 1447,1072 1443,1105 1377,1094 1249,1102 1154,1107 1152,1107 1086,1105 1086,1105 1086,1105 1084,1105 1084,1105 1082,1105 1071,1098 1062,1093 1040,1098 1005,1105 1005,1105 1005,1105 1004,1105 855,1093"/>
+        <Baseline points="859,1069 1447,1072"/>
+        <TextEquiv>
+          <Unicode>Votre affectueusement dévoué,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e124c1b1" >
+        <Coords points="203,1299 203,1265 600,1274 740,1266 762,1266 764,1266 764,1266 773,1266 833,1276 1148,1270 1152,1305 1148,1340 1073,1331 958,1338 906,1340 905,1340 819,1334 742,1331 731,1332 714,1338 712,1338 712,1338 712,1338 710,1338 710,1338 709,1338 709,1338 709,1338 707,1338 699,1332 694,1329 679,1332 657,1338 655,1338 655,1338 654,1338 654,1338 654,1338 622,1331 608,1329 595,1331 560,1338 560,1338 560,1338 558,1338 364,1327 349,1327 344,1327 276,1334 276,1334 274,1334 274,1334 199,1323"/>
+        <Baseline points="203,1299 1152,1305"/>
+        <TextEquiv>
+          <Unicode>à Monsieur le Président Nicholas Murray BUTLER,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_24139679" >
+        <Coords points="619,1367 619,1338 819,1338 819,1367 820,1395 769,1409 767,1409 767,1409 767,1409 765,1409 617,1396"/>
+        <Baseline points="619,1367 819,1367"/>
+        <TextEquiv>
+          <Unicode>NEW-YORK.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

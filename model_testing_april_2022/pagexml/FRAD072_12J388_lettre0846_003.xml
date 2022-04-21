@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.580058+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.580079+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J388_lettre0846_003.jpg" imageWidth="1698" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_abbdf370" >
+        <Coords points="740,208 738,183 826,181 827,208 827,228 740,239"/>
+        <Baseline points="740,208 827,208"/>
+        <TextEquiv>
+          <Unicode>-3-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7059ce81" >
+        <Coords points="197,344 197,305 309,314 338,305 357,300 359,300 359,300 360,300 432,300 432,300 432,300 434,300 434,300 452,307 472,314 500,307 527,300 529,300 529,300 531,300 531,300 531,300 533,300 533,300 534,300 547,307 553,311 569,307 595,303 595,303 595,303 597,303 663,309 736,314 745,309 754,303 756,303 756,303 758,303 758,303 758,303 760,303 859,311 875,311 877,311 904,300 904,300 906,300 906,300 906,300 908,300 908,300 910,300 910,300 941,311 952,314 1071,314 1073,313 1086,303 1088,303 1088,303 1088,303 1089,303 1089,303 1089,303 1091,303 1091,303 1093,303 1093,303 1093,303 1095,303 1108,313 1111,314 1122,313 1166,303 1166,303 1166,303 1168,303 1168,303 1168,303 1212,313 1216,314 1218,313 1232,302 1232,300 1234,300 1234,300 1234,300 1236,300 1236,300 1238,300 1287,300 1287,300 1287,300 1289,300 1289,300 1289,300 1291,300 1291,300 1309,314 1311,316 1426,316 1428,344 1426,371 197,371"/>
+        <Baseline points="197,344 1428,344"/>
+        <TextEquiv>
+          <Unicode>les soufflets plus actuels que jamais du vieux norvégien; la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2616e4f0" >
+        <Coords points="201,413 197,388 342,377 344,377 787,384 833,375 833,375 833,375 835,375 1445,384 1448,410 1445,437 199,435"/>
+        <Baseline points="201,413 1448,410"/>
+        <TextEquiv>
+          <Unicode>guerr-e n&#39;a pas rehaussé leur prestige et la salle paraissait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5d158f61" >
+        <Coords points="197,477 197,452 1447,455 1448,481 1447,512 873,512 871,510 871,510 835,505 809,501 650,503 225,508 223,508 223,508 221,508 221,508 194,497"/>
+        <Baseline points="197,477 1448,481"/>
+        <TextEquiv>
+          <Unicode>unanime, sans d&#39;ailleurs probablement se demander pourquoi, à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cce9bae7" >
+        <Coords points="199,543 197,518 1523,514 1525,547 1522,578 197,574"/>
+        <Baseline points="199,543 1525,547"/>
+        <TextEquiv>
+          <Unicode>les condamner. Ils se condamnaient eux-mêmes, comme les pénitents,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1763b3a1" >
+        <Coords points="199,615 195,587 487,578 489,578 723,587 765,587 778,587 851,576 851,576 853,576 853,576 855,576 855,576 881,587 1051,587 1080,576 1082,576 1082,576 1082,576 1084,576 1084,576 1177,585 1393,576 1395,576 1395,576 1395,576 1439,587 1443,611 1441,637 1265,649 1263,649 1263,649 1148,638 1132,638 1130,638 1115,649 1113,649 1113,649 1113,649 1111,649 1111,649 1111,651 901,651 899,649 899,649 853,640 838,638 826,640 791,651 789,651 789,651 787,651 787,651 707,642 703,642 701,642 674,651 672,651 672,651 672,653 580,653 578,651 578,651 576,651 576,651 555,642 545,640 529,642 483,651 483,651 483,651 481,651 481,651 481,651 446,644 430,640 199,644"/>
+        <Baseline points="199,615 1443,611"/>
+        <TextEquiv>
+          <Unicode>trouvant la pénitence amusante et bien décidés à recommencer.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cdf195ed" >
+        <Coords points="699,677 697,651 1284,649 1287,682 1282,719 1247,706 1135,706 1119,717 1117,717 1117,717 1117,717 1115,717 1115,717 1115,717 1115,717 1113,717 1113,717 1113,717 1113,717 1111,717 1111,717 1110,717 1110,717 1110,717 1099,706 1071,717 1071,717 1071,717 1069,717 1069,717 1069,717 1067,717 1067,717 1066,717 1066,717 1066,717 1066,717 1038,704 996,717 994,717 992,717 992,717 992,719 906,719 904,717 904,717 903,717 903,717 903,717 901,717 901,717 901,715 901,715 888,704 697,714"/>
+        <Baseline points="699,677 1287,682"/>
+        <TextEquiv>
+          <Unicode>Votre affectueusement dévoué</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_21fa7254" >
+        <Coords points="197,1219 194,1179 919,1186 923,1215 921,1250 195,1248"/>
+        <Baseline points="197,1219 923,1215"/>
+        <TextEquiv>
+          <Unicode>à M. le Président N. Murray BUTLER,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_86826f8c" >
+        <Coords points="424,1281 423,1254 529,1246 531,1246 531,1246 635,1257 637,1285 637,1327 604,1338 602,1338 602,1338 602,1340 533,1340 531,1338 531,1338 529,1338 529,1338 527,1338 518,1332 509,1327 423,1334"/>
+        <Baseline points="424,1281 637,1285"/>
+        <TextEquiv>
+          <Unicode>NEW-YORK</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

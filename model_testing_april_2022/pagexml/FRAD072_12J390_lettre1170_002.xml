@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.828917+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.828938+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J390_lettre1170_002.jpg" imageWidth="1735" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_fed44501" >
+        <Coords points="742,115 740,84 864,89 868,113 870,128 833,139 831,139 831,139 831,139 829,139 740,133"/>
+        <Baseline points="742,115 868,113"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e7bfddb6" >
+        <Coords points="329,245 324,219 338,206 340,206 342,206 344,206 346,206 393,219 403,221 412,219 494,199 496,199 498,199 500,199 523,219 527,221 547,217 593,212 595,212 652,217 674,219 677,217 685,210 687,210 688,210 690,210 723,217 745,221 769,216 824,205 826,205 828,205 861,214 888,201 890,201 892,201 894,201 923,216 934,219 945,216 977,218 1000,224 1080,224 1107,221 1151,227 1183,212 1198,221 1214,212 1227,206 1229,206 1231,206 1233,206 1234,206 1242,212 1249,219 1353,223 1388,210 1438,194 1440,194 1441,194 1443,194 1478,210 1505,223 1551,210 1557,248 1555,269 329,274"/>
+        <Baseline points="329,245 1557,248"/>
+        <TextEquiv>
+          <Unicode>Et les conquêtes coloniales des alliés les ont conduits à re-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4eb7356e" >
+        <Coords points="329,316 327,289 908,280 910,280 910,280 912,280 912,280 912,280 930,289 932,291 1053,291 1057,289 1097,280 1097,280 1097,280 1099,280 1099,280 1099,280 1101,280 1101,280 1101,280 1119,289 1121,291 1242,291 1243,289 1273,280 1275,280 1275,280 1275,280 1276,280 1276,280 1276,280 1278,280 1306,289 1330,280 1330,280 1331,280 1331,280 1331,280 1333,280 1333,280 1333,280 1335,280 1335,280 1357,289 1357,291 1573,291 1573,316 1571,344 327,342"/>
+        <Baseline points="329,316 1573,316"/>
+        <TextEquiv>
+          <Unicode>cruter des armées de couleur pour ne pas succomber. Et ces ar-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_00a83aee" >
+        <Coords points="329,382 324,358 338,347 338,347 340,347 340,347 342,347 342,347 342,347 344,347 344,347 419,358 657,358 690,347 692,347 692,347 694,347 694,347 694,347 743,357 765,347 765,347 767,347 767,347 767,347 769,347 769,347 769,347 815,357 859,347 859,347 859,347 861,347 861,347 950,357 1227,347 1229,347 1511,358 1511,382 1509,411 327,402"/>
+        <Baseline points="329,382 1511,382"/>
+        <TextEquiv>
+          <Unicode>mées de couleur ont pris, par leurs sacrifices effroyables,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c0362ab6" >
+        <Coords points="329,446 329,421 1575,421 1575,452 1571,472 327,468"/>
+        <Baseline points="329,446 1575,452"/>
+        <TextEquiv>
+          <Unicode>conscience de leurs services et de leurs forces. Et maintenant</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_06184a6e" >
+        <Coords points="327,514 327,481 1593,490 1593,518 1592,536 1084,545 1082,545 326,534"/>
+        <Baseline points="327,514 1593,518"/>
+        <TextEquiv>
+          <Unicode>les races qu&#39;elles représentaient invoquent ces sacrifices pour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_491a5cb0" >
+        <Coords points="327,578 326,552 481,543 483,543 483,543 545,552 551,552 556,552 597,543 597,543 597,543 599,543 710,552 738,556 934,556 939,554 965,545 967,545 967,545 967,545 969,545 969,545 1016,554 1024,554 1027,554 1055,545 1057,545 1057,545 1058,545 1058,545 1148,554 1176,556 1192,554 1236,547 1236,547 1238,547 1551,556 1553,584 1551,602 327,606"/>
+        <Baseline points="327,578 1553,584"/>
+        <TextEquiv>
+          <Unicode>revendiquer, à leur tour, leurs droits. Et, parmi ces droits,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e5f28392" >
+        <Coords points="327,649 324,624 1051,613 1053,613 1592,622 1595,646 1593,666 327,670"/>
+        <Baseline points="327,649 1595,646"/>
+        <TextEquiv>
+          <Unicode>celui de pratiquer leurs religions. C&#39;est ainsi que l&#39;Islam que</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_092b9d16" >
+        <Coords points="326,715 322,690 1533,686 1538,712 1535,739 324,735"/>
+        <Baseline points="326,715 1538,712"/>
+        <TextEquiv>
+          <Unicode>nos ancêtres croisés prétendaient anéantir parle aujourd&#39;hui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b92d2d62" >
+        <Coords points="326,781 324,752 853,745 855,745 972,754 994,754 1005,754 1066,745 1066,745 1068,745 1068,745 1123,754 1128,754 1135,754 1187,745 1187,745 1187,745 1189,745 1189,745 1190,745 1190,745 1216,754 1218,754 1222,754 1275,745 1275,745 1276,745 1276,745 1276,745 1278,745 1278,745 1280,745 1280,745 1291,754 1293,756 1419,756 1423,754 1498,745 1498,745 1500,745 1500,745 1593,756 1593,781 1593,801 326,809"/>
+        <Baseline points="326,781 1593,781"/>
+        <TextEquiv>
+          <Unicode>presque d&#39;égal à égal à toute la Chrétienté. Les blancs, victi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6299ceb1" >
+        <Coords points="326,845 324,816 917,812 919,812 1064,820 1113,822 1128,820 1176,812 1176,812 1178,812 1366,822 1385,822 1390,822 1452,812 1452,812 1454,812 1454,812 1454,812 1456,812 1456,812 1456,812 1474,822 1474,822 1474,822 1531,812 1531,812 1533,812 1533,812 1535,812 1577,823 1577,849 1575,876 971,876 969,875 969,875 932,869 908,865 762,867 364,873 362,873 362,873 360,873 322,862"/>
+        <Baseline points="326,845 1577,849"/>
+        <TextEquiv>
+          <Unicode>mes de leurs divisions et de leurs convoitises, composant avec</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_93e8acd8" >
+        <Coords points="326,911 326,876 1630,880 1632,915 1628,937 324,933"/>
+        <Baseline points="326,911 1632,915"/>
+        <TextEquiv>
+          <Unicode>les noirs, avec les jaunes. Et ils n&#39;ont pas même la possibilité</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6f08f66e" >
+        <Coords points="327,979 326,952 857,948 859,979 861,999 840,1010 840,1010 840,1010 839,1010 839,1010 839,1012 837,1010 837,1010 835,1010 835,1010 835,1010 817,1001 784,1010 782,1010 782,1010 782,1010 780,1010 632,1001 566,1010 566,1010 564,1010 564,1010 564,1010 512,1001 469,1010 469,1010 469,1010 467,1010 326,999"/>
+        <Baseline points="327,979 859,979"/>
+        <TextEquiv>
+          <Unicode>d&#39;hésiter. Il y a urgence.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_83b79111" >
+        <Coords points="463,1047 461,1014 1553,1019 1557,1043 1553,1071 461,1069"/>
+        <Baseline points="463,1047 1557,1043"/>
+        <TextEquiv>
+          <Unicode>Tel est, vu de haut, l&#39;épilogue de notre bel esprit de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8e0e3fc8" >
+        <Coords points="327,1114 324,1091 382,1078 382,1078 382,1078 384,1078 489,1087 489,1087 489,1087 549,1078 549,1078 551,1078 551,1078 635,1085 652,1087 659,1085 690,1076 692,1076 692,1076 694,1076 694,1076 767,1085 780,1085 796,1083 861,1076 861,1076 862,1076 862,1076 864,1076 886,1083 897,1085 1348,1078 1353,1109 1352,1135 327,1140"/>
+        <Baseline points="327,1114 1353,1109"/>
+        <TextEquiv>
+          <Unicode>conquête. Les peuples conquis prennent l&#39;offensive.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2c7a4566" >
+        <Coords points="443,1179 443,1155 1593,1155 1593,1179 1593,1201 443,1201"/>
+        <Baseline points="443,1179 1593,1179"/>
+        <TextEquiv>
+          <Unicode>La France a sur les autres conquérants européens un grand</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_16a19874" >
+        <Coords points="326,1246 322,1222 1570,1217 1575,1241 1573,1265 326,1268"/>
+        <Baseline points="326,1246 1575,1241"/>
+        <TextEquiv>
+          <Unicode>avantage moral et politique. Elle est humaine. Elle a su atté-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_670fb64d" >
+        <Coords points="326,1314 322,1288 1603,1283 1608,1309 1606,1329 326,1334"/>
+        <Baseline points="326,1314 1608,1309"/>
+        <TextEquiv>
+          <Unicode>nuer les haines que devaient engendrer ses violences par le be-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_609da147" >
+        <Coords points="327,1382 324,1356 1544,1349 1549,1374 1548,1398 327,1400"/>
+        <Baseline points="327,1382 1549,1374"/>
+        <TextEquiv>
+          <Unicode>soin qu&#39;elle a d&#39;aimer et de se faire aimer; par son respect,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_113cb6f8" >
+        <Coords points="327,1448 324,1420 511,1411 512,1411 512,1411 514,1411 514,1411 514,1411 516,1411 527,1418 531,1422 729,1422 732,1418 747,1409 749,1409 749,1409 749,1409 751,1409 751,1409 752,1409 1020,1418 1042,1418 1044,1418 1055,1409 1055,1409 1057,1409 1057,1409 1057,1409 1058,1409 1058,1409 1060,1409 1060,1409 1132,1417 1137,1409 1139,1409 1139,1407 1139,1407 1141,1407 1141,1407 1141,1407 1143,1407 1143,1407 1145,1407 1145,1407 1223,1417 1236,1407 1238,1407 1238,1407 1238,1407 1240,1407 1240,1407 1242,1407 1242,1407 1242,1407 1243,1407 1243,1407 1245,1407 1262,1417 1507,1407 1509,1407 1509,1407 1511,1407 1553,1418 1555,1442 1551,1470 326,1466"/>
+        <Baseline points="327,1448 1555,1442"/>
+        <TextEquiv>
+          <Unicode>relatif, mais par son respect, malgré tout, malgré les fautes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_34afa7c1" >
+        <Coords points="327,1512 324,1488 395,1477 395,1477 397,1477 1571,1481 1575,1508 1573,1528 327,1532"/>
+        <Baseline points="327,1512 1575,1508"/>
+        <TextEquiv>
+          <Unicode>ou les crimes de ses dirigeants, par son respect de la justice</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c4fe97f6" >
+        <Coords points="326,1580 324,1550 1110,1550 1115,1548 1167,1539 1167,1539 1168,1539 1588,1548 1592,1574 1590,1596 326,1600"/>
+        <Baseline points="326,1580 1592,1574"/>
+        <TextEquiv>
+          <Unicode>et de la liberté. Elle s&#39;est rendue coupable maintes fois d&#39;at-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7444661b" >
+        <Coords points="327,1647 326,1612 1601,1612 1604,1640 1604,1664 646,1664 641,1664 606,1673 604,1673 604,1673 602,1673 326,1664"/>
+        <Baseline points="327,1647 1604,1640"/>
+        <TextEquiv>
+          <Unicode>teintes portées à cette justice et à cette liberté qu&#39;elle hono-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_05518f2a" >
+        <Coords points="326,1711 324,1684 1141,1684 1146,1682 1196,1673 1196,1673 1198,1673 1571,1682 1575,1706 1573,1724 326,1730"/>
+        <Baseline points="326,1711 1575,1706"/>
+        <TextEquiv>
+          <Unicode>re, mais elle se l&#39;est toujours reproché, notez-le bien. Et ce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f5176285" >
+        <Coords points="326,1777 324,1750 1571,1750 1575,1774 1575,1799 326,1805"/>
+        <Baseline points="326,1777 1575,1774"/>
+        <TextEquiv>
+          <Unicode>n&#39;est pas un mot; c&#39;est un fait; elle ne s&#39;enorgueillit pas de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d9eb786b" >
+        <Coords points="327,1845 322,1821 355,1808 355,1808 357,1808 357,1808 359,1808 359,1808 359,1808 415,1818 534,1808 536,1808 536,1808 536,1808 538,1808 538,1808 562,1818 712,1808 714,1808 992,1816 1011,1807 1011,1807 1011,1807 1013,1807 1013,1807 1014,1807 1014,1807 1014,1807 1016,1807 1016,1807 1016,1807 1018,1807 1018,1807 1029,1816 1079,1807 1079,1807 1079,1807 1080,1807 1080,1807 1082,1807 1082,1807 1082,1807 1102,1818 1328,1818 1342,1807 1344,1807 1344,1807 1344,1807 1346,1807 1346,1807 1348,1807 1608,1818 1612,1841 1610,1869 327,1872"/>
+        <Baseline points="327,1845 1612,1841"/>
+        <TextEquiv>
+          <Unicode>ses erreurs; elle les condamne, sans d&#39;ailleurs s&#39;attacher assez</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bc68fc50" >
+        <Coords points="329,1911 329,1885 1537,1885 1537,1911 1537,1931 945,1942 943,1942 897,1938 850,1933 842,1938 839,1942 839,1942 837,1942 837,1942 837,1942 835,1942 835,1942 835,1944 727,1944 725,1942 725,1942 723,1942 723,1942 723,1942 718,1940 703,1933 558,1933 547,1940 547,1942 547,1942 545,1942 545,1942 545,1942 544,1942 544,1942 544,1944 456,1944 454,1942 454,1942 448,1942 403,1933 329,1942"/>
+        <Baseline points="329,1911 1537,1911"/>
+        <TextEquiv>
+          <Unicode>fermement à les prévenir pour l&#39;avenir ou à les réparer dans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.935175+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.935197+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J391_lettre1364_005.jpg" imageWidth="1735" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_a6866e12" >
+        <Coords points="769,212 773,173 793,186 820,181 837,177 837,177 837,177 839,177 839,177 840,177 895,192 894,217 890,239 765,227"/>
+        <Baseline points="771,213 895,219"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_15229f65" >
+        <Coords points="254,344 256,307 282,318 465,309 485,309 487,309 487,309 494,309 558,320 589,311 589,311 591,311 591,311 591,311 593,311 604,311 776,322 906,314 939,313 941,313 941,313 963,314 1044,324 1135,316 1168,314 1168,314 1170,314 1223,318 1353,325 1549,322 1553,353 1549,380 252,362"/>
+        <Baseline points="254,344 1553,353"/>
+        <TextEquiv>
+          <Unicode>Gouvernement, de la presse et de l&#39;opinion. Ayant si bien réussi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1840a4f6" >
+        <Coords points="254,410 254,380 1593,395 1593,422 1592,448 976,448 974,446 974,446 972,446 972,446 972,446 971,446 971,446 961,439 960,437 960,439 949,446 947,446 947,446 947,446 945,446 945,446 943,446 943,446 943,446 897,439 888,437 881,437 829,446 829,446 829,446 828,446 643,435 611,433 593,433 481,443 480,443 480,443 480,443 478,443 445,432 441,432 425,432 271,441 269,441 269,441 269,441 267,441 267,441 267,441 265,441 249,430"/>
+        <Baseline points="254,410 1593,422"/>
+        <TextEquiv>
+          <Unicode>dans des circonstances si ingrates, nous sommes en droit d&#39;attendre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b4e75582" >
+        <Coords points="254,474 256,437 296,448 476,441 564,439 566,439 566,439 566,439 567,439 567,439 569,439 577,444 588,450 621,444 641,443 641,443 643,443 643,443 643,443 644,443 644,443 654,446 668,452 683,446 698,441 698,441 699,441 699,441 701,441 701,441 701,441 703,441 703,441 703,441 705,441 705,441 710,446 718,454 820,454 824,450 835,441 835,441 837,441 837,441 837,441 839,441 839,441 839,441 840,441 1035,455 1036,481 1035,505 842,518 840,518 840,518 738,507 652,516 652,516 650,516 650,516 545,503 534,503 516,503 359,512 357,512 357,512 357,512 355,512 355,512 355,512 353,512 340,503 324,512 324,512 324,512 322,512 322,512 322,512 320,512 320,512 250,501"/>
+        <Baseline points="254,474 1036,481"/>
+        <TextEquiv>
+          <Unicode>beaucoup de nos réunions dans l&#39;avenir.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bb658408" >
+        <Coords points="643,576 641,551 1227,549 1229,584 1225,615 905,602 870,604 795,611 793,611 793,611 793,611 791,611 791,611 791,611 789,611 789,611 778,602 776,600 763,600 681,609 681,609 679,609 679,609 677,609 637,596"/>
+        <Baseline points="643,576 1229,584"/>
+        <TextEquiv>
+          <Unicode>Votre affectueusement dévoué.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c148eb2e" >
+        <Coords points="283,895 278,871 324,856 326,856 326,856 327,856 327,856 327,856 329,856 366,869 549,869 643,854 643,854 644,854 960,864 978,853 980,853 980,853 980,853 982,853 982,853 982,853 1088,851 1090,851 1200,851 1200,851 1200,851 1201,851 1201,851 1201,851 1223,862 1245,853 1245,853 1247,853 1247,853 1249,853 1249,853 1249,853 1251,853 1251,853 1275,862 1302,853 1304,853 1304,853 1304,853 1306,853 1306,853 1308,853 1308,853 1308,853 1309,853 1324,862 1623,862 1628,886 1626,908 283,924"/>
+        <Baseline points="283,895 1628,886"/>
+        <TextEquiv>
+          <Unicode>P.S.- Les journaux (Le Matin) annoncent que la Ligue des Droits de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4c3e90ac" >
+        <Coords points="285,959 283,931 789,931 791,930 800,920 800,920 802,920 802,920 802,920 804,920 804,920 804,920 806,920 943,928 971,930 985,928 1064,919 1064,919 1066,919 1298,928 1320,928 1324,928 1361,917 1363,917 1363,917 1364,917 1364,917 1364,917 1366,917 1366,917 1388,928 1584,928 1588,950 1586,972 285,990"/>
+        <Baseline points="285,959 1588,950"/>
+        <TextEquiv>
+          <Unicode>l&#39;Homme de Paris ayant délégué le savant professeur Langevin pour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fbc2a529" >
+        <Coords points="287,1025 283,1001 430,990 432,990 960,997 1035,988 1035,988 1036,988 1639,997 1643,1021 1641,1050 287,1054"/>
+        <Baseline points="287,1025 1643,1021"/>
+        <TextEquiv>
+          <Unicode>la représenter à la manifestation du // 29 Juillet: contre la guerre,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fe5fb1ad" >
+        <Coords points="287,1094 285,1061 1308,1061 1309,1060 1330,1050 1330,1050 1331,1050 1331,1050 1331,1050 1333,1050 1566,1060 1570,1085 1568,1107 1194,1118 1192,1118 1192,1118 1143,1109 1124,1107 1106,1111 1055,1120 1055,1120 1053,1120 701,1113 630,1111 624,1113 595,1122 593,1122 593,1122 593,1122 591,1122 591,1122 591,1122 589,1122 560,1113 553,1111 434,1111 430,1113 410,1124 410,1124 410,1124 408,1124 408,1124 408,1124 406,1124 285,1113"/>
+        <Baseline points="287,1094 1570,1085"/>
+        <TextEquiv>
+          <Unicode>- notre ami Gerlach a été obligé de lire son discours traduit en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c7b44aa7" >
+        <Coords points="289,1158 285,1133 1566,1122 1571,1153 1570,1173 289,1179"/>
+        <Baseline points="289,1158 1571,1153"/>
+        <TextEquiv>
+          <Unicode>Allemand, la police ayant insisté pour que M. Langevin n&#39;assiste</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b4f2c185" >
+        <Coords points="289,1224 285,1202 331,1191 331,1191 331,1191 333,1191 606,1199 628,1190 628,1190 630,1190 630,1190 632,1190 1606,1195 1610,1217 1608,1243 619,1243 533,1252 525,1252 525,1252 523,1252 509,1252 320,1244 291,1254"/>
+        <Baseline points="289,1224 1610,1217"/>
+        <TextEquiv>
+          <Unicode>pas au meeting. On craignait des manifestations. Le Dr. Langevin</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_32b6aa55" >
+        <Coords points="293,1288 289,1261 1090,1254 1095,1285 1093,1307 293,1318"/>
+        <Baseline points="293,1288 1095,1285"/>
+        <TextEquiv>
+          <Unicode>s&#39;étant abstenu, la réunion a été calme.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6b109a49" >
+        <Coords points="448,1354 445,1331 549,1320 551,1320 1619,1323 1623,1349 1621,1369 1278,1380 1276,1380 1276,1380 1276,1380 1275,1380 1249,1371 1247,1371 1245,1371 1223,1382 1223,1382 1223,1382 1222,1382 1222,1382 1220,1382 447,1374"/>
+        <Baseline points="448,1354 1623,1349"/>
+        <TextEquiv>
+          <Unicode>En somme les Allemands peuvent séjourner et parler à Paris.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_06a2d8db" >
+        <Coords points="291,1418 287,1391 1604,1389 1610,1413 1606,1446 740,1440 720,1450 720,1450 720,1450 718,1450 718,1450 716,1450 406,1442 291,1451"/>
+        <Baseline points="291,1418 1610,1413"/>
+        <TextEquiv>
+          <Unicode>Les Français sont plus ou moins brutalement chassés d&#39;Allemagne et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_559072dd" >
+        <Coords points="291,1484 289,1455 1198,1455 1203,1453 1238,1444 1240,1444 1240,1444 1242,1444 1504,1453 1507,1477 1509,1499 1487,1512 1485,1512 1485,1512 1484,1512 1484,1512 1484,1512 1482,1512 1482,1512 1480,1512 1440,1501 1165,1514 1165,1515 1060,1515 1058,1514 1058,1514 1057,1514 1057,1514 1057,1514 1055,1514 1055,1514 1044,1503 1042,1503 930,1503 923,1504 890,1515 888,1515 888,1515 888,1515 886,1515 886,1515 807,1506 791,1504 787,1506 769,1515 769,1515 769,1515 767,1515 767,1515 767,1515 765,1515 765,1515 709,1506 701,1506 699,1506 687,1515 685,1515 685,1515 685,1515 683,1515 683,1515 681,1515 289,1510"/>
+        <Baseline points="291,1484 1507,1477"/>
+        <TextEquiv>
+          <Unicode>nos amis ne sont pas en force pour les protéger, semble-t-il.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6269fc97" >
+        <Coords points="124,1896 124,1865 1046,1871 1047,1904 1044,1929 355,1916 122,1924"/>
+        <Baseline points="124,1896 1047,1904"/>
+        <TextEquiv>
+          <Unicode>A Monsieur le Président Nicholas Murray BUTLER</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_825dec92" >
+        <Coords points="342,1927 342,1904 633,1907 635,1931 632,1953 338,1951"/>
+        <Baseline points="342,1927 635,1931"/>
+        <TextEquiv>
+          <Unicode>Berkeley Hotel</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f0c9019c" >
+        <Coords points="441,1966 437,1942 641,1940 646,1962 643,1988 439,1984"/>
+        <Baseline points="441,1966 646,1962"/>
+        <TextEquiv>
+          <Unicode>Piccadilly</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bf39d128" >
+        <Coords points="243,2028 243,2001 410,2002 410,2028 408,2057 241,2050"/>
+        <Baseline points="243,2028 410,2028"/>
+        <TextEquiv>
+          <Unicode>ENGLAND</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4e1903e3" >
+        <Coords points="498,2001 494,1977 639,1975 644,1999 643,2032 498,2037"/>
+        <Baseline points="498,2001 644,1999"/>
+        <TextEquiv>
+          <Unicode>LONDON</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

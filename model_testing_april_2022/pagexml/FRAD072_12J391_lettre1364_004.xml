@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.922408+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.922428+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J391_lettre1364_004.jpg" imageWidth="1744" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_229f42d5" >
+        <Coords points="197,256 197,235 247,233 253,230 273,233 278,230 278,226 297,230 322,231 359,226 394,229 421,227 423,261 421,291 196,291"/>
+        <Baseline points="199,258 425,263"/>
+        <TextEquiv>
+          <Unicode>SÉNAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_80437dd5" >
+        <Coords points="617,194 615,166 976,164 978,199 974,239 613,230"/>
+        <Baseline points="617,194 978,199"/>
+        <TextEquiv>
+          <Unicode>LETTRE N° 1.364</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c1ab0add" >
+        <Coords points="950,366 948,336 1223,331 1225,331 1225,331 1225,331 1269,340 1280,344 1441,344 1443,371 1441,389 1119,397 1117,397 1117,397 1115,397 1115,397 1115,397 1113,397 1113,397 1102,388 998,395 996,395 996,395 996,395 947,384"/>
+        <Baseline points="950,366 1443,371"/>
+        <TextEquiv>
+          <Unicode>CREANS, 30 Juillet 1923.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_19fbbfc1" >
+        <Coords points="476,492 474,461 901,459 903,459 903,459 904,459 904,459 904,459 906,459 906,459 906,461 908,461 914,468 915,472 1049,472 1051,499 1047,530 472,523"/>
+        <Baseline points="476,492 1051,499"/>
+        <TextEquiv>
+          <Unicode>LES ALLEMANDS REÇUS A PARIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1bc0d181" >
+        <Coords points="690,659 688,635 1022,629 1024,662 1020,684 686,682"/>
+        <Baseline points="690,659 1024,662"/>
+        <TextEquiv>
+          <Unicode>Mon cher Butler,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8f30f895" >
+        <Coords points="196,886 194,860 364,849 366,849 366,849 366,849 368,849 368,849 368,849 390,860 390,860 392,860 558,851 560,851 560,851 560,851 562,851 562,851 564,851 580,862 632,853 632,853 632,853 633,853 633,853 635,853 635,853 635,853 637,853 637,853 648,864 855,864 877,854 877,854 879,854 879,854 879,854 881,854 881,854 969,865 972,865 976,865 1031,856 1031,856 1033,856 1033,856 1111,867 1121,867 1148,867 1368,860 1370,860 1370,860 1370,860 1372,860 1372,860 1373,860 1388,869 1390,871 1489,871 1491,898 1487,924 610,919 610,919 610,919 571,911 562,909 512,909 252,915 250,915 250,915 194,904"/>
+        <Baseline points="196,886 1491,898"/>
+        <TextEquiv>
+          <Unicode>du 1er au 14 Juillet, j&#39;ajoute cet article du journal de Tardieu,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b9613ee0" >
+        <Coords points="483,820 481,794 560,783 560,783 562,783 562,783 562,783 564,783 599,794 599,796 815,798 818,798 853,787 855,787 855,787 855,787 857,787 857,787 943,800 956,800 969,800 1075,789 1075,789 1077,789 1077,789 1079,789 1079,789 1080,789 1080,789 1097,801 1099,803 1185,803 1188,801 1245,790 1245,790 1245,790 1247,790 1247,790 1249,790 1249,790 1249,790 1251,790 1251,790 1251,792 1262,801 1278,792 1280,792 1280,792 1282,792 1282,792 1282,792 1284,792 1284,792 1353,801 1399,792 1399,792 1399,792 1401,792 1549,807 1551,833 1547,860 479,840"/>
+        <Baseline points="483,820 1551,833"/>
+        <TextEquiv>
+          <Unicode>En Post-Scriptum à mon récit de nos réunions à Paris,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_53780d83" >
+        <Coords points="196,952 196,920 901,922 903,957 901,983 668,988 666,988 666,988 664,988 664,988 664,988 646,979 643,977 615,979 523,984 522,984 522,984 522,984 520,984 520,984 520,984 503,977 503,975 501,977 485,986 483,986 483,986 481,986 481,986 481,986 479,986 479,986 478,986 434,975 426,974 421,975 393,984 393,984 392,984 392,984 390,984 390,984 390,984 388,984 388,984 364,974 362,974 353,974 278,981 276,981 276,981 192,970"/>
+        <Baseline points="196,952 903,957"/>
+        <TextEquiv>
+          <Unicode>l&#39;Echo National du 26 Juillet 1923.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6dcf31e3" >
+        <Coords points="194,1085 192,1060 523,1054 525,1054 1516,1074 1516,1100 1515,1116 1351,1125 1350,1125 1207,1116 1174,1114 1141,1116 1027,1122 1025,1122 1025,1122 976,1114 956,1113 194,1113"/>
+        <Baseline points="194,1085 1516,1100"/>
+        <TextEquiv>
+          <Unicode>nous pour ne provoquer aucun incident et prévenir les commentaires</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8fc41f4f" >
+        <Coords points="490,1021 490,995 1535,1003 1535,1032 1533,1050 1203,1060 1201,1060 932,1047 840,1056 840,1056 839,1056 839,1056 837,1056 837,1056 837,1056 835,1056 835,1056 835,1054 826,1047 815,1054 813,1054 813,1054 813,1054 811,1054 811,1054 809,1054 809,1054 809,1054 754,1045 675,1054 675,1054 674,1054 674,1054 674,1054 672,1054 672,1054 672,1054 670,1054 654,1043 522,1052 520,1052 520,1052 520,1052 518,1052 518,1052 485,1039"/>
+        <Baseline points="490,1021 1535,1032"/>
+        <TextEquiv>
+          <Unicode>Je vous disais que, grâce aux précautions prises par</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2ad5ff3c" >
+        <Coords points="194,1151 194,1118 1529,1138 1531,1164 1529,1182 1351,1193 1350,1193 1350,1193 1350,1193 1348,1193 1348,1193 1348,1193 1346,1193 1346,1193 1346,1191 1337,1184 1183,1191 1181,1191 1181,1191 1181,1191 1179,1191 1144,1182 1013,1190 1011,1190 1011,1190 864,1179 831,1188 829,1188 829,1188 829,1188 828,1188 630,1177 584,1186 584,1186 584,1186 582,1186 582,1186 582,1186 580,1186 542,1175 430,1184 430,1184 428,1184 428,1184 426,1184 379,1171 192,1169"/>
+        <Baseline points="194,1151 1531,1164"/>
+        <TextEquiv>
+          <Unicode>malveillants de la presse nationaliste, GERLACH et FOERSTER avaient</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9d3b443f" >
+        <Coords points="194,1219 194,1193 1529,1206 1531,1232 1527,1254 192,1243"/>
+        <Baseline points="194,1219 1531,1232"/>
+        <TextEquiv>
+          <Unicode>pu prendre part à nos réunions à Paris, vivre avec nous à Paris, en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_34cb38a0" >
+        <Coords points="192,1283 192,1250 1529,1266 1531,1298 1527,1323 190,1301"/>
+        <Baseline points="192,1283 1531,1298"/>
+        <TextEquiv>
+          <Unicode>toute liberté, sans la moindre gêne, sans le moindre ennui, et cela</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_64689178" >
+        <Coords points="192,1352 192,1318 1509,1336 1511,1363 1509,1380 1355,1393 1353,1393 1353,1393 1238,1380 1238,1380 1236,1380 1133,1380 1117,1391 1115,1391 1115,1391 1115,1391 1113,1391 1113,1391 1113,1391 1111,1391 1111,1391 1036,1378 1033,1378 1027,1378 872,1387 870,1387 870,1387 747,1376 743,1376 740,1376 633,1387 632,1387 205,1384 205,1384 205,1384 203,1384 203,1384 201,1384 201,1384 186,1373"/>
+        <Baseline points="192,1352 1511,1363"/>
+        <TextEquiv>
+          <Unicode>en pleine crise de la RUHR.- Cela est si digne de remarque que le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_47456c23" >
+        <Coords points="190,1417 190,1391 1507,1404 1509,1429 1505,1446 188,1433"/>
+        <Baseline points="190,1417 1509,1429"/>
+        <TextEquiv>
+          <Unicode>journal de Tardieu, heureusement après coup et d&#39;ailleurs avec mo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6a591212" >
+        <Coords points="190,1481 190,1455 1485,1470 1487,1495 1483,1517 188,1499"/>
+        <Baseline points="190,1481 1487,1495"/>
+        <TextEquiv>
+          <Unicode>dération relève le fait en l&#39;opposant aux mauvais traitements que</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0c54de46" >
+        <Coords points="188,1547 188,1521 1527,1537 1527,1563 1526,1580 1381,1589 1379,1589 186,1565"/>
+        <Baseline points="188,1547 1527,1563"/>
+        <TextEquiv>
+          <Unicode>subissent les Français en Allemagne. Je sais bien que la situation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_79c21ae4" >
+        <Coords points="186,1612 186,1583 1560,1600 1562,1627 1558,1647 185,1631"/>
+        <Baseline points="186,1612 1562,1627"/>
+        <TextEquiv>
+          <Unicode>n&#39;est pas la même de l&#39;un et de l&#39;autre côté du Rhin, mais c&#39;est tout</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bafe2330" >
+        <Coords points="186,1677 186,1653 516,1653 518,1680 514,1704 183,1702"/>
+        <Baseline points="186,1677 518,1680"/>
+        <TextEquiv>
+          <Unicode>de même à noter.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_041e9168" >
+        <Coords points="481,1748 481,1711 536,1720 677,1713 683,1713 685,1713 685,1713 685,1713 686,1713 686,1713 686,1713 686,1713 688,1713 703,1722 1504,1722 1505,1757 1502,1783 600,1768 599,1768 516,1775 516,1775 514,1775 514,1775 512,1775 476,1764"/>
+        <Baseline points="481,1748 1505,1757"/>
+        <TextEquiv>
+          <Unicode>Il n&#39;en reste pas moins certain que le Centre Euro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4e5b6f0b" >
+        <Coords points="185,1810 185,1775 256,1785 346,1777 371,1775 371,1775 373,1775 373,1775 375,1775 375,1775 382,1777 406,1786 496,1779 531,1777 533,1777 533,1777 562,1781 626,1788 718,1783 784,1779 785,1779 785,1779 785,1779 815,1785 850,1790 890,1785 930,1781 930,1781 932,1781 994,1786 1029,1790 1038,1788 1060,1781 1062,1781 1062,1781 1062,1781 1064,1781 1064,1781 1106,1788 1126,1792 1143,1790 1179,1783 1179,1783 1181,1783 1181,1783 1181,1783 1183,1783 1183,1783 1183,1783 1185,1783 1185,1783 1192,1790 1196,1792 1238,1790 1386,1785 1388,1785 1502,1796 1504,1821 1502,1838 846,1843 844,1843 844,1843 842,1843 804,1834 632,1841 630,1841 403,1830 201,1838 199,1838 199,1838 197,1838 197,1838 197,1838 196,1838 179,1827"/>
+        <Baseline points="185,1810 1504,1821"/>
+        <TextEquiv>
+          <Unicode>péen de la DOTATION CARNEGIE pouvait gâter l&#39;heureux effet de l&#39;i-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6972e885" >
+        <Coords points="183,1874 183,1847 1500,1856 1502,1889 1498,1915 181,1893"/>
+        <Baseline points="183,1874 1502,1889"/>
+        <TextEquiv>
+          <Unicode>nauguration de son nouvel hôtel et de sa session à Paris, sans les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b99ec906" >
+        <Coords points="185,1944 185,1918 1478,1924 1480,1951 1476,1977 183,1969"/>
+        <Baseline points="185,1944 1480,1951"/>
+        <TextEquiv>
+          <Unicode>précautions sérieuses que nous avons prises et notre volonté d&#39;e-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c9067ce2" >
+        <Coords points="185,2010 185,1979 1460,1990 1461,2019 1460,2041 219,2041 218,2039 218,2039 216,2039 181,2028"/>
+        <Baseline points="185,2010 1461,2019"/>
+        <TextEquiv>
+          <Unicode>xécuter notre programme tout en ménageant les susceptibilités du</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_52cb8caf" >
+        <Coords points="150,2083 150,2050 320,2059 456,2056 571,2054 573,2054 573,2054 573,2054 602,2059 622,2063 663,2061 751,2056 752,2056 752,2056 752,2056 754,2056 778,2063 784,2065 802,2065 892,2057 893,2057 893,2057 893,2057 954,2068 954,2092 950,2120 688,2110 672,2114 655,2118 654,2118 654,2118 652,2118 652,2118 650,2118 650,2118 650,2118 641,2114 630,2109 478,2110 194,2112 192,2112 192,2112 192,2112 146,2101"/>
+        <Baseline points="150,2083 954,2092"/>
+        <TextEquiv>
+          <Unicode>à Monsieur le Président N. Murray BUTLER</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

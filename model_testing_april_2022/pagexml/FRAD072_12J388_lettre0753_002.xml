@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.537012+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.537033+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J388_lettre0753_002.jpg" imageWidth="1698" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_4adf6905" >
+        <Coords points="769,201 767,177 897,172 899,201 901,214 859,227 857,227 857,227 857,227 855,227 767,219"/>
+        <Baseline points="769,201 899,201"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fc735d8f" >
+        <Coords points="489,336 487,302 1273,307 1278,305 1306,298 1307,298 1307,298 1307,298 1309,298 1309,298 1309,298 1348,307 1349,307 1351,307 1359,300 1359,298 1359,298 1360,298 1360,298 1360,298 1362,298 1362,298 1364,298 1364,298 1364,298 1366,298 1366,298 1366,298 1368,298 1368,298 1377,307 1379,309 1553,309 1556,333 1555,353 489,355"/>
+        <Baseline points="489,336 1556,333"/>
+        <TextEquiv>
+          <Unicode>Il faudra que mon fils gagne sa vie au lieu de vivre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9c74cd40" >
+        <Coords points="210,402 210,371 1591,371 1591,402 1591,422 210,422"/>
+        <Baseline points="210,402 1591,402"/>
+        <TextEquiv>
+          <Unicode>de la fortune de sa femme, comme font tant d&#39;autres qui ne le valent</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a8e11511" >
+        <Coords points="208,472 205,448 421,435 423,435 423,435 423,435 424,435 424,435 446,444 485,435 487,435 487,435 489,435 881,443 899,433 899,433 899,433 901,433 901,433 903,433 903,433 903,433 904,433 937,443 1170,433 1172,433 1172,433 1230,443 1291,433 1291,433 1293,433 1293,433 1295,433 1335,444 1481,444 1502,433 1502,433 1502,433 1503,433 1503,433 1505,433 1505,433 1595,444 1599,468 1597,494 208,497"/>
+        <Baseline points="208,472 1599,468"/>
+        <TextEquiv>
+          <Unicode>pas. Telle est également l&#39;ambition de ma dernière fille, Henriette,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fbfac38d" >
+        <Coords points="210,538 206,514 1582,508 1588,532 1588,549 1522,560 1522,560 1522,562 210,562"/>
+        <Baseline points="210,538 1588,532"/>
+        <TextEquiv>
+          <Unicode>dont la vocation musicale s&#39;affirme et dont le bel enthousiasme pré-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1a47f5bb" >
+        <Coords points="210,600 210,574 1573,580 1575,606 1571,627 208,624"/>
+        <Baseline points="210,600 1575,606"/>
+        <TextEquiv>
+          <Unicode>fèrerait de beaucoup le génie à l&#39;argent, mais dont j&#39;esp ère que la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8de50587" >
+        <Coords points="210,668 210,640 1088,640 1089,671 1086,690 206,688"/>
+        <Baseline points="210,668 1089,671"/>
+        <TextEquiv>
+          <Unicode>sagesse saura concilier les inconciliables.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e888e3de" >
+        <Coords points="487,734 487,703 1555,710 1556,737 1555,757 485,757"/>
+        <Baseline points="487,734 1556,737"/>
+        <TextEquiv>
+          <Unicode>Mon fils préparé par son éducation, ses relations et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_59c9b5ef" >
+        <Coords points="210,803 210,776 1575,779 1575,803 1575,823 210,823"/>
+        <Baseline points="210,803 1575,803"/>
+        <TextEquiv>
+          <Unicode>les nôtres, et la sympathie et la confiance qu&#39;il inspireà tous mes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_40ad2aff" >
+        <Coords points="208,869 206,844 1556,836 1558,869 1558,889 208,889"/>
+        <Baseline points="208,869 1558,869"/>
+        <TextEquiv>
+          <Unicode>amis comme aux siens, devait être un auxiliaire comme on en a trop</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0f2df449" >
+        <Coords points="208,937 206,911 1551,902 1553,937 1551,964 206,955"/>
+        <Baseline points="208,937 1553,937"/>
+        <TextEquiv>
+          <Unicode>peu, soit pour notre diplomatie, soit pour la Société des Nations;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c8baa719" >
+        <Coords points="206,1001 205,968 1551,974 1555,997 1553,1017 206,1021"/>
+        <Baseline points="206,1001 1555,997"/>
+        <TextEquiv>
+          <Unicode>mais il n&#39;a pas tenu à s&#39;exposer aux disgrâces dont il a vu récom-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cdc35147" >
+        <Coords points="208,1071 205,1045 1551,1041 1556,1067 1553,1093 206,1089"/>
+        <Baseline points="208,1071 1556,1067"/>
+        <TextEquiv>
+          <Unicode>penser mes services par les pouvoirs publics et il a résolu d&#39;être</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7e1d9ed0" >
+        <Coords points="210,1136 206,1111 1492,1109 1498,1133 1496,1151 210,1155"/>
+        <Baseline points="210,1136 1498,1133"/>
+        <TextEquiv>
+          <Unicode>indépendant. Heureusement il a pu trouver à se faire apprécier</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_afa56243" >
+        <Coords points="206,1202 205,1175 1566,1175 1569,1199 1567,1226 206,1226"/>
+        <Baseline points="206,1202 1569,1199"/>
+        <TextEquiv>
+          <Unicode>ailleurs que dans un Minist ère ou une Chancellerie, et il a aujour-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7b988110" >
+        <Coords points="206,1270 201,1248 236,1237 238,1237 238,1237 239,1237 1058,1243 1104,1233 1104,1233 1104,1233 1106,1233 1549,1243 1553,1265 1551,1285 206,1288"/>
+        <Baseline points="206,1270 1553,1265"/>
+        <TextEquiv>
+          <Unicode>d&#39;hui une situation de toute confiance et déjà enviable à la Cham-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_05bfe4e9" >
+        <Coords points="206,1334 206,1309 1575,1312 1575,1338 1573,1354 934,1363 932,1363 838,1354 313,1362 311,1362 205,1351"/>
+        <Baseline points="206,1334 1575,1338"/>
+        <TextEquiv>
+          <Unicode>bre des Agents de Change de Paris. Cette situation ne pourra aller</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9444caef" >
+        <Coords points="206,1402 206,1373 1606,1374 1606,1406 1604,1422 225,1428 223,1428 223,1428 221,1428 221,1428 221,1428 219,1428 201,1417"/>
+        <Baseline points="206,1402 1606,1406"/>
+        <TextEquiv>
+          <Unicode>qu&#39;en se développant, car elle lui convient à tous les points de vue;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ab4d025e" >
+        <Coords points="206,1468 205,1440 1608,1439 1610,1471 1606,1492 205,1488"/>
+        <Baseline points="206,1468 1610,1471"/>
+        <TextEquiv>
+          <Unicode>la maturité d&#39;esprit que lui a valu la guerre, bien qu&#39;elle ait, avec</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dd83a321" >
+        <Coords points="210,1537 208,1508 1584,1510 1588,1534 1584,1561 208,1556"/>
+        <Baseline points="210,1537 1588,1534"/>
+        <TextEquiv>
+          <Unicode>sa convalescence, interrompu pendant six ans ses excellentes études,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_77622eda" >
+        <Coords points="208,1603 208,1570 1593,1572 1593,1603 1591,1623 206,1622"/>
+        <Baseline points="208,1603 1593,1603"/>
+        <TextEquiv>
+          <Unicode>lui donne déjà une autorité peu commune à son âge. Plus tard, quand</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2834d21a" >
+        <Coords points="208,1671 205,1647 1569,1644 1575,1667 1573,1691 206,1689"/>
+        <Baseline points="208,1671 1575,1667"/>
+        <TextEquiv>
+          <Unicode>il aura fait son apprentissage, il sera peut-être associé, comme le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_74b1d153" >
+        <Coords points="210,1735 208,1709 1621,1708 1624,1739 1622,1755 921,1764 919,1764 798,1755 254,1763 252,1763 252,1763 252,1763 208,1752"/>
+        <Baseline points="210,1735 1624,1739"/>
+        <TextEquiv>
+          <Unicode>souhaitent certains de nos meilleurs amis, à quelque grande entreprise</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_45991ba3" >
+        <Coords points="210,1799 208,1775 1580,1772 1584,1805 1580,1825 208,1818"/>
+        <Baseline points="210,1799 1584,1805"/>
+        <TextEquiv>
+          <Unicode>franco-anglo-américaine; et ainsi, par une autre voie que la mienne,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4a9ee9c4" >
+        <Coords points="210,1867 210,1841 1602,1849 1604,1874 1602,1893 1555,1904 1555,1904 1555,1904 1553,1904 1317,1894 1304,1894 1302,1894 1267,1904 1265,1904 1265,1904 1263,1904 1263,1904 1263,1904 1223,1894 1212,1893 1082,1894 826,1900 824,1900 824,1900 822,1900 822,1900 822,1900 820,1900 815,1896 805,1891 672,1896 560,1900 558,1900 558,1900 558,1900 556,1900 556,1900 555,1900 555,1900 555,1900 551,1896 542,1889 210,1896"/>
+        <Baseline points="210,1867 1604,1874"/>
+        <TextEquiv>
+          <Unicode>il reprendra ma tâche, il servira notre cause, commune de la Concilia-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

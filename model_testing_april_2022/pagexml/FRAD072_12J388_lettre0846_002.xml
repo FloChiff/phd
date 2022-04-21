@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.568359+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.568381+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J388_lettre0846_002.jpg" imageWidth="1698" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_c6461823" >
+        <Coords points="756,192 756,159 846,166 846,192 846,217 756,227"/>
+        <Baseline points="757,194 848,194"/>
+        <TextEquiv>
+          <Unicode>-2-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0dbd9967" >
+        <Coords points="181,325 181,292 675,300 692,292 696,291 696,291 696,291 697,291 697,291 699,291 699,291 718,292 809,300 831,292 835,291 835,291 837,291 837,291 838,291 838,291 838,291 848,292 895,303 1133,303 1144,292 1144,292 1146,292 1146,292 1146,292 1148,292 1148,292 1148,292 1148,292 1150,292 1153,292 1454,302 1503,292 1507,329 1505,349 181,353"/>
+        <Baseline points="181,325 1507,329"/>
+        <TextEquiv>
+          <Unicode>M. Hugh C. Wallace de leur succéder dans des circonstances si ex-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a208c502" >
+        <Coords points="185,395 185,360 1470,366 1472,400 1469,422 183,417"/>
+        <Baseline points="185,395 1472,400"/>
+        <TextEquiv>
+          <Unicode>ceptionnelles, après cette guerre, à la veille de vos élections</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ce6e4b9b" >
+        <Coords points="181,463 181,435 1503,443 1505,468 1502,497 1342,492 1329,497 1324,501 1324,501 1324,501 1322,501 1322,501 1322,501 1320,501 1320,501 1320,501 1304,497 1276,492 1146,497 1067,501 1066,501 1014,497 915,490 904,497 903,499 903,499 901,499 901,499 901,499 899,499 899,499 899,501 677,501 675,499 675,499 663,497 620,488 567,497 560,497 560,497 558,497 558,497 558,497 556,497 556,497 555,497 534,488 181,496"/>
+        <Baseline points="181,463 1505,468"/>
+        <TextEquiv>
+          <Unicode>présidentielles. Il y a réussi par sa droiture, sa valeur morale,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dff5262e" >
+        <Coords points="181,540 179,507 738,510 741,534 740,562 179,558"/>
+        <Baseline points="181,540 741,534"/>
+        <TextEquiv>
+          <Unicode>son inlassable bon vouloir.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f38d02e2" >
+        <Coords points="401,606 397,580 1544,574 1549,602 1549,620 1498,631 1498,631 1496,631 1056,624 972,633 970,633 399,624"/>
+        <Baseline points="401,606 1549,602"/>
+        <TextEquiv>
+          <Unicode>Sa femme l&#39;a secondé, et je n&#39;ai pas oublié son fils qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2cab7f23" >
+        <Coords points="179,673 177,637 1384,642 1388,670 1386,695 179,695"/>
+        <Baseline points="179,673 1388,670"/>
+        <TextEquiv>
+          <Unicode>a servi son pays et le nôtre et qui sert encore à Coblentz.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a1a1fdb5" >
+        <Coords points="397,739 397,704 1494,714 1494,739 1494,759 397,768"/>
+        <Baseline points="397,739 1494,739"/>
+        <TextEquiv>
+          <Unicode>Mes paroles ont fait plaisir à l&#39;auditoire. Elles ont</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_957125a0" >
+        <Coords points="181,809 177,783 1489,779 1494,805 1492,831 181,831"/>
+        <Baseline points="181,809 1494,805"/>
+        <TextEquiv>
+          <Unicode>été reproduites tout-à-fait inexactement dans le New-York Herald</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e46754d0" >
+        <Coords points="181,876 179,844 1507,847 1511,871 1509,893 181,900"/>
+        <Baseline points="181,876 1511,871"/>
+        <TextEquiv>
+          <Unicode>que voici par un reporter paresseux, comme d&#39;habitude, et qui s&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e78c83d4" >
+        <Coords points="181,944 179,909 1051,915 1058,913 1078,904 1078,904 1080,904 1080,904 1080,904 1082,904 1188,913 1203,915 1362,915 1364,913 1392,904 1393,904 1393,904 1393,904 1395,904 1395,904 1491,915 1494,939 1492,961 181,966"/>
+        <Baseline points="181,944 1494,939"/>
+        <TextEquiv>
+          <Unicode>borné à leur substituer ce qu&#39;il avait dans sa tête de banalités</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bb17014e" >
+        <Coords points="181,1006 183,972 208,983 721,983 723,1010 719,1038 177,1028"/>
+        <Baseline points="181,1006 723,1010"/>
+        <TextEquiv>
+          <Unicode>heureusement inoffensives.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d592b325" >
+        <Coords points="399,1078 397,1043 1547,1049 1551,1074 1549,1094 1496,1105 1496,1105 1494,1105 1494,1105 1404,1096 1403,1096 1403,1096 1371,1105 1370,1105 1370,1105 1370,1105 1368,1105 994,1098 976,1107 976,1107 976,1107 974,1107 974,1107 972,1107 972,1107 892,1098 890,1098 890,1098 807,1107 807,1107 805,1107 805,1107 804,1107 804,1107 780,1098 780,1098 780,1098 751,1107 749,1107 749,1107 749,1107 747,1107 397,1098"/>
+        <Baseline points="399,1078 1551,1074"/>
+        <TextEquiv>
+          <Unicode>J&#39;ai tenu d&#39;autant plus à exprimer mes sentiments que si</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_364e8cb5" >
+        <Coords points="181,1146 183,1111 223,1122 399,1122 413,1113 413,1111 415,1111 415,1111 415,1111 417,1111 417,1111 419,1111 681,1111 681,1111 681,1111 683,1111 683,1111 694,1114 710,1122 901,1122 908,1116 914,1111 914,1111 915,1111 915,1111 917,1111 917,1111 917,1111 919,1111 919,1111 921,1111 941,1116 957,1122 1139,1122 1146,1118 1163,1111 1163,1111 1164,1111 1164,1111 1164,1111 1166,1111 1326,1120 1351,1120 1362,1120 1439,1111 1439,1111 1441,1111 1534,1122 1534,1146 1534,1171 181,1173"/>
+        <Baseline points="181,1146 1534,1146"/>
+        <TextEquiv>
+          <Unicode>je suis resté à l&#39;écart pendant le séjour de M. Hugh C. Wallace en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0f23cb12" >
+        <Coords points="181,1213 179,1180 1566,1180 1569,1210 1567,1232 181,1239"/>
+        <Baseline points="181,1213 1569,1210"/>
+        <TextEquiv>
+          <Unicode>France je n&#39;ai pas été indifférent. Mon amitié pour son prédécesseur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_31284b2e" >
+        <Coords points="181,1281 179,1252 1562,1252 1566,1277 1562,1312 1346,1303 1298,1312 1295,1312 1295,1312 1295,1312 1293,1312 1293,1312 1293,1312 1289,1312 1249,1303 1142,1312 1132,1312 1130,1312 179,1309"/>
+        <Baseline points="181,1281 1566,1277"/>
+        <TextEquiv>
+          <Unicode>et son successeur Herrick ne devait pas m&#39;empêcher d&#39;être équitable.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_28eb451d" >
+        <Coords points="401,1550 397,1523 450,1510 450,1510 450,1510 452,1510 606,1519 642,1510 644,1510 644,1510 646,1510 793,1517 802,1510 802,1508 802,1508 804,1508 804,1508 804,1508 805,1508 805,1508 805,1508 807,1508 807,1508 864,1517 908,1508 908,1508 908,1508 910,1508 1100,1517 1227,1506 1229,1506 1540,1517 1544,1545 1540,1574 399,1570"/>
+        <Baseline points="401,1550 1544,1545"/>
+        <TextEquiv>
+          <Unicode>Avant de présider à la réception de M. Wallace, j&#39;ai pu,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_485ad84c" >
+        <Coords points="179,1616 175,1589 239,1578 239,1578 241,1578 322,1578 322,1578 322,1578 324,1578 324,1578 324,1578 326,1578 326,1578 335,1587 359,1578 359,1578 360,1578 360,1578 362,1578 362,1578 457,1587 476,1587 505,1585 633,1578 635,1578 635,1578 694,1585 721,1589 846,1589 851,1583 857,1578 857,1578 859,1578 859,1578 859,1578 860,1578 860,1578 862,1578 1547,1580 1551,1612 1553,1631 1533,1642 1533,1642 1533,1642 1531,1642 1531,1642 1529,1642 990,1634 862,1644 860,1644 177,1634"/>
+        <Baseline points="179,1616 1551,1612"/>
+        <TextEquiv>
+          <Unicode>sur l&#39;insistance de mon ancien collègue et ami de la Haye, le Comte</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_392132be" >
+        <Coords points="183,1678 183,1651 1533,1658 1534,1682 1531,1704 181,1700"/>
+        <Baseline points="183,1678 1534,1682"/>
+        <TextEquiv>
+          <Unicode>Prozor et de sa fille, aller entendre le 4me acte de la répétition</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d593010f" >
+        <Coords points="183,1750 183,1720 1478,1726 1478,1750 1478,1775 974,1785 972,1785 972,1785 970,1785 970,1785 970,1785 968,1785 968,1785 957,1775 954,1774 679,1774 675,1774 646,1785 644,1785 644,1785 644,1785 642,1785 642,1785 641,1785 600,1774 597,1774 587,1774 498,1783 496,1783 181,1772"/>
+        <Baseline points="183,1750 1478,1750"/>
+        <TextEquiv>
+          <Unicode>générale de la célèbre pièce d&#39;Ibsen, &quot;Un ennemi du Peuple&quot;, au</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f11be330" >
+        <Coords points="183,1812 183,1786 540,1786 542,1816 540,1838 181,1839"/>
+        <Baseline points="183,1812 542,1816"/>
+        <TextEquiv>
+          <Unicode>Théâtre Français.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_71467f7f" >
+        <Coords points="402,1883 402,1850 1492,1858 1494,1887 1492,1905 401,1909"/>
+        <Baseline points="402,1883 1494,1887"/>
+        <TextEquiv>
+          <Unicode>Supérieurement interprété par l&#39;acteur de Féraudy, cet</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_db51455e" >
+        <Coords points="181,1953 181,1926 1505,1929 1507,1957 1503,1973 179,1969"/>
+        <Baseline points="181,1953 1507,1957"/>
+        <TextEquiv>
+          <Unicode>acte a produit un effet énorme sur l&#39;auditoire très nombreux. Les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3ec0824e" >
+        <Coords points="183,2019 183,1991 1489,1997 1491,2024 1487,2056 181,2043"/>
+        <Baseline points="183,2019 1491,2024"/>
+        <TextEquiv>
+          <Unicode>dirigeants, brillamment représentés semblaient ravis de recevoir</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.556219+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.556241+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J388_lettre0846_001.jpg" imageWidth="1698" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_6aa53d3c" >
+        <Coords points="705,206 705,177 1056,179 1056,216 1055,245 1012,254 1012,254 1011,254 1011,254 926,245 910,243 901,245 848,254 848,254 848,254 846,254 701,241"/>
+        <Baseline points="705,206 1056,216"/>
+        <TextEquiv>
+          <Unicode>LETTRE N° 846.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_df9b4949" >
+        <Coords points="232,349 225,316 267,319 294,316 313,313 342,314 383,313 421,309 426,344 426,367 232,369"/>
+        <Baseline points="232,349 426,344"/>
+        <TextEquiv>
+          <Unicode>SÉNAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7a29535d" >
+        <Coords points="1086,375 1080,344 1196,331 1196,331 1197,331 1197,331 1199,331 1199,331 1225,342 1227,342 1238,342 1368,331 1370,331 1370,331 1370,331 1421,340 1421,340 1423,340 1436,329 1436,329 1437,329 1437,329 1437,329 1439,329 1439,329 1439,329 1441,329 1562,340 1566,371 1564,399 1086,406"/>
+        <Baseline points="1086,375 1566,371"/>
+        <TextEquiv>
+          <Unicode>PARIS, le 20 Juin 1921.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_75b46e2b" >
+        <Coords points="360,512 359,479 734,483 747,481 780,474 780,474 780,474 782,474 782,474 783,474 783,474 783,474 798,481 802,483 816,481 860,474 860,474 860,474 862,474 862,474 915,481 926,483 930,481 946,474 946,474 946,474 948,474 948,474 950,474 950,474 950,474 952,474 952,474 954,474 967,481 970,485 1073,485 1086,483 1181,474 1181,474 1183,474 1295,485 1298,510 1293,558 1262,549 1194,558 1183,558 1183,558 1181,558 1181,558 1179,558 1175,558 1137,547 1082,556 1067,558 1067,558 1067,560 961,560 959,558 959,558 957,558 945,554 919,547 871,554 851,556 851,556 849,556 849,556 822,552 771,547 761,552 752,558 751,558 751,558 749,558 749,558 749,558 747,558 747,558 747,558 745,558 727,552 710,547 653,551 569,558 567,558 567,558 567,558 566,558 540,551 529,547 518,549 485,558 483,558 483,558 481,558 481,558 359,547"/>
+        <Baseline points="360,512 1298,510"/>
+        <TextEquiv>
+          <Unicode>LE DÉPART DE L&#39;AMBASSADEUR HUGH C. WALLACE.-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f4419716" >
+        <Coords points="562,576 562,552 1025,556 1027,580 1023,622 558,616"/>
+        <Baseline points="562,576 1027,580"/>
+        <TextEquiv>
+          <Unicode>UN ENNEMI DU PEUPLE.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_604e4c11" >
+        <Coords points="547,712 547,686 888,690 890,715 886,737 544,735"/>
+        <Baseline points="547,712 890,715"/>
+        <TextEquiv>
+          <Unicode>Mon cher Butler,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_09f939dd" >
+        <Coords points="225,919 221,891 1569,878 1575,911 1573,935 934,935 860,942 826,944 826,944 824,944 776,942 659,937 580,944 558,946 556,946 503,946 252,939 227,948"/>
+        <Baseline points="225,919 1575,911"/>
+        <TextEquiv>
+          <Unicode>der la réunion organisée par France-Amérique en l&#39;honneur de M. et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e69958e1" >
+        <Coords points="446,849 443,823 540,809 540,809 542,809 542,809 542,809 544,809 544,809 545,809 566,822 727,822 741,809 741,809 743,809 743,809 743,809 745,809 745,809 747,809 747,809 747,809 749,809 749,809 778,822 831,822 848,809 849,809 849,809 849,809 851,809 851,809 851,809 853,809 853,809 928,820 1000,807 1000,807 1001,807 1001,807 1001,807 1055,818 1110,807 1110,807 1110,807 1111,807 1555,820 1558,845 1556,865 446,871"/>
+        <Baseline points="446,849 1558,845"/>
+        <TextEquiv>
+          <Unicode>En l&#39;absence d&#39;Hanotaux hier, j&#39;ai été appelé à prési-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_689683aa" >
+        <Coords points="225,983 219,961 252,948 252,948 254,948 254,948 256,948 256,948 256,948 258,948 293,959 399,959 419,948 419,948 419,948 421,948 421,948 423,948 423,948 423,948 470,957 507,948 509,948 509,948 511,948 511,948 511,948 512,948 512,948 538,957 648,948 648,948 650,948 802,955 815,946 815,946 816,946 816,946 816,946 818,946 818,946 820,946 1188,957 1192,979 1188,1012 223,1006"/>
+        <Baseline points="225,983 1192,979"/>
+        <TextEquiv>
+          <Unicode>Mme Hugh C. Wallace avant leur départ de Paris.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ab640d46" >
+        <Coords points="446,1052 445,1023 780,1023 785,1021 805,1014 805,1014 807,1014 807,1014 807,1014 809,1014 914,1021 945,1023 952,1021 976,1012 976,1012 978,1012 978,1012 979,1012 979,1012 979,1012 1023,1021 1027,1023 1245,1023 1249,1021 1278,1012 1280,1012 1280,1012 1280,1012 1282,1012 1514,1021 1518,1045 1516,1067 446,1074"/>
+        <Baseline points="446,1052 1518,1045"/>
+        <TextEquiv>
+          <Unicode>A la différence de ses prédécesseurs, j&#39;ai peu connu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7102f726" >
+        <Coords points="227,1122 223,1087 1588,1083 1593,1116 1591,1136 227,1142"/>
+        <Baseline points="227,1122 1593,1116"/>
+        <TextEquiv>
+          <Unicode>personnellement M. Hugh C. Wallace. Il a été très pris par les dif-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e4a7634e" >
+        <Coords points="228,1188 223,1164 249,1153 249,1153 250,1153 250,1153 252,1153 818,1160 892,1151 892,1151 893,1151 1555,1160 1558,1184 1556,1204 228,1208"/>
+        <Baseline points="228,1188 1558,1184"/>
+        <TextEquiv>
+          <Unicode>ficultés de sa situation et par la complexité de ses nombreux de-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_929fc5f6" >
+        <Coords points="227,1255 223,1228 1465,1217 1467,1217 1540,1226 1544,1250 1542,1268 227,1274"/>
+        <Baseline points="227,1255 1544,1250"/>
+        <TextEquiv>
+          <Unicode>voirs et à l&#39;Ambassade et à la Conférence des Ambassadeurs. J&#39;ai</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_789de88d" >
+        <Coords points="227,1323 227,1288 1597,1296 1597,1323 1595,1343 225,1340"/>
+        <Baseline points="227,1323 1597,1323"/>
+        <TextEquiv>
+          <Unicode>voulu d&#39;autant plus saisir l&#39;occasion de louer le soin et le succès</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_32353b04" >
+        <Coords points="228,1389 227,1360 375,1351 377,1351 377,1351 377,1351 415,1360 421,1362 641,1362 644,1360 675,1351 677,1351 677,1351 677,1351 679,1351 679,1351 732,1360 738,1360 745,1360 826,1351 826,1351 827,1351 827,1351 873,1360 877,1360 879,1360 903,1351 903,1351 904,1351 904,1351 904,1351 906,1351 1014,1360 1040,1362 1049,1360 1080,1352 1082,1352 1082,1352 1084,1352 1084,1352 1146,1360 1163,1362 1170,1360 1194,1352 1196,1352 1196,1352 1196,1352 1197,1352 1613,1362 1613,1393 1611,1413 245,1415 243,1415 243,1415 241,1415 241,1415 241,1415 239,1415 223,1404"/>
+        <Baseline points="228,1389 1613,1393"/>
+        <TextEquiv>
+          <Unicode>qu&#39;apport le Gouvernement des Etats-Unis à choisir ses ambassadeurs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e0ea2ffe" >
+        <Coords points="227,1457 227,1424 1597,1433 1597,1457 1597,1479 227,1484"/>
+        <Baseline points="227,1457 1597,1457"/>
+        <TextEquiv>
+          <Unicode>Je ne juge pas seulement, je compare et je constate que, depuis des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e8a2917a" >
+        <Coords points="227,1526 221,1503 254,1490 254,1490 256,1490 256,1490 258,1490 450,1499 833,1488 835,1488 835,1488 835,1488 837,1488 866,1497 868,1499 1108,1499 1115,1495 1146,1486 1148,1486 1148,1486 1148,1486 1150,1486 1150,1486 1152,1486 1152,1486 1152,1486 1153,1486 1166,1495 1168,1495 1183,1495 1355,1486 1357,1486 1357,1486 1357,1486 1359,1486 1382,1493 1390,1495 1549,1493 1555,1521 1551,1548 225,1547"/>
+        <Baseline points="227,1526 1555,1521"/>
+        <TextEquiv>
+          <Unicode>années, sans remonter jusqu&#39;à Franklin, depuis le poète adorable,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_40d17eec" >
+        <Coords points="227,1590 225,1559 701,1558 703,1558 718,1559 789,1567 831,1559 838,1558 838,1558 838,1558 840,1558 862,1559 978,1567 992,1559 992,1558 994,1558 994,1558 994,1558 996,1558 996,1558 998,1558 1089,1558 1089,1558 1102,1559 1186,1569 1610,1559 1613,1596 1611,1616 227,1616"/>
+        <Baseline points="227,1590 1613,1596"/>
+        <TextEquiv>
+          <Unicode>Lowell, que j&#39;ai connu à Londres, depuis Mac Lane, le Général Porter</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4c16fdfe" >
+        <Coords points="230,1656 234,1620 250,1631 489,1622 494,1622 496,1622 496,1622 498,1622 498,1622 498,1622 498,1622 500,1622 512,1631 527,1623 527,1623 529,1623 529,1623 529,1623 531,1623 697,1633 732,1623 734,1623 734,1623 734,1623 736,1623 866,1633 1234,1625 1236,1625 1236,1625 1238,1625 1238,1625 1238,1625 1240,1625 1240,1625 1251,1634 1276,1625 1276,1625 1278,1625 1278,1625 1280,1625 1280,1625 1280,1625 1329,1634 1611,1625 1615,1662 1613,1682 1223,1682 1219,1682 1199,1691 1199,1691 1197,1691 1197,1691 1197,1691 1196,1691 1073,1684 1018,1680 1001,1684 978,1689 976,1689 976,1689 974,1689 831,1684 716,1680 655,1686 619,1688 617,1688 617,1688 617,1688 600,1686 560,1678 230,1686"/>
+        <Baseline points="230,1656 1615,1662"/>
+        <TextEquiv>
+          <Unicode>Choate jusqu&#39;à Bacon et Myron Herrick, votre pays cherche et réussit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fbb008fe" >
+        <Coords points="227,1728 227,1700 866,1702 956,1697 1005,1693 1007,1693 1064,1695 1188,1702 1280,1695 1306,1693 1306,1693 1307,1693 1307,1693 1309,1693 1309,1693 1309,1693 1311,1693 1311,1693 1313,1695 1324,1704 1443,1704 1533,1693 1544,1693 1544,1693 1545,1693 1545,1693 1547,1693 1549,1693 1577,1702 1591,1693 1597,1728 1597,1750 798,1759 796,1759 751,1755 657,1750 514,1757 479,1759 478,1759 478,1759 478,1759 476,1759 476,1759 474,1759 474,1757 457,1750 265,1750 228,1759"/>
+        <Baseline points="227,1728 1597,1728"/>
+        <TextEquiv>
+          <Unicode>à se faire représenter en Europe par des personnalités respectables</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_42451935" >
+        <Coords points="228,1792 228,1763 1520,1764 1522,1797 1520,1818 228,1818"/>
+        <Baseline points="228,1792 1522,1797"/>
+        <TextEquiv>
+          <Unicode>et de réelle valeur. Ce jeune pays donne à notre vieux monde un</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a040c290" >
+        <Coords points="228,1863 228,1830 1540,1834 1540,1863 1540,1883 228,1885"/>
+        <Baseline points="228,1863 1540,1863"/>
+        <TextEquiv>
+          <Unicode>noble exemple. Mais, plus les Etats-Unis avaient su bien choisir</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_29a8bf17" >
+        <Coords points="230,1931 230,1902 1540,1902 1540,1931 1540,1953 230,1962"/>
+        <Baseline points="230,1931 1540,1931"/>
+        <TextEquiv>
+          <Unicode>jusqu&#39;ici leurs représentants à Paris, plus il était difficile à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4d066c2d" >
+        <Coords points="111,2032 111,1993 380,1999 399,1995 430,1990 430,1990 432,1990 432,1990 432,1990 465,1997 489,2001 509,1997 544,1990 544,1990 544,1990 545,1990 545,1990 547,1990 547,1990 547,1990 549,1990 558,1997 566,2002 648,2002 653,1999 672,1990 672,1990 672,1990 674,1990 674,1990 675,1990 675,1990 675,1990 677,1990 677,1990 679,1990 694,1999 699,2002 760,2002 761,1999 769,1993 769,1991 769,1991 771,1991 771,1991 771,1991 772,1991 772,1991 772,1991 774,1991 774,1991 776,1991 805,1999 855,1990 855,1990 857,1990 857,1990 956,2002 956,2032 954,2077 109,2068"/>
+        <Baseline points="111,2032 956,2032"/>
+        <TextEquiv>
+          <Unicode>à M. le Président Nicholas Murray BUTLER.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

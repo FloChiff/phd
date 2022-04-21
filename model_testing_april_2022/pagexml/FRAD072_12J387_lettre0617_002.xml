@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.436820+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.436842+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0617_002.jpg" imageWidth="1724" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_5324c03f" >
+        <Coords points="846,139 846,104 969,115 969,139 967,157 844,151"/>
+        <Baseline points="846,139 969,139"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ea1b1347" >
+        <Coords points="311,270 311,243 1582,243 1584,274 1581,292 309,289"/>
+        <Baseline points="311,270 1584,274"/>
+        <TextEquiv>
+          <Unicode>reconnaître ce mérite, c&#39;est faire oeuvre, comme lui, de parti-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1e037069" >
+        <Coords points="313,338 313,311 1542,311 1544,342 1542,357 1489,367 1489,367 1489,367 1487,367 1344,358 1341,358 1339,358 1108,367 1106,367 1106,367 1040,358 1036,358 313,358"/>
+        <Baseline points="313,338 1544,342"/>
+        <TextEquiv>
+          <Unicode>pris. Mais, cela étant, quand on a dit de lui: &quot;il a fait la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d90f7164" >
+        <Coords points="313,404 311,377 533,367 534,367 534,367 591,377 593,377 595,377 622,367 624,367 624,367 624,367 626,367 626,367 626,367 628,367 628,367 630,367 630,367 643,377 643,377 646,377 826,369 828,369 828,369 879,378 883,378 884,378 901,369 901,369 901,369 903,369 903,369 905,369 1046,369 1046,369 1046,369 1095,378 1146,369 1146,369 1148,369 1148,369 1148,369 1150,369 1183,380 1187,380 1190,380 1216,371 1218,371 1218,371 1218,371 1220,371 1355,380 1366,382 1526,382 1540,382 1560,371 1560,371 1560,371 1562,371 1562,371 1564,371 1564,371 1564,371 1566,371 1601,382 1599,410 1597,424 1181,433 1179,433 1179,433 1178,433 1178,433 1152,424 758,432 756,432 756,432 754,432 754,432 754,432 752,432 738,422 327,430 326,430 326,430 324,430 324,430 324,430 322,430 322,430 307,419"/>
+        <Baseline points="313,404 1599,410"/>
+        <TextEquiv>
+          <Unicode>guerre&quot;,- personne ne pourra prétendre qu&#39;il a fait la paix. Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5617e362" >
+        <Coords points="311,468 311,443 1564,448 1566,474 1562,496 309,492"/>
+        <Baseline points="311,468 1566,474"/>
+        <TextEquiv>
+          <Unicode>la raison en est bien simple. Il n&#39;a jamais cru à la paix, il</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_be4c1d6c" >
+        <Coords points="311,534 311,508 1606,514 1608,541 1606,569 1319,569 1317,567 1317,567 1309,567 1269,558 1040,565 1002,565 1000,565 1000,565 998,565 994,565 958,556 311,560"/>
+        <Baseline points="311,534 1608,541"/>
+        <TextEquiv>
+          <Unicode>n&#39;a jamais conçu quoi que ce soit pour la préparer, la maintenir,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c9a31d68" >
+        <Coords points="309,600 309,573 1599,580 1601,607 1599,624 309,626"/>
+        <Baseline points="309,600 1601,607"/>
+        <TextEquiv>
+          <Unicode>la rétablir. Détruire, telle a été sa vie, toute sa vie, fatale</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_803fec29" >
+        <Coords points="311,666 311,638 1480,638 1482,671 1478,690 309,684"/>
+        <Baseline points="311,666 1482,671"/>
+        <TextEquiv>
+          <Unicode>aux Hohenzollern,- c&#39;est heureusement ce qu&#39;on ne peut pas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_343dc80f" >
+        <Coords points="311,734 311,706 1577,706 1579,737 1577,757 311,759"/>
+        <Baseline points="311,734 1579,737"/>
+        <TextEquiv>
+          <Unicode>contester. Mais demander à ce destructeur de construire, c&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6daa9383" >
+        <Coords points="309,798 309,772 1458,778 1460,803 1456,822 307,816"/>
+        <Baseline points="309,798 1460,803"/>
+        <TextEquiv>
+          <Unicode>une exigence absurde et dont il serait le premier à rire.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_aa22edfa" >
+        <Coords points="683,871 681,845 1579,844 1581,871 1581,889 683,891"/>
+        <Baseline points="683,871 1581,871"/>
+        <TextEquiv>
+          <Unicode>A l&#39;appui des critiques sombres et multiples</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_021c199c" >
+        <Coords points="309,933 309,900 1595,906 1597,937 1595,953 309,959"/>
+        <Baseline points="309,933 1597,937"/>
+        <TextEquiv>
+          <Unicode>de l&#39;oeuvre de Clemenceau depuis l&#39;armistice, je vous envoie ci-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5aaf87b4" >
+        <Coords points="309,1001 307,972 633,964 635,964 635,964 699,972 714,974 718,972 725,964 725,964 727,964 727,964 727,964 729,964 729,964 731,964 848,964 848,964 848,964 850,964 850,964 850,964 851,964 851,964 851,966 859,972 861,975 916,975 917,974 928,964 928,964 930,964 930,964 932,964 932,964 932,964 934,964 934,964 985,974 992,974 996,974 1018,964 1018,964 1020,964 1020,964 1022,964 1022,964 1022,964 1024,964 1024,964 1044,974 1047,975 1520,975 1520,1001 1520,1019 309,1023"/>
+        <Baseline points="309,1001 1520,1001"/>
+        <TextEquiv>
+          <Unicode>joint un article, profond comme toujours, de notre admirable</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5c5a6169" >
+        <Coords points="309,1065 309,1036 1573,1039 1575,1069 1573,1087 974,1096 972,1096 972,1096 971,1096 936,1087 447,1094 445,1094 307,1083"/>
+        <Baseline points="309,1065 1575,1069"/>
+        <TextEquiv>
+          <Unicode>Ch. GIDE, paru dans une petite revue qui ne peut vivre indépen-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a8b08a29" >
+        <Coords points="309,1129 309,1102 1571,1109 1573,1136 1571,1153 1260,1162 1258,1162 939,1151 388,1157 386,1157 386,1157 307,1146"/>
+        <Baseline points="309,1129 1573,1136"/>
+        <TextEquiv>
+          <Unicode>dante qu&#39;à force d&#39;obscurité, l&#39;&quot;EMANCIPATION&quot;, de Janvier. Je</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_81854587" >
+        <Coords points="307,1197 307,1169 1573,1177 1575,1204 1571,1226 305,1213"/>
+        <Baseline points="307,1197 1575,1204"/>
+        <TextEquiv>
+          <Unicode>m&#39;honore, pour ma part, d&#39;avoir été toujours du côté de Ch.GIDE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8fd79db1" >
+        <Coords points="309,1263 309,1235 1621,1244 1623,1272 1619,1298 307,1281"/>
+        <Baseline points="309,1263 1623,1272"/>
+        <TextEquiv>
+          <Unicode>contre les adorateurs, aujourd&#39;hui les contempteurs de Clemenceau.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cf30b280" >
+        <Coords points="681,1331 681,1305 1553,1312 1555,1338 1553,1352 901,1358 899,1358 694,1356 694,1356 694,1356 692,1356 692,1356 692,1356 690,1356 674,1345"/>
+        <Baseline points="681,1331 1555,1338"/>
+        <TextEquiv>
+          <Unicode>En attendant, comment allons-nous sortir de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5d3eee86" >
+        <Coords points="305,1395 305,1367 1614,1378 1614,1406 1610,1426 304,1413"/>
+        <Baseline points="305,1395 1614,1406"/>
+        <TextEquiv>
+          <Unicode>ce lendemain de guerre qui n&#39;est pas la paix? Le temps me manque</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ab3c0960" >
+        <Coords points="305,1461 304,1433 419,1424 421,1424 421,1424 421,1424 423,1424 423,1424 425,1424 425,1424 436,1433 437,1435 635,1435 663,1433 720,1426 720,1426 721,1426 721,1426 723,1426 747,1433 765,1437 848,1433 932,1428 934,1428 934,1428 934,1428 936,1428 936,1428 936,1428 938,1428 938,1428 941,1433 949,1437 1027,1433 1080,1429 1082,1429 1082,1429 1082,1429 1084,1429 1084,1429 1084,1429 1086,1429 1090,1433 1101,1440 1388,1440 1416,1433 1419,1431 1421,1431 1421,1431 1421,1431 1423,1431 1423,1431 1434,1433 1500,1442 1637,1433 1641,1471 1637,1490 304,1479"/>
+        <Baseline points="305,1461 1641,1471"/>
+        <TextEquiv>
+          <Unicode>pour recommander à votre attention un article violent mais pourtant</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1686b93f" >
+        <Coords points="305,1525 305,1499 1551,1501 1553,1534 1551,1554 351,1554 349,1552 349,1552 304,1541"/>
+        <Baseline points="305,1525 1553,1534"/>
+        <TextEquiv>
+          <Unicode>digne d&#39;être médité, et que publie, sous la signature d&#39;Armand</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d334b774" >
+        <Coords points="305,1590 305,1565 1560,1567 1562,1600 1559,1623 304,1611"/>
+        <Baseline points="305,1590 1562,1600"/>
+        <TextEquiv>
+          <Unicode>Charpentier, un journal presque révolutionnaire &quot;LE POPULAIRE&quot;,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_57b1d6be" >
+        <Coords points="305,1658 304,1631 844,1625 846,1625 846,1625 848,1625 879,1634 884,1634 901,1634 994,1627 996,1627 1641,1640 1641,1673 1637,1697 1113,1695 1113,1695 1113,1695 1112,1695 1101,1693 1066,1684 304,1684"/>
+        <Baseline points="305,1658 1483,1666 1641,1673"/>
+        <TextEquiv>
+          <Unicode>d&#39;hier soir 4 Février, sous ce titre: &quot;De la Défaite à la Victoire,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e2ed683f" >
+        <Coords points="307,1724 307,1697 1588,1706 1590,1731 1586,1753 305,1752"/>
+        <Baseline points="307,1724 1590,1731"/>
+        <TextEquiv>
+          <Unicode>1872-1920&quot;. Voilà maintenant ce qui commence à sauter aux yeux:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_044a16cd" >
+        <Coords points="676,1790 674,1763 859,1755 861,1755 861,1755 861,1755 862,1755 890,1764 894,1764 914,1764 1036,1757 1038,1757 1038,1757 1038,1757 1040,1757 1040,1757 1040,1757 1042,1757 1042,1757 1042,1759 1044,1759 1049,1766 1049,1768 1229,1768 1231,1796 1227,1812 672,1807"/>
+        <Baseline points="676,1790 1231,1796"/>
+        <TextEquiv>
+          <Unicode>La victoire n&#39;est pas tout.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4ebc0bf9" >
+        <Coords points="677,1856 677,1830 1590,1839 1590,1865 1588,1883 1044,1889 1042,1889 1042,1889 1042,1889 1040,1889 1011,1880 694,1885 692,1885 692,1885 690,1885 690,1885 690,1885 688,1885 670,1874"/>
+        <Baseline points="677,1856 1590,1865"/>
+        <TextEquiv>
+          <Unicode>La défaite imméritée, si elle est vaillamment</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6140a22b" >
+        <Coords points="305,1922 305,1889 1571,1904 1571,1931 1570,1953 934,1957 932,1957 932,1957 884,1948 866,1957 866,1957 866,1957 864,1957 864,1957 864,1957 862,1957 862,1957 861,1957 861,1957 861,1957 859,1957 859,1957 846,1948 749,1955 747,1955 747,1955 747,1955 696,1946 676,1955 676,1955 674,1955 674,1955 674,1955 672,1955 672,1955 610,1946 582,1955 582,1955 580,1955 580,1955 578,1955 578,1955 439,1944 331,1953 331,1953 329,1953 329,1953 327,1953 327,1953 327,1953 302,1940"/>
+        <Baseline points="305,1922 1571,1931"/>
+        <TextEquiv>
+          <Unicode>supportée, peut être un germe de force et de prospérité. Après</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-04-21T10:23:40.525451+00:00</Created>
+        <LastChange>2022-04-21T10:23:40.525472+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J388_lettre0753_001.jpg" imageWidth="1698" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_52b6ec31" >
+        <Coords points="142,272 141,238 210,228 210,228 212,228 212,228 212,228 263,239 269,239 274,239 307,230 309,230 309,230 311,230 311,230 313,230 313,230 313,230 331,239 338,232 338,230 338,230 340,230 340,230 340,230 342,230 342,230 342,230 344,230 344,230 346,230 346,230 375,241 375,276 373,302 141,309"/>
+        <Baseline points="144,274 376,278"/>
+        <TextEquiv>
+          <Unicode>SÉNAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_589032bb" >
+        <Coords points="685,206 685,173 987,177 987,206 987,241 685,254"/>
+        <Baseline points="685,206 987,206"/>
+        <TextEquiv>
+          <Unicode>LETTRE N° 753.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3e88580f" >
+        <Coords points="362,439 362,402 415,413 516,410 611,406 613,406 613,406 615,406 652,417 650,443 646,479 359,476"/>
+        <Baseline points="362,439 650,443"/>
+        <TextEquiv>
+          <Unicode>Personnelle.-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a9044e82" >
+        <Coords points="906,375 908,335 948,346 998,336 1001,336 1001,336 1001,336 1003,336 1003,336 1009,336 1071,346 1086,338 1095,335 1095,335 1095,335 1097,335 1097,335 1099,335 1410,347 1410,375 1410,393 1135,404 1133,404 1133,404 1132,404 1132,404 1106,395 1073,404 1071,404 1071,404 1071,404 1069,404 1069,404 1067,404 1067,404 1067,404 1047,395 1016,404 1014,404 1014,404 1014,404 1012,404 904,393"/>
+        <Baseline points="906,375 1410,375"/>
+        <TextEquiv>
+          <Unicode>PARIS, 23 Décembre 1920.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f5c60e42" >
+        <Coords points="542,573 542,534 881,545 890,541 908,536 908,536 910,536 910,536 912,536 912,536 965,543 976,545 978,545 990,536 992,536 992,536 992,536 994,536 994,536 996,536 996,536 996,536 1047,547 1049,578 1047,607 957,616 957,616 956,616 956,616 888,607 871,606 842,607 714,615 712,615 712,615 712,615 710,615 710,615 710,615 692,606 688,604 672,606 617,613 617,613 615,613 615,613 538,604"/>
+        <Baseline points="542,573 1049,578"/>
+        <TextEquiv>
+          <Unicode>FIANCAILLES DE MON FILS.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c6fcfdd4" >
+        <Coords points="765,743 760,714 903,704 904,704 904,704 904,704 906,704 906,704 928,714 932,714 939,714 996,703 996,703 998,703 998,703 1102,714 1106,739 1104,768 763,763"/>
+        <Baseline points="765,743 1106,739"/>
+        <TextEquiv>
+          <Unicode>Mon cher Butler,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5249bfac" >
+        <Coords points="201,942 201,906 241,915 313,906 318,906 318,906 320,906 335,906 503,915 520,908 522,906 522,906 522,906 523,906 523,906 523,906 525,906 525,906 527,906 527,906 527,906 529,906 529,908 544,915 587,908 598,906 598,906 600,906 718,908 968,913 978,909 985,904 987,904 987,904 987,904 989,904 989,904 990,904 990,904 1055,909 1100,915 1331,915 1337,911 1351,904 1351,904 1351,904 1353,904 1353,904 1355,904 1567,913 1571,939 1571,961 941,961 934,961 849,970 848,970 199,961"/>
+        <Baseline points="201,942 1571,939"/>
+        <TextEquiv>
+          <Unicode>à Mademoiselle Sarah Butler et à vos dévoués collaborateurs et col-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_157df751" >
+        <Coords points="485,876 478,849 505,838 505,838 507,838 507,838 509,838 509,838 509,838 511,838 540,847 540,847 1542,840 1547,873 1544,898 522,895 487,904"/>
+        <Baseline points="485,876 1547,873"/>
+        <TextEquiv>
+          <Unicode>Je suis heureux de vous annoncer, ainsi qu&#39;à Madame,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_018fd8fb" >
+        <Coords points="205,1008 205,984 1516,984 1516,1008 1516,1028 205,1028"/>
+        <Baseline points="205,1008 1516,1008"/>
+        <TextEquiv>
+          <Unicode>laboratrices de New-York et de Washington, que mon fils Paul est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_205d8d0c" >
+        <Coords points="205,1076 201,1052 316,1041 318,1041 857,1049 884,1039 884,1039 886,1039 886,1039 888,1039 1514,1049 1518,1072 1516,1094 205,1096"/>
+        <Baseline points="205,1076 1518,1072"/>
+        <TextEquiv>
+          <Unicode>fiancé avec une charmante jeune fille Américaine, Miss Elisabeth,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f0e0ce9e" >
+        <Coords points="205,1144 203,1120 1533,1114 1534,1144 1534,1162 205,1162"/>
+        <Baseline points="205,1144 1534,1144"/>
+        <TextEquiv>
+          <Unicode>Garfield, que nous connaissons depuis son enfance, à Paris, et qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7c69d208" >
+        <Coords points="205,1208 203,1184 1516,1182 1518,1208 1518,1226 205,1235"/>
+        <Baseline points="205,1208 1518,1208"/>
+        <TextEquiv>
+          <Unicode>pourrait se passer même d&#39;être jolie comme elle l&#39;est, tant elle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_13a86e0c" >
+        <Coords points="205,1274 203,1248 1207,1243 1208,1274 1208,1294 205,1303"/>
+        <Baseline points="205,1274 1208,1274"/>
+        <TextEquiv>
+          <Unicode>est riche de qualités morales et intellectuelles.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0f315cb2" >
+        <Coords points="483,1338 483,1309 1553,1310 1553,1342 1551,1360 481,1360"/>
+        <Baseline points="483,1338 1553,1342"/>
+        <TextEquiv>
+          <Unicode>Fidèle à l&#39;esprit de notre famille, mon fils n&#39;a pas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c8232c6b" >
+        <Coords points="203,1409 201,1378 1492,1378 1496,1406 1494,1422 203,1426"/>
+        <Baseline points="203,1409 1496,1406"/>
+        <TextEquiv>
+          <Unicode>voulu faire ce qu&#39;on appelle chez-nous un mariage d&#39;argent. Sa</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a36adba2" >
+        <Coords points="205,1475 199,1451 227,1440 227,1440 228,1440 228,1440 230,1440 1038,1446 1095,1437 1095,1437 1097,1437 1533,1446 1536,1470 1534,1488 205,1493"/>
+        <Baseline points="205,1475 1536,1470"/>
+        <TextEquiv>
+          <Unicode>fiancée est la fille d&#39;un ingénieur conseil très estimé de la Cie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_91c70707" >
+        <Coords points="205,1541 201,1517 1567,1508 1573,1537 1571,1556 205,1559"/>
+        <Baseline points="205,1541 1573,1537"/>
+        <TextEquiv>
+          <Unicode>Thompson Houston; elle n&#39;est pas la fille d&#39;un milliardaire. Elle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_eb4374c1" >
+        <Coords points="205,1609 199,1585 238,1574 239,1574 239,1574 241,1574 1586,1578 1589,1605 1589,1622 1531,1633 1531,1633 1531,1634 205,1634"/>
+        <Baseline points="205,1609 1589,1605"/>
+        <TextEquiv>
+          <Unicode>par-le le français, comme l&#39;anglais et comme l&#39;allemand. Plus jeune</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3e4c44d9" >
+        <Coords points="206,1677 205,1645 1567,1647 1571,1671 1571,1689 1038,1700 1036,1700 732,1693 719,1693 716,1693 630,1702 628,1702 205,1693"/>
+        <Baseline points="206,1677 1571,1671"/>
+        <TextEquiv>
+          <Unicode>de cinq ans que mon fils, elle a pourtant suivi ses études avec as-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0987a7b7" >
+        <Coords points="208,1741 205,1713 1531,1711 1536,1737 1536,1764 208,1768"/>
+        <Baseline points="208,1741 1536,1737"/>
+        <TextEquiv>
+          <Unicode>sez d&#39;intérêt pour s&#39;associer d ès à présent et par la suite, à sa</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_79a401a4" >
+        <Coords points="206,1808 203,1783 479,1772 481,1772 604,1781 608,1805 608,1827 206,1827"/>
+        <Baseline points="206,1808 608,1805"/>
+        <TextEquiv>
+          <Unicode>vie intellectuelle.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a351147d" >
+        <Coords points="124,1975 119,1948 219,1946 230,1935 230,1935 232,1935 232,1935 232,1935 234,1935 234,1935 236,1935 391,1935 391,1935 391,1935 393,1935 393,1935 421,1946 423,1946 430,1946 507,1935 507,1935 509,1935 509,1935 573,1946 582,1946 587,1946 628,1933 630,1933 630,1933 631,1933 631,1933 631,1933 633,1933 633,1933 659,1944 674,1933 675,1933 675,1933 675,1933 677,1933 677,1933 677,1933 679,1933 798,1944 805,1946 937,1946 941,1944 957,1933 959,1933 959,1933 961,1933 961,1933 961,1933 963,1933 963,1933 963,1933 965,1933 965,1933 967,1933 983,1944 987,1944 1084,1944 1089,1971 1088,2004 124,2008"/>
+        <Baseline points="124,1975 1089,1971"/>
+        <TextEquiv>
+          <Unicode>à Monsieur le Président Nicholas-Murray BUTLER.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
