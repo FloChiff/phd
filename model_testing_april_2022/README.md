@@ -16,6 +16,7 @@ It is equally divided between letters that talks about the events of the war or 
 | Letter 1364 | Letter 1170 |
 | Letter 1367 | Letter 1217 |
 
+----------
 
 ## Results from the KaMi App
 
@@ -39,3 +40,42 @@ The automatic transcription has been done with a model trained on more than 300 
 | ***Letter 1367*** (2 pages) | 161 | 138 | 84 | 72 | 18,97 | 16,67 | 5,97 | 5,39 | 81,04 | 83,33 |
 
 \*Diacritics, digits, cases and punctuation have been ignored.
+
+
+----------
+
+## Results of the experiments
+
+First of all, two letters seem to not be suited for the test as they have different and bad results compared to the rest of the sample. After observing the versus text and the pages on eScriptorium, it seems that it is due to the quality of the images and their segmentation, which were messy and prevent a good text recognition. This is why, even though their topic is war, those letter will not be taken into consideration for the study as they would be a mislead for the results.
+The best example of a good transcription and great results is the letter 1000. It is the longest one from the sample and yet, it has the best WER and CER, with or without the diacritics, punctuation, cases and digits.
+We can observe that generally, the CER is way better than the WER with almost ten points of difference from one another. The CER percentage are usually around 2-3% which indicates pretty good results and seems to say that our model have an almost exhaustive databank of characters, which ensures that it is unlikely for it to misrecognize a character.
+
+Here are the results:
+- Best WER
+**Letter 1000 (5 pages)**
+Letter 1029 (3 pages)
+**Letter 1364 (2 pages)**
+Letter 722 (2 pages)
+Letter 1170 (4 pages)
+
+- Best WER with no diacritics, digits, cases and punctuation
+**Letter 1000 (5 pages)**
+Letter 1029 (3 pages)
+**Letter 617 (3 pages)**
+**Letter 1364 (2 pages)**
+**Letter 678 (2 pages)**
+
+- Best CER
+**Letter 1000 (5 pages)**
+**Letter 1364 (2 pages)**
+Letter 1029 (3 pages)
+Letter 1170 (4 pages)
+**Letter 678 (2 pages)**
+
+- Best CER with no diacritics, digits, cases and punctuation
+**Letter 1000 (5 pages)**
+Letter 1029 (3 pages)
+**Letter 1364 (2 pages)**
+Letter 1170 (4 pages)
+**Letter 617 (3 pages)**
+
