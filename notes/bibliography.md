@@ -46,7 +46,7 @@ First OCR system = 1940 ; the number of publication for HTR/OCR increased in 200
 
 
 ##### Reul Christian, Wick Christoph, Noeth Maximilian, Buettner Andreas, Wehner Maximilian, and Springmann Uwe. 2021. "Mixed Model OCR Training on Historical Latin Script for Out-of-the-Box Recognition and Finetuning". In *The 6th International Workshop on Historical Document Imaging and Processing* (*HIP '21*). Association for Computing Machinery, New York, NY, USA, 7–12. DOI:[https://doi.org/10.1145/3476887.3476910](https://doi.org/10.1145/3476887.3476910)
-
+In this paper, the authors present their project of building a mixed model for a category of historical printings with polyfonts. After exposing previous works in that area, the authors expose their methodology, training and evaluation data, and their transcription guidelines. Then, they describe the various ways they did their experiments, with one option or another, as well as the errors they mostly encountered. Finally, they present the idea of finetuning the work rather than doing it from scratch, before concluding on those different results and what they can hope to do from there.
 
 ----------
 
