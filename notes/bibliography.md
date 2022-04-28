@@ -51,12 +51,12 @@ First OCR system = 1940 ; the number of publication for HTR/OCR increased in 200
 ----------
 
 ##### Verónica Romero, Nicolás Serrano, Alejandro H. Toselli, Joan Andreu Sánchez, and Enrique Vidal. 2011. "Handwritten Text Recognition for Historical Documents". In *Proceedings of the Workshop on Language Technologies for Digital Humanities and Cultural Heritage*, pages 90–96, Hissar, Bulgaria. Association for Computational Linguistics.
-
+In this paper, the authors present the experiments they have done with HTR on historical documents. After an history of HTR and its difference with OCR, the authors describe in details the operation of HTR, step by step, with schemas. Then, before exposing their results, they present the corpora they used, with information about pages, lines and quality of images. Finally, they conclude on what works and what doesn't and what needs to be improve in the future.
 
 ----------
 
 ##### Joan Andreu Sánchez, Vicent Bosch, Verónica Romero, Katrien Depuydt, and Jesse de Does. 2014. "Handwritten text recognition for historical documents in the transcriptorium project". In *Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage* (*DATeCH '14*). Association for Computing Machinery, New York, NY, USA, 111–117. DOI:[https://doi.org/10.1145/2595188.2595193](https://doi.org/10.1145/2595188.2595193)
-
+In this paper, the authors are presenting their project which aims at performing HTR on historical documents. After a brief history of their project and HTR, as well as a presentation of HTR technology, they expose the collections that they selected to do those experiments. As their collection are in different languages, they describe the issues and specificities they encountered while experimenting. Then, they present the content of their experiments, as well as the results, illustrating it with diagrams, statistics and images. Finally, they discuss what went wrong and what can be improve and they conclude on a positive note, considering the technology that they used as the right one, even though they still think that it might need improvements.
 
 ----------
 
@@ -72,6 +72,6 @@ In this paper, the author presents in details the OCR system Tesseract. After a 
 ----------
 
 ##### Phillip Benjamin Ströbel, Simon Clematide, and Martin Volk. 2020. "How Much Data Do You Need? About the Creation of a Ground Truth for Black Letter and the Effectiveness of Neural OCR". In *Proceedings of the 12th Language Resources and Evaluation Conference*, pages 3551–3559, Marseille, France. European Language Resources Association.
-
+In this paper, the authors are doing experiments to determine the quantity of ground truth necessary to obtain an efficient model for the specific case of black letter corpus (sort of a German Fraktur font). After exposing the specificities present in those kinds of corpora and the previous work done with OCR/HTR systems to improve model quality of those corpora, the authors present their ground truth, as well as the OCR systems chosen for the experiments. Then, they expose the various experiments they did, the goal of the experiments and the results, presenting in details of the operation worked and the differences from one system to another, illustrated by table of statistics and images. Finally, they draw their conclusion on systems efficiency and ground truth size for a good model.
 
 ----------
