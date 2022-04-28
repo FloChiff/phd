@@ -23,7 +23,7 @@ It is equally divided between letters that talks about the events of the war or 
 The automatic transcription has been done with a model trained on more than 300 pages of ground truth from the PEC corpus with an accuracy of 93,78%.
 
 |  | Number of pages | Number of lines | Levensthein Distance (Char.) | Levensthein Distance (Char.)* | Levensthein Distance (Words) | Levensthein Distance (Words)* | WER (%) | WER (%)* | CER (%) | CER (%)* | Word Accuracy (%) | Word Accuracy (%)* |
-|--|--|--|--|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
 | ***Letter 617*** | 3 | 65 | 115 | 73 | 94 | 49 | 15,93 | 8,57 | 3,32 | 2,24 | 84,1 | 91,43 |
 | ***Letter 678*** | 2 | 36 | 46 | 36 | 44 | 23 | 17,05 | 9,16 | 2,85 | 2,33 | 82,95 | 90,84 |
 | Letter 722 | 2 | 35 | 53 | 41 | 36 | 29 | 14,06 | 11,65 | 3,41 | 2,75 | 85,94 | 88,35 |
