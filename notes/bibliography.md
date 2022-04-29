@@ -53,6 +53,12 @@ In this paper, the authors expose the system they established to do HTR. After i
 
 ----------
 
+##### U. -. Marti and H. Bunke, "On the influence of vocabulary size and language models in unconstrained handwritten text recognition," Proceedings of Sixth International Conference on Document Analysis and Recognition, 2001, pp. 260-265, doi: [10.1109/ICDAR.2001.953795](https://doi.org/10.1109/ICDAR.2001.953795.).
+In this paper, the authors present an experiment of text recognition on handwritten text that takes into account the size of the vocabulary given to recognize the text. After introducing the steps done to the images and the text to help process it, they present the perplexity results of their experiments. They present the difference between using language models or not and the efficiency of recognition with the vocabulary size. They conclude by insisting on the importance of language models and ways needed to improve it.
+
+----------
+
+
 ##### J. Memon, M. Sami, R. A. Khan and M. Uddin, "Handwritten Optical Character Recognition (OCR): A Comprehensive Systematic Literature Review (SLR)," in *IEEE Access*, vol. 8, pp. 142642-142668, 2020, doi: [10.1109/ACCESS.2020.3012542](https://doi.org/10.1109/ACCESS.2020.3012542).
 First OCR system = 1940 ; the number of publication for HTR/OCR increased in 2002, 2007 and 2009 ; increase in the last two years ; 55 new studies between 2010 and 2017 and 55 between 2017 and 2019. Multiple languages for the studies ; 53 in English, 44 in Arabic ; 37 in Indian, etc. ; for their own works, researchers developed algorithms and techniques at smaller scales.
 
