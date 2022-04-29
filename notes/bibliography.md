@@ -19,8 +19,18 @@ This work is a complete presentation of OCR. After an introduction to present la
 ##### Simon Gabay, Thibault Clérice, Christian Reul. *OCR17: Ground Truth and Models for 17th c. French Prints (and hopefully more).* 2020. ⟨[hal-02577236](https://hal.archives-ouvertes.fr/hal-02577236)⟩
 In this paper, the authors explore the idea of building a model for a generation of texts : the 17th century prints. They present how they build their corpus, with information about the categories taken into account, the writing periods of different texts and their genre. They also give some precision about the quality of the images that they want, all of this being supported by illustrations and statistics. Then, they explain the rules they established for transcription, i.e. the signs that they consider and did not consider, etc. Finally, they describe their experiments and what resulted from it, which was pretty good. They present the difficulties that they will need to fix to improve the results and the future works that will be done from there.
 
+
 ----------
 
+##### B. Gatos et al., "Ground-Truth Production in the Transcriptorium Project," 2014 11th IAPR International Workshop on Document Analysis Systems, 2014, pp. 237-241, doi: [10.1109/DAS.2014.23](https://doi.org/10.1109/DAS.2014.23).
+In this paper, the author present various ways established to create ground truth fro their project. After introducing HTR and the importance of ground truth, they present the Bentham dataset, their corpus. Then, they explain the methods used to produce text line images and transcripts ground truth, supported by various illustrations. Finally, they expose their first results, the remarks that stem from it and what need to be improved.
+
+----------
+
+##### David Juckett, *A method for determining the number of documents needed for a gold standard corpus*, Journal of Biomedical Informatics, Volume 45, Issue 3, 2012, Pages 460-470, ISSN 1532-0464, [https://doi.org/10.1016/j.jbi.2011.12.010](https://doi.org/10.1016/j.jbi.2011.12.010).
+In this paper, the authors ponder the idea of developing a method to determine the number of documents needed to create a gold corpus, by relying on biomedical documents. After presenting the NLP interest in this procedure, the authors present the corpora, which are dictation letters from pain consultants but also documents from other fields and from English litterature, to broaden the vocabulary. They then present the tools and methods they are going to use and their different results, all of those elements being supported by graphs and equations. In the results, they present the elements that need be more looked at to hope for a proper result. Finally, they discuss the different options used to build the gold corpus and what need to be improve.
+
+----------
 
 ##### P. Kahle, S. Colutto, G. Hackl and G. Mühlberger, "Transkribus - A Service Platform for Transcription, Recognition and Retrieval of Historical Documents," *2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)*, 2017, pp. 19-24, doi: [10.1109/ICDAR.2017.307](doi.org/10.1109/ICDAR.2017.307).  
 In this paper, the authors are presenting their service platform. After introducing a bit of history behind the creation of the platform, they present the service, that works as a desktop application that needs to be downloaded and installed. Helped by illustrations and diagrams, they expose the options and tools offered by the application. They provide information about the backend, the API and the availability of the source code.
@@ -38,6 +48,10 @@ In this article, the authors are presenting their platform. After exposing the r
 
 ----------
 
+##### Kim, G., Govindaraju, V. & Srihari, S. An architecture for handwritten text recognition systems. IJDAR 2, 37–44 (1999). [https://doi.org/10.1007/s100320050035](https://doi.org/10.1007/s100320050035)
+In this paper, the authors expose the system they established to do HTR. After introducing the interest of HTR, they present their steps: image conversion, line separation, normalization, word segmentation, word recognition and linguistic post processing, supported by graphs and schemas. After presenting their results, they ponder on what they can do next to improve this work.
+
+----------
 
 ##### J. Memon, M. Sami, R. A. Khan and M. Uddin, "Handwritten Optical Character Recognition (OCR): A Comprehensive Systematic Literature Review (SLR)," in *IEEE Access*, vol. 8, pp. 142642-142668, 2020, doi: [10.1109/ACCESS.2020.3012542](https://doi.org/10.1109/ACCESS.2020.3012542).
 First OCR system = 1940 ; the number of publication for HTR/OCR increased in 2002, 2007 and 2009 ; increase in the last two years ; 55 new studies between 2010 and 2017 and 55 between 2017 and 2019. Multiple languages for the studies ; 53 in English, 44 in Arabic ; 37 in Indian, etc. ; for their own works, researchers developed algorithms and techniques at smaller scales.
