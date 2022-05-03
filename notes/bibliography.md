@@ -32,7 +32,7 @@ In this paper, the authors ponder the idea of developing a method to determine t
 
 ----------
 
-##### P. Kahle, S. Colutto, G. Hackl and G. Mühlberger, "Transkribus - A Service Platform for Transcription, Recognition and Retrieval of Historical Documents," *2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)*, 2017, pp. 19-24, doi: [10.1109/ICDAR.2017.307](doi.org/10.1109/ICDAR.2017.307).  
+##### P. Kahle, S. Colutto, G. Hackl and G. Mühlberger, "Transkribus - A Service Platform for Transcription, Recognition and Retrieval of Historical Documents," *2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)*, 2017, pp. 19-24, doi: [10.1109/ICDAR.2017.307](https://doi.org/10.1109/ICDAR.2017.307).  
 In this paper, the authors are presenting their service platform. After introducing a bit of history behind the creation of the platform, they present the service, that works as a desktop application that needs to be downloaded and installed. Helped by illustrations and diagrams, they expose the options and tools offered by the application. They provide information about the backend, the API and the availability of the source code.
 
 ----------
@@ -53,7 +53,7 @@ In this paper, the authors expose the system they established to do HTR. After i
 
 ----------
 
-##### U. -. Marti and H. Bunke, "On the influence of vocabulary size and language models in unconstrained handwritten text recognition," Proceedings of Sixth International Conference on Document Analysis and Recognition, 2001, pp. 260-265, doi: [10.1109/ICDAR.2001.953795](https://doi.org/10.1109/ICDAR.2001.953795.).
+##### U. -. Marti and H. Bunke, "On the influence of vocabulary size and language models in unconstrained handwritten text recognition," Proceedings of Sixth International Conference on Document Analysis and Recognition, 2001, pp. 260-265, doi: [10.1109/ICDAR.2001.953795](https://doi.org/10.1109/ICDAR.2001.953795).
 In this paper, the authors present an experiment of text recognition on handwritten text that takes into account the size of the vocabulary given to recognize the text. After introducing the steps done to the images and the text to help process it, they present the perplexity results of their experiments. They present the difference between using language models or not and the efficiency of recognition with the vocabulary size. They conclude by insisting on the importance of language models and ways needed to improve it.
 
 ----------
