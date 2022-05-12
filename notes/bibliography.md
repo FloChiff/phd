@@ -27,6 +27,11 @@ In this paper, the author present various ways established to create ground trut
 
 ----------
 
+##### Heliński, Marcin, Milosz Kmieciak and Tomasz Parkola. “Report on the comparison of Tesseract and ABBYY FineReader OCR engines.” (2012). ⟨[Link](https://www.semanticscholar.org/paper/Report-on-the-comparison-of-Tesseract-and-ABBYY-OCR-Heli%C5%84ski-Kmieciak/9d17d059bbc877df1e3921ff39b9b72442dd3458)⟩
+In this paper, the authors conduct experiments on Tesseract and FineReader OCR engines with a chosen corpus and various sizes of dataset for test ad training. After presenting each tool and their training process, they expose the results of their tests with tables and diagrams. Finally, they conclude with their results, demonstrating that they are not one tool above the other and that the results depends on the pre-processing, noise, glyphs, etc.
+
+----------
+
 ##### David Juckett, *A method for determining the number of documents needed for a gold standard corpus*, Journal of Biomedical Informatics, Volume 45, Issue 3, 2012, Pages 460-470, ISSN 1532-0464, [https://doi.org/10.1016/j.jbi.2011.12.010](https://doi.org/10.1016/j.jbi.2011.12.010).
 In this paper, the authors ponder the idea of developing a method to determine the number of documents needed to create a gold corpus, by relying on biomedical documents. After presenting the NLP interest in this procedure, the authors present the corpora, which are dictation letters from pain consultants but also documents from other fields and from English litterature, to broaden the vocabulary. They then present the tools and methods they are going to use and their different results, all of those elements being supported by graphs and equations. In the results, they present the elements that need be more looked at to hope for a proper result. Finally, they discuss the different options used to build the gold corpus and what need to be improve.
 
@@ -75,11 +80,15 @@ In this paper, the authors present the experiments they have done with HTR on hi
 
 ----------
 
+##### V. Romero, A. H. Toselli, J. A. Sánchez and E. Vidal, "Handwriting Transcription and Keyword Spotting in Historical Daily Records Documents," *2016 12th IAPR Workshop on Document Analysis Systems (DAS)*, 2016, pp. 275-280, doi: [10.1109/DAS.2016.70](https://doi.org/10.1109/DAS.2016.70).
+In this paper, the authors present the methods they tested to produce a transcription for historical daily records documents. After an introduction where they explain the peculiarity of historical daily records documents in terms of HTR, they presented their corpus. They then explained their different methods used for the transcription (HTR, interactive HTR, KWS). Finally, they present the composition and progress of their experiments, as well as the results with one or the other method. They conclude their paper quite positively, as they notice some encouraging results with some methods.
+
+----------
+
 ##### Joan Andreu Sánchez, Vicent Bosch, Verónica Romero, Katrien Depuydt, and Jesse de Does. 2014. "Handwritten text recognition for historical documents in the transcriptorium project". In *Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage* (*DATeCH '14*). Association for Computing Machinery, New York, NY, USA, 111–117. DOI:[https://doi.org/10.1145/2595188.2595193](https://doi.org/10.1145/2595188.2595193)
 In this paper, the authors are presenting their project which aims at performing HTR on historical documents. After a brief history of their project and HTR, as well as a presentation of HTR technology, they expose the collections that they selected to do those experiments. As their collection are in different languages, they describe the issues and specificities they encountered while experimenting. Then, they present the content of their experiments, as well as the results, illustrating it with diagrams, statistics and images. Finally, they discuss what went wrong and what can be improve and they conclude on a positive note, considering the technology that they used as the right one, even though they still think that it might need improvements.
 
 ----------
-
 
 ##### Springmann, U., Reul, C., Dipper, S., and Baiter, J., “Ground Truth for training OCR engines on historical documents in German Fraktur and Early Modern Latin”, *arXiv e-prints*, 2018. doi: [10.48550/arXiv.1809.05501](https://doi.org/10.48550/arXiv.1809.05501)
 In this article, the authors expose the datasets they worked on to obtain models for German Fratkur and Early Modern Latin corpus. After a quick introduction on OCR, the authors presents one by one the content of each of their ground truth corpora, providing illustration of the writing mentioned and information about the number of lines for each part of the dataset. The authors also mention the specificities presented by German Fraktur for the training of a model and how to respond to it. Finally, they describe the rules they have to follow to transcribe their ground truth to help with the subsequent OCR of other corpora.
