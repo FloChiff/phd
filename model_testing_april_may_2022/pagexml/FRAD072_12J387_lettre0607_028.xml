@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.782590+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.782612+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_028.jpg" imageWidth="1733" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_f4bb005b" >
+        <Coords points="855,151 850,126 919,111 919,111 921,111 921,111 921,111 923,111 947,119 959,122 991,117 996,148 994,166 915,181 915,181 914,181 914,181 853,172"/>
+        <Baseline points="855,151 996,148"/>
+        <TextEquiv>
+          <Unicode>- 28 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bdc3a932" >
+        <Coords points="320,329 318,296 760,296 818,285 820,285 820,285 820,285 822,285 822,285 824,285 871,292 915,283 925,281 925,281 925,281 926,281 943,281 1016,289 1031,280 1031,280 1033,280 1033,280 1033,280 1035,280 1035,280 1035,280 1036,280 1053,280 1179,287 1205,276 1207,276 1207,276 1209,276 1209,276 1209,276 1210,276 1221,276 1317,285 1373,274 1373,274 1373,274 1375,274 1375,274 1375,274 1419,283 1542,270 1547,309 1546,335 1447,327 1434,336 1434,336 1432,336 1432,336 1432,336 1430,336 1430,336 1430,336 320,346"/>
+        <Baseline points="320,329 1547,309"/>
+        <TextEquiv>
+          <Unicode>estimé ou aimé de beaucoup, et dont les affiches isolées font</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f108b7cb" >
+        <Coords points="322,393 318,367 1505,353 1511,377 1511,393 322,411"/>
+        <Baseline points="322,393 1511,377"/>
+        <TextEquiv>
+          <Unicode>contraste et protestent. C&#39;est d&#39;abord l&#39;arrondissement de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6ae0ecb4" >
+        <Coords points="320,459 316,432 1093,415 1095,415 1238,422 1245,422 1254,422 1434,411 1436,411 1617,421 1621,446 1621,472 320,477"/>
+        <Baseline points="320,459 1621,446"/>
+        <TextEquiv>
+          <Unicode>Mamers dont les nombreux délégués débouchent, par petits paquets,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4ab760b0" >
+        <Coords points="322,527 318,503 553,488 555,488 555,488 650,496 653,496 659,496 901,483 903,483 1483,483 1487,508 1487,536 1329,540 1328,540 1328,540 1328,540 1326,540 1326,540 1322,538 1304,530 1269,538 1253,541 1253,541 1253,541 1251,541 1146,540 1022,536 983,540 939,545 939,545 937,545 937,545 936,545 919,540 903,536 884,541 859,547 857,547 857,547 855,547 855,547 855,547 853,547 853,547 839,541 829,538 784,541 696,549 696,549 694,549 694,549 652,541 646,541 644,541 637,549 637,551 637,551 635,551 635,551 635,551 633,551 633,551 633,551 632,551 489,543 478,543 474,543 423,554 423,554 423,554 421,554 320,543"/>
+        <Baseline points="322,527 1487,508"/>
+        <TextEquiv>
+          <Unicode>en ordre dispersé, canton par canton, commune par commune.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_86792a0f" >
+        <Coords points="322,591 318,569 1485,551 1491,574 1491,600 322,613"/>
+        <Baseline points="322,591 1491,574"/>
+        <TextEquiv>
+          <Unicode>Mamers, avec Tézé, Corbin; Marolle; La Ferté Bernard avec</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7db7f454" >
+        <Coords points="322,659 316,635 348,624 349,624 349,624 349,624 351,624 824,627 837,618 837,618 839,618 839,618 839,618 840,618 840,618 842,618 1524,622 1527,646 1524,673 1361,666 1335,675 1333,675 1331,675 1331,675 1331,675 1329,675 1315,675 1218,668 1190,675 1183,677 1181,677 1181,677 1181,679 322,679"/>
+        <Baseline points="322,659 1527,646"/>
+        <TextEquiv>
+          <Unicode>Desnos, immuable; Tuffé, avec le solide Rigot, La Fresnaye;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b1b82360" >
+        <Coords points="322,723 316,699 338,688 338,688 338,688 340,688 340,688 342,688 566,695 567,695 569,695 628,686 628,686 630,686 1568,686 1571,714 1573,732 1536,743 1535,743 1535,743 1533,743 1201,737 1113,737 322,750"/>
+        <Baseline points="322,723 1571,714"/>
+        <TextEquiv>
+          <Unicode>Beaumont, avec Charles froidement indigné contre les interven-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d5fed1bd" >
+        <Coords points="322,790 318,763 1062,761 1066,759 1079,750 1080,750 1080,750 1082,750 1082,750 1082,750 1084,750 1242,757 1256,757 1260,757 1297,748 1298,748 1298,748 1300,748 1449,757 1452,779 1450,809 322,811"/>
+        <Baseline points="322,790 1452,779"/>
+        <TextEquiv>
+          <Unicode>tions du Préfet; St-Paterne avec Le Camus, chaleureux et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_299b3b60" >
+        <Coords points="324,858 320,834 1485,818 1491,847 1487,876 1297,869 1254,878 1249,878 1249,878 1249,880 324,880"/>
+        <Baseline points="324,858 1491,847"/>
+        <TextEquiv>
+          <Unicode>fortement accompagné; Bonnétable avec le brave Doguet et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8860aa73" >
+        <Coords points="324,926 320,902 632,889 633,889 1256,893 1291,884 1293,884 1293,884 1295,884 1493,893 1496,917 1494,942 324,944"/>
+        <Baseline points="324,926 1496,917"/>
+        <TextEquiv>
+          <Unicode>Jarry; Fresnaye, tous solides, sans phrases, mais comme un</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_059aa7e9" >
+        <Coords points="322,992 316,968 359,955 360,955 360,955 362,955 362,955 452,964 765,953 767,953 1100,961 1256,950 1258,950 1258,950 1333,959 1386,948 1386,948 1386,948 1388,948 1624,959 1628,983 1626,1001 1536,1012 1536,1012 1535,1012 1383,1003 1368,1003 1366,1003 1355,1014 1355,1014 1353,1014 1353,1014 1353,1014 1351,1014 1351,1014 1351,1016 1157,1016 1155,1014 1155,1014 1154,1014 1121,1005 1119,1005 1113,1005 994,1016 994,1016 992,1016 992,1016 991,1016 991,1016 991,1016 989,1016 989,1016 976,1006 890,1006 888,1006 888,1006 844,1017 842,1017 842,1017 840,1017 653,1008 577,1019 577,1019 577,1021 390,1021 388,1019 388,1019 386,1019 386,1019 386,1019 384,1019 370,1010 346,1019 346,1019 344,1019 344,1019 344,1019 342,1019 342,1019 340,1019 340,1019 340,1019 318,1008"/>
+        <Baseline points="322,992 1628,983"/>
+        <TextEquiv>
+          <Unicode>seul homme, tous ou presque tous ouvertement pour M. d&#39;Estournel-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2cb16f46" >
+        <Coords points="322,1060 318,1028 1568,1023 1573,1052 1569,1078 320,1076"/>
+        <Baseline points="322,1060 1573,1052"/>
+        <TextEquiv>
+          <Unicode>les et presque tous aussi contre M. Lebert et M. Cordelet dont</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a2b2fa91" >
+        <Coords points="324,1127 320,1100 1571,1094 1577,1120 1573,1147 1318,1138 1258,1149 1254,1149 1254,1149 1254,1149 1253,1149 1238,1149 1062,1140 980,1149 980,1149 980,1149 978,1149 978,1149 826,1142 787,1151 782,1151 782,1151 782,1153 324,1153"/>
+        <Baseline points="324,1127 1577,1120"/>
+        <TextEquiv>
+          <Unicode>ils raient les noms pour les remplacer par ceux de M.M. Gigon ,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_95abacdc" >
+        <Coords points="322,1191 318,1162 1566,1153 1571,1184 1569,1202 322,1217"/>
+        <Baseline points="322,1191 1571,1184"/>
+        <TextEquiv>
+          <Unicode>Breteau ou Fouasnon ou Corninneau.- Après Mamers, l&#39;arrondis-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3cc87a3a" >
+        <Coords points="322,1259 318,1230 1485,1221 1491,1252 1489,1270 322,1277"/>
+        <Baseline points="322,1259 1491,1252"/>
+        <TextEquiv>
+          <Unicode>sement de St-Calais dont le Nord est tout pour moi et pour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_833737f7" >
+        <Coords points="320,1327 315,1294 1564,1285 1569,1318 1568,1336 320,1345"/>
+        <Baseline points="320,1327 1569,1318"/>
+        <TextEquiv>
+          <Unicode>Gigon, puis le Sud jusqu&#39;à Château-du-Loir, y compris Bouloire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6f49bfcd" >
+        <Coords points="322,1391 320,1362 1450,1362 1454,1385 1452,1404 322,1409"/>
+        <Baseline points="322,1391 1454,1385"/>
+        <TextEquiv>
+          <Unicode>avec Breteau; et le Grand Lucé, sans Ajam, et Vibraye et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b4bf841a" >
+        <Coords points="322,1457 318,1428 1555,1418 1560,1451 1560,1475 322,1477"/>
+        <Baseline points="322,1457 1560,1451"/>
+        <TextEquiv>
+          <Unicode>Montmirail avec Montigny. Par-ci par-là, les gars de Bessé-s/</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_42bb7648" >
+        <Coords points="320,1525 316,1501 439,1490 441,1490 1547,1490 1551,1519 1549,1537 320,1547"/>
+        <Baseline points="320,1525 1551,1519"/>
+        <TextEquiv>
+          <Unicode>Braye, ceux de Montreuil, que sais-je encore ? Je me demande</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4b016a42" >
+        <Coords points="322,1592 318,1563 1525,1559 1531,1585 1529,1605 591,1616 589,1616 560,1616 349,1609 324,1618"/>
+        <Baseline points="322,1592 1531,1585"/>
+        <TextEquiv>
+          <Unicode>où sont passé mes adversaires; on/en voit peu. J&#39;ai su plus</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_96c3638d" >
+        <Coords points="324,1660 316,1636 331,1625 331,1625 333,1625 333,1625 335,1625 335,1625 335,1625 337,1625 556,1633 588,1623 589,1623 589,1623 591,1623 996,1629 1031,1620 1033,1620 1033,1620 1035,1620 1504,1627 1507,1651 1505,1677 324,1678"/>
+        <Baseline points="324,1660 1507,1651"/>
+        <TextEquiv>
+          <Unicode>tard qu&#39;ils prenaient les petites rues, ne se montrant pas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_33cb6158" >
+        <Coords points="324,1724 320,1702 446,1691 448,1691 934,1697 981,1688 981,1688 983,1688 1558,1695 1562,1717 1560,1744 322,1742"/>
+        <Baseline points="324,1724 1562,1717"/>
+        <TextEquiv>
+          <Unicode>Des bandes silencieuses parfois, cependenat, me regardent noir,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dff5d1c4" >
+        <Coords points="324,1794 320,1766 1383,1753 1388,1785 1388,1814 324,1814"/>
+        <Baseline points="324,1794 1388,1785"/>
+        <TextEquiv>
+          <Unicode>en me croisant, mais en grande minorité, semble-t-il.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f7d3c0aa" >
+        <Coords points="716,1856 714,1830 1487,1823 1489,1856 1487,1874 714,1872"/>
+        <Baseline points="716,1856 1489,1856"/>
+        <TextEquiv>
+          <Unicode>L&#39;arrondissement de La Flèche lui-même</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a9fd7d1c" >
+        <Coords points="324,1924 324,1883 421,1894 538,1885 540,1885 599,1894 635,1883 637,1883 639,1883 697,1896 765,1896 789,1883 791,1883 793,1883 795,1883 833,1894 884,1883 886,1883 980,1896 1078,1896 1146,1903 1202,1903 1253,1906 1315,1900 1336,1900 1368,1897 1400,1897 1436,1894 1476,1894 1513,1883 1515,1883 1516,1883 1568,1894 1626,1883 1628,1924 1628,1948 1549,1957 1547,1957 1546,1957 1544,1957 1529,1948 1524,1944 1423,1944 1405,1948 1364,1957 1364,1958 1190,1958 1188,1957 1187,1957 1168,1946 1161,1944 1093,1944 1086,1946 1062,1957 1060,1957 1058,1957 965,1946 947,1944 928,1946 837,1957 835,1957 736,1944 723,1944 712,1944 604,1957 602,1957 600,1957 599,1957 586,1946 566,1953 564,1953 562,1953 560,1953 558,1953 547,1944 545,1944 437,1944 414,1955 412,1955 410,1955 322,1942"/>
+        <Baseline points="324,1924 1628,1924"/>
+        <TextEquiv>
+          <Unicode>s&#39;est bien montré. Sablé, avec le fidèle € donne le signal</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.586069+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.586090+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_010.jpg" imageWidth="1739" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_75408330" >
+        <Coords points="885,148 878,120 1028,115 1031,144 1029,161 956,173 954,173 883,164"/>
+        <Baseline points="885,148 1031,144"/>
+        <TextEquiv>
+          <Unicode>- 10 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7097f542" >
+        <Coords points="351,250 349,223 503,223 503,221 531,210 531,210 533,210 533,210 533,210 535,210 793,221 804,221 811,221 954,208 954,208 956,208 1148,219 1246,208 1246,208 1247,208 1247,208 1249,208 1249,208 1249,208 1251,208 1268,219 1301,208 1302,208 1302,208 1302,208 1304,208 1304,208 1306,208 1306,208 1339,221 1440,221 1498,208 1498,208 1500,208 1500,208 1500,208 1557,221 1561,247 1559,269 351,278"/>
+        <Baseline points="351,250 1561,247"/>
+        <TextEquiv>
+          <Unicode>pas d&#39;ordinaire les plus braves, horreur telle qu&#39;on pouvait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a477fd1b" >
+        <Coords points="351,320 348,294 1575,289 1581,314 1579,333 351,344"/>
+        <Baseline points="351,320 1581,314"/>
+        <TextEquiv>
+          <Unicode>penser qu&#39;aucun d&#39;entre eux n&#39;aurait la moindre chance d&#39;être</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_18a097d9" >
+        <Coords points="353,384 351,355 1597,353 1599,384 1597,413 351,404"/>
+        <Baseline points="353,384 1599,384"/>
+        <TextEquiv>
+          <Unicode>nommé aux élections. Ainsi s&#39;explique aussi, en général, leur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0d3e04f8" >
+        <Coords points="353,450 351,424 1520,417 1522,450 1522,470 353,472"/>
+        <Baseline points="353,450 1522,450"/>
+        <TextEquiv>
+          <Unicode>nullité intellectuelle et morale. Painlevé, qui n&#39;est pas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ee0fbfd7" >
+        <Coords points="351,519 349,494 1520,490 1522,519 1520,545 349,540"/>
+        <Baseline points="351,519 1522,519"/>
+        <TextEquiv>
+          <Unicode>suspect, mais que l&#39;aristocratie déteste, simplement parce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_df425ca4" >
+        <Coords points="353,587 353,552 1583,558 1585,587 1583,606 353,613"/>
+        <Baseline points="353,587 1585,587"/>
+        <TextEquiv>
+          <Unicode>qu&#39;il est intelligent et travailleur, me disait hier que rien</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_78bb71e3" >
+        <Coords points="351,649 351,622 1577,627 1579,655 1575,681 349,673"/>
+        <Baseline points="351,649 1579,655"/>
+        <TextEquiv>
+          <Unicode>ne pouvait donner une idée de la médiocrité toute spéciale de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2a228cec" >
+        <Coords points="351,717 351,686 1579,695 1581,721 1579,743 461,745 459,745 349,734"/>
+        <Baseline points="351,717 1581,721"/>
+        <TextEquiv>
+          <Unicode>la nouvelle Chambre des Députés où brille€ cette aristocratie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8f4fade1" >
+        <Coords points="351,787 351,752 1601,761 1601,787 1601,805 351,811"/>
+        <Baseline points="351,787 1601,787"/>
+        <TextEquiv>
+          <Unicode>qui fait illusion: &quot;un public de café concert&quot;, me disait-il.-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_652e583a" >
+        <Coords points="351,851 351,818 1654,823 1654,856 1651,882 1504,873 1440,880 1420,882 1420,882 1418,882 1418,882 1416,882 1416,882 1416,882 1414,882 1412,880 1399,873 1335,878 1297,882 1297,882 1295,882 1295,882 1266,878 1220,871 1202,876 1192,880 1192,880 1191,880 1191,880 1189,880 1006,875 885,871 881,873 872,880 872,880 870,880 870,880 870,880 868,880 868,880 866,880 866,880 866,880 830,873 822,871 817,873 789,880 787,880 787,880 787,880 786,880 786,880 784,880 784,880 784,880 782,880 769,871 765,869 756,871 727,878 725,878 725,878 725,880 386,880 384,878 384,878 382,878 382,878 348,865"/>
+        <Baseline points="351,851 1654,856"/>
+        <TextEquiv>
+          <Unicode>Je puis me tromper; je le voudrais; il ne faut pas généraliser;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9eca41c7" >
+        <Coords points="351,920 351,891 1619,895 1619,920 1618,942 349,939"/>
+        <Baseline points="351,920 1619,920"/>
+        <TextEquiv>
+          <Unicode>il y a de nobles caractères dans les familles nobles, à la con-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6544b96c" >
+        <Coords points="349,983 349,948 470,948 470,948 470,948 472,948 472,948 472,948 474,948 474,948 474,948 485,957 575,950 601,948 602,948 602,948 602,948 617,950 667,959 699,950 703,950 705,950 705,950 707,950 707,950 707,950 709,950 709,950 709,950 710,952 727,959 797,952 820,950 820,950 822,950 822,950 824,950 824,950 831,952 852,961 1590,961 1592,990 1590,1012 390,1012 388,1010 388,1010 386,1010 346,999"/>
+        <Baseline points="349,983 1592,990"/>
+        <TextEquiv>
+          <Unicode>dition surtout que la vie dure et la misère les aient trempés,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4d421970" >
+        <Coords points="349,1050 349,1025 1596,1027 1597,1056 1594,1082 348,1069"/>
+        <Baseline points="349,1050 1597,1056"/>
+        <TextEquiv>
+          <Unicode>comme furent jadis nos cadets; mais, en général, si j&#39;en juge</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9d965d5c" >
+        <Coords points="349,1118 349,1091 1594,1096 1596,1124 1592,1140 348,1135"/>
+        <Baseline points="349,1118 1596,1124"/>
+        <TextEquiv>
+          <Unicode>par ce que je vois, dans mon pays natal, les vieilles familles</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_792417c4" >
+        <Coords points="349,1184 348,1158 465,1149 467,1149 681,1160 714,1160 729,1160 778,1167 803,1161 835,1164 867,1161 894,1160 903,1160 1086,1153 1088,1153 1090,1153 1117,1162 1126,1164 1152,1162 1236,1155 1238,1155 1304,1162 1323,1153 1324,1153 1326,1153 1328,1153 1330,1153 1341,1162 1374,1151 1376,1151 1378,1151 1473,1164 1489,1166 1502,1164 1553,1155 1555,1155 1632,1166 1634,1193 1630,1212 348,1204"/>
+        <Baseline points="349,1184 1634,1193"/>
+        <TextEquiv>
+          <Unicode>de l&#39;aristocratie franaise sont restées ce qu&#39;elles étaient sous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_54b439f1" >
+        <Coords points="348,1250 348,1213 1645,1232 1645,1261 1641,1285 1429,1276 1387,1281 1363,1285 1363,1285 1361,1285 1361,1285 1361,1285 1359,1285 1359,1285 1357,1285 1357,1285 1354,1281 1346,1276 1332,1281 1319,1285 1317,1285 1317,1285 1317,1285 1315,1285 1222,1279 1159,1276 1126,1277 1055,1283 1053,1283 1053,1283 971,1276 930,1272 892,1274 782,1281 780,1281 780,1281 780,1281 778,1281 778,1281 758,1272 756,1270 753,1272 738,1279 738,1279 738,1279 736,1279 736,1279 734,1279 397,1277 397,1277 397,1277 346,1265"/>
+        <Baseline points="348,1250 1645,1261"/>
+        <TextEquiv>
+          <Unicode>la Révolution et après la Révolution; (Napoléon, que vous citez,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6619e59d" >
+        <Coords points="348,1318 346,1292 610,1283 612,1283 612,1283 613,1283 613,1283 613,1283 615,1283 615,1283 615,1285 621,1290 624,1292 670,1290 754,1285 756,1285 756,1285 756,1285 758,1285 758,1285 769,1288 782,1296 1055,1296 1093,1288 1114,1285 1114,1285 1115,1285 1115,1285 1115,1285 1134,1287 1183,1296 1284,1287 1293,1287 1295,1287 1295,1287 1302,1287 1378,1296 1495,1287 1498,1323 1497,1340 346,1342"/>
+        <Baseline points="348,1318 1498,1323"/>
+        <TextEquiv>
+          <Unicode>le sav££ait££ bien, et il savait ne choisir que les meilleures</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c5022801" >
+        <Coords points="348,1385 348,1360 1592,1365 1594,1391 1592,1409 421,1413 419,1413 419,1413 346,1402"/>
+        <Baseline points="348,1385 1594,1391"/>
+        <TextEquiv>
+          <Unicode>exceptions); elles sont restées des émigrés de l&#39;intérieur ou</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cf426313" >
+        <Coords points="348,1450 348,1422 1636,1437 1638,1464 1634,1488 346,1466"/>
+        <Baseline points="348,1450 1638,1464"/>
+        <TextEquiv>
+          <Unicode>de l&#39;extérieur. Et il y a pire encore que l&#39;aristocratie oisive,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_11ade155" >
+        <Coords points="348,1515 348,1486 958,1488 958,1488 973,1490 1042,1497 1156,1490 1174,1490 1176,1490 1176,1490 1176,1490 1178,1490 1180,1490 1207,1499 1312,1492 1315,1492 1317,1492 1317,1492 1317,1492 1319,1492 1378,1501 1542,1493 1546,1528 1542,1554 1158,1543 1101,1547 1042,1550 1040,1550 1040,1550 1040,1550 1039,1550 1039,1550 1039,1550 1028,1545 1020,1541 963,1545 881,1548 879,1548 879,1548 879,1548 877,1548 877,1548 877,1548 864,1543 859,1539 738,1539 375,1543 373,1543 373,1543 371,1543 371,1543 344,1532"/>
+        <Baseline points="348,1515 1546,1528"/>
+        <TextEquiv>
+          <Unicode>ce sont les parvenus de tous les temps, les nouveaux riches,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_181481fd" >
+        <Coords points="348,1583 348,1556 1612,1569 1612,1596 1610,1611 716,1612 714,1612 502,1601 362,1609 360,1609 360,1609 360,1609 359,1609 359,1609 357,1609 357,1609 342,1598"/>
+        <Baseline points="348,1583 1612,1596"/>
+        <TextEquiv>
+          <Unicode>qui imitent l&#39;aristocratie. Je serais bien surpris si le Comte</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7674fe76" >
+        <Coords points="346,1649 344,1623 859,1620 861,1620 861,1620 863,1620 863,1620 874,1623 885,1631 1236,1633 1350,1625 1365,1625 1367,1625 1367,1625 1367,1625 1372,1625 1418,1634 1590,1627 1594,1662 1592,1678 525,1678 524,1677 408,1667 368,1675 368,1675 368,1675 366,1675 366,1675 364,1675 364,1675 364,1675 342,1664"/>
+        <Baseline points="346,1649 1594,1662"/>
+        <TextEquiv>
+          <Unicode>de Nicolaî, que j&#39;ai vu exploiter devant moi la calomnie comme</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4f29be3d" >
+        <Coords points="346,1717 346,1688 731,1695 754,1688 764,1686 765,1686 765,1686 767,1686 767,1686 767,1686 786,1689 819,1695 837,1689 846,1686 846,1686 848,1686 848,1686 850,1686 850,1686 850,1686 868,1689 905,1697 1051,1689 1073,1689 1075,1689 1075,1689 1075,1689 1077,1689 1077,1689 1079,1689 1099,1699 1121,1689 1123,1689 1123,1689 1125,1689 1125,1689 1126,1689 1126,1689 1126,1689 1128,1689 1128,1689 1130,1689 1130,1689 1130,1689 1141,1699 1167,1689 1170,1689 1172,1689 1172,1689 1174,1689 1442,1691 1442,1691 1442,1691 1443,1691 1443,1691 1443,1691 1445,1691 1445,1691 1445,1691 1445,1693 1456,1702 1625,1693 1629,1730 1625,1746 344,1735"/>
+        <Baseline points="346,1717 1629,1730"/>
+        <TextEquiv>
+          <Unicode>le dernier des vilains, était capable de servir un intérêt autre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7ef0dd7c" >
+        <Coords points="346,1785 346,1759 1572,1768 1574,1794 1570,1819 344,1803"/>
+        <Baseline points="346,1785 1574,1794"/>
+        <TextEquiv>
+          <Unicode>que celui de sa classe.-, Il n&#39;a pas craint de faire répandre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d2530b21" >
+        <Coords points="346,1850 346,1825 1588,1829 1590,1858 1588,1878 1425,1887 1423,1887 1423,1887 1423,1887 1370,1878 1332,1887 1330,1887 1330,1887 1328,1887 1328,1887 1328,1887 1266,1876 1258,1876 1251,1876 1181,1885 1181,1885 1180,1885 1180,1885 1180,1885 1178,1885 1178,1885 1176,1885 1161,1876 1159,1876 1152,1876 892,1883 890,1883 656,1872 652,1872 648,1872 544,1882 544,1882 542,1882 542,1882 540,1882 505,1872 393,1882 393,1882 392,1882 392,1882 390,1882 342,1869"/>
+        <Baseline points="346,1850 1590,1858"/>
+        <TextEquiv>
+          <Unicode>contre moi, sans signature bien entendu, un libelle composé de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

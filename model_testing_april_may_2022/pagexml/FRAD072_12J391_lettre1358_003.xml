@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:45.007838+00:00</Created>
+        <LastChange>2022-05-20T11:35:45.007859+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J391_lettre1358_003.jpg" imageWidth="1736" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_7dd4ec88" >
+        <Coords points="772,223 767,194 895,177 900,219 900,238 835,250 835,250 833,250 833,250 770,241"/>
+        <Baseline points="772,223 900,219"/>
+        <TextEquiv>
+          <Unicode>- 3 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_68bafe70" >
+        <Coords points="303,320 303,291 1613,294 1615,324 1613,344 303,347"/>
+        <Baseline points="303,320 1615,324"/>
+        <TextEquiv>
+          <Unicode>Président du Groupe des Régions Dévastées, Lucien Hubert, Sénateur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ff91bf8d" >
+        <Coords points="305,389 305,360 1602,364 1604,393 1602,408 305,410"/>
+        <Baseline points="305,389 1604,393"/>
+        <TextEquiv>
+          <Unicode>des Ardennes, et le Vice-Président M. Gouge; ainsi que M. Merlin</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e40fcf0a" >
+        <Coords points="309,457 309,422 1602,432 1602,457 1602,477 309,477"/>
+        <Baseline points="309,457 1602,457"/>
+        <TextEquiv>
+          <Unicode>(Henri) Sénateur de la Marne, pour Reims, au nom de M. Léon Bour-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b6520aa5" >
+        <Coords points="305,525 305,497 1584,497 1584,525 1584,541 305,547"/>
+        <Baseline points="305,525 1584,525"/>
+        <TextEquiv>
+          <Unicode>geois, malade. M. Accambray, député de l&#39;Aisne, et représentant</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4be352d1" >
+        <Coords points="307,589 302,563 327,552 327,552 329,552 329,552 331,552 939,560 970,551 972,551 972,551 974,551 1596,560 1600,585 1596,609 305,607"/>
+        <Baseline points="307,589 1600,585"/>
+        <TextEquiv>
+          <Unicode>spécialement Fargniers, Godart, ancien Vice-Président de la Cham-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c3c966ba" >
+        <Coords points="305,651 303,624 637,615 639,615 639,615 639,615 683,624 1298,618 1300,618 1300,618 1302,618 1302,618 1302,618 1322,627 1541,620 1543,620 1543,620 1646,631 1646,659 1642,677 303,668"/>
+        <Baseline points="305,651 1646,659"/>
+        <TextEquiv>
+          <Unicode>bre des Députés, Vice-Président de la Dotation. Vous avez répondu ,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0da9334e" >
+        <Coords points="305,719 305,686 1598,692 1598,719 1598,741 305,748"/>
+        <Baseline points="305,719 1598,719"/>
+        <TextEquiv>
+          <Unicode>en Français et en Anglais, aux applaudissements des deux groupes.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_903a9cbe" >
+        <Coords points="305,787 303,750 688,759 813,752 882,748 884,748 884,748 884,748 886,748 886,748 888,748 893,752 906,761 959,761 988,754 1018,746 1018,746 1018,746 1019,746 1019,746 1019,746 1056,754 1078,757 1095,754 1115,748 1117,748 1117,748 1118,748 1258,754 1333,757 1355,756 1417,746 1417,746 1419,746 1620,757 1624,783 1622,801 305,812"/>
+        <Baseline points="305,787 1624,783"/>
+        <TextEquiv>
+          <Unicode>Après quoi nous avons fait les honneurs du Sénat aux représentants</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_20367137" >
+        <Coords points="305,847 305,820 1642,823 1644,853 1640,873 1417,871 1413,873 1400,880 1399,880 1399,880 1397,880 1397,880 1397,880 1395,880 1395,880 1395,880 1393,880 1393,880 1375,871 1373,871 1371,871 1345,884 1345,884 1345,884 1344,884 1344,884 1344,886 1280,886 1278,884 1278,884 1208,871 1199,869 1195,871 1171,882 1171,882 1171,882 1170,882 1170,882 1170,884 915,884 913,882 748,867 745,867 745,867 710,880 710,880 708,880 708,880 706,880 706,880 706,880 650,869 626,880 626,880 626,880 624,880 624,880 624,882 551,882 549,880 549,880 547,880 503,867 426,876 426,876 424,876 424,876 423,876 388,867 331,880 331,880 331,880 329,880 329,880 327,880 327,880 327,880 325,880 300,864"/>
+        <Baseline points="305,847 1644,853"/>
+        <TextEquiv>
+          <Unicode>des trois divisions de la Dotation et rencontré nombre de Sénateurs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9b21b399" >
+        <Coords points="305,917 303,893 424,886 426,917 424,942 303,937"/>
+        <Baseline points="305,917 426,917"/>
+        <TextEquiv>
+          <Unicode>amis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c4ef092e" >
+        <Coords points="457,981 457,953 1565,955 1567,984 1565,1006 455,1006"/>
+        <Baseline points="457,981 1567,984"/>
+        <TextEquiv>
+          <Unicode>Le soir dîner intime rue Molitor en votre honneur et en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0f0d0212" >
+        <Coords points="303,1049 303,1016 1584,1025 1584,1049 1584,1069 303,1069"/>
+        <Baseline points="303,1049 1584,1049"/>
+        <TextEquiv>
+          <Unicode>l&#39;honneur des Scott. Shotwell arrivé de Londres dans la journée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a9fc0879" >
+        <Coords points="305,1114 305,1082 1563,1089 1563,1114 1563,1133 1494,1146 1494,1146 1492,1146 1492,1146 1492,1146 1437,1135 1415,1146 1415,1146 1415,1146 1413,1146 1413,1146 1411,1146 606,1135 562,1146 560,1146 560,1146 558,1146 558,1146 558,1146 494,1135 415,1146 415,1146 413,1146 413,1146 412,1146 412,1146 412,1146 410,1146 391,1135 305,1135"/>
+        <Baseline points="305,1114 1563,1114"/>
+        <TextEquiv>
+          <Unicode>n&#39;avait pu venir mais était de coeur des nôtres. Y assistaient</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a087d5b6" >
+        <Coords points="305,1177 309,1140 327,1151 454,1142 470,1142 472,1142 472,1142 472,1142 474,1142 474,1142 476,1142 476,1142 476,1142 488,1151 664,1146 734,1144 736,1144 816,1147 917,1153 928,1149 944,1144 944,1144 946,1144 946,1144 948,1144 948,1144 948,1144 950,1144 950,1144 950,1144 952,1144 959,1149 965,1153 981,1151 1019,1144 1019,1144 1019,1144 1021,1144 1021,1144 1023,1144 1023,1144 1043,1151 1049,1153 1060,1151 1106,1144 1106,1144 1107,1144 1107,1144 1107,1144 1109,1144 1109,1144 1109,1144 1111,1144 1111,1144 1120,1153 1120,1153 1122,1153 1142,1144 1142,1144 1144,1144 1144,1144 1146,1144 1146,1144 1232,1155 1234,1180 1228,1210 1208,1201 1179,1210 1175,1210 1173,1210 1173,1210 1173,1210 1171,1210 1142,1208 1009,1201 948,1206 902,1210 902,1210 900,1210 900,1210 873,1204 849,1201 838,1204 824,1210 824,1210 822,1210 822,1210 820,1210 820,1210 750,1202 701,1199 595,1201 322,1208 320,1208 320,1208 318,1208 318,1208 318,1208 316,1208 298,1197"/>
+        <Baseline points="305,1177 1234,1180"/>
+        <TextEquiv>
+          <Unicode>mon collègue Gaston Ménier, Lichtenberger. £</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8cbf1da5" >
+        <Coords points="459,1246 457,1221 1584,1217 1585,1246 1584,1276 457,1272"/>
+        <Baseline points="459,1246 1585,1246"/>
+        <TextEquiv>
+          <Unicode>Le lendemain, Vendredi 6, à 9 h. 1/2 du matin, Assemblée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_62ce4c64" >
+        <Coords points="305,1309 303,1283 620,1274 622,1274 622,1274 622,1274 624,1274 624,1274 624,1274 626,1274 635,1281 642,1285 761,1281 910,1276 911,1276 911,1276 913,1276 930,1281 954,1287 1019,1279 1051,1277 1051,1277 1052,1277 1052,1277 1052,1277 1054,1277 1062,1279 1084,1288 1248,1288 1265,1279 1270,1277 1270,1277 1272,1277 1272,1277 1272,1277 1274,1277 1320,1279 1501,1288 1596,1279 1600,1316 1598,1334 1497,1345 1497,1345 1496,1345 1311,1336 1263,1334 1201,1336 1025,1343 1023,1343 950,1336 895,1332 825,1338 763,1342 761,1342 675,1338 527,1331 305,1338"/>
+        <Baseline points="305,1309 1600,1316"/>
+        <TextEquiv>
+          <Unicode>Générale de la Conciliation. Admirablement réussie, nombreuse et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_91bcce9a" >
+        <Coords points="305,1378 302,1354 479,1345 485,1374 481,1407 303,1400"/>
+        <Baseline points="305,1378 485,1374"/>
+        <TextEquiv>
+          <Unicode>choisie.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dc7935c3" >
+        <Coords points="461,1440 461,1409 1618,1418 1620,1446 1616,1466 459,1461"/>
+        <Baseline points="461,1440 1620,1446"/>
+        <TextEquiv>
+          <Unicode>J&#39;ai expliqué pourquoi il ne fallait pas confondre la Con-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c8ff9e9b" >
+        <Coords points="305,1510 303,1484 1615,1479 1618,1514 1616,1530 974,1539 972,1539 871,1530 368,1537 366,1537 366,1537 303,1526"/>
+        <Baseline points="305,1510 1618,1514"/>
+        <TextEquiv>
+          <Unicode>ciliation et la Dotation; pourquoi il fallait, à mon sens, laisser</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6fc3364f" >
+        <Coords points="303,1572 303,1541 1166,1541 1166,1541 1166,1541 1171,1541 1223,1550 1596,1543 1600,1578 1598,1598 1171,1607 1170,1607 1082,1598 756,1605 754,1605 754,1605 754,1605 708,1596 344,1603 342,1603 342,1603 340,1603 300,1592"/>
+        <Baseline points="303,1572 1600,1578"/>
+        <TextEquiv>
+          <Unicode>à la Conciliation Française son indépendance avec ses responsabi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0f5c3062" >
+        <Coords points="307,1636 307,1603 1633,1611 1633,1642 1629,1666 305,1660"/>
+        <Baseline points="307,1636 1633,1642"/>
+        <TextEquiv>
+          <Unicode>lités particulières, et profiter de ses initiatives, parfois diffi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_573a7540" >
+        <Coords points="307,1708 302,1684 338,1671 340,1671 340,1671 340,1671 342,1671 342,1671 432,1682 536,1682 547,1671 547,1671 549,1671 549,1671 549,1671 551,1671 551,1671 551,1671 553,1671 732,1680 765,1671 767,1671 767,1671 769,1671 769,1671 853,1680 952,1669 952,1669 954,1669 954,1669 954,1669 999,1678 1160,1669 1162,1669 1162,1669 1162,1669 1210,1680 1598,1680 1602,1704 1602,1722 307,1726"/>
+        <Baseline points="307,1708 1602,1704"/>
+        <TextEquiv>
+          <Unicode>ciles, pour éclairer et préparer le terrain de la Dotation. Vous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5f710227" >
+        <Coords points="305,1772 303,1742 1541,1742 1545,1766 1545,1785 1519,1796 1519,1796 1518,1796 1518,1796 1518,1796 1516,1796 1254,1786 1234,1786 1223,1786 1096,1797 1096,1797 1095,1797 933,1788 926,1788 919,1788 814,1797 814,1797 813,1797 703,1790 684,1799 684,1799 684,1799 683,1799 683,1799 683,1799 681,1799 681,1799 681,1799 679,1799 650,1790 593,1799 593,1799 593,1799 591,1799 591,1799 589,1799 553,1790 551,1790 305,1790"/>
+        <Baseline points="305,1772 1545,1766"/>
+        <TextEquiv>
+          <Unicode>avez parlé dans le même sens. &quot;Jamais je n&#39;ai si bien compris</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4d6976f5" >
+        <Coords points="305,1830 305,1807 1596,1808 1598,1836 1594,1861 1373,1856 1351,1861 1325,1867 1323,1867 1323,1867 1322,1867 1322,1867 1322,1867 1320,1867 1320,1867 1303,1860 1292,1856 1265,1860 1208,1869 1208,1869 1206,1869 862,1867 862,1867 862,1867 809,1856 802,1856 791,1856 732,1863 732,1863 730,1863 730,1863 728,1863 728,1863 728,1863 714,1856 710,1854 705,1856 694,1861 694,1861 694,1861 692,1861 692,1861 690,1861 690,1861 688,1861 688,1861 672,1856 661,1852 490,1852 470,1854 393,1865 393,1865 391,1865 391,1865 303,1852"/>
+        <Baseline points="305,1830 1598,1836"/>
+        <TextEquiv>
+          <Unicode>l&#39;utilité de la Conciliation qu&#39;en écoutant l&#39;exposé du Président</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_029583f2" >
+        <Coords points="307,1896 307,1865 1140,1865 1142,1902 1140,1920 1096,1931 1096,1931 1096,1931 1095,1931 1095,1931 1036,1922 1001,1931 999,1931 999,1931 999,1931 998,1931 998,1931 996,1931 955,1922 955,1922 954,1922 855,1929 853,1929 853,1929 853,1929 851,1929 851,1929 851,1929 849,1929 838,1922 836,1920 816,1922 743,1929 741,1929 741,1929 672,1922 648,1920 305,1922"/>
+        <Baseline points="307,1896 1142,1902"/>
+        <TextEquiv>
+          <Unicode>Butler&quot;, a dit l&#39;un de nos collaborateurs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cb6404da" >
+        <Coords points="461,1964 461,1935 968,1938 968,1964 968,1986 461,1991"/>
+        <Baseline points="461,1964 968,1964"/>
+        <TextEquiv>
+          <Unicode>Assistaient à la réunion:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

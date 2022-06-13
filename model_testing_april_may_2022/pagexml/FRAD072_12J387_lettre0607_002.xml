@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.504712+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.504733+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_002.jpg" imageWidth="1739" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_015f9662" >
+        <Coords points="879,150 877,119 978,117 980,150 980,162 879,172"/>
+        <Baseline points="879,150 980,150"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0062a381" >
+        <Coords points="320,296 320,261 1570,263 1572,296 1568,322 318,314"/>
+        <Baseline points="320,296 1572,296"/>
+        <TextEquiv>
+          <Unicode>pour vous et pour moi, mes impressions sommaires de ces quatre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bfdab9f8" >
+        <Coords points="322,362 322,325 410,336 540,327 542,327 542,327 542,327 593,336 641,327 641,327 641,327 643,327 890,336 923,327 925,327 925,327 925,327 925,327 927,327 927,327 927,327 929,327 929,327 929,327 930,327 930,327 930,329 940,336 1103,329 1104,329 1258,338 1273,329 1275,329 1275,329 1275,329 1277,329 1277,329 1279,329 1279,329 1279,329 1280,329 1280,329 1280,329 1282,329 1282,329 1282,331 1291,340 1504,340 1548,329 1552,366 1548,382 320,378"/>
+        <Baseline points="322,362 1552,366"/>
+        <TextEquiv>
+          <Unicode>campagnes électorales successives qui viennent de se clore et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_00623e38" >
+        <Coords points="324,428 324,402 1559,410 1561,437 1557,465 322,452"/>
+        <Baseline points="324,428 1561,437"/>
+        <TextEquiv>
+          <Unicode>dont l&#39;épilogue sera l&#39;élection du Président de la République,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d1512656" >
+        <Coords points="324,492 324,465 874,465 875,496 874,518 322,523"/>
+        <Baseline points="324,492 875,496"/>
+        <TextEquiv>
+          <Unicode>Samedi prochain 17 Janvier.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0f38663b" >
+        <Coords points="650,723 648,693 726,701 763,698 782,681 813,692 828,695 925,690 958,698 995,698 1017,684 1018,684 1024,688 1035,697 1218,699 1258,686 1262,730 1260,761 648,763"/>
+        <Baseline points="650,723 1262,730"/>
+        <TextEquiv>
+          <Unicode>LES ÉLECTIONS LÉGLISLATIVES .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_41a338f9" >
+        <Coords points="716,858 716,827 1502,831 1502,864 1498,886 712,878"/>
+        <Baseline points="716,858 1502,864"/>
+        <TextEquiv>
+          <Unicode>Tout a été plus ou moins faussé, dès le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c606cedf" >
+        <Coords points="318,926 318,889 1603,906 1603,933 1601,952 1284,961 1282,961 1282,961 1192,952 698,957 696,957 317,944"/>
+        <Baseline points="318,926 1603,933"/>
+        <TextEquiv>
+          <Unicode>début de ces campagnes, par la précipitation, l&#39;imprévu, l&#39;inco-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2cdacbe8" >
+        <Coords points="317,990 317,957 1548,968 1550,1001 1546,1021 315,1008"/>
+        <Baseline points="317,990 1550,1001"/>
+        <TextEquiv>
+          <Unicode>hérence, d&#39;ailleurs inévitables, d&#39;un retour sans sincérité à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_33a39371" >
+        <Coords points="317,1056 317,1023 529,1034 771,1028 848,1028 850,1028 850,1028 852,1028 852,1028 852,1028 853,1028 853,1028 853,1030 855,1030 863,1039 1575,1043 1575,1069 1572,1091 1018,1082 987,1083 872,1089 870,1089 870,1089 800,1080 795,1080 787,1080 690,1087 689,1087 461,1076 333,1083 331,1083 331,1083 331,1083 329,1083 329,1083 329,1083 328,1083 311,1072"/>
+        <Baseline points="317,1056 1575,1069"/>
+        <TextEquiv>
+          <Unicode>l&#39;état de choses normal d&#39;avant guerre. Cinq années de guerre,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7ce1161e" >
+        <Coords points="315,1125 315,1100 1603,1113 1603,1140 1599,1164 593,1147 573,1147 357,1153 355,1153 355,1153 353,1153 311,1142"/>
+        <Baseline points="315,1125 1603,1140"/>
+        <TextEquiv>
+          <Unicode>dans un pays dont six ou sept générations au moins des électeurs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e637dca0" >
+        <Coords points="315,1193 315,1160 1619,1184 1619,1210 1618,1226 1486,1235 1484,1235 1484,1235 1484,1235 1436,1226 1187,1232 1185,1232 881,1219 461,1222 459,1222 313,1210"/>
+        <Baseline points="315,1193 1619,1210"/>
+        <TextEquiv>
+          <Unicode>les plus jeunes et les plus ardents ont disparu, et dont le reste</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e6f7face" >
+        <Coords points="313,1261 313,1235 1541,1243 1542,1276 1539,1299 311,1277"/>
+        <Baseline points="313,1261 1542,1276"/>
+        <TextEquiv>
+          <Unicode>a souffert ou se plaint, ont nécessairement troublé les popula-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9e79066b" >
+        <Coords points="313,1325 313,1299 1531,1316 1533,1345 1530,1367 309,1343"/>
+        <Baseline points="313,1325 1533,1345"/>
+        <TextEquiv>
+          <Unicode>tions jusqu&#39;au fond de l&#39;âme. Et cependant, on était si las,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3b48ef09" >
+        <Coords points="313,1395 313,1367 1555,1385 1557,1411 1555,1435 1167,1435 1165,1433 1165,1433 1163,1433 1145,1428 1134,1424 1095,1426 1007,1431 1006,1431 1006,1431 1006,1431 1004,1431 1004,1431 1002,1431 991,1424 987,1422 962,1424 881,1429 879,1429 879,1429 879,1429 877,1429 877,1429 875,1429 875,1429 866,1422 863,1420 837,1422 729,1428 727,1428 727,1428 727,1428 725,1428 725,1428 723,1428 723,1428 712,1418 710,1418 698,1418 612,1426 610,1426 610,1426 610,1426 608,1426 608,1426 586,1417 584,1415 311,1411"/>
+        <Baseline points="313,1395 1557,1411"/>
+        <TextEquiv>
+          <Unicode>si dégoûté de cette guerre et si déçu, au fond, d&#39;une victoire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4e2aba09" >
+        <Coords points="311,1459 311,1431 1553,1453 1555,1479 1552,1501 307,1481"/>
+        <Baseline points="311,1459 1555,1479"/>
+        <TextEquiv>
+          <Unicode>dont on nous avait promis des miracles, qu&#39;on ne demandait, en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_28940ed2" >
+        <Coords points="309,1526 309,1493 987,1512 1024,1508 1082,1503 1084,1503 1084,1503 1169,1512 1207,1515 1260,1514 1399,1508 1401,1508 1401,1508 1403,1508 1403,1508 1429,1517 1434,1521 1539,1521 1539,1547 1535,1565 307,1543"/>
+        <Baseline points="309,1526 1539,1547"/>
+        <TextEquiv>
+          <Unicode>général, qu&#39;à reprendre le train train de la vie, à entrer en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_601b278e" >
+        <Coords points="309,1594 309,1567 1552,1581 1552,1612 1548,1636 306,1618"/>
+        <Baseline points="309,1594 1552,1612"/>
+        <TextEquiv>
+          <Unicode>convalescence, avec le minimum possible d&#39;émotions, d&#39;épreuves</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d7dc4fc3" >
+        <Coords points="307,1660 307,1634 1509,1651 1511,1678 1508,1697 304,1677"/>
+        <Baseline points="307,1660 1511,1678"/>
+        <TextEquiv>
+          <Unicode>nouvelles et de risques; et les électeurs l&#39;ont bien montré.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2453b698" >
+        <Coords points="304,1724 304,1691 718,1706 749,1702 775,1699 775,1699 776,1699 776,1699 778,1699 795,1702 815,1708 881,1706 996,1700 998,1700 998,1700 998,1700 1000,1700 1000,1700 1002,1700 1015,1709 1020,1711 1024,1709 1037,1702 1037,1702 1037,1702 1039,1702 1039,1702 1040,1702 1040,1702 1137,1711 1159,1713 1180,1713 1319,1706 1321,1706 1321,1706 1321,1706 1323,1706 1323,1706 1350,1717 1350,1717 1352,1717 1410,1708 1410,1708 1412,1708 1412,1708 1412,1708 1414,1708 1414,1708 1414,1708 1416,1708 1416,1708 1429,1719 1500,1711 1500,1711 1502,1711 1502,1711 1504,1711 1504,1711 1531,1722 1531,1746 1528,1768 300,1741"/>
+        <Baseline points="304,1724 1531,1746"/>
+        <TextEquiv>
+          <Unicode>Avec une complaisance, une docilité même inquiétante, le pays</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0f6b4a9f" >
+        <Coords points="304,1790 304,1757 1586,1786 1588,1812 1585,1838 300,1814"/>
+        <Baseline points="304,1790 1588,1812"/>
+        <TextEquiv>
+          <Unicode>dont on prétendait qu&#39;il allait se révolter, s&#39;est abandonné aux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5d6e65da" >
+        <Coords points="302,1858 302,1832 1528,1847 1530,1876 1528,1893 1420,1902 1418,1902 1418,1902 1418,1902 1416,1902 1416,1902 1416,1902 1414,1902 1414,1902 1403,1893 672,1893 670,1891 300,1874"/>
+        <Baseline points="302,1858 1530,1876"/>
+        <TextEquiv>
+          <Unicode>volontés du Gouvernement; comme auparavant à celles du Haut-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_20b13f13" >
+        <Coords points="302,1922 302,1894 1607,1913 1607,1946 1603,1973 300,1949"/>
+        <Baseline points="302,1922 1607,1946"/>
+        <TextEquiv>
+          <Unicode>Commandement; il a laissé la machine constitutionnelle reprendre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

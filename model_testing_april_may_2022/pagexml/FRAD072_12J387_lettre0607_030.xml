@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.803221+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.803242+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_030.jpg" imageWidth="1731" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_48977846" >
+        <Coords points="851,177 849,153 996,146 998,177 998,192 906,208 906,208 904,208 904,208 904,208 903,208 848,192"/>
+        <Baseline points="851,177 998,177"/>
+        <TextEquiv>
+          <Unicode>- 30 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5f7fe83b" >
+        <Coords points="316,280 309,254 324,243 324,243 326,243 326,243 326,243 327,243 327,243 329,243 789,250 908,241 910,241 1502,250 1505,276 1502,303 315,298"/>
+        <Baseline points="316,280 1505,276"/>
+        <TextEquiv>
+          <Unicode>On se moque de ces papiers dont l&#39;origine est transparente;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ceda4cd6" >
+        <Coords points="316,349 315,322 947,322 956,320 1005,311 1005,311 1007,311 1234,318 1254,318 1256,318 1282,309 1282,309 1284,309 1284,309 1285,309 1600,318 1604,342 1602,360 316,375"/>
+        <Baseline points="316,349 1604,342"/>
+        <TextEquiv>
+          <Unicode>on ne les lit plus que pour les invoquer comme griefs contre mes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_25292ee1" >
+        <Coords points="315,415 311,382 1578,377 1584,410 1582,433 315,435"/>
+        <Baseline points="315,415 1584,410"/>
+        <TextEquiv>
+          <Unicode>adversaires. Les gens du Mans et des environs sont admirables.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a4016a9d" >
+        <Coords points="315,479 315,454 1621,454 1621,479 1621,497 315,505"/>
+        <Baseline points="315,479 1621,479"/>
+        <TextEquiv>
+          <Unicode>L&#39;un d&#39;eux, simple délégué suppléant, a invité cinquante délégués</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3a60d8ca" >
+        <Coords points="315,547 311,521 1516,510 1522,541 1518,567 346,565 316,574"/>
+        <Baseline points="315,547 1522,541"/>
+        <TextEquiv>
+          <Unicode>à déjeuner pour &quot;les tenir&quot; à la température jusqu&#39;au second</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1334a5ac" >
+        <Coords points="316,613 315,585 992,585 1053,578 1073,576 1073,576 1075,576 1075,576 1089,578 1143,585 1196,576 1214,574 1214,574 1216,574 1282,576 1500,584 1556,574 1562,607 1560,627 316,633"/>
+        <Baseline points="316,613 1562,607"/>
+        <TextEquiv>
+          <Unicode>tour. Meilleurs encore, ou aussi bons, les délégués de Sillé-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bd498e53" >
+        <Coords points="316,675 316,646 1522,646 1524,679 1522,699 349,704 348,704 348,704 346,704 313,693"/>
+        <Baseline points="316,675 1524,679"/>
+        <TextEquiv>
+          <Unicode>le-Guillaume, qui arrivent au complet, tous pour moi, contre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f3d5904e" >
+        <Coords points="315,746 313,719 1602,715 1604,746 1602,770 313,765"/>
+        <Baseline points="315,746 1604,746"/>
+        <TextEquiv>
+          <Unicode>Lebert et Cordelet. Et ceux de Conlie, et ceux de Loué, et ceux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5d488885" >
+        <Coords points="315,811 315,781 1485,787 1485,811 1485,831 1371,842 1371,842 1370,842 1370,842 1368,842 1368,842 1368,842 1366,842 1366,842 1353,831 1351,831 1324,831 1318,831 1293,842 1293,842 1291,842 1291,842 1289,842 1289,842 1289,842 1287,842 1287,842 1262,831 1258,831 1247,831 1155,842 1155,842 1154,842 1154,842 1086,831 1080,831 1080,831 1066,840 1064,840 1064,840 1064,840 1062,840 1062,840 1060,840 1060,840 1060,840 1022,833 1011,842 1011,842 1009,842 1009,842 1009,842 1007,842 1007,842 1007,844 890,844 888,842 714,831 707,831 703,831 642,842 642,842 641,842 641,842 641,842 639,842 606,831 595,842 595,842 593,842 593,842 593,842 591,842 591,842 591,844 509,844 507,842 507,842 505,842 459,831 413,840 413,840 413,840 412,840 313,829"/>
+        <Baseline points="315,811 1485,811"/>
+        <TextEquiv>
+          <Unicode>de Da Suze, et ceux d&#39;Ecommoy, et ceux de Mayet et ceux de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b7c61398" >
+        <Coords points="315,876 315,851 1597,853 1599,880 1597,898 1095,908 1093,908 1093,908 1047,902 1014,898 996,902 961,911 959,911 959,911 958,911 685,909 685,909 685,909 683,909 683,909 683,909 681,909 681,908 675,904 666,897 551,906 483,909 481,909 481,909 481,909 461,906 439,900 426,906 417,909 417,909 415,909 415,909 415,909 413,909 413,909 413,909 391,906 346,897 316,906"/>
+        <Baseline points="315,876 1599,880"/>
+        <TextEquiv>
+          <Unicode>Pontvallain, avec Pottier, Voisin, etc...etc... Je n&#39;ai rencon-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1b0a9642" >
+        <Coords points="313,944 313,917 1597,920 1599,948 1595,975 1296,966 1172,972 1069,975 1067,975 1067,975 1020,970 992,966 981,970 959,975 958,975 958,975 958,975 956,975 956,975 954,975 928,968 912,964 826,968 657,974 655,974 655,974 655,974 653,974 653,974 652,974 639,964 637,964 631,964 589,974 589,974 589,974 587,974 587,974 586,974 553,964 553,964 551,964 518,974 516,974 516,974 516,974 514,974 514,974 512,974 512,974 485,964 402,974 402,974 401,974 401,974 399,974 399,974 399,974 397,974 382,964 346,974 344,974 344,974 342,974 342,974 342,974 340,974 340,974 309,961"/>
+        <Baseline points="313,944 1599,948"/>
+        <TextEquiv>
+          <Unicode>tré qu&#39;à la fin ceux du Lude, mais toujours fermes. J&#39;ai aperçu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0a7c3ff7" >
+        <Coords points="313,1008 313,983 1480,986 1481,1014 1480,1034 313,1034"/>
+        <Baseline points="313,1008 1481,1014"/>
+        <TextEquiv>
+          <Unicode>les ricanements fuyants de mes ex-concurrents, le Comte de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e24d00a3" >
+        <Coords points="315,1078 315,1052 1562,1054 1564,1083 1562,1098 1445,1109 1445,1109 1443,1109 1315,1100 1302,1100 1289,1100 1181,1109 1181,1109 1179,1109 1179,1109 1177,1109 1144,1100 1132,1098 1113,1102 1075,1107 1075,1107 1073,1107 886,1102 741,1098 670,1103 628,1105 626,1105 626,1105 626,1105 624,1105 624,1105 622,1105 619,1103 608,1096 593,1103 587,1105 587,1105 586,1105 586,1105 586,1105 584,1105 584,1105 562,1103 500,1096 315,1103"/>
+        <Baseline points="315,1078 1564,1083"/>
+        <TextEquiv>
+          <Unicode>Talhouët et le Comte de Nicolaï. Est-ce une idée ? Malgré la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_45635bc9" >
+        <Coords points="313,1144 313,1111 1615,1124 1617,1149 1613,1175 580,1166 567,1166 390,1173 388,1173 388,1173 311,1162"/>
+        <Baseline points="313,1144 1617,1149"/>
+        <TextEquiv>
+          <Unicode>tempête, les visages me semblent en majorité rayonner de sourires</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e87065bb" >
+        <Coords points="311,1210 311,1184 1556,1188 1558,1215 1555,1241 309,1228"/>
+        <Baseline points="311,1210 1558,1215"/>
+        <TextEquiv>
+          <Unicode>discrets et ££ intérieur. Je serai bien trompé si</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6316ce69" >
+        <Coords points="311,1276 311,1244 1020,1246 1022,1279 1020,1296 776,1309 774,1309 774,1309 774,1309 772,1309 740,1298 688,1309 688,1309 688,1309 686,1309 686,1309 685,1309 685,1309 685,1309 663,1298 450,1307 448,1307 448,1307 448,1307 397,1296 327,1305 327,1305 326,1305 326,1305 326,1305 324,1305 324,1305 322,1305 304,1294"/>
+        <Baseline points="311,1276 1022,1279"/>
+        <TextEquiv>
+          <Unicode>les choses tournaient mal pour moi.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_480fcd36" >
+        <Coords points="723,1343 725,1309 745,1320 1551,1320 1553,1349 1551,1365 1044,1373 1042,1373 719,1360"/>
+        <Baseline points="723,1343 1553,1349"/>
+        <TextEquiv>
+          <Unicode>Les optimistes sont nombreux qui pensent</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a922e428" >
+        <Coords points="309,1409 311,1374 335,1384 893,1378 908,1378 910,1378 910,1378 912,1378 912,1378 912,1378 912,1378 914,1378 914,1378 914,1380 923,1387 1181,1380 1181,1380 1183,1380 1183,1380 1183,1380 1185,1380 1185,1380 1212,1389 1505,1382 1509,1417 1505,1444 1311,1435 1263,1440 1240,1444 1240,1444 1238,1444 1238,1444 1238,1444 1236,1444 1223,1440 1197,1433 1099,1439 1033,1442 1031,1442 1031,1442 959,1437 893,1431 875,1435 855,1440 853,1440 853,1440 851,1440 851,1440 851,1440 813,1435 791,1431 745,1433 613,1440 611,1440 611,1440 611,1440 609,1440 609,1440 609,1440 591,1431 587,1429 553,1429 368,1439 366,1439 366,1439 366,1439 307,1426"/>
+        <Baseline points="309,1409 1509,1417"/>
+        <TextEquiv>
+          <Unicode>et disent que je pourrais passer au premier tour de scrutin.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_491d4cf4" >
+        <Coords points="311,1475 311,1444 1591,1459 1591,1488 1588,1517 1262,1515 1262,1515 1262,1515 1260,1515 1240,1510 1203,1501 1100,1508 1051,1510 1049,1510 1049,1510 1049,1510 1047,1510 1047,1510 1047,1510 1045,1510 1045,1510 1045,1508 1042,1506 1034,1499 844,1499 838,1501 829,1508 827,1508 827,1508 827,1508 826,1508 826,1508 824,1508 824,1508 824,1508 822,1508 822,1508 805,1501 796,1497 776,1501 736,1506 736,1506 734,1506 734,1506 734,1506 732,1506 732,1506 732,1506 730,1506 730,1506 723,1499 721,1497 718,1499 686,1510 686,1510 685,1510 685,1510 683,1510 683,1510 683,1510 681,1510 639,1497 631,1495 620,1497 549,1508 549,1508 547,1508 547,1508 430,1493 338,1506 338,1506 337,1506 337,1506 337,1506 335,1506 335,1506 333,1506 305,1490"/>
+        <Baseline points="311,1475 1591,1488"/>
+        <TextEquiv>
+          <Unicode>Voici comment. Tous les candidats républicains, Gigon, Breteau,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5b776a29" >
+        <Coords points="311,1543 311,1517 1569,1521 1571,1548 1567,1570 1547,1567 1540,1570 1529,1580 1527,1580 1527,1580 1527,1580 1525,1580 1525,1580 1525,1580 1524,1580 1524,1580 1476,1572 1445,1567 1260,1572 1190,1574 1188,1574 1188,1574 1175,1572 1124,1565 769,1565 729,1574 718,1578 716,1578 716,1578 714,1578 309,1576"/>
+        <Baseline points="311,1543 1571,1548"/>
+        <TextEquiv>
+          <Unicode>Fouasnon, Cornilleau, font liste commune avec moi; c&#39;est-à-dire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_85e669ab" >
+        <Coords points="309,1611 309,1585 1566,1589 1567,1616 1566,1636 1296,1642 1295,1642 1295,1642 1230,1634 1212,1633 1199,1634 1150,1642 1150,1642 1148,1642 1148,1642 1148,1642 1146,1642 1146,1642 1146,1642 1128,1633 1122,1631 1014,1631 1000,1633 945,1640 945,1640 943,1640 943,1640 943,1640 895,1631 890,1631 888,1631 875,1640 873,1640 873,1640 871,1640 871,1640 871,1640 870,1640 870,1640 870,1640 868,1640 868,1640 866,1640 851,1631 851,1631 851,1631 822,1640 820,1640 820,1640 820,1640 818,1640 818,1640 816,1640 816,1640 791,1631 765,1640 765,1640 763,1640 763,1640 762,1640 762,1640 762,1640 760,1640 760,1640 738,1631 690,1638 690,1638 688,1638 688,1638 688,1638 686,1638 686,1638 666,1629 664,1629 542,1629 538,1629 514,1638 514,1638 512,1638 512,1638 512,1638 511,1638 511,1638 509,1638 474,1629 355,1638 353,1638 353,1638 353,1638 351,1638 305,1625"/>
+        <Baseline points="309,1611 1567,1616"/>
+        <TextEquiv>
+          <Unicode>que tous ceux qui votent pour eux votent pour moi; ils ajoutent</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4fa6b40f" >
+        <Coords points="307,1675 307,1649 1531,1653 1533,1682 1529,1709 305,1697"/>
+        <Baseline points="307,1675 1533,1682"/>
+        <TextEquiv>
+          <Unicode>donc leurs voix à toutes celles qui me viennent de l&#39;ensemble</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_13a1f1e1" >
+        <Coords points="305,1739 304,1713 617,1709 620,1742 619,1763 304,1766"/>
+        <Baseline points="305,1739 620,1742"/>
+        <TextEquiv>
+          <Unicode>du Département.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9c3bbeb4" >
+        <Coords points="716,1807 716,1781 1586,1785 1588,1812 1584,1830 712,1825"/>
+        <Baseline points="716,1807 1588,1812"/>
+        <TextEquiv>
+          <Unicode>L&#39;impression dominante, avant le dépouille-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_39c439a7" >
+        <Coords points="304,1874 302,1849 1545,1847 1549,1880 1547,1898 1141,1907 1139,1907 1139,1907 1137,1907 1137,1907 1137,1907 1135,1907 1135,1907 1124,1898 1124,1898 1104,1898 738,1905 736,1905 736,1905 734,1905 734,1905 734,1905 732,1905 719,1896 716,1896 304,1896"/>
+        <Baseline points="304,1874 1549,1880"/>
+        <TextEquiv>
+          <Unicode>ment du premier scrutin, à midi, est la confiance très assurée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_47a6d7f1" >
+        <Coords points="305,1940 304,1916 1045,1911 1049,1944 1045,1971 989,1962 822,1969 747,1971 745,1971 745,1971 719,1968 675,1960 562,1960 556,1966 553,1968 553,1969 553,1969 551,1969 551,1969 551,1969 549,1969 549,1969 547,1969 547,1969 547,1969 545,1969 545,1969 545,1969 544,1969 544,1969 538,1964 533,1960 516,1964 490,1969 490,1969 490,1969 489,1969 302,1960"/>
+        <Baseline points="305,1940 1049,1944"/>
+        <TextEquiv>
+          <Unicode>de mes partisans. On ne voit qu&#39;eux.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

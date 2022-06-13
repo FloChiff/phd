@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.535993+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.536015+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_005.jpg" imageWidth="1740" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_c2c298a1" >
+        <Coords points="857,151 853,108 880,120 886,108 888,108 890,108 890,109 906,122 978,113 983,148 979,177 948,168 923,173 890,181 888,181 886,181 853,168"/>
+        <Baseline points="857,151 983,148"/>
+        <TextEquiv>
+          <Unicode>- 5 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_94f0f532" >
+        <Coords points="342,287 342,258 545,258 547,256 576,245 576,245 578,245 578,245 580,245 580,245 668,254 683,258 794,258 800,254 820,245 820,245 822,245 822,245 824,245 913,245 913,245 913,245 915,245 915,245 935,254 943,258 1181,258 1196,252 1218,245 1219,245 1219,245 1221,245 1375,245 1375,245 1375,245 1377,245 1377,245 1379,245 1388,250 1399,256 1628,250 1630,287 1628,311 340,303"/>
+        <Baseline points="342,287 1630,287"/>
+        <TextEquiv>
+          <Unicode>commune a été saturée, ferme par ferme, pendant cinq ans. Natu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fb7c520b" >
+        <Coords points="342,353 338,327 380,316 382,316 382,316 384,316 384,316 386,316 386,316 412,325 573,316 575,316 575,316 575,316 576,316 611,325 613,327 992,327 994,325 1003,316 1003,316 1005,316 1005,316 1005,316 1007,316 1007,316 1007,316 1009,316 1115,324 1141,327 1207,327 1210,324 1218,316 1218,316 1219,316 1219,316 1219,316 1221,316 1221,316 1223,316 1223,316 1223,316 1261,324 1274,325 1296,324 1368,316 1368,316 1370,316 1370,316 1371,316 1371,316 1392,324 1397,325 1401,324 1415,316 1415,316 1415,316 1417,316 1417,316 1419,316 1419,316 1419,316 1421,316 1421,316 1437,324 1445,325 1452,324 1472,316 1474,316 1474,316 1474,316 1476,316 1626,324 1626,353 1626,377 342,378"/>
+        <Baseline points="342,353 1626,353"/>
+        <TextEquiv>
+          <Unicode>relles, parce que cette commune a toujours été la plus réaction-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a6a87672" >
+        <Coords points="340,417 340,388 1571,389 1573,422 1569,448 959,439 899,441 752,446 750,446 750,446 750,446 710,439 701,437 650,437 364,444 362,444 362,444 362,444 360,444 360,444 337,433"/>
+        <Baseline points="340,417 1573,422"/>
+        <TextEquiv>
+          <Unicode>naire du Département; elle a failli plusieurs fois me mettre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3669e07b" >
+        <Coords points="342,485 340,457 1584,455 1587,488 1586,505 1047,514 1045,514 340,501"/>
+        <Baseline points="342,485 1587,488"/>
+        <TextEquiv>
+          <Unicode>en minorité; j&#39;y ai été élu en ballottage, à deux voix seule-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_23efebc5" >
+        <Coords points="340,551 340,521 1628,529 1630,554 1626,576 338,569"/>
+        <Baseline points="340,551 1630,554"/>
+        <TextEquiv>
+          <Unicode>ment de majorité, il y a une dizaine d&#39;années. Le terrain était</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d4fc0428" >
+        <Coords points="340,616 340,589 1489,595 1490,622 1489,638 1109,648 1108,648 670,637 364,644 362,644 362,644 362,644 360,644 360,644 337,633"/>
+        <Baseline points="340,616 1490,622"/>
+        <TextEquiv>
+          <Unicode>donc bon pour le travail de mes adversaires. Or, ils ont</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4bde762b" >
+        <Coords points="342,686 342,653 1582,662 1584,690 1582,710 432,712 430,712 340,701"/>
+        <Baseline points="342,686 1584,690"/>
+        <TextEquiv>
+          <Unicode>été secondés par ce fait que j&#39;ai laissé sans y prendre garde,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5393adc6" >
+        <Coords points="340,750 338,725 1124,717 1126,717 1126,717 1128,717 1128,717 1128,717 1130,717 1130,717 1130,719 1139,728 1141,728 1142,728 1175,719 1177,719 1177,719 1179,719 1179,719 1179,719 1181,719 1212,728 1218,728 1230,728 1333,719 1335,719 1335,719 1335,719 1337,719 1337,719 1338,719 1353,728 1373,719 1373,719 1375,719 1375,719 1375,719 1377,719 1518,730 1520,756 1516,781 338,770"/>
+        <Baseline points="340,750 1520,756"/>
+        <TextEquiv>
+          <Unicode>à cinq kilomètres de Clermont, le Sous-Préfet de la Flèche,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_332dea49" >
+        <Coords points="340,816 338,790 1604,789 1606,822 1604,840 763,847 761,847 628,838 375,845 373,845 373,845 371,845 337,834"/>
+        <Baseline points="340,816 1606,822"/>
+        <TextEquiv>
+          <Unicode>dépasser de beaucoup, je crois, les instructions de son Gouver-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fa4308fc" >
+        <Coords points="338,886 337,860 1467,854 1470,889 1470,906 1432,917 1430,917 1430,917 1430,919 1272,919 1271,917 1271,917 1269,917 1269,917 1269,917 1250,908 1228,917 1228,917 1227,917 1227,917 1227,917 1225,917 1225,917 1223,917 1223,917 1197,908 1144,917 1144,917 1142,917 1142,917 1142,917 1141,917 1141,917 1119,908 1067,917 1067,917 1067,917 1065,917 1065,917 1064,917 1029,908 1020,915 1020,917 1020,917 1018,917 1018,917 1018,917 1016,917 1016,917 1016,919 913,919 912,917 912,917 846,906 391,915 390,915 390,915 390,915 337,902"/>
+        <Baseline points="338,886 1470,889"/>
+        <TextEquiv>
+          <Unicode>nement et me combattre sans trêve, avec la municipalité</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6eefb548" >
+        <Coords points="338,952 335,924 364,915 366,915 366,915 368,915 368,915 452,924 463,924 522,924 998,917 1000,917 1109,919 1109,919 1109,919 1111,919 1111,919 1111,919 1113,919 1122,926 1126,928 1150,926 1214,919 1214,919 1216,919 1216,919 1218,919 1218,919 1218,919 1219,919 1230,926 1236,928 1661,928 1663,959 1661,977 338,977"/>
+        <Baseline points="338,952 1663,959"/>
+        <TextEquiv>
+          <Unicode>intérimaire de la Flèche, pendant presque toute la guerre. Quicon-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d1bbe82c" >
+        <Coords points="338,1019 337,992 448,983 450,983 450,983 525,992 529,992 531,992 542,983 542,983 543,983 543,983 545,983 545,983 545,983 547,983 547,983 549,983 549,983 575,992 576,992 578,992 622,983 622,983 622,983 624,983 624,983 626,983 626,983 626,983 628,983 641,992 642,994 723,994 725,992 743,983 743,983 743,983 745,983 745,983 745,983 747,983 747,983 826,994 835,994 838,994 862,984 862,984 864,984 864,984 866,984 866,984 866,984 868,984 868,984 888,994 890,994 910,994 1098,984 1100,984 1100,984 1100,984 1150,995 1159,997 1357,997 1359,995 1371,986 1373,986 1373,986 1373,986 1375,986 1375,986 1377,986 1377,986 1377,986 1379,986 1379,986 1401,995 1402,995 1406,995 1472,986 1472,986 1474,986 1474,986 1567,997 1569,1025 1567,1041 338,1045"/>
+        <Baseline points="338,1019 1569,1025"/>
+        <TextEquiv>
+          <Unicode>que avait à se plaindre, dans ma commune, soit de n&#39;avoir pas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4550fdc0" >
+        <Coords points="337,1085 337,1056 1602,1063 1604,1091 1602,1109 1185,1118 1183,1118 1183,1118 1181,1118 1181,1118 1157,1109 767,1116 765,1116 765,1116 763,1116 763,1116 763,1116 761,1116 761,1116 761,1114 752,1107 388,1114 386,1114 386,1114 335,1103"/>
+        <Baseline points="337,1085 1604,1091"/>
+        <TextEquiv>
+          <Unicode>d&#39;allocation, soit d&#39;être moins bien traité ££e de son voisin, soit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_df878dba" >
+        <Coords points="337,1153 337,1125 1622,1133 1622,1162 1619,1180 335,1169"/>
+        <Baseline points="337,1153 1622,1162"/>
+        <TextEquiv>
+          <Unicode>d&#39;être soumis à des réquisitions trop fréquentes ou trop lourdes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_783e4e87" >
+        <Coords points="335,1221 335,1193 1641,1197 1641,1230 1639,1246 1382,1255 1381,1255 1381,1255 1379,1255 1379,1255 1379,1255 1360,1246 1359,1246 1342,1246 1192,1254 1190,1254 1190,1254 1100,1246 1078,1244 335,1244"/>
+        <Baseline points="335,1221 1641,1230"/>
+        <TextEquiv>
+          <Unicode>par le ravitaillement, etc...etc... trouvait à la sous-préfecture</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_16ca0490" >
+        <Coords points="337,1283 337,1250 1602,1263 1604,1296 1600,1316 335,1310"/>
+        <Baseline points="337,1283 1604,1296"/>
+        <TextEquiv>
+          <Unicode>l&#39;explication invariable de ses doléances: c&#39;était la faute du</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_275dcd41" >
+        <Coords points="335,1351 335,1321 1527,1331 1529,1360 1527,1380 576,1384 575,1384 575,1384 529,1374 353,1382 351,1382 351,1382 351,1382 349,1382 349,1382 348,1382 329,1371"/>
+        <Baseline points="335,1351 1529,1360"/>
+        <TextEquiv>
+          <Unicode>Maire, toujours absent, et de son secrétaire de Mairie, qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_79f992d4" >
+        <Coords points="333,1418 333,1389 1580,1402 1582,1429 1580,1450 358,1450 357,1448 357,1448 355,1448 355,1448 355,1448 329,1435"/>
+        <Baseline points="333,1418 1582,1429"/>
+        <TextEquiv>
+          <Unicode>abusait de son absence. Ajoutez, pour entretenir et envenimer</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_851faf07" >
+        <Coords points="333,1484 333,1459 1635,1473 1637,1499 1633,1523 331,1510"/>
+        <Baseline points="333,1484 1637,1499"/>
+        <TextEquiv>
+          <Unicode>cet état d&#39;esprit, le désarroi des malheureux et des malheureuses</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_373a90eb" >
+        <Coords points="333,1552 333,1526 1615,1537 1617,1563 1613,1583 331,1570"/>
+        <Baseline points="333,1552 1617,1563"/>
+        <TextEquiv>
+          <Unicode>qu&#39;un deuil frappait et qui lisaient dans les journaux réaction-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0bfbbd6b" >
+        <Coords points="331,1620 331,1594 1575,1603 1576,1629 1573,1651 329,1645"/>
+        <Baseline points="331,1620 1576,1629"/>
+        <TextEquiv>
+          <Unicode>naires du crû, que M. d&#39;Estournelles était &quot;l&#39;ami de l&#39;Empereur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9c722761" >
+        <Coords points="331,1684 331,1658 1529,1666 1531,1697 1527,1724 1375,1715 1366,1722 1364,1724 1364,1724 1362,1724 1362,1724 1362,1724 1360,1724 1360,1724 1360,1724 1359,1724 1359,1724 1359,1724 1357,1724 1357,1724 1349,1720 1333,1713 1318,1720 1315,1722 1315,1722 1315,1722 1313,1722 1313,1722 1311,1722 1311,1722 1289,1720 1232,1713 1126,1717 1020,1720 1018,1720 1018,1720 968,1713 939,1709 915,1713 873,1719 873,1719 871,1719 871,1719 774,1709 749,1708 736,1709 677,1717 677,1717 675,1717 675,1717 675,1717 624,1706 617,1706 591,1706 355,1713 353,1713 353,1713 351,1713 351,1713 351,1713 327,1700"/>
+        <Baseline points="331,1684 1531,1697"/>
+        <TextEquiv>
+          <Unicode>d&#39;Allemagne&quot;, &quot;qu&#39;il avait vu venir la guerre sans l&#39;éviter,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_efb8fdbe" >
+        <Coords points="331,1753 331,1728 1533,1735 1534,1763 1531,1783 329,1777"/>
+        <Baseline points="331,1753 1534,1763"/>
+        <TextEquiv>
+          <Unicode>sans la préparer, sans rien dire&quot;, etc...etc... &quot;qu&#39;il était</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3d0ba192" >
+        <Coords points="331,1819 331,1794 1633,1805 1635,1830 1631,1860 1397,1849 1300,1858 1285,1858 1285,1858 1283,1858 1283,1858 1272,1858 1201,1847 1144,1856 1139,1856 1139,1856 1139,1856 1137,1856 1122,1856 1012,1847 994,1854 989,1856 989,1856 987,1856 987,1856 985,1856 683,1852 683,1852 683,1852 681,1852 681,1852 681,1852 677,1850 661,1843 611,1850 595,1852 595,1852 593,1852 593,1852 593,1852 591,1852 591,1852 586,1850 567,1843 331,1847"/>
+        <Baseline points="331,1819 1635,1830"/>
+        <TextEquiv>
+          <Unicode>responsable du sang versé&quot;, que &quot;son château était le rendez-vous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

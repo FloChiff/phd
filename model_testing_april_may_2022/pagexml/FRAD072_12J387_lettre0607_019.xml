@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.686791+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.686813+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_019.jpg" imageWidth="1744" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_3fbec5ef" >
+        <Coords points="893,142 892,120 1040,117 1042,146 1040,166 970,173 970,173 969,173 969,173 890,159"/>
+        <Baseline points="893,142 1042,146"/>
+        <TextEquiv>
+          <Unicode>- 19 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_08408719" >
+        <Coords points="333,280 335,239 377,252 501,252 516,241 518,241 518,241 518,241 520,241 520,241 520,241 522,241 664,250 679,241 681,241 681,241 683,241 683,241 683,241 685,241 685,241 752,252 765,243 765,243 767,243 767,243 767,243 769,243 769,243 771,243 771,243 881,252 1214,245 1216,245 1216,245 1278,254 1591,245 1593,285 1590,305 331,296"/>
+        <Baseline points="333,280 1593,285"/>
+        <TextEquiv>
+          <Unicode>et c&#39;est un nouveau marié ! Je le félicitais de temps à autre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_03662d0a" >
+        <Coords points="335,347 335,318 1564,324 1566,351 1562,375 333,366"/>
+        <Baseline points="335,347 1566,351"/>
+        <TextEquiv>
+          <Unicode>pour le remonter quand il paraissait, en silence, trouver que</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_83649635" >
+        <Coords points="335,415 335,378 1522,395 1524,424 1520,443 333,432"/>
+        <Baseline points="335,415 1524,424"/>
+        <TextEquiv>
+          <Unicode>cela durait bien longtemps.... Il ne m&#39;a répondu qu&#39;un mot,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_290610fe" >
+        <Coords points="335,479 338,444 353,454 474,446 512,444 514,444 514,444 542,446 613,455 664,448 686,446 686,446 688,446 688,446 688,446 690,446 690,446 690,446 692,446 692,446 692,448 694,448 701,457 774,457 800,450 809,448 811,448 811,448 811,448 813,448 813,448 815,448 826,450 853,457 861,452 864,448 864,448 866,448 866,448 866,448 868,448 868,448 870,448 870,448 870,448 872,448 872,448 872,448 879,452 890,457 991,452 1055,450 1057,450 1057,450 1057,450 1058,450 1058,450 1060,450 1066,454 1077,461 1601,461 1602,490 1599,518 743,503 677,503 357,508 355,508 355,508 353,508 353,508 353,508 331,497"/>
+        <Baseline points="335,479 1602,490"/>
+        <TextEquiv>
+          <Unicode>faisant honneur à son dévouement et à mon exemple: &quot;C&#39;est égal,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_34e17220" >
+        <Coords points="335,549 335,523 976,525 976,549 976,569 335,574"/>
+        <Baseline points="335,549 976,549"/>
+        <TextEquiv>
+          <Unicode>vous êtes solide, vous savez !&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_17c03838" >
+        <Coords points="769,616 771,582 791,593 1628,595 1630,627 1628,649 1560,649 1546,660 1546,660 1544,660 1544,660 1544,660 1542,660 1542,660 1542,662 1491,662 1489,660 1489,660 1487,660 1487,660 1487,660 1485,660 1485,660 1485,659 1472,648 1436,659 1434,659 1434,659 1432,659 1432,659 1311,646 1201,657 1201,657 1199,657 1150,655 1150,655 1150,655 1148,655 1148,655 1148,655 1146,655 1146,655 1146,653 1135,644 1095,653 1095,653 1095,653 1093,653 1093,653 1003,642 969,653 967,653 967,653 967,653 965,653 965,653 963,653 910,640 806,649 804,649 804,649 804,649 802,649 763,637"/>
+        <Baseline points="769,616 1630,627"/>
+        <TextEquiv>
+          <Unicode>Et, en effet, la nécessité m&#39;a durci. J&#39;ai</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_426a36bd" >
+        <Coords points="331,682 331,653 895,660 901,659 921,651 921,651 923,651 923,651 925,651 925,651 925,651 926,651 926,651 945,660 952,664 1130,664 1159,662 1243,655 1245,655 1245,655 1245,655 1247,655 1247,655 1247,655 1249,655 1249,655 1258,664 1260,666 1529,668 1531,693 1527,723 1432,714 1405,723 1403,723 1401,723 1401,723 1401,723 1399,723 1207,721 1207,721 1207,721 1205,721 1205,721 1203,721 1177,712 1141,721 1133,721 1133,721 1133,721 1132,721 1132,721 1132,721 1124,719 1080,710 919,717 917,717 915,717 915,717 915,717 915,717 914,717 914,717 914,717 895,708 758,717 734,717 732,717 732,717 730,717 730,717 727,715 699,706 560,715 538,715 536,715 536,715 536,715 534,715 534,715 531,715 505,704 329,712"/>
+        <Baseline points="331,682 1531,693"/>
+        <TextEquiv>
+          <Unicode>passé à travers les rhumes, les douleurs, les nausées, sans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_da1b2b60" >
+        <Coords points="331,750 329,723 925,719 928,754 925,781 597,772 534,774 368,779 366,779 366,779 364,779 326,768"/>
+        <Baseline points="331,750 928,754"/>
+        <TextEquiv>
+          <Unicode>avoir faibli un seul instant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b1122768" >
+        <Coords points="326,1049 329,1008 353,1025 392,1025 414,1010 415,1008 417,1008 417,1008 417,1008 419,1008 419,1008 421,1008 511,1008 511,1008 567,1014 701,1027 840,1019 908,1016 910,1016 910,1016 910,1016 912,1016 912,1016 914,1016 914,1016 919,1021 930,1028 939,1021 948,1014 950,1014 950,1014 950,1014 952,1014 952,1014 954,1014 1055,1014 1055,1014 1055,1014 1104,1025 1132,1030 1146,1025 1159,1021 1159,1021 1161,1021 1161,1021 1163,1021 1163,1021 1163,1021 1165,1021 1165,1021 1166,1021 1166,1021 1172,1027 1179,1030 1253,1027 1361,1023 1362,1023 1362,1023 1362,1023 1364,1023 1364,1023 1366,1023 1377,1030 1381,1032 1384,1030 1397,1025 1397,1025 1399,1025 1399,1025 1399,1025 1401,1025 1621,1036 1621,1061 1617,1082 324,1067"/>
+        <Baseline points="326,1049 1621,1061"/>
+        <TextEquiv>
+          <Unicode>trop éloigné du centre. J&#39;ai trouvé au Mans, auprès d&#39;un de mes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_13c0eb9a" >
+        <Coords points="767,984 765,957 870,948 872,948 872,948 872,948 873,948 873,948 899,959 903,959 910,959 961,950 961,950 963,950 963,950 963,950 965,950 965,950 965,950 967,950 967,950 978,959 978,961 1069,961 1075,961 1115,952 1115,952 1115,952 1117,952 1117,952 1117,952 1119,952 1119,952 1143,961 1143,961 1144,961 1221,953 1221,953 1223,953 1362,964 1372,964 1373,964 1405,955 1406,955 1406,955 1406,955 1408,955 1564,968 1564,995 1562,1012 901,1014 899,1014 763,1001"/>
+        <Baseline points="767,984 1564,995"/>
+        <TextEquiv>
+          <Unicode>J&#39;avais, bien entendu, abandonné Créans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8114ea3c" >
+        <Coords points="327,1114 327,1087 1617,1096 1619,1131 1615,1151 326,1138"/>
+        <Baseline points="327,1114 1619,1131"/>
+        <TextEquiv>
+          <Unicode>dévoués jeunes disciples, André Fertré, un ancien secrétaire que</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b6d551f7" >
+        <Coords points="326,1184 326,1149 1599,1169 1601,1197 1597,1215 324,1202"/>
+        <Baseline points="326,1184 1601,1197"/>
+        <TextEquiv>
+          <Unicode>j&#39;ai formé, il y a quinze ans, à La Flèche, un refuge dont j&#39;ai</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_73f3b417" >
+        <Coords points="326,1248 324,1222 621,1215 622,1215 903,1219 903,1219 903,1219 904,1219 904,1219 904,1219 906,1219 919,1228 925,1232 1183,1232 1190,1230 1212,1222 1214,1222 1214,1222 1214,1222 1216,1222 1216,1222 1218,1222 1218,1222 1218,1222 1220,1222 1220,1222 1229,1230 1232,1233 1245,1230 1265,1224 1267,1224 1267,1224 1267,1224 1269,1224 1269,1224 1271,1224 1297,1230 1311,1233 1511,1233 1515,1263 1513,1281 1410,1290 1408,1290 1408,1290 1311,1279 1306,1279 1302,1279 1249,1290 1249,1290 1249,1290 1247,1290 1247,1290 1247,1290 1245,1290 1245,1290 1223,1281 1132,1288 1130,1288 1130,1288 996,1276 969,1287 969,1287 967,1287 967,1287 967,1287 965,1287 965,1287 859,1274 846,1285 846,1285 844,1285 844,1285 844,1285 842,1285 842,1285 842,1287 773,1287 771,1285 593,1272 522,1281 522,1281 520,1281 520,1281 520,1281 518,1281 518,1281 516,1281 516,1281 516,1281 505,1270 481,1277 479,1277 479,1277 479,1277 478,1277 478,1277 426,1268 375,1277 375,1277 375,1277 373,1277 373,1277 373,1277 322,1265"/>
+        <Baseline points="326,1248 1515,1263"/>
+        <TextEquiv>
+          <Unicode>fait mon quartier général, discret et sûr, 33-37 rue Ducré.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5fe479dd" >
+        <Coords points="324,1320 324,1285 1586,1303 1586,1332 1582,1349 322,1342"/>
+        <Baseline points="324,1320 1586,1332"/>
+        <TextEquiv>
+          <Unicode>André Fertré, aujourd&#39;hui marié et père d&#39;une gentille famille,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a15a087a" >
+        <Coords points="322,1385 322,1356 1527,1371 1529,1400 1526,1426 1143,1415 1119,1418 1097,1422 1097,1422 1097,1422 1095,1422 1095,1422 1093,1422 1093,1422 1093,1422 1084,1418 1073,1413 1005,1417 928,1420 926,1420 926,1420 926,1420 925,1420 925,1420 925,1420 923,1420 923,1420 923,1418 917,1415 914,1411 752,1411 388,1413 386,1413 386,1413 320,1402"/>
+        <Baseline points="322,1385 1529,1400"/>
+        <TextEquiv>
+          <Unicode>s&#39;est arrangé pour me faire loger à côté de chez luin au 37,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e7bb11c8" >
+        <Coords points="322,1451 322,1426 1210,1433 1212,1459 1210,1479 320,1481"/>
+        <Baseline points="322,1451 1212,1459"/>
+        <TextEquiv>
+          <Unicode>ainsi que mon chauffeur, et pour me nourrir.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_75df343d" >
+        <Coords points="320,1583 320,1548 1144,1569 1482,1565 1482,1565 1483,1565 1483,1565 1483,1565 1485,1565 1485,1565 1485,1565 1504,1574 1610,1567 1612,1603 1608,1625 318,1607"/>
+        <Baseline points="320,1583 1612,1603"/>
+        <TextEquiv>
+          <Unicode>ment des êtres qui m&#39;ont vu à l&#39;oeuvre depuis vingt ans. Et ces</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fd5aeb72" >
+        <Coords points="758,1523 758,1495 1630,1503 1632,1536 1628,1552 754,1539"/>
+        <Baseline points="758,1523 1632,1536"/>
+        <TextEquiv>
+          <Unicode>C&#39;est là une de mes récompenses, le dévoue-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3fd900b2" >
+        <Coords points="320,1653 320,1625 1513,1642 1515,1666 1513,1682 1174,1689 1172,1689 1172,1689 1170,1689 1170,1689 1170,1689 1168,1689 1154,1680 1009,1688 1007,1688 485,1673 344,1680 342,1680 342,1680 342,1680 340,1680 340,1680 316,1669"/>
+        <Baseline points="320,1653 1515,1666"/>
+        <TextEquiv>
+          <Unicode>dévouements, je les trouve au Mans, comme à Créans, comme à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7b458dcc" >
+        <Coords points="316,1717 316,1691 1626,1711 1628,1737 1624,1755 315,1735"/>
+        <Baseline points="316,1717 1628,1737"/>
+        <TextEquiv>
+          <Unicode>Paris, comme à Bordeaux, comme à Londres, comme à New-York. C&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_07d9f199" >
+        <Coords points="315,1785 315,1755 1580,1777 1580,1807 1577,1827 311,1805"/>
+        <Baseline points="315,1785 1580,1807"/>
+        <TextEquiv>
+          <Unicode>une force irrésistible. Au Mans, j&#39;ai eu la surprise, la joie,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ca613952" >
+        <Coords points="316,1852 315,1827 551,1819 553,1819 674,1832 690,1832 730,1832 1022,1827 1024,1827 1024,1827 1110,1838 1111,1838 1111,1838 1132,1830 1132,1830 1133,1830 1133,1830 1133,1830 1135,1830 1135,1830 1137,1830 1137,1830 1137,1830 1139,1830 1139,1830 1150,1839 1152,1839 1161,1839 1240,1830 1240,1830 1242,1830 1242,1830 1243,1830 1243,1830 1269,1841 1273,1841 1278,1841 1320,1832 1320,1832 1320,1832 1322,1832 1617,1847 1617,1872 1613,1894 315,1872"/>
+        <Baseline points="316,1852 1617,1872"/>
+        <TextEquiv>
+          <Unicode>de voir presque tout le Conseil Municipal pour moi, et ardemment,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_910c3486" >
+        <Coords points="318,1922 316,1896 448,1883 450,1883 514,1898 520,1898 527,1898 615,1889 617,1889 685,1900 686,1900 688,1900 734,1889 736,1889 738,1889 740,1889 769,1902 771,1902 780,1902 872,1891 873,1891 970,1904 974,1904 976,1904 1027,1891 1029,1891 1031,1891 1033,1891 1057,1900 1137,1893 1139,1893 1214,1907 1220,1907 1234,1907 1370,1900 1372,1900 1373,1900 1403,1909 1405,1909 1423,1911 1451,1914 1478,1911 1602,1913 1604,1938 1601,1968 316,1948"/>
+        <Baseline points="318,1922 1604,1938"/>
+        <TextEquiv>
+          <Unicode>activement. Le premier adjoint, € € Castille, € €</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:45.017999+00:00</Created>
+        <LastChange>2022-05-20T11:35:45.018021+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J391_lettre1358_004.jpg" imageWidth="1735" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_b63fb654" >
+        <Coords points="773,190 773,159 901,162 901,190 903,203 877,214 877,214 875,214 875,214 875,214 873,214 771,206"/>
+        <Baseline points="773,190 901,190"/>
+        <TextEquiv>
+          <Unicode>- 4 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a0063fe9" >
+        <Coords points="285,292 278,267 326,250 327,250 327,250 327,250 329,250 329,250 329,250 381,263 384,289 384,322 285,322"/>
+        <Baseline points="285,292 384,289"/>
+        <TextEquiv>
+          <Unicode>M.M.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_469d1f56" >
+        <Coords points="289,357 282,329 311,318 311,318 313,318 313,318 315,318 476,327 498,327 500,327 527,314 527,314 529,314 529,314 531,314 589,314 589,314 589,314 591,314 591,314 591,314 593,314 593,314 593,316 604,325 659,314 659,314 659,314 661,314 661,314 661,314 707,325 714,325 930,324 936,351 934,380 287,377"/>
+        <Baseline points="289,357 936,351"/>
+        <TextEquiv>
+          <Unicode>Président Nicholas Murray BUTLER</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_08ff7a58" >
+        <Coords points="293,422 291,389 994,393 998,417 996,450 813,443 802,452 802,452 802,452 800,452 800,452 800,452 798,452 798,452 798,454 293,454"/>
+        <Baseline points="293,422 998,417"/>
+        <TextEquiv>
+          <Unicode>Sénateur d&#39;ESTOURNELLES de CONSTANT</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_52f9842a" >
+        <Coords points="289,485 289,459 608,459 608,485 608,512 289,512"/>
+        <Baseline points="289,485 608,485"/>
+        <TextEquiv>
+          <Unicode>Baron ADELSWARD</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1bc72f3b" >
+        <Coords points="289,552 287,523 676,525 679,549 677,573 289,578"/>
+        <Baseline points="289,552 679,549"/>
+        <TextEquiv>
+          <Unicode>Recteur Paul APPELL</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1af8abd8" >
+        <Coords points="289,618 285,595 773,591 778,615 776,638 289,648"/>
+        <Baseline points="289,618 778,615"/>
+        <TextEquiv>
+          <Unicode>Professeur J.T. SHOTWELL</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_94341b47" >
+        <Coords points="289,684 285,655 600,653 606,679 606,703 289,704"/>
+        <Baseline points="289,684 606,679"/>
+        <TextEquiv>
+          <Unicode>SANGRO de OLANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dd264436" >
+        <Coords points="289,750 287,719 718,721 721,746 721,767 289,776"/>
+        <Baseline points="289,750 721,746"/>
+        <TextEquiv>
+          <Unicode>Professeur J. REDLICH</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7783296b" >
+        <Coords points="289,816 285,792 699,789 705,812 707,831 676,842 674,842 674,842 674,842 672,842 287,838"/>
+        <Baseline points="289,816 705,812"/>
+        <TextEquiv>
+          <Unicode>Hellmuth von GERLACH</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_073aac11" >
+        <Coords points="287,880 287,849 685,853 685,880 685,904 287,904"/>
+        <Baseline points="287,880 685,880"/>
+        <TextEquiv>
+          <Unicode>Professeur FOERSTER</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9890e321" >
+        <Coords points="289,946 291,911 327,924 650,924 666,911 668,911 668,911 668,911 670,911 670,911 670,911 672,911 762,911 762,946 762,968 289,968"/>
+        <Baseline points="289,946 762,946"/>
+        <TextEquiv>
+          <Unicode>Professeur Charles GIDE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_45b77a6b" >
+        <Coords points="289,1012 287,984 465,986 469,1008 470,1032 439,1045 439,1045 437,1045 437,1045 437,1045 436,1045 364,1041 307,1038 293,1047"/>
+        <Baseline points="289,1012 469,1008"/>
+        <TextEquiv>
+          <Unicode>EFREMOFF</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ecc3ebea" >
+        <Coords points="289,1080 282,1056 296,1041 296,1039 296,1039 298,1039 298,1039 298,1039 300,1039 300,1039 302,1039 364,1039 364,1039 364,1039 366,1039 366,1039 399,1052 491,1038 491,1038 492,1038 492,1038 492,1038 494,1038 534,1050 536,1052 608,1052 610,1049 621,1039 621,1038 621,1038 622,1038 622,1038 622,1038 624,1038 624,1038 626,1038 626,1038 626,1038 628,1038 628,1038 654,1049 659,1050 696,1049 701,1076 699,1098 289,1102"/>
+        <Baseline points="289,1080 701,1076"/>
+        <TextEquiv>
+          <Unicode>Député Justin GODART</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_790ab9ed" >
+        <Coords points="291,1146 287,1114 699,1111 705,1142 701,1171 289,1168"/>
+        <Baseline points="291,1146 705,1142"/>
+        <TextEquiv>
+          <Unicode>Sénateur LA FONTAINE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_678a3eb3" >
+        <Coords points="289,1212 287,1184 381,1184 384,1184 401,1173 403,1173 403,1173 404,1173 404,1173 404,1173 406,1173 542,1184 564,1184 566,1184 589,1171 589,1171 589,1171 591,1171 591,1171 593,1171 895,1184 899,1208 897,1230 289,1237"/>
+        <Baseline points="289,1212 899,1208"/>
+        <TextEquiv>
+          <Unicode>Professeur Henri LICHTENBERGER</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_01cab09e" >
+        <Coords points="289,1277 289,1246 1117,1252 1117,1277 1113,1314 1093,1305 998,1305 987,1312 987,1314 987,1314 985,1314 985,1314 985,1314 983,1314 983,1314 983,1314 982,1314 982,1314 980,1314 980,1314 976,1312 956,1305 947,1312 943,1316 943,1316 941,1316 941,1316 941,1316 939,1316 939,1316 938,1316 806,1310 648,1305 639,1309 633,1314 632,1314 632,1314 632,1314 630,1314 630,1314 628,1314 628,1314 628,1314 626,1314 626,1314 626,1314 624,1314 624,1314 624,1312 621,1309 619,1309 617,1309 610,1316 610,1316 608,1316 608,1316 608,1316 606,1316 606,1316 606,1318 481,1318 480,1316 480,1316 478,1316 478,1316 478,1316 476,1316 476,1316 467,1307 463,1305 452,1307 426,1314 425,1314 425,1314 423,1314 423,1314 362,1307 349,1305 348,1307 338,1314 338,1316 338,1316 337,1316 337,1316 337,1316 335,1316 335,1316 333,1316 333,1316 333,1316 287,1305"/>
+        <Baseline points="289,1277 1117,1277"/>
+        <TextEquiv>
+          <Unicode>LEJEUNE, Représentant de M. Albert THOMAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_be14fcaa" >
+        <Coords points="291,1343 287,1320 463,1318 465,1316 478,1307 480,1307 480,1307 480,1307 481,1307 481,1307 483,1307 663,1314 666,1340 666,1365 291,1367"/>
+        <Baseline points="291,1343 666,1340"/>
+        <TextEquiv>
+          <Unicode>Professeur NIPPOLD</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bc2220a4" >
+        <Coords points="291,1409 289,1380 566,1380 569,1406 567,1435 291,1435"/>
+        <Baseline points="291,1409 569,1406"/>
+        <TextEquiv>
+          <Unicode>Pierre JAUDON</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f91604d1" >
+        <Coords points="293,1475 291,1444 641,1444 644,1471 641,1501 291,1497"/>
+        <Baseline points="293,1475 644,1471"/>
+        <TextEquiv>
+          <Unicode>Colonel CONVERSET</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d154c1aa" >
+        <Coords points="293,1541 291,1508 916,1510 919,1534 916,1569 824,1559 670,1569 586,1572 584,1572 291,1565"/>
+        <Baseline points="293,1541 919,1534"/>
+        <TextEquiv>
+          <Unicode>Paul d&#39;ESTOURNELLES de CONSTANT</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_05ec5d96" >
+        <Coords points="293,1605 291,1574 743,1578 747,1601 747,1622 714,1633 712,1633 712,1633 710,1633 291,1625"/>
+        <Baseline points="293,1605 747,1601"/>
+        <TextEquiv>
+          <Unicode>Professeur Th. RUYSSEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e30e5181" >
+        <Coords points="294,1671 287,1645 302,1634 302,1634 304,1634 304,1634 304,1634 305,1634 305,1634 307,1634 307,1634 423,1644 485,1633 485,1633 485,1633 487,1633 679,1642 679,1642 681,1642 818,1631 820,1631 820,1631 820,1631 875,1642 879,1666 883,1688 872,1699 872,1700 872,1700 870,1700 870,1700 870,1700 868,1700 868,1700 868,1700 866,1700 752,1691 683,1702 683,1702 683,1702 681,1702 531,1691 529,1691 529,1691 489,1704 487,1704 487,1704 487,1704 485,1704 293,1691"/>
+        <Baseline points="294,1671 879,1666"/>
+        <TextEquiv>
+          <Unicode>Professeur J.-J. PRUDHOMMEAUX</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6ac9ef83" >
+        <Coords points="294,1733 293,1702 450,1708 454,1730 454,1757 294,1766"/>
+        <Baseline points="294,1733 454,1730"/>
+        <TextEquiv>
+          <Unicode>DANDIEU</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:45.136352+00:00</Created>
+        <LastChange>2022-05-20T11:35:45.136373+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J391_lettre1358_015.jpg" imageWidth="1736" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_3d2d296a" >
+        <Coords points="796,159 791,137 943,133 948,155 948,170 871,190 869,190 869,190 868,190 868,190 868,190 794,173"/>
+        <Baseline points="796,159 948,155"/>
+        <TextEquiv>
+          <Unicode>- 15 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d00d0d4e" >
+        <Coords points="446,261 443,234 1589,221 1594,252 1593,270 446,283"/>
+        <Baseline points="446,261 1594,252"/>
+        <TextEquiv>
+          <Unicode>La Dotation doit donc prendre des précautions pour ne pas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2e1aa3f3" >
+        <Coords points="292,327 291,289 336,300 481,300 501,289 501,287 503,287 503,287 505,287 505,287 505,287 507,287 507,287 509,287 509,287 512,289 536,296 565,289 571,287 573,287 573,287 575,287 575,287 575,287 582,289 618,296 666,289 677,287 677,287 679,287 679,287 679,287 681,287 681,287 681,287 684,289 701,296 915,296 930,289 939,283 939,283 939,283 941,283 941,283 943,283 943,283 992,289 1040,292 1344,292 1351,289 1371,280 1371,280 1373,280 1373,280 1373,280 1375,280 1591,289 1594,316 1593,336 292,347"/>
+        <Baseline points="292,327 1594,316"/>
+        <TextEquiv>
+          <Unicode>être accusée, dans tous les pays, d&#39;ingérences antinationales; je</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f2df8771" >
+        <Coords points="294,393 291,367 1591,347 1596,382 1594,400 294,419"/>
+        <Baseline points="294,393 1596,382"/>
+        <TextEquiv>
+          <Unicode>l&#39;ai dit et répété à satiété. Là est la très-sérieuse difficulté</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_72fc027b" >
+        <Coords points="294,461 291,435 488,422 490,422 615,430 754,421 756,421 992,426 1003,426 1005,426 1058,417 1058,417 1060,417 1629,421 1633,448 1633,470 822,483 820,483 820,483 765,476 758,476 750,476 673,485 673,485 672,485 499,477 487,477 485,477 459,487 459,487 457,487 457,487 455,487 292,477"/>
+        <Baseline points="294,461 1633,448"/>
+        <TextEquiv>
+          <Unicode>de notre tâche. Nous ne sommes pas le Gouvernement: nous ne sommes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_94543464" >
+        <Coords points="294,527 292,490 412,499 585,488 662,485 664,485 758,485 758,485 758,485 759,485 759,485 759,485 767,488 781,496 1014,496 1029,488 1041,483 1041,483 1043,483 1043,483 1043,483 1045,483 1045,483 1047,483 1065,488 1080,492 1144,488 1226,483 1228,483 1411,488 1457,488 1461,488 1477,477 1479,477 1479,477 1481,477 1481,477 1481,477 1483,477 1593,488 1596,514 1594,532 1312,543 1311,543 1261,540 1228,536 1208,540 1181,545 1181,545 1181,545 1179,545 1040,543 888,540 866,545 853,549 851,549 851,549 851,549 849,549 792,547 679,541 670,549 668,551 668,551 666,551 666,551 666,551 664,551 664,551 662,551 596,551 347,545 294,554"/>
+        <Baseline points="294,527 1596,514"/>
+        <TextEquiv>
+          <Unicode>pas contre lui de parti pris, mais nous ne pouvons, sauf en temps</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ab07b8d6" >
+        <Coords points="296,591 292,560 1629,549 1635,582 1633,600 296,609"/>
+        <Baseline points="296,591 1635,582"/>
+        <TextEquiv>
+          <Unicode>de guerre, être à son service. Notre indépendance est la condition</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1fd36619" >
+        <Coords points="296,657 294,626 1095,626 1107,622 1157,615 1157,615 1159,615 1340,622 1362,622 1373,622 1464,613 1464,613 1466,613 1631,622 1635,648 1633,666 296,682"/>
+        <Baseline points="296,657 1635,648"/>
+        <TextEquiv>
+          <Unicode>difficile de notre existence. Il est presque impossible d&#39;être in-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3c4a22be" >
+        <Coords points="298,723 292,695 327,704 352,701 374,701 1632,695 1653,717 1651,743 1323,735 1303,746 1302,746 1300,746 1298,746 1287,746 1210,739 1177,746 1164,750 1162,750 1160,750 1159,750 1148,746 1111,737 835,737 765,750 748,752 748,754 582,754 580,752 573,750 516,739 298,752"/>
+        <Baseline points="298,723 1653,717"/>
+        <TextEquiv>
+          <Unicode>dépendant vis à vis d&#39;un gouvernement sans € subversif ou suspect.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7c83cae2" >
+        <Coords points="452,787 450,756 662,759 697,754 748,746 748,746 750,746 750,746 750,746 752,746 774,754 785,759 873,759 884,754 910,745 910,745 911,745 911,745 913,745 913,745 913,745 915,745 946,754 954,756 976,754 1049,746 1049,746 1051,746 1051,746 1051,746 1084,754 1095,756 1109,754 1173,743 1173,743 1173,743 1175,743 1305,750 1314,743 1314,741 1314,741 1316,741 1316,741 1316,741 1318,741 1318,741 1320,741 1320,741 1320,741 1322,741 1356,754 1534,754 1538,778 1536,798 452,807"/>
+        <Baseline points="452,787 1538,778"/>
+        <TextEquiv>
+          <Unicode>Finalement, le Baron d&#39;Adelsward a été obligé de tenir</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d34ca789" >
+        <Coords points="300,853 296,820 1631,814 1637,845 1637,865 1464,878 1463,878 1463,878 1333,869 1331,869 1329,869 1278,880 1278,880 1278,882 1051,882 1049,880 1049,880 1047,880 1019,871 1018,871 1016,871 957,882 957,882 955,882 955,882 878,873 838,882 836,882 836,882 835,882 835,882 835,882 833,882 833,882 831,882 814,873 814,873 633,873 631,873 604,884 604,884 602,884 602,884 600,884 600,884 600,884 598,884 565,875 477,884 477,884 476,884 476,884 474,884 474,884 450,875 448,875 444,875 375,884 375,884 373,884 373,884 298,875"/>
+        <Baseline points="300,853 1637,845"/>
+        <TextEquiv>
+          <Unicode>compte de la réalité, en se ralliant à une motion que tout le monde</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bf8a949f" >
+        <Coords points="298,922 294,887 813,887 822,878 822,876 822,876 822,876 824,876 824,876 824,876 825,876 825,876 827,876 827,876 835,876 915,884 937,875 944,911 943,942 871,933 765,942 728,946 728,946 726,946 726,946 725,946 725,946 725,946 719,942 706,937 596,942 487,950 485,950 485,950 485,950 446,942 428,941 423,942 406,952 406,952 406,952 404,952 404,952 404,952 402,952 402,952 401,952 401,952 401,952 399,952 388,942 384,942 298,942"/>
+        <Baseline points="298,922 944,911"/>
+        <TextEquiv>
+          <Unicode>a pu accepter, comme vous savez.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e85053df" >
+        <Coords points="457,986 450,959 468,948 470,948 470,948 472,948 472,948 472,948 474,948 474,948 476,948 476,948 476,948 496,959 633,959 732,959 745,957 1023,944 1025,944 1281,953 1305,942 1305,942 1305,942 1307,942 1307,942 1309,942 1591,953 1594,979 1593,1008 457,1008"/>
+        <Baseline points="457,986 1594,979"/>
+        <TextEquiv>
+          <Unicode>Après le déjeuner, également au Cercle de la Renaissance,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c568a38b" >
+        <Coords points="298,1050 294,1027 338,1016 338,1016 340,1016 1554,1016 1558,1045 1554,1074 296,1071"/>
+        <Baseline points="298,1050 1558,1045"/>
+        <TextEquiv>
+          <Unicode>Lundi, nous avons commencé par procéder au remplacement de M.M.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cdc1b0b1" >
+        <Coords points="302,1116 298,1082 1593,1080 1598,1111 1598,1136 302,1144"/>
+        <Baseline points="302,1116 1598,1111"/>
+        <TextEquiv>
+          <Unicode>Houzeau de Lehaie, Solvay et Weardale, par M.M. Foerster, Nippold</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_83948e35" >
+        <Coords points="300,1184 296,1160 382,1147 382,1147 384,1147 384,1147 384,1147 439,1157 857,1157 871,1146 873,1146 873,1146 873,1146 875,1146 875,1146 877,1146 877,1146 961,1155 1005,1144 1007,1144 1007,1144 1009,1144 1298,1155 1302,1179 1300,1199 300,1202"/>
+        <Baseline points="300,1184 1302,1179"/>
+        <TextEquiv>
+          <Unicode>et Myiaoka. Nous les aviserons de cette élection.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ca2e3a18" >
+        <Coords points="455,1248 450,1224 474,1213 474,1213 476,1213 476,1213 477,1213 1540,1213 1543,1243 1541,1265 455,1268"/>
+        <Baseline points="455,1248 1543,1243"/>
+        <TextEquiv>
+          <Unicode>Nous avons nommé également, sur votre proposition et à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_22400199" >
+        <Coords points="300,1314 298,1283 1245,1283 1247,1281 1258,1272 1258,1272 1259,1272 1259,1272 1259,1272 1261,1272 1261,1272 1263,1272 1578,1281 1582,1307 1580,1327 1373,1338 1371,1338 1371,1338 1309,1331 1292,1329 1287,1331 1261,1340 1261,1340 1259,1340 1259,1340 1258,1340 1080,1332 1027,1331 300,1338"/>
+        <Baseline points="300,1314 1582,1307"/>
+        <TextEquiv>
+          <Unicode>l&#39;unanimité, le Président de La Bara du Mexique et le Professeur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_da9b2caf" >
+        <Coords points="302,1380 300,1351 1236,1351 1237,1349 1250,1340 1252,1340 1252,1340 1252,1340 1254,1340 1254,1340 1256,1340 1552,1349 1556,1373 1554,1393 302,1400"/>
+        <Baseline points="302,1380 1556,1373"/>
+        <TextEquiv>
+          <Unicode>Cosme de la Torriente, de Cuba. Nous avons complété, en outre,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1c8606c8" >
+        <Coords points="302,1446 300,1418 661,1418 662,1417 683,1407 683,1407 684,1407 684,1407 684,1407 686,1407 1106,1415 1126,1415 1129,1415 1210,1406 1210,1406 1212,1406 1212,1406 1261,1415 1267,1415 1276,1415 1380,1406 1382,1406 1596,1415 1600,1439 1598,1459 1552,1470 1552,1470 1552,1470 1551,1470 1441,1461 1435,1461 1433,1461 1410,1470 1410,1470 1408,1470 1408,1470 1408,1470 1226,1471 1226,1473 1052,1473 1051,1471 1051,1471 1049,1471 1049,1471 1025,1462 1023,1462 1009,1462 873,1473 871,1473 871,1473 789,1464 781,1464 769,1464 622,1473 620,1473 620,1473 547,1466 545,1466 543,1466 512,1475 510,1475 510,1475 510,1475 509,1475 300,1466"/>
+        <Baseline points="302,1446 1600,1439"/>
+        <TextEquiv>
+          <Unicode>notre Comité Exécutif trop peu nombreux, en adjoignant à ses mem-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_73051053" >
+        <Coords points="302,1508 300,1473 1417,1475 1421,1504 1417,1536 919,1528 866,1537 860,1537 860,1537 860,1539 302,1539"/>
+        <Baseline points="302,1508 1421,1504"/>
+        <TextEquiv>
+          <Unicode>bres M.M. Treub, Collins, Gerlach, Mensdorff et Giretti.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a4745aa9" >
+        <Coords points="302,1605 300,1572 1600,1576 1604,1600 1602,1623 1529,1634 1529,1634 1527,1634 1527,1634 1527,1634 1525,1634 1525,1634 1525,1634 1523,1634 1510,1625 1508,1625 1184,1625 1164,1629 1118,1638 1118,1638 1118,1638 1117,1638 1117,1638 1073,1629 1067,1629 1063,1629 1041,1638 1041,1638 1040,1638 1040,1638 1038,1638 1038,1638 1038,1638 1036,1638 1036,1638 1018,1631 1010,1627 915,1631 723,1640 721,1640 300,1636"/>
+        <Baseline points="302,1605 1604,1600"/>
+        <TextEquiv>
+          <Unicode>RAPPORT de M. PRUDHOMMEAUX. - Après quoi, M. Prudhommeaux a donné</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1dbd97ee" >
+        <Coords points="303,1675 300,1645 1320,1634 1322,1634 1626,1644 1629,1669 1626,1697 302,1693"/>
+        <Baseline points="303,1675 1629,1669"/>
+        <TextEquiv>
+          <Unicode>lecture de son intéressant rapport, en préparation depuis deux ans,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_552fbb10" >
+        <Coords points="305,1739 303,1704 1560,1704 1563,1730 1562,1750 305,1764"/>
+        <Baseline points="305,1739 1563,1730"/>
+        <TextEquiv>
+          <Unicode>sur les livres scolaires. J&#39;ai félicité notre collaborateur de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_10b0252f" >
+        <Coords points="307,1805 303,1779 1649,1774 1655,1799 1655,1819 307,1823"/>
+        <Baseline points="307,1805 1655,1799"/>
+        <TextEquiv>
+          <Unicode>son travail, tout en lui recommandant de ne pas le laisser dégénérer</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_31d0ebfe" >
+        <Coords points="305,1869 303,1839 1618,1841 1622,1865 1622,1883 1591,1894 1589,1894 1589,1894 1589,1894 1587,1894 1587,1894 1587,1894 1543,1885 1543,1885 1543,1885 1519,1894 1519,1894 1518,1894 1518,1894 1518,1896 1280,1896 1278,1894 1278,1894 1236,1889 1214,1885 1199,1889 1179,1894 1177,1894 1177,1894 1177,1894 1175,1894 1082,1891 983,1885 972,1891 966,1896 965,1896 965,1896 965,1896 963,1896 963,1896 961,1896 811,1893 545,1887 421,1896 419,1896 419,1896 419,1896 417,1896 417,1896 391,1887 305,1898"/>
+        <Baseline points="305,1869 1622,1865"/>
+        <TextEquiv>
+          <Unicode>en réquisitoire qui fasse pleuvoir sur nous et sur la Dotation des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c6da7bfb" >
+        <Coords points="303,1938 300,1905 1605,1902 1611,1929 1609,1958 1366,1951 1345,1962 1345,1962 1344,1962 1344,1962 1342,1962 1342,1962 1342,1962 1340,1962 1322,1962 1232,1955 1093,1962 1065,1964 1063,1964 1063,1964 1063,1964 1062,1964 1062,1964 1062,1964 1060,1964 1060,1964 1060,1964 1049,1955 968,1962 968,1962 966,1962 966,1962 965,1962 965,1962 937,1953 895,1964 895,1964 893,1964 893,1964 891,1964 891,1964 891,1964 889,1964 824,1953 303,1968"/>
+        <Baseline points="305,1940 1613,1931"/>
+        <TextEquiv>
+          <Unicode>orages de protestations. C&#39;est une sérieuse question de mesure et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e01b41b0" >
+        <Coords points="305,1999 303,1973 483,1964 485,1999 483,2028 303,2024"/>
+        <Baseline points="305,1999 485,1999"/>
+        <TextEquiv>
+          <Unicode>de tact.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

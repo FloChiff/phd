@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.649011+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.649031+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_016.jpg" imageWidth="1733" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_787f147d" >
+        <Coords points="890,150 890,124 1040,126 1040,150 1036,179 1007,170 980,173 943,179 943,179 941,179 941,179 939,179 886,164"/>
+        <Baseline points="890,150 1040,150"/>
+        <TextEquiv>
+          <Unicode>- 16 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1ea93250" >
+        <Coords points="318,322 315,291 1546,281 1551,311 1549,335 318,340"/>
+        <Baseline points="318,322 1551,311"/>
+        <TextEquiv>
+          <Unicode>d&#39;abord laissé faire ses sous-préfets. Il ne s&#39;est découvert</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d2fec125" >
+        <Coords points="320,389 316,364 1610,355 1615,380 1615,406 320,411"/>
+        <Baseline points="320,389 1615,380"/>
+        <TextEquiv>
+          <Unicode>qu&#39;aux élections cantonales en allant choisir, pour me l&#39;opposer,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_413809b1" >
+        <Coords points="316,455 315,421 1582,424 1586,450 1586,466 1555,477 1553,477 1553,477 1553,477 1551,477 1551,477 1496,468 1482,477 1480,477 1480,477 1480,477 1478,477 1478,477 1476,477 1139,470 1055,479 1055,479 1053,479 782,470 740,470 734,470 701,481 699,481 699,481 697,481 315,472"/>
+        <Baseline points="316,455 1586,450"/>
+        <TextEquiv>
+          <Unicode>le Comte de Nicolaï. Mais maintenant le temps presse, il faut</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_20217575" >
+        <Coords points="316,521 313,497 430,487 432,487 884,494 941,485 941,485 943,485 1566,494 1569,518 1568,536 316,540"/>
+        <Baseline points="316,521 1569,518"/>
+        <TextEquiv>
+          <Unicode>aboutir. Le voilà qui part en campagne, en quête du troisième</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3cbbc486" >
+        <Coords points="318,589 316,560 1542,560 1546,585 1544,602 318,609"/>
+        <Baseline points="318,589 1546,585"/>
+        <TextEquiv>
+          <Unicode>candidat.- Il XXXXXX à Sablé, un négociant nommé Brion, sans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ddfdfc6b" >
+        <Coords points="639,551 639,527 756,529 758,554 754,574 635,567"/>
+        <Baseline points="639,551 758,554"/>
+        <TextEquiv>
+          <Unicode>avise</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e434eef8" >
+        <Coords points="318,655 318,627 1626,627 1626,659 1623,677 316,673"/>
+        <Baseline points="318,655 1626,659"/>
+        <TextEquiv>
+          <Unicode>couleur, plutôt bon vivant, plusieurs fois divorcé, qu&#39;on donnera</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3a7b74f1" >
+        <Coords points="318,719 318,693 1549,697 1551,723 1549,743 318,746"/>
+        <Baseline points="318,719 1551,723"/>
+        <TextEquiv>
+          <Unicode>pourtant comme candidat des catholiques et, finalement, après</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_799599ec" >
+        <Coords points="316,787 316,759 1562,761 1564,792 1560,811 315,807"/>
+        <Baseline points="316,787 1564,792"/>
+        <TextEquiv>
+          <Unicode>vingt-quatre heures d&#39;hésitation, dont Brion fait imprudemment</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dd4e33aa" >
+        <Coords points="316,853 316,827 1108,831 1110,856 1106,880 313,873"/>
+        <Baseline points="316,853 1110,856"/>
+        <TextEquiv>
+          <Unicode>la confidence autour de lui, le décide.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7383f07c" >
+        <Coords points="710,919 714,884 727,893 837,886 842,886 844,886 844,886 848,886 915,895 1525,891 1527,926 1525,944 1121,952 1119,952 1119,952 1117,952 1082,942 745,948 743,948 743,948 741,948 705,937"/>
+        <Baseline points="710,919 1527,926"/>
+        <TextEquiv>
+          <Unicode>Voilà donc la candidature officielle que</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e8370643" >
+        <Coords points="315,988 315,959 1604,968 1604,994 1602,1014 1203,1023 1201,1023 1201,1023 1199,1023 1199,1023 1174,1014 392,1019 390,1019 390,1019 313,1008"/>
+        <Baseline points="315,988 1604,994"/>
+        <TextEquiv>
+          <Unicode>notre pays déteste, qu&#39;il a condamnée jadis aux appels enflammés</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9e604d19" >
+        <Coords points="315,1056 315,1023 1566,1028 1568,1060 1566,1080 315,1085"/>
+        <Baseline points="315,1056 1568,1060"/>
+        <TextEquiv>
+          <Unicode>de Gambetta, de Thiers, et des 363,- voilà la candidature of-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2ba9dd15" >
+        <Coords points="315,1124 315,1089 692,1096 692,1124 692,1146 315,1146"/>
+        <Baseline points="315,1124 692,1124"/>
+        <TextEquiv>
+          <Unicode>ficielle rétablie.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4f95b885" >
+        <Coords points="569,1254 567,1226 672,1219 674,1219 674,1219 754,1228 780,1230 802,1228 879,1219 879,1219 881,1219 881,1219 983,1230 1002,1232 1005,1230 1025,1221 1025,1221 1025,1221 1027,1221 1027,1221 1029,1221 1110,1221 1110,1221 1110,1221 1111,1221 1111,1221 1111,1221 1113,1221 1113,1221 1126,1232 1128,1232 1130,1232 1207,1222 1207,1222 1209,1222 1209,1222 1210,1222 1210,1222 1210,1222 1232,1233 1234,1233 1238,1233 1289,1222 1289,1222 1289,1222 1291,1222 1291,1222 1357,1235 1357,1261 1353,1281 566,1274"/>
+        <Baseline points="569,1254 1357,1261"/>
+        <TextEquiv>
+          <Unicode>M. d&#39;Estournelles chassé de sa commune,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5572ce72" >
+        <Coords points="708,1188 708,1160 1143,1164 1143,1191 1139,1219 705,1215"/>
+        <Baseline points="708,1188 1143,1191"/>
+        <TextEquiv>
+          <Unicode>La campagne commence.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2a42c256" >
+        <Coords points="571,1320 571,1290 1355,1301 1357,1327 1353,1354 567,1343"/>
+        <Baseline points="571,1320 1357,1327"/>
+        <TextEquiv>
+          <Unicode>M. d&#39;Estournelles chassé de son canton,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_af9a00bd" >
+        <Coords points="311,1389 309,1363 381,1352 381,1352 382,1352 382,1352 384,1352 414,1360 421,1362 512,1358 670,1352 672,1352 672,1352 674,1352 685,1354 712,1362 758,1354 767,1352 767,1352 767,1352 769,1352 769,1352 771,1352 771,1352 774,1352 798,1362 844,1352 846,1389 844,1417 309,1413"/>
+        <Baseline points="311,1389 846,1389"/>
+        <TextEquiv>
+          <Unicode>sera donc chassé du Sénat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fec622c3" >
+        <Coords points="311,1521 309,1493 1154,1488 1155,1488 1155,1488 1157,1488 1183,1497 1188,1499 1577,1499 1579,1526 1575,1545 309,1537"/>
+        <Baseline points="311,1521 1579,1526"/>
+        <TextEquiv>
+          <Unicode>Bien entendu, on va répandre dans/tout le département, dans tous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_99f2bf8f" >
+        <Coords points="589,1455 589,1429 1203,1431 1203,1455 1203,1475 589,1484"/>
+        <Baseline points="589,1455 1203,1455"/>
+        <TextEquiv>
+          <Unicode>Il a tout le monde contre lui.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3e6ed214" >
+        <Coords points="311,1587 311,1561 1579,1567 1580,1592 1577,1614 309,1612"/>
+        <Baseline points="311,1587 1580,1592"/>
+        <TextEquiv>
+          <Unicode>les journaux de la région, les calomnies qui ont si bien réussi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e8e67eb8" >
+        <Coords points="311,1653 311,1627 1516,1629 1518,1658 1516,1677 1148,1686 1146,1686 309,1675"/>
+        <Baseline points="311,1653 1518,1658"/>
+        <TextEquiv>
+          <Unicode>dans les élections précédentes: &quot;l&#39;éloge de Guillaume II par</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0a1da154" >
+        <Coords points="309,1719 309,1693 996,1700 998,1724 994,1748 305,1746"/>
+        <Baseline points="309,1719 998,1724"/>
+        <TextEquiv>
+          <Unicode>M. d&#39;Estournelles&quot;, etc....etc....</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_26f9a931" >
+        <Coords points="311,1854 311,1829 1472,1834 1474,1860 1471,1889 1243,1880 1216,1887 1203,1889 1201,1889 1201,1889 1199,1889 1199,1889 1198,1889 1185,1885 1161,1880 1133,1885 1110,1889 1110,1889 1110,1889 1108,1889 1108,1889 1079,1883 1038,1878 925,1882 793,1887 791,1887 791,1887 789,1887 789,1887 789,1887 787,1887 778,1880 774,1878 769,1880 747,1887 745,1887 745,1887 745,1887 743,1887 743,1887 743,1887 701,1880 685,1876 511,1876 509,1876 489,1885 489,1885 487,1885 487,1885 487,1885 485,1885 309,1872"/>
+        <Baseline points="311,1854 1474,1860"/>
+        <TextEquiv>
+          <Unicode>vous savez, le contre-poison avec la circulaire ci-jointe,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_99f4c831" >
+        <Coords points="586,1788 584,1761 1575,1759 1577,1794 1573,1819 582,1808"/>
+        <Baseline points="586,1788 1577,1794"/>
+        <TextEquiv>
+          <Unicode>J&#39;ai heureusement prévu cela et administré, comme</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

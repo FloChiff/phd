@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.618477+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.618499+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_013.jpg" imageWidth="1731" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_3dc4034f" >
+        <Coords points="871,159 866,131 988,133 1020,155 1018,186 978,183 908,183 870,181"/>
+        <Baseline points="871,159 1020,155"/>
+        <TextEquiv>
+          <Unicode>- 13 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_609104ce" >
+        <Coords points="316,259 316,223 1584,230 1584,259 1584,280 316,285"/>
+        <Baseline points="316,259 1584,259"/>
+        <TextEquiv>
+          <Unicode>à la République. Et alors tous les réactionnaires s&#39;intitulent</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5341e53a" >
+        <Coords points="320,329 318,302 1582,302 1586,325 1582,353 318,347"/>
+        <Baseline points="320,329 1586,325"/>
+        <TextEquiv>
+          <Unicode>républicains. Sceptiques, ils rient du mot et de la chose; ils</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5fdc4dc6" >
+        <Coords points="320,393 320,367 1545,367 1545,393 1545,413 1487,424 1487,424 1487,426 1240,426 1238,424 1238,424 1236,424 1203,415 1099,424 1097,424 1097,424 1097,424 1051,415 950,424 950,424 948,424 948,424 947,424 906,415 859,424 859,424 857,424 857,424 767,415 697,424 697,424 696,424 696,424 696,424 694,424 694,424 694,424 692,424 692,424 681,415 577,415 375,424 373,424 373,424 373,424 318,413"/>
+        <Baseline points="320,393 1545,393"/>
+        <TextEquiv>
+          <Unicode>s&#39;en moquent. La République, c&#39;est toujours &quot;la gueuse&quot; pour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5b717c25" >
+        <Coords points="320,461 320,428 1542,433 1542,461 1540,490 1412,481 1379,490 1375,490 1373,490 1373,490 1371,490 1306,488 1034,481 1022,487 1012,490 1012,490 1011,490 1011,490 1011,492 849,492 848,490 848,490 807,485 785,481 780,485 774,490 774,490 772,490 772,490 772,490 771,490 771,490 771,492 692,492 690,490 690,490 688,490 688,490 688,490 686,490 677,483 672,481 443,481 435,481 368,490 368,490 366,490 366,490 366,490 318,479"/>
+        <Baseline points="320,461 1542,461"/>
+        <TextEquiv>
+          <Unicode>eux; mais il faut faire semblant de l&#39;admettre; c&#39;est le mot</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c168fb0d" >
+        <Coords points="318,523 318,499 1586,507 1586,532 1582,560 316,545"/>
+        <Baseline points="318,523 1586,532"/>
+        <TextEquiv>
+          <Unicode>d&#39;ordre, suprême mystification, la mascarade ! Cette usurpation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d63d78b9" >
+        <Coords points="467,492 467,465 505,468 507,494 503,514 463,512"/>
+        <Baseline points="467,492 507,494"/>
+        <TextEquiv>
+          <Unicode>la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_401be002" >
+        <Coords points="316,591 316,562 1522,571 1524,598 1520,618 315,611"/>
+        <Baseline points="316,591 1524,598"/>
+        <TextEquiv>
+          <Unicode>de titre ne tromperait toutefois personne, si la réaction ne</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ac25ea3f" >
+        <Coords points="315,659 315,633 1518,640 1520,666 1516,688 313,686"/>
+        <Baseline points="315,659 1520,666"/>
+        <TextEquiv>
+          <Unicode>pouvait gagner à elle quelques renégats bien en vue du parti</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2910de16" >
+        <Coords points="315,725 315,690 399,699 516,692 533,692 534,692 534,692 534,692 536,692 540,692 573,701 685,693 708,693 710,693 1599,708 1599,734 1595,756 313,752"/>
+        <Baseline points="315,725 1599,734"/>
+        <TextEquiv>
+          <Unicode>républicain. C&#39;est ce qui s&#39;est fait dans la Sarthe à la faveur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_86b6f3aa" >
+        <Coords points="315,792 313,767 587,757 589,757 589,757 681,768 690,768 705,768 833,761 835,761 996,770 1007,770 1009,770 1020,761 1020,761 1022,761 1022,761 1022,761 1023,761 1023,761 1025,761 1025,761 1025,761 1027,761 1027,761 1051,770 1051,770 1051,770 1086,761 1088,761 1088,761 1089,761 1089,761 1089,761 1091,761 1091,761 1091,761 1093,761 1093,761 1093,763 1102,770 1122,763 1124,763 1124,763 1124,763 1126,763 1126,763 1128,763 1128,763 1152,772 1155,774 1309,774 1311,772 1344,763 1346,763 1346,763 1346,763 1348,763 1348,763 1412,774 1414,800 1410,822 311,812"/>
+        <Baseline points="315,792 1414,800"/>
+        <TextEquiv>
+          <Unicode>et sous le prétexte de l&#39;emprisonnement de M. Caillaux.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dd1504b6" >
+        <Coords points="688,860 688,834 1529,836 1531,865 1529,887 718,889 716,889 716,889 714,889 683,878"/>
+        <Baseline points="688,860 1531,865"/>
+        <TextEquiv>
+          <Unicode>Un Sénateur douteux, nommé Lebert, cafard,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_62a0385c" >
+        <Coords points="313,926 313,900 1582,900 1582,935 1580,953 1331,964 1329,964 1329,964 1328,964 1328,964 1328,964 1326,964 1326,964 1313,953 1311,953 1293,953 1077,963 1075,963 1075,963 1075,963 1073,963 1073,963 1073,963 1071,963 1058,953 1055,952 1020,953 857,961 855,961 855,961 855,961 853,961 827,952 818,950 674,950 670,952 663,959 663,959 661,959 661,959 661,959 659,959 659,959 657,959 657,959 584,952 545,948 516,952 468,957 468,957 467,957 467,957 467,957 465,957 465,957 450,952 441,948 313,950"/>
+        <Baseline points="313,926 1582,935"/>
+        <TextEquiv>
+          <Unicode>jésuite, divorcé, taré, besogneux, a mendié jadis de M.Caillaux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_29f7ade4" >
+        <Coords points="313,990 311,964 740,959 741,959 741,959 743,959 778,968 783,968 791,968 842,961 842,961 844,961 1197,972 1245,972 1262,972 1382,964 1384,964 1384,964 1384,964 1386,964 1414,974 1419,975 1595,975 1597,1001 1593,1028 523,1012 505,1012 342,1019 340,1019 340,1019 338,1019 338,1019 309,1008"/>
+        <Baseline points="313,990 1597,1001"/>
+        <TextEquiv>
+          <Unicode>des appuis et de l&#39;argent; M. Caillaux a eu la faiblesse de lui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7e50adbf" >
+        <Coords points="313,1058 313,1023 1538,1034 1540,1069 1538,1091 758,1091 756,1089 756,1089 696,1080 692,1080 686,1080 545,1087 544,1087 544,1087 424,1078 340,1085 340,1085 338,1085 338,1085 337,1085 337,1085 309,1074"/>
+        <Baseline points="313,1058 1540,1069"/>
+        <TextEquiv>
+          <Unicode>en procurer. Il a consenti à le recommander à Bolo ! lequel</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3a44fbcf" >
+        <Coords points="311,1124 311,1089 379,1098 490,1091 503,1091 505,1091 505,1091 505,1091 507,1091 509,1091 536,1100 644,1093 666,1093 668,1093 1613,1109 1613,1135 1611,1153 1401,1162 1399,1162 1399,1162 1399,1162 1397,1162 1397,1162 1395,1162 1395,1162 1384,1153 1382,1153 1375,1153 1212,1160 1210,1160 309,1146"/>
+        <Baseline points="311,1124 1613,1135"/>
+        <TextEquiv>
+          <Unicode>Bolo a fini par envoyer à Lebert, sur son insistance, un chèque.-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f938d20a" >
+        <Coords points="309,1191 309,1160 1610,1177 1611,1206 1608,1232 307,1215"/>
+        <Baseline points="309,1191 1611,1206"/>
+        <TextEquiv>
+          <Unicode>Et Lebert a remercié avec effusion par des lettres photographiées</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d8675400" >
+        <Coords points="305,1259 305,1230 1535,1237 1535,1272 1533,1290 857,1292 855,1292 855,1292 853,1292 822,1283 822,1283 820,1283 708,1290 707,1290 707,1290 591,1281 496,1288 494,1288 494,1288 494,1288 492,1288 492,1288 468,1279 327,1287 326,1287 326,1287 326,1287 324,1287 324,1287 302,1276"/>
+        <Baseline points="305,1259 1535,1272"/>
+        <TextEquiv>
+          <Unicode>qui seront versées au procès. Il était compromis à jamais si</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e38adea9" >
+        <Coords points="307,1323 307,1288 390,1298 467,1290 476,1290 476,1290 478,1290 478,1290 479,1290 479,1290 479,1290 481,1290 481,1290 481,1290 492,1299 615,1294 646,1292 648,1292 648,1292 648,1292 650,1292 650,1292 650,1292 652,1292 652,1292 652,1294 653,1294 661,1301 864,1298 983,1296 985,1296 985,1296 985,1296 987,1296 987,1296 996,1299 1009,1305 1137,1303 1287,1299 1289,1299 1533,1310 1535,1336 1531,1356 305,1347"/>
+        <Baseline points="307,1323 1535,1336"/>
+        <TextEquiv>
+          <Unicode>l&#39;entourage de Clemenceau ne lui était pas venu en aide, à la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2e4ca770" >
+        <Coords points="307,1393 307,1367 1492,1378 1494,1404 1491,1422 305,1411"/>
+        <Baseline points="307,1393 1494,1404"/>
+        <TextEquiv>
+          <Unicode>condition qu&#39;il changerait et passerait du côté des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7ee10d9b" >
+        <Coords points="307,1459 307,1433 1531,1444 1531,1475 1529,1492 1421,1501 1419,1501 1419,1501 1313,1492 1307,1492 1298,1492 1130,1497 1128,1497 1128,1497 1126,1497 1099,1490 1088,1488 1062,1490 998,1495 998,1495 996,1495 996,1495 994,1495 994,1495 978,1490 968,1486 305,1486"/>
+        <Baseline points="307,1459 1531,1475"/>
+        <TextEquiv>
+          <Unicode>accusateurs de Caillaux. Ce que fit Lebert sans scrupule, et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_03dc935f" >
+        <Coords points="305,1526 305,1499 981,1499 981,1499 981,1499 983,1499 990,1501 1016,1508 1135,1503 1166,1501 1168,1501 1168,1501 1168,1501 1170,1501 1170,1501 1172,1501 1172,1501 1172,1503 1185,1510 1335,1503 1353,1503 1355,1503 1355,1503 1355,1503 1357,1503 1357,1503 1357,1503 1359,1503 1359,1503 1359,1503 1370,1512 1527,1504 1531,1539 1527,1559 302,1554"/>
+        <Baseline points="305,1526 1531,1539"/>
+        <TextEquiv>
+          <Unicode>même avec fracas, pour s&#39;assurer plus largement sans doute le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_813f8851" >
+        <Coords points="304,1592 309,1558 316,1567 370,1558 391,1556 391,1556 393,1556 393,1556 434,1559 527,1569 558,1561 573,1558 575,1558 575,1558 577,1558 577,1558 577,1558 578,1558 593,1561 619,1569 633,1563 644,1558 644,1558 646,1558 646,1558 646,1558 648,1558 751,1565 752,1596 749,1625 672,1616 628,1625 622,1625 622,1625 622,1625 620,1625 606,1625 489,1616 435,1623 430,1623 430,1623 428,1623 428,1623 426,1623 426,1623 426,1623 426,1623 406,1614 302,1622"/>
+        <Baseline points="304,1592 752,1596"/>
+        <TextEquiv>
+          <Unicode>prix de sa conversion.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_28a3d0e2" >
+        <Coords points="696,1660 694,1636 805,1627 807,1627 807,1627 807,1627 809,1627 809,1627 809,1627 811,1627 824,1636 827,1638 831,1636 849,1629 849,1629 851,1629 851,1629 851,1629 853,1629 853,1629 899,1636 919,1640 928,1636 947,1631 947,1631 948,1631 948,1631 950,1631 950,1631 998,1638 1029,1642 1053,1638 1084,1633 1084,1633 1086,1633 1086,1633 1086,1633 1119,1638 1148,1644 1469,1642 1472,1673 1470,1691 1362,1700 1360,1700 1360,1700 1360,1700 1359,1700 1324,1691 1322,1691 1320,1691 1251,1699 1251,1699 1249,1699 1249,1699 1247,1699 1247,1699 1223,1689 1219,1689 1214,1689 1170,1697 1170,1697 1168,1697 1168,1697 1168,1697 1166,1697 1144,1689 1137,1688 1115,1689 1036,1695 1034,1695 1034,1695 1034,1695 1033,1695 1033,1695 1033,1695 1031,1695 1031,1695 1031,1693 1029,1693 1025,1688 1023,1686 694,1686"/>
+        <Baseline points="696,1660 1472,1673"/>
+        <TextEquiv>
+          <Unicode>J&#39;ai manifesté, comme vous pensez, mon</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d1f0a891" >
+        <Coords points="304,1726 304,1699 1005,1699 1005,1699 1075,1702 1205,1709 1269,1704 1285,1702 1285,1702 1287,1702 1287,1702 1289,1702 1289,1702 1289,1702 1291,1702 1291,1704 1306,1713 1428,1713 1564,1706 1566,1742 1562,1770 1423,1761 1132,1763 925,1763 923,1763 923,1763 888,1757 864,1753 818,1755 727,1761 725,1761 725,1761 600,1752 573,1750 542,1750 344,1755 342,1755 342,1755 340,1755 300,1744"/>
+        <Baseline points="304,1726 1566,1742"/>
+        <TextEquiv>
+          <Unicode>dégoût pour cette volte-face; mais, par là même j&#39;ai recommandé</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ec56deea" >
+        <Coords points="300,1792 298,1766 791,1764 793,1764 985,1775 1014,1775 1029,1775 1117,1768 1119,1768 1527,1783 1529,1808 1525,1834 296,1814"/>
+        <Baseline points="300,1792 1529,1808"/>
+        <TextEquiv>
+          <Unicode>Lebert implicitement à la confiance de la réaction. Et voilà</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9af1ae07" >
+        <Coords points="298,1858 298,1821 1044,1839 1370,1836 1388,1836 1390,1836 1390,1836 1392,1836 1392,1836 1430,1845 1502,1838 1503,1838 1503,1838 1505,1838 1505,1838 1505,1838 1507,1838 1549,1847 1617,1839 1621,1878 1619,1894 1502,1905 1500,1905 1500,1905 1362,1893 1064,1898 1062,1898 1062,1898 983,1887 917,1896 917,1896 915,1896 668,1882 659,1882 657,1882 619,1891 617,1891 617,1891 615,1891 615,1891 531,1880 529,1880 529,1880 501,1889 501,1889 500,1889 500,1889 498,1889 498,1889 386,1880 315,1887 315,1887 313,1887 313,1887 311,1887 311,1887 311,1887 309,1887 293,1876"/>
+        <Baseline points="298,1858 1621,1878"/>
+        <TextEquiv>
+          <Unicode>mon Lebert devenu le porte-drapeau du parti anti-Caillautiste, dont</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_77513b66" >
+        <Coords points="298,1927 298,1900 1562,1907 1564,1940 1560,1969 1339,1960 1256,1966 1208,1968 1207,1968 1207,1968 1207,1968 1205,1968 1205,1968 1205,1968 1203,1968 1203,1968 1199,1964 1192,1958 1104,1962 1023,1966 1022,1966 1022,1966 1022,1966 1020,1966 1020,1966 1018,1966 1011,1960 1003,1957 945,1960 866,1964 864,1964 864,1964 864,1964 862,1964 862,1964 848,1958 838,1955 736,1957 483,1960 481,1960 481,1960 479,1960 479,1960 479,1960 478,1960 463,1951 461,1949 296,1948"/>
+        <Baseline points="298,1927 1564,1940"/>
+        <TextEquiv>
+          <Unicode>on voudrait faire le parti anti-d&#39;Estournelliste, anti-républi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7259319b" >
+        <Coords points="298,1991 298,1953 437,1968 707,1966 710,1997 708,2015 454,2023 452,2023 294,2010"/>
+        <Baseline points="298,1991 710,1997"/>
+        <TextEquiv>
+          <Unicode>cain, autrement dit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

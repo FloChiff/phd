@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.855794+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.855815+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_038.jpg" imageWidth="1731" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_8ba8f538" >
+        <Coords points="855,140 851,117 890,106 892,106 892,106 893,106 893,106 998,117 998,140 998,155 855,159"/>
+        <Baseline points="855,140 998,140"/>
+        <TextEquiv>
+          <Unicode>- 38 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_00f0ab1a" >
+        <Coords points="637,247 635,210 937,217 950,208 950,208 952,208 952,208 952,208 954,208 954,208 954,208 956,208 956,208 958,208 958,208 958,208 985,217 1014,208 1014,208 1016,208 1016,208 1016,208 1018,208 1018,208 1020,208 1088,217 1102,208 1102,206 1104,206 1104,206 1104,206 1106,206 1106,206 1106,206 1108,206 1108,206 1108,206 1115,208 1155,216 1278,206 1293,206 1295,206 1315,206 1511,216 1564,206 1569,243 1569,259 637,263"/>
+        <Baseline points="637,247 1569,243"/>
+        <TextEquiv>
+          <Unicode>Puis, le Vendredi 16, nous nous sommes comptés</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_15f4cf2b" >
+        <Coords points="320,314 316,289 388,278 388,278 390,278 390,278 391,278 424,287 428,289 602,289 606,285 613,278 613,278 615,278 615,278 615,278 617,278 617,278 619,278 619,278 619,278 653,285 668,287 683,283 719,276 719,276 719,276 721,276 721,276 723,276 749,283 758,285 771,283 809,276 809,276 811,276 893,276 893,276 893,276 895,276 895,276 895,276 897,276 897,276 903,281 908,285 939,281 985,276 985,276 987,276 987,276 989,276 989,276 1001,281 1016,285 1522,276 1527,309 1525,335 320,338"/>
+        <Baseline points="320,314 1527,309"/>
+        <TextEquiv>
+          <Unicode>sur le nom de Clemenceau, pour ou contre lui. Tout cela s&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8b64696b" >
+        <Coords points="324,382 322,351 1507,351 1511,377 1509,395 324,400"/>
+        <Baseline points="324,382 1511,377"/>
+        <TextEquiv>
+          <Unicode>fait avec une admirable d/iscrétion. Nul n&#39;a consenti à se</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1c5dd2fb" >
+        <Coords points="320,450 316,424 364,413 364,413 366,413 1545,413 1549,444 1545,472 730,466 641,476 641,476 639,476 351,468 322,477"/>
+        <Baseline points="320,450 1549,444"/>
+        <TextEquiv>
+          <Unicode>montrer ingrat pour les services du Président du Conseil dans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c8d7cda9" >
+        <Coords points="320,516 316,488 624,479 626,479 626,479 628,479 655,487 663,488 670,487 688,479 688,479 690,479 690,479 692,479 692,479 692,479 694,479 719,487 729,488 743,487 796,477 796,477 798,477 1080,485 1148,487 1157,485 1199,476 1199,476 1199,476 1201,476 1201,476 1201,476 1203,476 1234,485 1236,485 1238,485 1274,476 1276,476 1276,476 1278,476 1278,476 1278,476 1280,476 1280,476 1282,476 1296,485 1298,485 1613,485 1619,510 1617,536 320,541"/>
+        <Baseline points="320,516 1619,510"/>
+        <TextEquiv>
+          <Unicode>le passé, mais beaucoup n&#39;ont pas voulu se montrer aveugles quant</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_70211dd1" >
+        <Coords points="318,582 315,556 1461,551 1467,576 1463,604 316,600"/>
+        <Baseline points="318,582 1467,576"/>
+        <TextEquiv>
+          <Unicode>à ceux qu&#39;on pouvait attendre de lui, comme Président de la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ea6230fa" >
+        <Coords points="318,649 315,616 1522,615 1527,646 1524,670 316,668"/>
+        <Baseline points="318,649 1527,646"/>
+        <TextEquiv>
+          <Unicode>République, dans l&#39;avenir, pendant sept ans !!! La majorité</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_36089b70" >
+        <Coords points="318,715 318,692 1584,692 1584,715 1584,741 318,743"/>
+        <Baseline points="318,715 1584,715"/>
+        <TextEquiv>
+          <Unicode>des représentants des deux Chambres s&#39;est donc prononcée contre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ce88b61a" >
+        <Coords points="320,779 320,748 1329,756 1337,756 1395,746 1395,746 1397,746 1397,746 1507,756 1531,746 1531,746 1533,746 1533,746 1535,746 1535,746 1535,746 1536,746 1536,746 1562,757 1562,783 1558,809 318,798"/>
+        <Baseline points="320,779 1562,783"/>
+        <TextEquiv>
+          <Unicode>lui, en un Congrès préparatoire. Dès lors, son sort fut fixé.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4a0fa246" >
+        <Coords points="318,849 318,825 1527,825 1527,849 1527,869 318,875"/>
+        <Baseline points="318,849 1527,849"/>
+        <TextEquiv>
+          <Unicode>Le lendemain, à l&#39;Assemblée Nationale de Versailles, mon ami</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_969bd41a" >
+        <Coords points="318,913 318,882 1483,887 1485,919 1481,935 316,931"/>
+        <Baseline points="318,913 1485,919"/>
+        <TextEquiv>
+          <Unicode>Paul Deschanel était élu par la presque unanimité des deux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_76ada5b6" >
+        <Coords points="318,979 316,953 1474,952 1478,986 1474,1012 315,1001"/>
+        <Baseline points="318,979 1478,986"/>
+        <TextEquiv>
+          <Unicode>Chambres réunies. Ce fut un soulagement profond, immense.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e5d2e05a" >
+        <Coords points="670,1047 670,1021 1622,1025 1624,1052 1621,1080 666,1071"/>
+        <Baseline points="670,1047 1624,1052"/>
+        <TextEquiv>
+          <Unicode>Peu importe, à présent, le ministère de transi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ad07224c" >
+        <Coords points="318,1114 316,1089 1615,1083 1619,1118 1617,1147 1027,1147 1025,1146 959,1140 914,1136 769,1138 401,1144 399,1144 399,1144 316,1133"/>
+        <Baseline points="318,1114 1619,1118"/>
+        <TextEquiv>
+          <Unicode>tion qui va succéder à celui de Clemenceau démisionnaire. C&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ea6c90b2" >
+        <Coords points="316,1179 320,1144 337,1153 555,1146 606,1146 608,1146 639,1147 736,1155 923,1151 1064,1147 1066,1147 1566,1158 1567,1184 1564,1206 315,1199"/>
+        <Baseline points="316,1179 1567,1184"/>
+        <TextEquiv>
+          <Unicode>un détail auprès des faits accomplis depuis huit jours. Voilà</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f9107510" >
+        <Coords points="316,1248 316,1213 648,1221 655,1221 697,1212 697,1212 697,1212 699,1212 699,1212 701,1212 736,1222 734,1248 734,1268 316,1270"/>
+        <Baseline points="316,1248 734,1248"/>
+        <TextEquiv>
+          <Unicode>la France délivrée.-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c1de04f9" >
+        <Coords points="674,1314 675,1276 707,1287 774,1276 778,1276 778,1276 780,1276 780,1276 785,1276 879,1287 903,1277 903,1277 904,1277 904,1277 906,1277 906,1277 992,1287 1009,1276 1009,1276 1011,1276 1011,1276 1011,1276 1012,1276 1012,1276 1014,1276 1014,1276 1022,1276 1106,1287 1542,1277 1544,1314 1542,1342 672,1332"/>
+        <Baseline points="674,1314 1544,1314"/>
+        <TextEquiv>
+          <Unicode>Reste l&#39;affaire Caillaux. Legs terrible de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fb213f93" >
+        <Coords points="316,1378 315,1352 1560,1349 1564,1384 1564,1400 1527,1411 1525,1411 1525,1411 1525,1411 1524,1411 1355,1402 1236,1411 1234,1411 1234,1411 1150,1400 1144,1400 1141,1400 1100,1409 1100,1409 1100,1409 1099,1409 970,1400 961,1400 954,1400 870,1409 870,1409 868,1409 868,1409 822,1400 820,1400 818,1400 782,1409 780,1409 780,1409 778,1409 778,1409 778,1409 776,1409 745,1400 743,1400 316,1400"/>
+        <Baseline points="316,1378 1564,1384"/>
+        <TextEquiv>
+          <Unicode>Clemenceau à ses successeurs, au Parlement, au pays. Les deux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_73af1b05" >
+        <Coords points="316,1448 318,1411 359,1420 714,1415 838,1413 840,1413 879,1417 947,1424 1571,1424 1573,1451 1569,1477 315,1471"/>
+        <Baseline points="316,1448 1573,1451"/>
+        <TextEquiv>
+          <Unicode>principaux avocats de Caillaux ont été très brillamment réélus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1a300028" >
+        <Coords points="315,1515 315,1490 1525,1490 1525,1515 1525,1534 315,1534"/>
+        <Baseline points="315,1515 1525,1515"/>
+        <TextEquiv>
+          <Unicode>comme moi, l&#39;un MOUTET, à Lyon, l&#39;autre de MORO-GIAFFERI, en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1f72deab" >
+        <Coords points="315,1580 315,1554 1536,1556 1538,1583 1535,1600 313,1596"/>
+        <Baseline points="315,1580 1538,1583"/>
+        <TextEquiv>
+          <Unicode>Corse. Ce dernier est particulièrement redoutable et redouté</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5efcbc9a" >
+        <Coords points="313,1647 313,1620 1595,1623 1595,1651 1593,1673 313,1673"/>
+        <Baseline points="313,1647 1595,1651"/>
+        <TextEquiv>
+          <Unicode>par ses répliques, ses prises à parti directes et pénétrantes du</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_787cfa89" >
+        <Coords points="313,1711 315,1677 344,1686 545,1678 573,1678 575,1678 1593,1691 1595,1717 1591,1742 311,1733"/>
+        <Baseline points="313,1711 1595,1717"/>
+        <TextEquiv>
+          <Unicode>Président Poincaré et de tous les inspirateurs de l&#39;accusation.-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_30c25840" >
+        <Coords points="311,1783 309,1757 1514,1753 1516,1783 1516,1803 311,1812"/>
+        <Baseline points="311,1783 1516,1783"/>
+        <TextEquiv>
+          <Unicode>Et je ne parle pas de l&#39;accusé, plus résolu, plus accusateur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_950ccb64" >
+        <Coords points="313,1850 311,1819 544,1823 547,1847 547,1880 313,1900"/>
+        <Baseline points="313,1850 547,1847"/>
+        <TextEquiv>
+          <Unicode>que jamais.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dbeb12c9" >
+        <Coords points="666,1916 666,1891 1558,1891 1558,1916 1558,1938 1397,1948 1395,1948 1395,1948 1395,1948 1364,1942 1344,1938 1331,1942 1306,1951 1304,1951 1304,1951 1304,1951 1302,1951 1302,1951 1300,1951 1300,1951 1300,1951 1298,1951 1298,1951 1289,1944 1282,1938 1241,1938 1214,1944 1181,1951 1181,1951 1181,1953 1034,1953 1033,1951 1033,1951 1031,1951 1031,1951 1031,1951 1029,1951 1023,1948 1009,1938 968,1948 950,1951 950,1951 950,1951 948,1951 948,1951 947,1951 947,1951 947,1951 939,1948 921,1938 879,1948 879,1948 879,1948 877,1948 877,1948 875,1948 840,1938 816,1949 816,1949 816,1949 816,1949 815,1949 815,1949 813,1949 813,1949 813,1949 811,1949 811,1949 776,1938 666,1951"/>
+        <Baseline points="666,1916 1558,1916"/>
+        <TextEquiv>
+          <Unicode>Mon impression est que, avant la retraite du</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

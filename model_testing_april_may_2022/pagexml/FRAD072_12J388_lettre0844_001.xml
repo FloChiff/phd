@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.892914+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.892935+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J388_lettre0844_001.jpg" imageWidth="1698" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_ba8b44b7" >
+        <Coords points="639,287 940,274 941,261 938,235 896,235 833,235 788,235 733,235 672,233 644,227 644,258"/>
+        <Baseline points="645,259 942,262"/>
+        <TextEquiv>
+          <Unicode>LETTRE N° 844.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f20b4b45" >
+        <Coords points="205,400 205,374 244,375 307,381 382,373 404,397 402,417 205,424"/>
+        <Baseline points="205,400 404,397"/>
+        <TextEquiv>
+          <Unicode>SÉNAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_58e77628" >
+        <Coords points="921,424 919,393 1020,380 1020,380 1022,380 1022,380 1023,380 1023,380 1056,391 1102,380 1104,380 1104,380 1106,380 1406,393 1406,424 1406,459 921,461"/>
+        <Baseline points="921,424 1406,424"/>
+        <TextEquiv>
+          <Unicode>PARIS, le 18 Juin 1921.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1b70b2f6" >
+        <Coords points="622,562 617,538 681,527 681,527 683,527 683,527 793,536 807,536 811,536 826,525 827,525 827,525 827,525 829,525 829,525 831,525 1025,534 1029,558 1027,591 622,595"/>
+        <Baseline points="622,562 1029,558"/>
+        <TextEquiv>
+          <Unicode>LA VIE CONTINUE.-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bde247e1" >
+        <Coords points="463,631 457,602 560,593 560,593 562,593 661,600 694,602 707,600 749,591 749,591 749,591 751,591 903,598 939,600 948,598 981,589 983,589 983,589 985,589 985,589 985,589 987,589 1014,598 1016,598 1183,598 1188,626 1190,659 1153,670 1152,670 1152,670 1150,670 994,664 956,662 950,664 939,671 937,671 937,671 936,671 936,671 936,671 934,671 804,668 705,664 683,670 670,673 668,673 668,673 668,675 463,675"/>
+        <Baseline points="463,631 1188,626"/>
+        <TextEquiv>
+          <Unicode>LE DEUIL IMPORTUN ET CONTRE NATURE.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e46a73ba" >
+        <Coords points="525,865 522,833 864,833 868,860 866,884 525,889"/>
+        <Baseline points="525,865 868,860"/>
+        <TextEquiv>
+          <Unicode>Mon cher Butler,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_14cf93cd" >
+        <Coords points="206,1036 203,1005 1500,1003 1505,1027 1503,1047 206,1056"/>
+        <Baseline points="206,1036 1505,1027"/>
+        <TextEquiv>
+          <Unicode>un monument aux morts de la gu/erre. Je ne sais comment dire les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_27d7a08a" >
+        <Coords points="423,999 419,964 642,970 663,961 668,959 668,959 668,959 670,959 670,959 672,959 672,959 699,961 769,968 820,961 842,957 842,957 844,957 844,957 844,957 846,957 855,961 879,968 936,959 943,959 943,959 945,959 974,959 1241,966 1260,957 1263,953 1265,953 1265,953 1267,953 1267,953 1267,953 1269,953 1269,953 1291,957 1340,964 1353,955 1355,953 1357,953 1357,953 1357,953 1359,953 1359,953 1359,953 1360,953 1360,953 1362,953 1371,955 1401,963 1522,955 1527,992 1525,1017 423,1019"/>
+        <Baseline points="423,999 1527,992"/>
+        <TextEquiv>
+          <Unicode>Je viens d&#39;inaugurer dans la Sarthe, une fois de plus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f148536f" >
+        <Coords points="206,1072 203,1050 1481,1036 1487,1061 1485,1082 1304,1093 1302,1093 1302,1093 1302,1093 1300,1093 1300,1093 1298,1093 1298,1093 1289,1085 1287,1083 1282,1085 1238,1094 1238,1094 1238,1094 1236,1094 1126,1085 1106,1085 1089,1087 1005,1096 1003,1096 205,1094"/>
+        <Baseline points="206,1072 1487,1061"/>
+        <TextEquiv>
+          <Unicode>sentiments complexes que j&#39;ai éprouvés, mais ils sont profonds.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_24f38d5e" >
+        <Coords points="206,1171 203,1144 1487,1140 1492,1162 1491,1180 206,1190"/>
+        <Baseline points="206,1171 1492,1162"/>
+        <TextEquiv>
+          <Unicode>moins, il ne dure pas. Le crépuscule et la nuit suivent le jour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a2705412" >
+        <Coords points="424,1135 421,1111 652,1094 653,1094 653,1094 653,1094 655,1094 655,1094 657,1094 675,1107 805,1107 816,1096 816,1096 818,1096 818,1096 818,1096 820,1096 820,1096 820,1096 822,1096 822,1096 824,1096 824,1096 824,1096 826,1096 838,1105 886,1096 886,1096 886,1096 888,1096 888,1096 928,1103 941,1093 941,1093 941,1093 943,1093 943,1093 945,1093 945,1093 945,1093 946,1093 1212,1102 1238,1091 1238,1091 1240,1091 1240,1091 1240,1091 1241,1091 1241,1091 1241,1091 1296,1102 1326,1089 1326,1089 1326,1089 1327,1089 1327,1089 1329,1089 1329,1089 1329,1089 1331,1089 1331,1089 1331,1089 1355,1102 1549,1102 1553,1125 1553,1144 424,1157"/>
+        <Baseline points="424,1135 1553,1125"/>
+        <TextEquiv>
+          <Unicode>Le deuil, heureusement, n&#39;est pas dans la nature ou, du</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d110c7a4" >
+        <Coords points="208,1204 205,1177 1527,1175 1533,1197 1531,1221 208,1224"/>
+        <Baseline points="208,1204 1533,1197"/>
+        <TextEquiv>
+          <Unicode>mais pour précéder le soleil levant; l&#39;hiver ensevelit l&#39;été mais</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_378983dd" >
+        <Coords points="210,1241 206,1213 1507,1208 1512,1232 1511,1252 210,1259"/>
+        <Baseline points="210,1241 1512,1232"/>
+        <TextEquiv>
+          <Unicode>pou préparer le printemps. Et pourtant, j&#39;ai cru, tout le monde</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ab5094ae" >
+        <Coords points="216,1274 212,1252 1545,1243 1551,1265 1549,1290 216,1292"/>
+        <Baseline points="216,1274 1551,1265"/>
+        <TextEquiv>
+          <Unicode>a cru, quand la guerre est venue faucher tant de jeunes existences</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f51b6c13" >
+        <Coords points="214,1305 210,1281 1525,1277 1531,1299 1529,1320 214,1327"/>
+        <Baseline points="214,1305 1531,1299"/>
+        <TextEquiv>
+          <Unicode>humaines, que toutes ces morts laisseraient les survivants incon-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4390ba20" >
+        <Coords points="212,1342 208,1316 1564,1309 1569,1334 1567,1356 212,1360"/>
+        <Baseline points="212,1342 1569,1334"/>
+        <TextEquiv>
+          <Unicode>solables. Non. La vie continue. C&#39;est ce qui doit être. Mais jamais</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d8dd3cf2" >
+        <Coords points="212,1376 208,1351 1566,1343 1571,1371 1569,1389 212,1400"/>
+        <Baseline points="212,1376 1571,1371"/>
+        <TextEquiv>
+          <Unicode>je n&#39;aurais pensé qu&#39;il en pourrait être ainsi et si vite. La plaie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_25ab7fe6" >
+        <Coords points="212,1411 208,1389 1547,1382 1553,1404 1551,1422 212,1429"/>
+        <Baseline points="212,1411 1553,1404"/>
+        <TextEquiv>
+          <Unicode>se referme. On devrait s&#39;en réjouir, mais non, c&#39;est plus fort que</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d4db714a" >
+        <Coords points="214,1442 210,1418 1509,1417 1514,1439 1512,1459 214,1462"/>
+        <Baseline points="214,1442 1514,1439"/>
+        <TextEquiv>
+          <Unicode>moi. Et cependant, comme Français, toute ma correspondance n&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c4530355" >
+        <Coords points="214,1479 210,1455 1566,1450 1571,1471 1569,1492 214,1497"/>
+        <Baseline points="214,1479 1571,1471"/>
+        <TextEquiv>
+          <Unicode>qu&#39;un hommage à la haute tenue morale de mon pays, à son dévouement</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c6597b83" >
+        <Coords points="216,1512 212,1490 1525,1484 1531,1506 1529,1526 216,1536"/>
+        <Baseline points="216,1512 1531,1506"/>
+        <TextEquiv>
+          <Unicode>infini pendant la guerre, au dévouement surtout de la femme fran-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0015ab27" >
+        <Coords points="214,1547 210,1523 1569,1514 1575,1543 1573,1561 214,1565"/>
+        <Baseline points="214,1547 1575,1543"/>
+        <TextEquiv>
+          <Unicode>çaise, mais la France ne peut être différente des autres pays: elle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_46a9190d" >
+        <Coords points="216,1580 214,1552 1531,1554 1534,1576 1533,1600 216,1601"/>
+        <Baseline points="216,1580 1534,1576"/>
+        <TextEquiv>
+          <Unicode>oublie; il faut qu&#39;elle oublie, elle aussi. Elle se console de la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_34d2f80a" >
+        <Coords points="214,1614 210,1590 1527,1587 1533,1609 1531,1631 214,1633"/>
+        <Baseline points="214,1614 1533,1609"/>
+        <TextEquiv>
+          <Unicode>guerre et c&#39;est ce que j&#39;admire et ce qui me révolte car c&#39;est ce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_38298ed5" >
+        <Coords points="217,1647 216,1622 1589,1620 1591,1649 1589,1671 217,1671"/>
+        <Baseline points="217,1647 1591,1649"/>
+        <TextEquiv>
+          <Unicode>qui explique pourquoi la guerre est toujours à recommencer. Et c&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5d1ed549" >
+        <Coords points="214,1682 210,1660 1000,1658 1005,1680 1001,1706 212,1702"/>
+        <Baseline points="214,1682 1005,1680"/>
+        <TextEquiv>
+          <Unicode>ce que je suis bien forcé de constater.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_80e427d5" >
+        <Coords points="212,1781 212,1753 1551,1759 1551,1781 1551,1801 212,1807"/>
+        <Baseline points="212,1781 1551,1781"/>
+        <TextEquiv>
+          <Unicode>lables, mais, dans l&#39;ensemble, on ne s&#39;en aperçoit plus. Je décou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5d43f636" >
+        <Coords points="430,1744 430,1713 692,1719 734,1715 787,1709 787,1709 789,1709 789,1709 791,1709 815,1715 829,1719 851,1715 892,1709 892,1709 893,1709 893,1709 952,1717 974,1719 978,1717 989,1709 990,1709 990,1709 990,1709 992,1709 992,1709 994,1709 994,1709 994,1709 996,1709 1020,1717 1033,1722 1201,1722 1260,1719 1459,1711 1461,1711 1569,1722 1571,1748 1567,1770 428,1761"/>
+        <Baseline points="430,1744 1571,1748"/>
+        <TextEquiv>
+          <Unicode>Certes, je vois des mères, des veuves, des/pères inconso-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9b39742b" >
+        <Coords points="212,1812 210,1790 1571,1788 1575,1818 1573,1832 1194,1841 1192,1841 210,1829"/>
+        <Baseline points="212,1812 1575,1818"/>
+        <TextEquiv>
+          <Unicode>vre tous les jours un contraste vraiment choquant entre la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_10edbcc3" >
+        <Coords points="216,1850 216,1827 1454,1827 1454,1850 1454,1869 216,1872"/>
+        <Baseline points="216,1850 1454,1850"/>
+        <TextEquiv>
+          <Unicode>gravité qu&#39;on attend des manifestations conventionnelles</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9f85adac" >
+        <Coords points="216,1885 216,1860 1434,1860 1434,1885 1434,1907 1357,1918 1357,1918 1355,1918 1355,1918 1280,1909 1271,1909 1269,1909 1251,1918 1251,1918 1251,1918 1249,1918 1249,1918 1247,1918 932,1913 736,1909 708,1915 688,1918 688,1918 688,1918 686,1918 620,1915 509,1909 500,1916 498,1918 498,1918 496,1918 496,1918 496,1918 494,1918 494,1918 494,1920 260,1920 258,1918 258,1918 256,1918 256,1918 256,1918 256,1918 254,1918 239,1909 217,1918"/>
+        <Baseline points="216,1885 1434,1885"/>
+        <TextEquiv>
+          <Unicode>d&#39;hommage aux morts pour la partie et la résignation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4f2cff99" >
+        <Coords points="210,2019 208,1990 496,1980 498,1980 498,1980 549,1990 553,1990 556,1990 598,1980 598,1980 598,1980 600,1980 600,1980 602,1980 602,1980 602,1980 604,1980 604,1980 615,1990 617,1991 862,1991 862,1990 892,1980 893,1980 893,1980 893,1980 895,1980 895,1980 895,1980 897,1980 897,1980 897,1980 915,1990 917,1991 1058,1991 1058,2019 1056,2059 208,2056"/>
+        <Baseline points="210,2019 1058,2019"/>
+        <TextEquiv>
+          <Unicode>à M. le Président Nicholas Murray BUTLER.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

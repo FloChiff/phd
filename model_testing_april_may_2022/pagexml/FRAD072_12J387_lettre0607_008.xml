@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.566572+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.566594+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_008.jpg" imageWidth="1733" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_3c122487" >
+        <Coords points="835,135 833,111 954,106 956,135 956,150 899,161 899,161 897,161 897,161 833,151"/>
+        <Baseline points="835,135 956,135"/>
+        <TextEquiv>
+          <Unicode>- 8 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_348a683b" >
+        <Coords points="313,270 309,241 421,232 423,232 423,232 490,239 505,241 512,239 545,232 547,232 547,232 549,232 549,232 633,239 653,241 664,239 716,230 716,230 718,230 1079,239 1119,239 1128,239 1210,228 1210,228 1212,228 1212,228 1212,228 1214,228 1245,238 1329,228 1329,228 1331,228 1525,239 1529,265 1525,291 311,289"/>
+        <Baseline points="313,270 1529,265"/>
+        <TextEquiv>
+          <Unicode>la population beaucoup plus pour moi que dans ma commune; il</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_19669d15" >
+        <Coords points="315,336 313,311 1542,309 1546,336 1544,355 315,357"/>
+        <Baseline points="315,336 1546,336"/>
+        <TextEquiv>
+          <Unicode>fallut aller chercher le Comte de Nicolaï, (gendre du Marquis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7cf5743c" >
+        <Coords points="313,400 311,373 1599,371 1601,404 1597,422 311,419"/>
+        <Baseline points="313,400 1601,404"/>
+        <TextEquiv>
+          <Unicode>de Talhouët, le concurrent que j&#39;avais battu jadis, propriétaire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a9909197" >
+        <Coords points="313,466 313,439 1522,439 1524,472 1520,497 1405,490 1392,497 1386,499 1386,499 1386,499 1384,499 1384,499 1384,501 1122,501 1121,499 1121,499 1119,499 1093,494 1073,488 928,490 679,496 677,496 593,487 584,487 571,487 337,496 335,496 335,496 333,496 333,496 333,496 309,483"/>
+        <Baseline points="313,466 1524,472"/>
+        <TextEquiv>
+          <Unicode>du Château du Lude, neveu du Comte de Talhouët, nommé, le 16</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_81b6caf0" >
+        <Coords points="313,534 311,508 1529,507 1533,541 1531,560 338,562 337,562 337,562 335,562 335,562 335,562 309,549"/>
+        <Baseline points="313,534 1533,541"/>
+        <TextEquiv>
+          <Unicode>Novembre député dans les Deux-Sèvres , et du Comte de Juigné,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_be759b8c" >
+        <Coords points="313,602 313,573 1524,578 1525,607 1524,624 723,631 721,631 721,631 659,622 344,629 342,629 342,629 342,629 340,629 309,618"/>
+        <Baseline points="313,602 1525,607"/>
+        <TextEquiv>
+          <Unicode>également Député dans un autre Département, et de la famille</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a4afe505" >
+        <Coords points="311,668 311,644 1500,648 1502,673 1500,692 1110,701 1108,701 1108,701 1108,701 1060,692 727,699 725,699 309,686"/>
+        <Baseline points="311,668 1502,673"/>
+        <TextEquiv>
+          <Unicode>Schneider enfin, du Creuzot). Le Comte de Nicolaï pourtant</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1c558d69" >
+        <Coords points="313,735 313,704 1597,712 1599,745 1595,770 311,754"/>
+        <Baseline points="313,735 1599,745"/>
+        <TextEquiv>
+          <Unicode>était un médiocre candidat. Sans doute il était maire d&#39;un gros</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a270d7f0" >
+        <Coords points="311,801 311,776 1502,785 1504,811 1500,827 309,822"/>
+        <Baseline points="311,801 1504,811"/>
+        <TextEquiv>
+          <Unicode>chef-lieu de canton du pays, le canton de Montfort, mais, à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_18a11e05" >
+        <Coords points="311,867 311,842 1580,854 1580,880 1577,897 309,886"/>
+        <Baseline points="311,867 1580,880"/>
+        <TextEquiv>
+          <Unicode>l&#39;exception du chef-lieu, tout le canton était contre lui et le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9512f132" >
+        <Coords points="309,935 309,909 1535,913 1536,946 1535,963 1335,972 1333,972 1333,972 1333,972 1286,963 1130,970 1128,970 307,953"/>
+        <Baseline points="309,935 1536,946"/>
+        <TextEquiv>
+          <Unicode>détestait. Il avait XXX laissé à l&#39;armée, où il n&#39;avait fait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ddd9efd8" >
+        <Coords points="309,1003 309,977 1593,981 1595,1014 1591,1039 307,1025"/>
+        <Baseline points="309,1003 1595,1014"/>
+        <TextEquiv>
+          <Unicode>que passer, les plus fâcheux souvenirs, comme incapable et comme</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3e14d0ea" >
+        <Coords points="309,1069 309,1043 1571,1050 1573,1080 1571,1098 1366,1107 1364,1107 1364,1107 1311,1098 1304,1098 309,1098"/>
+        <Baseline points="309,1069 1573,1080"/>
+        <TextEquiv>
+          <Unicode>embusqué. Enfin, je l&#39;ai vu et entendu, pendant ma campagne et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_76a0cd87" >
+        <Coords points="307,1136 307,1103 1487,1118 1489,1146 1485,1173 305,1164"/>
+        <Baseline points="307,1136 1489,1146"/>
+        <TextEquiv>
+          <Unicode>je l&#39;ai jugé comme un pleutre, tout aristocrate qu&#39;il soit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4f3891b9" >
+        <Coords points="520,1332 518,1305 586,1296 586,1296 588,1296 588,1296 588,1296 589,1296 589,1296 608,1305 611,1305 643,1305 769,1299 771,1299 771,1299 771,1299 773,1299 773,1299 773,1299 784,1305 791,1309 802,1305 818,1299 820,1299 820,1299 820,1299 822,1299 822,1299 822,1299 824,1299 824,1299 826,1299 826,1299 831,1305 839,1310 1009,1310 1031,1305 1047,1301 1049,1301 1049,1301 1051,1301 1051,1301 1053,1301 1053,1301 1053,1301 1062,1305 1077,1312 1132,1305 1154,1303 1154,1303 1155,1303 1155,1303 1155,1303 1168,1305 1209,1314 1278,1305 1289,1305 1289,1305 1291,1305 1291,1305 1298,1305 1351,1316 1447,1307 1450,1345 1447,1374 516,1362"/>
+        <Baseline points="520,1332 1450,1345"/>
+        <TextEquiv>
+          <Unicode>UNE PARENTHESE SUR L&#39;ARISTOCRATIE FRANCAISE.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f021ddcc" >
+        <Coords points="741,1435 741,1402 862,1411 893,1402 897,1402 899,1402 899,1402 899,1402 901,1402 901,1402 910,1404 959,1411 1014,1404 1024,1404 1024,1404 1025,1404 1025,1404 1027,1404 1027,1404 1027,1404 1029,1404 1029,1404 1042,1413 1088,1406 1088,1406 1088,1406 1088,1406 1089,1406 1089,1406 1089,1406 1091,1406 1132,1415 1187,1406 1194,1406 1194,1406 1196,1406 1196,1406 1196,1406 1198,1406 1198,1406 1198,1406 1199,1406 1220,1417 1313,1407 1320,1407 1320,1407 1322,1407 1322,1407 1328,1407 1384,1418 1568,1411 1571,1448 1568,1471 1002,1466 1002,1466 1002,1466 1000,1466 969,1457 965,1457 952,1457 754,1462 752,1462 752,1462 751,1462 751,1462 751,1462 749,1462 749,1462 734,1451"/>
+        <Baseline points="741,1435 1571,1448"/>
+        <TextEquiv>
+          <Unicode>Dans votre lettre du 22 Décembre, vous me</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4118a074" >
+        <Coords points="302,1501 302,1473 1588,1479 1588,1514 1584,1532 300,1519"/>
+        <Baseline points="302,1501 1588,1514"/>
+        <TextEquiv>
+          <Unicode>dites, mon cher Butler, que c&#39;est un bon signe de voir l&#39;aristo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_59a5e458" >
+        <Coords points="304,1567 304,1536 1542,1548 1544,1580 1540,1605 1364,1596 1104,1598 895,1600 893,1600 893,1600 848,1594 822,1590 778,1592 666,1598 664,1598 664,1598 664,1598 663,1598 663,1598 663,1598 661,1598 650,1590 646,1589 599,1589 329,1594 327,1594 327,1594 326,1594 326,1594 300,1583"/>
+        <Baseline points="304,1567 1544,1580"/>
+        <TextEquiv>
+          <Unicode>cratie française entrer à la Chambre des Députés. Je réponds:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e2701683" >
+        <Coords points="302,1634 302,1609 1569,1618 1569,1647 1568,1669 1355,1671 1353,1671 1353,1671 1329,1667 1306,1662 1289,1666 1271,1671 1269,1671 1269,1671 1267,1671 1267,1671 1199,1666 1148,1660 1108,1664 1046,1669 1046,1669 1044,1669 1044,1669 1042,1669 1042,1669 1042,1669 1040,1669 1031,1662 1024,1658 974,1662 892,1667 890,1667 890,1667 890,1667 855,1660 839,1656 787,1658 664,1666 663,1666 663,1666 663,1666 661,1666 661,1666 659,1666 644,1656 641,1655 613,1656 525,1664 523,1664 523,1664 421,1653 406,1653 401,1653 366,1662 364,1662 364,1662 362,1662 362,1662 300,1651"/>
+        <Baseline points="302,1634 1569,1647"/>
+        <TextEquiv>
+          <Unicode>oui, si elle est sincère. J&#39;ai fait jadis le même raisonnement</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0d444b64" >
+        <Coords points="302,1702 302,1675 1538,1689 1540,1717 1536,1735 628,1733 628,1733 628,1733 626,1733 586,1724 457,1731 456,1731 456,1731 456,1731 454,1731 454,1731 430,1722 320,1730 318,1730 318,1730 318,1730 316,1730 316,1730 315,1730 296,1719"/>
+        <Baseline points="302,1702 1540,1717"/>
+        <TextEquiv>
+          <Unicode>que vous, et très modestement, à mes grands risques et périls,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cfc2250c" >
+        <Coords points="302,1766 302,1741 1445,1746 1447,1779 1445,1796 1329,1805 1328,1805 1328,1805 1328,1805 1286,1796 1282,1796 1273,1796 1146,1803 1144,1803 1144,1803 1144,1803 1143,1803 1143,1803 1121,1794 1117,1794 1100,1794 1013,1801 1011,1801 1011,1801 956,1794 939,1792 914,1794 826,1799 824,1799 298,1788"/>
+        <Baseline points="302,1766 1447,1779"/>
+        <TextEquiv>
+          <Unicode>j&#39;ai, pour ma part, contribué à donner l&#39;exemple. Il est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b4e9c969" >
+        <Coords points="302,1834 302,1808 1485,1819 1485,1849 1480,1882 1447,1871 1355,1880 1339,1882 1339,1882 1337,1882 1337,1882 1335,1882 1329,1880 1293,1867 1187,1867 1064,1878 1044,1878 1042,1878 1042,1878 1042,1878 1040,1878 1040,1878 1038,1878 1038,1878 1038,1876 1020,1865 655,1872 600,1872 599,1872 599,1872 599,1872 597,1872 597,1872 597,1872 595,1871 573,1860 527,1871 523,1871 523,1871 523,1871 522,1871 522,1871 516,1871 448,1858 403,1869 403,1869 401,1869 401,1869 399,1869 399,1869 399,1869 397,1869 397,1869 397,1869 370,1858 355,1869 355,1869 353,1869 353,1869 353,1869 351,1869 351,1869 351,1869 349,1869 300,1867"/>
+        <Baseline points="302,1834 1485,1849"/>
+        <TextEquiv>
+          <Unicode>évident qu&#39;un pays doit choisir sa représentation parmi les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

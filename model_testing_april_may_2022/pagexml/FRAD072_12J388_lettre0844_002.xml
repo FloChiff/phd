@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.904273+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.904295+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J388_lettre0844_002.jpg" imageWidth="1698" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_2a0f3104" >
+        <Coords points="844,221 840,186 950,192 954,217 952,239 844,241"/>
+        <Baseline points="844,221 954,217"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8bf65e55" >
+        <Coords points="247,360 243,331 492,318 494,318 624,325 696,329 718,324 752,316 752,316 752,316 754,316 754,316 754,316 756,316 756,316 756,316 758,316 767,324 772,327 778,324 785,318 787,318 787,318 789,318 789,318 789,318 791,318 791,318 791,318 793,318 793,318 793,318 794,318 794,318 800,324 805,329 946,329 972,322 998,314 1000,314 1000,314 1001,314 1001,314 1001,314 1003,314 1025,320 1044,327 1214,327 1236,318 1251,313 1251,313 1252,313 1252,313 1254,313 1254,313 1254,313 1256,313 1256,313 1258,313 1265,318 1278,325 1476,325 1489,314 1498,351 1496,377 247,378"/>
+        <Baseline points="247,360 1498,351"/>
+        <TextEquiv>
+          <Unicode>ou l&#39;indifférence ou même la joie des survivants . Quoiqu&#39;on</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ed55a8c3" >
+        <Coords points="247,426 245,395 1480,397 1483,421 1481,441 247,450"/>
+        <Baseline points="247,426 1483,421"/>
+        <TextEquiv>
+          <Unicode>fasse, on ne peut pas changer cela: les survivants sont bien</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_db79f318" >
+        <Coords points="249,494 247,465 1181,465 1194,463 1284,454 1284,454 1285,454 1494,463 1498,487 1500,503 1465,514 1463,514 1463,514 1461,514 881,508 866,518 864,518 864,518 864,518 862,518 862,518 862,518 860,518 723,510 555,519 553,519 247,510"/>
+        <Baseline points="249,494 1498,487"/>
+        <TextEquiv>
+          <Unicode>contents de ne pas être les morts.- Et les morts ainsi, loin</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_500c1fc5" >
+        <Coords points="247,560 245,527 1492,529 1496,552 1498,571 1452,584 1450,584 1450,584 1448,584 245,582"/>
+        <Baseline points="247,560 1496,552"/>
+        <TextEquiv>
+          <Unicode>d&#39;être immortels, vont disparaissant tous les jours davantage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1043163e" >
+        <Coords points="245,626 245,598 529,598 529,626 529,646 245,657"/>
+        <Baseline points="245,626 529,626"/>
+        <TextEquiv>
+          <Unicode>dans l&#39;oubli.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e7946767" >
+        <Coords points="688,690 688,657 1599,657 1600,693 1597,725 1540,714 1483,725 1480,725 1480,725 1478,725 1478,725 1478,725 1476,725 1476,725 1476,725 1474,725 1454,714 1331,714 1320,723 1320,725 1320,725 1320,725 1318,725 1318,725 1318,725 1317,725 1317,725 1317,726 1274,726 1273,725 1273,725 1271,725 1271,725 1269,725 1243,714 1181,725 1172,725 1172,725 1170,725 1170,725 1170,725 1168,725 1168,725 1164,725 1139,712 1095,721 1095,721 1095,721 1093,721 1093,721 1005,712 897,723 888,723 888,723 886,723 886,723 881,723 818,712 804,723 804,723 802,723 802,723 802,723 800,723 800,723 798,723 685,721"/>
+        <Baseline points="688,690 1600,693"/>
+        <TextEquiv>
+          <Unicode>Bientôt l&#39;indifférence des vivants deviendra,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_03b5bb9b" >
+        <Coords points="247,759 241,735 269,721 269,721 269,721 271,721 271,721 272,721 272,721 272,721 322,730 567,721 569,721 569,721 571,721 606,730 611,732 615,730 635,721 635,721 635,721 637,721 637,721 639,721 639,721 639,721 641,721 641,721 642,721 657,730 663,734 868,734 945,726 1007,721 1007,721 1009,721 1009,721 1011,721 1025,725 1047,730 1067,725 1084,719 1086,719 1086,719 1086,719 1088,719 1088,719 1089,719 1089,719 1102,723 1115,730 1362,730 1388,719 1390,719 1390,719 1392,719 1392,719 1393,719 1494,719 1498,756 1496,781 247,787"/>
+        <Baseline points="247,759 1498,756"/>
+        <TextEquiv>
+          <Unicode>elle devient déjà, une sorte de protestation contre le réveil</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_39aac24f" >
+        <Coords points="247,827 245,794 644,792 646,827 644,851 245,847"/>
+        <Baseline points="247,827 646,827"/>
+        <TextEquiv>
+          <Unicode>importun des morts.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ac3e0825" >
+        <Coords points="685,895 683,862 1544,862 1547,891 1545,919 685,922"/>
+        <Baseline points="685,895 1547,891"/>
+        <TextEquiv>
+          <Unicode>Je vais le moins possible, dans la Sarthe,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d1200ea0" >
+        <Coords points="245,961 243,935 1516,931 1518,961 1516,984 243,979"/>
+        <Baseline points="245,961 1518,961"/>
+        <TextEquiv>
+          <Unicode>prendre part aux manifestations que chaque commune organise en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0475ac21" >
+        <Coords points="245,1023 245,988 741,999 765,990 765,990 765,990 767,990 767,990 767,990 769,990 769,990 769,990 771,990 813,999 1060,990 1099,990 1100,990 1100,990 1102,990 1106,990 1144,1001 1588,994 1589,1028 1588,1049 1296,1060 1295,1060 1295,1060 1295,1060 1293,1060 1263,1050 793,1058 791,1058 708,1049 703,1049 245,1049"/>
+        <Baseline points="245,1023 1589,1028"/>
+        <TextEquiv>
+          <Unicode>l&#39;honneur des combattants qu&#39;elle a perdus pendant la guerre. J&#39;ai</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_07b9b200" >
+        <Coords points="243,1096 239,1058 445,1054 446,1054 446,1054 448,1054 448,1054 448,1054 450,1054 450,1054 450,1054 454,1058 461,1065 478,1058 487,1054 487,1054 489,1054 489,1054 489,1054 490,1054 490,1054 490,1054 492,1054 492,1054 494,1054 494,1054 498,1058 512,1069 549,1069 560,1058 564,1056 564,1054 566,1054 566,1054 566,1054 567,1054 567,1054 567,1054 569,1054 569,1054 593,1058 644,1067 668,1058 679,1054 679,1054 681,1054 681,1054 683,1054 683,1054 683,1054 685,1054 697,1058 716,1063 758,1058 783,1056 783,1056 785,1056 785,1056 787,1056 787,1056 794,1058 816,1067 877,1060 890,1058 890,1058 892,1058 1450,1061 1454,1093 1452,1113 243,1116"/>
+        <Baseline points="243,1096 1454,1093"/>
+        <TextEquiv>
+          <Unicode>réfléchi que nous avons en France plus de 37.000 communes.-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e3d8a6c9" >
+        <Coords points="243,1164 239,1135 1245,1122 1247,1122 1547,1131 1551,1158 1549,1186 241,1182"/>
+        <Baseline points="243,1164 1551,1158"/>
+        <TextEquiv>
+          <Unicode>37.000 communes représentent donc plus de 37.000 monuments funè-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2fc774a8" >
+        <Coords points="243,1228 243,1201 1533,1202 1533,1228 1533,1248 243,1257"/>
+        <Baseline points="243,1228 1533,1228"/>
+        <TextEquiv>
+          <Unicode>bres, un cimetière national, un pays peuplé de tombeaux. C&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_97945c2d" >
+        <Coords points="243,1296 238,1272 280,1261 282,1261 282,1261 283,1261 1511,1261 1514,1292 1512,1318 243,1318"/>
+        <Baseline points="243,1296 1514,1292"/>
+        <TextEquiv>
+          <Unicode>contre nature. Quand les plus beaux ou les plus jeunes arbres</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_82714494" >
+        <Coords points="241,1363 238,1334 1509,1332 1514,1358 1512,1382 241,1393"/>
+        <Baseline points="241,1363 1514,1358"/>
+        <TextEquiv>
+          <Unicode>de la forêt tombent, ils pourrissent et ne durent que juste le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e0bb8aca" >
+        <Coords points="241,1433 239,1398 368,1406 461,1396 472,1396 472,1396 474,1396 474,1396 476,1396 478,1396 512,1406 602,1396 609,1396 609,1396 611,1396 611,1396 615,1396 670,1406 1544,1395 1549,1428 1547,1448 241,1457"/>
+        <Baseline points="241,1433 1549,1428"/>
+        <TextEquiv>
+          <Unicode>temps de féconder la terre. Des monuments funèbres pour l&#39;éter-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_88a37959" >
+        <Coords points="239,1501 238,1461 430,1470 529,1461 540,1461 542,1461 542,1461 555,1461 652,1470 1082,1470 1099,1462 1113,1459 1115,1459 1115,1459 1115,1459 1117,1459 1117,1459 1119,1459 1119,1459 1130,1464 1142,1468 1161,1464 1181,1459 1183,1459 1183,1459 1185,1459 1547,1466 1551,1497 1549,1517 239,1526"/>
+        <Baseline points="239,1501 1551,1497"/>
+        <TextEquiv>
+          <Unicode>nité sont des ruines; on ne les accepte que s&#39;ils sont rares et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e3c74041" >
+        <Coords points="239,1563 239,1536 1549,1539 1551,1567 1549,1583 912,1592 910,1592 910,1592 908,1592 908,1592 908,1592 906,1592 890,1583 272,1590 271,1590 271,1590 269,1590 236,1580"/>
+        <Baseline points="239,1563 1551,1567"/>
+        <TextEquiv>
+          <Unicode>simples ou très beaux; et encore... ils n&#39;en sont pas moins des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_69f0e488" >
+        <Coords points="239,1633 238,1601 1491,1605 1494,1629 1492,1649 239,1653"/>
+        <Baseline points="239,1633 1494,1629"/>
+        <TextEquiv>
+          <Unicode>ruines célébrant la mort. Nos populations sentent cela, avec</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8570d8b7" >
+        <Coords points="238,1700 234,1675 1540,1671 1545,1697 1544,1719 238,1724"/>
+        <Baseline points="238,1700 1545,1697"/>
+        <TextEquiv>
+          <Unicode>leur finesse profonde, et, sans en rien dire. Elles ne vont pas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_502cc503" >
+        <Coords points="239,1768 236,1739 1465,1737 1470,1764 1467,1786 485,1786 239,1796"/>
+        <Baseline points="239,1768 1470,1764"/>
+        <TextEquiv>
+          <Unicode>jusqu&#39;à faire l&#39;économie des monuments. Chaque commune fait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ef8b7984" >
+        <Coords points="238,1836 238,1801 1566,1808 1566,1836 1566,1856 238,1863"/>
+        <Baseline points="238,1836 1566,1836"/>
+        <TextEquiv>
+          <Unicode>comme sa voisine; elle vote les fonds nécessaires pour les faire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_11546517" >
+        <Coords points="239,1902 236,1876 1463,1871 1469,1898 1467,1918 239,1922"/>
+        <Baseline points="239,1902 1469,1898"/>
+        <TextEquiv>
+          <Unicode>élever. Les marbriers en profitent et leur industrie, je le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2304a7bd" >
+        <Coords points="241,1968 239,1940 1580,1937 1582,1968 1580,1993 1349,1990 1326,1993 1293,1999 1293,1999 1291,1999 1291,1999 1291,1999 1289,1999 1269,1993 1256,1990 1210,1993 1130,1999 1128,1999 1128,1999 1128,1999 1126,1999 1126,1999 1126,1999 1124,1999 1124,1999 1117,1991 1113,1990 1055,1991 914,1999 912,1999 783,1991 752,1990 743,1991 705,1999 705,1999 705,2001 421,2001 419,1999 419,1999 364,1990 364,1990 362,1990 309,1999 309,1999 309,1999 307,1999 307,1999 239,1988"/>
+        <Baseline points="241,1968 1582,1968"/>
+        <TextEquiv>
+          <Unicode>constate de plus en plus, est la plus florissante de toutes celles</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

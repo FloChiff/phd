@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.876623+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.876644+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_040.jpg" imageWidth="1739" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_87fac624" >
+        <Coords points="894,133 890,95 954,102 962,93 963,93 963,91 963,91 965,91 965,91 965,91 967,91 967,91 967,91 1029,89 1035,129 1033,148 894,159"/>
+        <Baseline points="894,133 1035,129"/>
+        <TextEquiv>
+          <Unicode>- 40 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c7ad1bc9" >
+        <Coords points="337,305 333,274 410,265 410,265 412,265 412,265 414,265 443,272 459,276 485,272 544,263 544,263 546,263 738,270 786,272 789,270 802,261 804,261 804,261 804,261 806,261 806,261 806,261 808,261 912,270 949,272 978,269 1064,259 1064,259 1066,259 1066,259 1132,269 1148,270 1154,269 1178,258 1178,258 1178,258 1180,258 1180,258 1181,258 1601,267 1605,294 1605,313 337,329"/>
+        <Baseline points="337,305 1605,294"/>
+        <TextEquiv>
+          <Unicode>guerre. C&#39;est maintenant que tous les responsables vont compa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_257f69e1" >
+        <Coords points="339,369 335,340 1561,335 1566,364 1564,388 339,391"/>
+        <Baseline points="339,369 1566,364"/>
+        <TextEquiv>
+          <Unicode>raître et que nous suarons si les partisans et les profiteurs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_444c345a" >
+        <Coords points="337,439 333,410 1563,408 1568,435 1566,452 337,455"/>
+        <Baseline points="337,439 1568,435"/>
+        <TextEquiv>
+          <Unicode>de la guerre, dans tous les pays, pourront ou non recommencer</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_90d6bb2d" >
+        <Coords points="339,503 337,472 1563,477 1566,499 1563,525 584,521 339,530"/>
+        <Baseline points="339,503 1566,499"/>
+        <TextEquiv>
+          <Unicode>leurs mauvais coups. C&#39;est maintenant que tous les partisans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7125856e" >
+        <Coords points="340,567 340,541 1509,545 1511,571 1508,593 339,587"/>
+        <Baseline points="340,567 1511,571"/>
+        <TextEquiv>
+          <Unicode>de la conciliation vont avoir à se rassembler, à s&#39;unir, à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e0ee3d5d" >
+        <Coords points="340,635 337,613 586,609 591,631 590,659 339,657"/>
+        <Baseline points="340,635 591,631"/>
+        <TextEquiv>
+          <Unicode>s&#39;organiser.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d5361a0c" >
+        <Coords points="773,703 773,664 828,677 877,677 892,666 892,664 892,664 894,664 894,664 894,664 896,664 896,664 897,664 897,664 897,664 899,664 905,666 934,677 1026,677 1040,668 1046,664 1048,664 1048,664 1049,664 1049,664 1051,664 1159,664 1159,664 1159,664 1161,664 1161,664 1161,664 1163,664 1163,664 1169,670 1178,677 1367,677 1376,673 1399,664 1401,664 1401,664 1401,664 1403,664 1403,664 1405,664 1405,664 1431,673 1436,677 1585,677 1585,703 1585,721 1519,734 1519,734 1519,734 1517,734 1396,725 1359,748 1357,748 1357,748 1357,748 1356,748 1356,748 1356,750 1039,750 1037,748 1037,748 1035,748 1035,748 1035,748 1033,748 998,723 771,721"/>
+        <Baseline points="773,703 1585,703"/>
+        <TextEquiv>
+          <Unicode>Je dis bien, la conciliation, et non pas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_928e9fb5" >
+        <Coords points="337,768 337,745 1321,745 1321,768 1321,790 337,800"/>
+        <Baseline points="337,768 1321,768"/>
+        <TextEquiv>
+          <Unicode>la paix seulement, et non pas le Droit seulement.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c832cab1" >
+        <Coords points="769,834 769,809 1574,812 1575,838 1572,862 765,854"/>
+        <Baseline points="769,834 1575,838"/>
+        <TextEquiv>
+          <Unicode>La paix à tout prix, la paix tout court,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5f87301c" >
+        <Coords points="337,906 335,878 1614,869 1616,906 1614,931 335,926"/>
+        <Baseline points="337,906 1616,906"/>
+        <TextEquiv>
+          <Unicode>ce n&#39;est rien; c&#39;est l&#39;abdication, l&#39;aveuglement, la servitude,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7edac40c" >
+        <Coords points="337,968 337,933 1260,937 1262,972 1260,995 335,995"/>
+        <Baseline points="337,968 1262,972"/>
+        <TextEquiv>
+          <Unicode>donc la guerre à plus ou moins brève échéance.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8d5446bd" >
+        <Coords points="769,1034 769,1005 1544,1005 1546,1038 1542,1056 765,1052"/>
+        <Baseline points="769,1034 1546,1038"/>
+        <TextEquiv>
+          <Unicode>Seule la conciliation, c&#39;est-à-dire le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_30b5f04d" >
+        <Coords points="333,1102 333,1074 709,1076 712,1076 736,1067 736,1067 738,1067 738,1067 740,1067 740,1067 742,1067 776,1076 780,1078 1095,1078 1103,1078 1205,1069 1205,1069 1207,1069 1207,1069 1209,1069 1209,1069 1209,1069 1211,1069 1211,1069 1211,1071 1220,1080 1312,1080 1324,1069 1324,1069 1326,1069 1326,1069 1326,1069 1328,1069 1328,1069 1330,1069 1330,1069 1330,1069 1385,1078 1420,1069 1421,1069 1421,1069 1423,1069 1423,1069 1524,1082 1524,1105 1520,1125 331,1124"/>
+        <Baseline points="333,1102 1524,1105"/>
+        <TextEquiv>
+          <Unicode>sacrifica de l&#39;orgueil et des convoitises et de l&#39;esprit de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_709db9e8" >
+        <Coords points="335,1168 335,1138 1599,1144 1601,1171 1597,1197 333,1186"/>
+        <Baseline points="335,1168 1601,1171"/>
+        <TextEquiv>
+          <Unicode>domination, seule la conciliation peut sauver le monde. On n&#39;a</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2cb77863" >
+        <Coords points="335,1237 333,1213 1502,1210 1504,1237 1504,1255 335,1259"/>
+        <Baseline points="335,1237 1504,1237"/>
+        <TextEquiv>
+          <Unicode>pas compris toute la beauté, toute la grandeur de son rôle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0c1441f2" >
+        <Coords points="333,1303 331,1277 1515,1276 1519,1307 1515,1331 331,1325"/>
+        <Baseline points="333,1303 1519,1307"/>
+        <TextEquiv>
+          <Unicode>avant la guerre.- La conciliation est une oeuvre de grande</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d157ad19" >
+        <Coords points="335,1367 335,1334 1581,1349 1581,1374 1577,1395 333,1387"/>
+        <Baseline points="335,1367 1581,1374"/>
+        <TextEquiv>
+          <Unicode>énergie morale, contre toutes les entreprises ou les veuleries</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_31e16f4f" >
+        <Coords points="333,1437 333,1409 1599,1415 1599,1442 1596,1457 331,1451"/>
+        <Baseline points="333,1437 1599,1442"/>
+        <TextEquiv>
+          <Unicode>des méchants qu&#39;il faut isoler et paralyser, et des indifférents</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1f29ff78" >
+        <Coords points="331,1504 331,1477 1596,1482 1597,1508 1596,1525 331,1526"/>
+        <Baseline points="331,1504 1597,1508"/>
+        <TextEquiv>
+          <Unicode>et des égoïstes qu&#39;il faut persuader; c&#39;est une oeuvre patrio-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_faea887f" >
+        <Coords points="333,1570 333,1537 1575,1548 1577,1574 1575,1592 333,1594"/>
+        <Baseline points="333,1570 1577,1574"/>
+        <TextEquiv>
+          <Unicode>tique d&#39;intelligence, d&#39;intérêt bien compris, de sages conces-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1399118f" >
+        <Coords points="331,1638 331,1612 1594,1618 1596,1644 1592,1662 329,1660"/>
+        <Baseline points="331,1638 1596,1644"/>
+        <TextEquiv>
+          <Unicode>sions mutuelles et aussi d&#39;amitié, de douceur, de progrès enfin</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_27d3170e" >
+        <Coords points="331,1704 331,1667 393,1677 742,1673 857,1671 859,1671 894,1675 958,1680 1060,1677 1150,1673 1152,1673 1575,1684 1577,1711 1574,1733 329,1719"/>
+        <Baseline points="331,1704 1577,1711"/>
+        <TextEquiv>
+          <Unicode>et de paix durable. Sans le progrès général, la vulgarisation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8a721f96" >
+        <Coords points="331,1768 331,1735 1605,1752 1607,1777 1603,1803 1350,1794 1220,1797 1126,1801 1125,1801 1125,1801 1093,1796 1066,1792 985,1794 861,1799 859,1799 859,1799 857,1799 857,1799 839,1792 831,1790 725,1790 357,1796 355,1796 355,1796 353,1796 353,1796 328,1785"/>
+        <Baseline points="331,1768 1607,1777"/>
+        <TextEquiv>
+          <Unicode>ferme et courageuse de l&#39;esprit de conciliation, si mal compris,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e33e4032" >
+        <Coords points="331,1834 331,1803 1570,1812 1572,1841 1568,1863 329,1854"/>
+        <Baseline points="331,1834 1572,1841"/>
+        <TextEquiv>
+          <Unicode>si mal apprécié, si peu encouragé, la guerre dont nous sortons</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bbd2cfd9" >
+        <Coords points="331,1902 331,1865 415,1876 448,1867 450,1867 450,1867 450,1867 452,1867 452,1867 454,1867 491,1876 846,1867 850,1867 852,1867 852,1867 852,1867 852,1867 907,1880 1423,1880 1449,1869 1454,1905 1451,1935 1238,1926 1224,1933 1220,1935 1220,1935 1220,1935 1218,1935 1218,1935 1218,1935 1216,1935 1216,1935 1214,1935 1214,1935 1214,1935 1209,1933 1196,1926 1187,1933 1185,1935 1185,1935 1183,1935 1183,1935 1183,1935 1181,1935 1181,1935 1181,1937 1046,1937 1044,1935 1044,1935 1042,1935 1042,1935 1031,1931 1018,1926 998,1931 976,1935 976,1935 976,1935 974,1935 974,1935 974,1935 973,1935 973,1935 960,1929 949,1926 925,1929 894,1935 894,1935 892,1935 892,1935 892,1935 890,1935 890,1935 888,1935 879,1929 870,1924 861,1929 852,1933 852,1933 852,1933 850,1933 850,1933 848,1933 848,1933 848,1933 846,1933 831,1929 813,1924 765,1927 705,1933 705,1933 703,1933 703,1933 701,1933 679,1927 667,1924 476,1924 463,1924 370,1933 370,1933 368,1933 368,1933 366,1933 326,1922"/>
+        <Baseline points="331,1902 1454,1905"/>
+        <TextEquiv>
+          <Unicode>épuisés et ruinés n&#39;aura été que le prélude de la guerre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.515502+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.515524+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_003.jpg" imageWidth="1737" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_9c7a0a62" >
+        <Coords points="850,159 844,129 971,126 976,155 972,183 938,172 925,179 916,186 914,186 914,186 914,186 912,186 912,186 910,186 910,186 910,186 848,173"/>
+        <Baseline points="850,159 976,155"/>
+        <TextEquiv>
+          <Unicode>- 3 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_21039ea9" >
+        <Coords points="346,294 342,267 408,256 408,256 410,256 1614,261 1617,291 1616,309 346,318"/>
+        <Baseline points="346,294 1617,291"/>
+        <TextEquiv>
+          <Unicode>tant bien que mal, sa marche normale, sans une résistance, sans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2d8e9d8b" >
+        <Coords points="346,362 344,329 1573,331 1577,355 1575,373 346,380"/>
+        <Baseline points="346,362 1577,355"/>
+        <TextEquiv>
+          <Unicode>une orientation. Il faut admirer avec quelle tranquilité et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8e17bca5" >
+        <Coords points="348,430 346,400 1211,400 1212,399 1233,389 1233,389 1234,389 1234,389 1234,389 1236,389 1647,399 1650,424 1647,452 346,450"/>
+        <Baseline points="348,430 1650,424"/>
+        <TextEquiv>
+          <Unicode>quelle régularité cette reprise de la vie constitutionnelle s&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5a390fe5" >
+        <Coords points="348,494 346,463 753,466 784,463 833,457 833,457 835,457 835,457 835,457 866,463 881,466 884,463 892,457 892,457 894,457 894,457 895,457 895,457 895,457 897,457 1046,465 1075,465 1084,465 1139,455 1139,455 1141,455 1280,465 1289,465 1289,465 1308,455 1308,455 1308,455 1310,455 1310,455 1310,455 1311,455 1311,455 1313,455 1352,465 1352,465 1354,465 1390,455 1392,455 1392,455 1394,455 1555,466 1559,490 1555,516 1049,510 985,519 978,519 978,519 976,519 976,519 976,519 974,519 974,519 972,519 954,510 936,519 932,521 932,521 932,521 930,521 930,521 930,521 928,521 899,519 804,512 791,519 791,521 791,521 789,521 789,521 789,521 787,521 787,521 787,523 657,523 655,521 655,521 654,521 654,521 654,521 652,521 652,521 652,521 641,512 553,512 500,521 496,521 496,521 494,521 494,521 487,521 397,512 348,521"/>
+        <Baseline points="348,494 1559,490"/>
+        <TextEquiv>
+          <Unicode>effectuée. Tout s&#39;est passé, comme s&#39;il n&#39;y avait pas eu la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e70981c0" >
+        <Coords points="348,562 344,538 1610,527 1616,554 1612,578 705,576 348,587"/>
+        <Baseline points="348,562 1616,554"/>
+        <TextEquiv>
+          <Unicode>guerre. La force de l&#39;habitude a repris ses droits. On aurait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0e865b79" >
+        <Coords points="348,626 346,602 985,602 993,600 1059,591 1059,591 1060,591 1628,600 1632,622 1630,648 348,653"/>
+        <Baseline points="349,627 1634,624"/>
+        <TextEquiv>
+          <Unicode>pu, tout de même, après une telle crise, s&#39;inspirer des circons-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_76a1df9e" >
+        <Coords points="349,693 342,674 1594,666 1597,690 1595,710 349,721"/>
+        <Baseline points="349,693 1597,690"/>
+        <TextEquiv>
+          <Unicode>tances, XXX simple bon sens, au moins, et, -puisqu&#39;il fallait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_aa47ca78" >
+        <Coords points="527,653 527,631 591,631 591,653 591,671 527,675"/>
+        <Baseline points="529,654 592,654"/>
+        <TextEquiv>
+          <Unicode>du</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1414596a" >
+        <Coords points="346,757 344,732 897,723 899,723 899,723 901,723 930,732 938,734 982,732 1123,725 1125,725 1125,725 1125,725 1126,725 1126,725 1126,725 1128,725 1128,725 1128,726 1136,732 1137,735 1302,735 1306,732 1322,725 1322,725 1322,725 1324,725 1324,725 1326,725 1518,734 1520,761 1518,778 382,785 381,785 381,785 379,785 342,774"/>
+        <Baseline points="346,757 1520,761"/>
+        <TextEquiv>
+          <Unicode>reconstituer de la base au sommet, toute la représentation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7fe0516d" >
+        <Coords points="346,823 346,796 1614,803 1616,827 1614,844 346,847"/>
+        <Baseline points="346,823 1616,827"/>
+        <TextEquiv>
+          <Unicode>nationale,- on aurait pu commencer par les fondations; recons-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_15463534" >
+        <Coords points="346,889 346,856 1639,865 1641,895 1638,920 344,908"/>
+        <Baseline points="346,889 1641,895"/>
+        <TextEquiv>
+          <Unicode>tituer d&#39;abord les municipalités, puis les assemblées cantonales,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d4d662b8" >
+        <Coords points="346,957 344,933 445,924 447,924 447,924 447,924 448,924 448,924 470,933 472,935 633,935 633,933 654,924 654,924 654,924 655,924 655,924 657,924 657,924 657,924 659,924 659,924 659,924 661,924 661,924 672,933 1046,928 1048,928 1130,937 1136,937 1137,937 1159,928 1159,928 1161,928 1161,928 1161,928 1163,928 1163,928 1165,928 1165,928 1189,937 1190,937 1196,937 1295,930 1297,930 1297,930 1297,930 1299,930 1299,930 1319,939 1322,941 1614,941 1616,964 1612,984 344,981"/>
+        <Baseline points="346,957 1616,964"/>
+        <TextEquiv>
+          <Unicode>puis les deux Chamvres. Mais c&#39;était trop simple pour ceux qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a9fcb8d8" >
+        <Coords points="346,1025 346,999 1495,1001 1496,1028 1495,1047 373,1052 371,1052 371,1052 370,1052 370,1052 342,1041"/>
+        <Baseline points="346,1025 1496,1028"/>
+        <TextEquiv>
+          <Unicode>ne rêvent, à Paris, que plaies et bosses ou pêches en eau</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_64febae0" >
+        <Coords points="346,1091 348,1054 388,1063 470,1056 470,1056 472,1056 1652,1072 1652,1100 1649,1118 344,1113"/>
+        <Baseline points="346,1091 1652,1100"/>
+        <TextEquiv>
+          <Unicode>trouble. Et Clemenceau qui continue de ne croire qu&#39;aux conflits</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5eb6f68b" >
+        <Coords points="344,1160 344,1129 1628,1138 1630,1164 1627,1180 342,1177"/>
+        <Baseline points="344,1160 1630,1164"/>
+        <TextEquiv>
+          <Unicode>et aux barricades, a préféré commencer brusquement par le renou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_72cdfe16" >
+        <Coords points="344,1222 344,1190 1603,1206 1605,1233 1601,1252 599,1250 599,1250 599,1250 549,1241 364,1248 362,1248 362,1248 362,1248 360,1248 360,1248 360,1248 340,1237"/>
+        <Baseline points="344,1222 1605,1233"/>
+        <TextEquiv>
+          <Unicode>vellement de la Chambre des Députés. Et cela sans préparation,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_07bf9589" >
+        <Coords points="344,1292 344,1263 1533,1268 1535,1296 1533,1318 370,1320 368,1320 368,1320 366,1320 366,1320 340,1309"/>
+        <Baseline points="344,1292 1535,1296"/>
+        <TextEquiv>
+          <Unicode>sous le régime d&#39;une réforme électorale nouvelle, incompré-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b2987056" >
+        <Coords points="342,1356 342,1325 1588,1342 1590,1367 1588,1384 1387,1393 1385,1393 340,1376"/>
+        <Baseline points="342,1356 1590,1367"/>
+        <TextEquiv>
+          <Unicode>hensible. Les élections législatives furent ainsi, tout natu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b0839abe" >
+        <Coords points="340,1424 340,1398 1572,1407 1573,1433 1570,1450 338,1440"/>
+        <Baseline points="340,1424 1573,1433"/>
+        <TextEquiv>
+          <Unicode>rellement, une manifestation de mécontentement et d&#39;ignorance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_88f2a693" >
+        <Coords points="342,1492 340,1466 1504,1464 1507,1499 1506,1515 927,1523 925,1523 613,1512 390,1519 388,1519 388,1519 388,1519 340,1508"/>
+        <Baseline points="342,1492 1507,1499"/>
+        <TextEquiv>
+          <Unicode>exploitée, chose bizarre, par ceux-là mêmes qu&#39;on accusait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_625c1585" >
+        <Coords points="342,1558 342,1532 1614,1532 1616,1567 1614,1589 599,1589 597,1587 597,1587 595,1587 595,1587 595,1587 593,1587 593,1587 582,1578 580,1578 575,1578 412,1585 410,1585 410,1585 340,1574"/>
+        <Baseline points="342,1558 1616,1567"/>
+        <TextEquiv>
+          <Unicode>d&#39;avoir été les partisans et d&#39;être les profiteurs de la guerre,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_681598d4" >
+        <Coords points="342,1625 342,1600 1606,1607 1608,1633 1606,1647 1520,1658 1518,1658 1253,1656 1253,1656 1253,1656 1251,1656 1223,1649 1214,1647 1170,1649 1053,1656 1051,1656 1051,1656 1051,1656 1049,1656 1049,1656 1049,1656 1048,1656 1048,1656 1040,1649 1037,1645 941,1645 930,1651 919,1655 919,1655 917,1655 917,1655 917,1655 916,1655 864,1651 809,1645 786,1651 765,1655 765,1655 765,1655 764,1655 764,1655 723,1651 655,1644 622,1651 611,1653 611,1653 611,1653 610,1653 582,1651 485,1644 342,1651"/>
+        <Baseline points="342,1625 1608,1633"/>
+        <TextEquiv>
+          <Unicode>contre ceux qui avaient été tenté de l&#39;éviter. Ainsi s&#39;explique le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_72f8cc88" >
+        <Coords points="340,1689 340,1664 1601,1671 1603,1697 1601,1715 657,1720 655,1720 540,1711 364,1719 362,1719 362,1719 362,1719 360,1719 360,1719 337,1708"/>
+        <Baseline points="340,1689 1603,1697"/>
+        <TextEquiv>
+          <Unicode>succès de la réaction le 16 Novembre. Grand encouragement pour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_63d0399d" >
+        <Coords points="338,1755 338,1728 1561,1733 1562,1764 1559,1792 337,1779"/>
+        <Baseline points="338,1755 1562,1764"/>
+        <TextEquiv>
+          <Unicode>le parti Clémenciste, Poincariste, l&#39;union sacrée, en un mot,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_73a218b0" >
+        <Coords points="340,1823 340,1797 1639,1803 1639,1830 1636,1847 338,1839"/>
+        <Baseline points="340,1823 1639,1830"/>
+        <TextEquiv>
+          <Unicode>faite au bénéfice de la droite contre la gauche. Ce fut le point</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4be69346" >
+        <Coords points="338,1889 342,1854 353,1863 514,1856 544,1856 546,1856 546,1856 557,1856 613,1867 1641,1867 1641,1898 1639,1915 1392,1926 1390,1926 1390,1926 1390,1926 1388,1926 1388,1926 1388,1926 1387,1926 1387,1926 1377,1916 1352,1924 1350,1924 1350,1924 1348,1924 1348,1924 1348,1924 1308,1916 1297,1915 1284,1916 1240,1926 1240,1926 1240,1926 1238,1926 1238,1926 1174,1916 1154,1915 1145,1916 1125,1924 1123,1924 1123,1924 1123,1924 1121,1924 1121,1924 1070,1916 1035,1913 1002,1916 958,1924 958,1924 956,1924 866,1918 767,1911 683,1918 637,1922 635,1922 635,1922 604,1918 531,1909 338,1918"/>
+        <Baseline points="338,1889 1641,1898"/>
+        <TextEquiv>
+          <Unicode>d&#39;appui d&#39;une poussée formidable de tous les éléments rétrogrades</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

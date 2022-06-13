@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.772400+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.772422+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_027.jpg" imageWidth="1731" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_01f61880" >
+        <Coords points="910,168 908,139 1034,135 1038,170 1036,184 908,194"/>
+        <Baseline points="910,168 1038,170"/>
+        <TextEquiv>
+          <Unicode>- 27 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4a6f526f" >
+        <Coords points="348,311 344,280 804,263 805,263 805,263 877,272 881,272 884,272 917,263 919,263 919,263 921,263 921,263 921,263 923,263 923,263 945,272 948,272 952,272 983,263 985,263 985,263 985,263 987,263 1080,270 1097,270 1099,270 1121,259 1121,259 1121,259 1122,259 1122,259 1124,259 1124,259 1126,259 1164,269 1166,269 1168,269 1223,259 1223,259 1225,259 1225,259 1225,259 1227,259 1227,259 1227,259 1243,269 1245,269 1377,269 1381,267 1417,256 1419,256 1419,256 1419,256 1421,256 1575,265 1578,296 1575,320 1426,316 1386,324 1364,327 1364,327 1364,327 1362,327 1362,327 1362,327 1346,324 1322,318 1313,325 1311,327 1311,327 1309,327 1309,327 1309,327 1307,327 1307,327 1307,327 1177,329 1175,329 1175,329 1161,327 1126,320 1115,327 1111,331 1110,331 1110,331 1110,331 1108,331 1108,331 1108,333 1045,333 1044,331 1023,329 965,322 908,331 892,333 892,333 890,333 890,333 873,331 811,324 789,333 783,335 783,335 782,335 782,335 782,335 780,335 780,335 765,333 719,325 670,335 655,336 655,336 655,336 653,336 626,335 518,327 348,338"/>
+        <Baseline points="348,311 1578,296"/>
+        <TextEquiv>
+          <Unicode>siège en permanence, tout près de la Préfecture, où a lieu le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bec36b1f" >
+        <Coords points="348,375 344,351 523,344 529,371 527,391 348,395"/>
+        <Baseline points="348,375 529,371"/>
+        <TextEquiv>
+          <Unicode>scrutin.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d18edbea" >
+        <Coords points="707,437 705,410 772,410 778,408 804,399 804,399 805,399 805,399 807,399 1036,406 1113,408 1119,406 1137,395 1137,395 1137,395 1139,395 1139,395 1139,395 1141,395 1141,395 1141,395 1143,395 1143,395 1164,404 1168,406 1190,404 1296,395 1296,395 1298,395 1298,395 1300,395 1331,404 1344,406 1359,404 1397,395 1397,395 1397,395 1399,395 1399,395 1401,395 1401,395 1401,395 1403,395 1403,395 1412,402 1415,404 1426,402 1489,393 1489,393 1491,393 1491,393 1575,402 1578,430 1578,457 707,463"/>
+        <Baseline points="707,437 1578,430"/>
+        <TextEquiv>
+          <Unicode>J&#39;inscris, au fur et à mesure, pour me dis-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4c839d38" >
+        <Coords points="349,508 346,470 445,470 445,470 445,470 446,470 446,470 448,470 467,481 575,468 589,466 589,466 591,466 591,466 600,466 657,477 668,468 668,468 670,468 670,468 670,468 672,468 672,468 674,468 952,474 994,465 996,465 996,465 996,465 998,465 998,465 1001,465 1060,472 1071,463 1080,497 1078,527 349,529"/>
+        <Baseline points="349,508 1080,497"/>
+        <TextEquiv>
+          <Unicode>traire, mes impressions. Les voici:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_df06a09c" >
+        <Coords points="1038,602 1036,565 1549,571 1553,598 1551,624 1036,620"/>
+        <Baseline points="1038,602 1553,598"/>
+        <TextEquiv>
+          <Unicode>LE MANS, 11 Janvier 1920.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_11cf18c8" >
+        <Coords points="349,671 344,646 364,635 364,635 364,635 366,635 366,635 366,635 368,635 368,635 370,635 370,635 370,635 390,646 391,646 529,646 533,642 549,635 549,635 549,635 551,635 551,635 553,635 553,635 597,640 619,644 630,640 646,635 646,635 648,635 648,635 650,635 762,638 897,642 910,635 919,631 919,631 919,631 921,631 921,631 923,631 923,631 923,631 925,631 925,631 934,635 945,640 958,635 965,631 965,631 965,631 967,631 967,631 968,631 968,631 992,633 1044,640 1186,631 1192,666 1192,686 1146,699 1144,699 1144,699 1143,699 985,690 928,688 903,692 860,699 860,699 860,699 859,699 859,699 822,693 807,692 767,693 681,701 679,701 679,701 679,701 657,697 630,690 606,697 587,703 586,703 586,703 586,703 584,703 584,703 584,703 562,697 534,692 522,699 516,703 514,703 514,703 512,703 512,703 512,703 511,703 511,703 511,703 490,699 450,692 349,701"/>
+        <Baseline points="349,671 1192,666"/>
+        <TextEquiv>
+          <Unicode>au Foyer Démocratique, Bd. René Levasseur,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5b5987fd" >
+        <Coords points="1150,703 1146,679 1216,668 1216,668 1218,668 1218,668 1218,668 1219,668 1219,668 1236,675 1236,675 1238,675 1260,664 1260,664 1260,664 1262,664 1262,664 1263,664 1263,664 1263,664 1307,671 1317,673 1324,671 1355,662 1357,662 1357,662 1357,662 1359,662 1359,662 1360,662 1360,662 1360,662 1362,662 1362,662 1370,670 1373,671 1507,666 1513,695 1513,717 1150,719"/>
+        <Baseline points="1150,703 1513,695"/>
+        <TextEquiv>
+          <Unicode>de 9 h à midi 1/2.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_abcc14cd" >
+        <Coords points="349,772 348,737 752,745 782,739 804,734 804,734 804,734 805,734 805,734 805,734 807,734 822,739 837,743 917,739 1020,734 1022,734 1022,734 1022,734 1023,734 1023,734 1036,739 1045,745 1201,745 1223,741 1282,732 1282,732 1284,732 1478,741 1487,741 1491,741 1573,732 1573,732 1575,732 1575,732 1632,743 1635,767 1633,789 349,794"/>
+        <Baseline points="349,772 1635,767"/>
+        <TextEquiv>
+          <Unicode>à cent mètres de la Préfecture, où les votes sont répartis entre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_524da44c" >
+        <Coords points="351,840 348,816 395,805 395,805 395,805 397,805 397,805 470,812 1430,800 1436,831 1434,864 1251,854 1221,865 1219,865 1219,865 1218,865 1218,865 1216,865 1197,865 1023,856 1007,865 1005,867 1003,867 1003,867 1001,867 1001,867 1001,867 1000,867 968,865 838,858 783,867 765,869 765,869 763,869 763,869 763,869 762,869 752,867 729,860 351,867"/>
+        <Baseline points="351,840 1436,831"/>
+        <TextEquiv>
+          <Unicode>trois bureaux dans la grande salle du Conseil Général.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d61e0ccf" >
+        <Coords points="705,1003 701,974 1516,970 1522,999 1524,1016 1513,1027 1513,1028 1513,1028 1511,1028 1511,1028 1511,1028 1509,1028 1509,1028 1507,1028 703,1021"/>
+        <Baseline points="705,1003 1522,999"/>
+        <TextEquiv>
+          <Unicode>Vent déchaîné, la pluie, les tuiles, les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_db7476de" >
+        <Coords points="349,1072 348,1039 1597,1041 1600,1067 1597,1093 348,1091"/>
+        <Baseline points="349,1072 1600,1067"/>
+        <TextEquiv>
+          <Unicode>ardoises, les cheminées mêmes tombent mais n&#39;empêchent pas les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4592bc06" >
+        <Coords points="351,1140 346,1116 388,1103 390,1103 390,1103 391,1103 633,1113 659,1102 659,1102 659,1102 661,1102 661,1102 663,1102 663,1102 663,1102 714,1111 749,1102 751,1102 751,1102 752,1102 752,1102 752,1102 754,1102 754,1102 776,1113 870,1113 886,1102 888,1102 888,1102 890,1102 890,1102 890,1102 892,1102 892,1102 970,1111 1009,1100 1011,1100 1011,1100 1011,1100 1012,1100 1282,1109 1393,1098 1393,1098 1395,1098 1595,1109 1599,1133 1597,1160 351,1160"/>
+        <Baseline points="351,1140 1599,1133"/>
+        <TextEquiv>
+          <Unicode>délégusé d&#39;arriver de tous les coins du Département, par leurs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6faca263" >
+        <Coords points="349,1206 346,1184 412,1171 412,1171 413,1171 840,1179 875,1169 877,1169 877,1169 879,1169 879,1169 879,1169 881,1169 912,1179 956,1168 958,1168 958,1168 959,1168 959,1168 959,1168 1009,1177 1053,1168 1053,1168 1053,1168 1055,1168 1055,1168 1055,1168 1056,1168 1056,1168 1080,1177 1110,1168 1111,1168 1111,1168 1111,1168 1113,1168 1113,1168 1115,1168 1115,1168 1143,1177 1514,1177 1520,1199 1518,1217 1227,1228 1225,1228 348,1224"/>
+        <Baseline points="349,1206 1520,1199"/>
+        <TextEquiv>
+          <Unicode>trains spéciaux. Les uns par chemins de fer, d&#39;autres par</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e6a12fce" >
+        <Coords points="351,1268 351,1235 1608,1241 1608,1272 1604,1296 349,1290"/>
+        <Baseline points="351,1268 1608,1272"/>
+        <TextEquiv>
+          <Unicode>le tramway, tous s&#39;amènent, en petits groupes lents et sérieux.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b318c312" >
+        <Coords points="349,1338 348,1310 1595,1309 1597,1338 1597,1352 1494,1363 1494,1363 1492,1363 1492,1363 1432,1354 1423,1354 1379,1356 1161,1363 1159,1363 990,1358 835,1354 718,1362 670,1363 668,1363 668,1363 668,1363 655,1362 620,1354 609,1362 609,1363 609,1363 608,1363 608,1363 608,1363 606,1363 606,1363 606,1365 520,1365 518,1363 518,1363 511,1363 468,1354 454,1363 452,1363 452,1363 452,1363 452,1363 450,1363 450,1363 450,1365 349,1365"/>
+        <Baseline points="349,1338 1597,1338"/>
+        <TextEquiv>
+          <Unicode>En me voyant, la plupart sourient et s&#39;arrêtent. Les mains se</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5c2137c1" >
+        <Coords points="349,1404 346,1380 413,1369 413,1369 415,1369 1591,1374 1595,1398 1593,1426 349,1426"/>
+        <Baseline points="349,1404 1595,1398"/>
+        <TextEquiv>
+          <Unicode>tendent vers moi. Les malins disent :&quot;Mauvais temps, M. d&#39;Es-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_06adaf06" >
+        <Coords points="351,1471 346,1448 386,1435 388,1435 388,1435 390,1435 875,1444 890,1435 892,1435 892,1435 892,1435 893,1435 893,1435 895,1435 1491,1442 1527,1433 1529,1433 1529,1433 1529,1433 1531,1433 1531,1433 1597,1444 1600,1468 1599,1488 555,1488 351,1497"/>
+        <Baseline points="351,1471 1600,1468"/>
+        <TextEquiv>
+          <Unicode>tour/nelles, mais le vent souffle pour nous&quot;. Et l&#39;impression</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_aee06d85" >
+        <Coords points="349,1537 349,1512 1633,1512 1633,1537 1633,1554 349,1558"/>
+        <Baseline points="349,1537 1633,1537"/>
+        <TextEquiv>
+          <Unicode>de confiance que j&#39;ai recueillie partout, ces derniers jours, se</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_47ac9f45" >
+        <Coords points="349,1605 346,1580 1628,1574 1633,1601 1632,1618 349,1622"/>
+        <Baseline points="349,1605 1633,1601"/>
+        <TextEquiv>
+          <Unicode>confirme; avec un sentiment général de mécontentement contre la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2580b901" >
+        <Coords points="349,1671 344,1647 382,1636 384,1636 384,1636 386,1636 1553,1642 1556,1667 1555,1689 406,1689 349,1699"/>
+        <Baseline points="349,1671 1556,1667"/>
+        <TextEquiv>
+          <Unicode>pression officielle et les intrigues qui travaillent de tous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_080612ac" >
+        <Coords points="349,1737 348,1711 1644,1708 1646,1737 1646,1755 349,1757"/>
+        <Baseline points="349,1737 1646,1737"/>
+        <TextEquiv>
+          <Unicode>côtés contre moi. On voit la trace de ces intrigues sur les murs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fb2f3d86" >
+        <Coords points="349,1801 349,1775 1630,1781 1632,1807 1628,1827 348,1818"/>
+        <Baseline points="349,1801 1632,1807"/>
+        <TextEquiv>
+          <Unicode>couverts des affiches des deux sénateurs sortants, M.M. Lebert et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7ba819ff" >
+        <Coords points="349,1867 351,1834 375,1843 1514,1843 1518,1871 1514,1896 348,1887"/>
+        <Baseline points="349,1867 1518,1871"/>
+        <TextEquiv>
+          <Unicode>Cordelet, faisant liste commune avec l&#39;inconnu M. Brion, à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6f83e2bc" >
+        <Coords points="351,1938 351,1905 1547,1913 1547,1938 1547,1964 351,1964"/>
+        <Baseline points="351,1938 1547,1938"/>
+        <TextEquiv>
+          <Unicode>l&#39;exclusion de M. d&#39;Estournelles de Constant, connu de tous,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

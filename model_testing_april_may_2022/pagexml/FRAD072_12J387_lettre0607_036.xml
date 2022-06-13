@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.835091+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.835114+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_036.jpg" imageWidth="1746" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_cacd4a10" >
+        <Coords points="884,139 879,113 952,98 952,98 954,98 954,98 1025,106 1029,135 1029,157 917,170 917,170 916,170 916,170 914,170 914,170 881,157"/>
+        <Baseline points="884,139 1029,135"/>
+        <TextEquiv>
+          <Unicode>- 36 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_26ee1459" >
+        <Coords points="326,303 324,261 441,261 441,261 441,261 441,261 443,261 500,276 547,263 549,263 549,263 551,263 551,263 551,263 553,263 588,274 672,265 672,265 674,265 791,272 824,261 824,261 826,261 826,261 828,261 828,261 828,261 829,261 866,272 923,261 947,256 947,256 947,256 1049,254 1051,254 1051,254 1053,254 1053,254 1068,261 1088,270 1157,270 1176,261 1181,258 1181,258 1181,258 1183,258 1183,258 1183,258 1185,258 1185,258 1187,258 1187,258 1187,258 1192,261 1211,269 1313,269 1353,261 1412,250 1412,250 1414,250 1414,250 1414,250 1416,250 1416,250 1416,250 1434,261 1443,265 1592,261 1597,291 1597,309 991,324 989,324 912,316 910,316 908,316 864,325 864,325 864,325 862,325 514,320 507,320 505,320 463,329 463,329 463,329 461,329 324,320"/>
+        <Baseline points="326,303 1597,291"/>
+        <TextEquiv>
+          <Unicode>constituer la sanction que mes amis et que l&#39;opinion réclament.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_434ab0d0" >
+        <Coords points="665,366 661,342 1538,336 1544,360 1540,386 663,384"/>
+        <Baseline points="665,366 1544,360"/>
+        <TextEquiv>
+          <Unicode>J&#39;enverrai ces remerciements, à l&#39;appui des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_31cc092b" >
+        <Coords points="327,437 324,411 397,399 397,399 399,399 399,399 399,399 448,408 534,399 534,399 536,399 679,408 723,399 723,399 723,399 725,399 725,399 725,399 769,408 890,397 890,397 892,397 892,397 894,397 925,406 949,397 949,397 950,397 950,397 950,397 952,397 1179,406 1200,397 1200,397 1200,397 1201,397 1201,397 1203,397 1203,397 1298,404 1313,395 1315,395 1315,395 1315,395 1317,395 1317,395 1319,395 1452,395 1452,395 1452,395 1454,395 1454,395 1478,404 1524,395 1524,395 1524,395 1526,395 1526,395 1597,404 1619,395 1619,395 1621,395 1621,395 1621,395 1623,395 1623,395 1623,395 1625,395 1659,406 1661,432 1661,446 1562,457 1560,457 1311,450 1264,450 1234,452 1123,459 1123,461 327,461"/>
+        <Baseline points="327,437 1661,432"/>
+        <TextEquiv>
+          <Unicode>protestations que j&#39;ai mentionnées, au Ministre de l&#39;Intérieur, dès</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2b5ab7ca" >
+        <Coords points="326,503 322,479 740,466 742,466 888,474 897,474 899,474 930,465 932,465 932,465 934,465 1540,470 1544,496 1542,521 1476,514 1339,523 1330,523 1328,523 1328,523 1328,523 1326,523 1326,523 1291,514 1214,525 1201,525 1201,525 1200,525 1200,525 1200,525 1192,525 1150,516 965,525 930,527 928,527 894,527 692,518 326,529"/>
+        <Baseline points="326,503 1544,496"/>
+        <TextEquiv>
+          <Unicode>mon retour à Paris. Chacun des Délégués Sénatoriaux, ami ou</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e4cce598" >
+        <Coords points="326,569 320,545 353,534 355,534 355,534 355,534 357,534 573,541 613,532 615,532 615,532 617,532 1484,538 1487,562 1485,584 326,587"/>
+        <Baseline points="326,569 1487,562"/>
+        <TextEquiv>
+          <Unicode>adversaire, les recevra, par la poste; les journaux le/s</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b3b3557b" >
+        <Coords points="326,637 324,602 569,609 685,600 712,598 714,598 714,598 714,598 716,598 716,598 716,598 720,600 734,607 1509,598 1515,629 1513,655 324,653"/>
+        <Baseline points="326,637 1515,629"/>
+        <TextEquiv>
+          <Unicode>publieront.- Ma victoire est celle d&#39;un parti, d&#39;une idée,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b00ba76a" >
+        <Coords points="327,703 326,677 588,677 593,675 633,666 633,666 633,666 635,666 1143,671 1159,671 1161,671 1223,662 1223,662 1225,662 1478,671 1482,695 1482,721 327,723"/>
+        <Baseline points="327,703 1482,695"/>
+        <TextEquiv>
+          <Unicode>d&#39;une cause. Elle ne doit être ni trop discrète, ni sans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1af2550b" >
+        <Coords points="326,768 322,734 542,735 545,765 542,792 324,789"/>
+        <Baseline points="326,768 545,765"/>
+        <TextEquiv>
+          <Unicode>lendemain.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a6350fce" >
+        <Coords points="665,834 659,812 685,800 685,800 685,800 687,800 687,800 688,800 978,807 1035,807 1592,796 1597,825 1595,856 665,856"/>
+        <Baseline points="665,834 1597,825"/>
+        <TextEquiv>
+          <Unicode>C&#39;est pourquoi j&#39;adresse € &quot;JOURNAL FLECHOIS&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_34e66c29" >
+        <Coords points="326,904 324,869 507,876 571,867 578,867 578,867 580,867 580,867 580,867 582,867 582,867 584,867 584,867 584,867 595,876 606,867 608,867 608,867 608,867 608,867 610,867 610,867 610,867 611,867 622,867 721,875 738,867 742,865 742,865 742,865 743,865 743,865 745,865 745,865 760,867 817,876 930,876 949,865 954,864 954,864 954,864 956,864 956,864 958,864 958,864 958,864 960,864 960,864 967,865 983,873 1058,865 1091,864 1093,864 1093,864 1115,865 1170,873 1185,865 1190,864 1190,864 1190,864 1192,864 1192,864 1194,864 1544,865 1548,897 1549,915 1522,926 1522,926 1520,926 1520,926 1518,926 1242,919 1194,928 1194,928 1194,928 1192,928 960,920 932,930 932,930 930,930 930,930 928,930 324,922"/>
+        <Baseline points="326,904 1548,897"/>
+        <TextEquiv>
+          <Unicode>les communications ci-jointes, destinées à bien souligner le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e9c66605" >
+        <Coords points="327,972 326,939 1119,941 1123,964 1121,992 326,990"/>
+        <Baseline points="327,972 1123,964"/>
+        <TextEquiv>
+          <Unicode>caractère et la portée de mon élection.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5020bd69" >
+        <Coords points="666,1103 665,1067 1524,1069 1527,1100 1526,1120 666,1122"/>
+        <Baseline points="666,1103 1527,1100"/>
+        <TextEquiv>
+          <Unicode>Le lendemain Mardi après-midi, je rentre à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e10ea826" >
+        <Coords points="327,1171 327,1140 1588,1146 1588,1171 1588,1190 327,1190"/>
+        <Baseline points="327,1171 1588,1171"/>
+        <TextEquiv>
+          <Unicode>Paris.- J&#39;ai réglé avec soin mes comptes et tout ce qui reste</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4dc02dec" >
+        <Coords points="326,1239 318,1215 338,1202 340,1202 340,1202 340,1202 342,1202 342,1202 344,1202 344,1202 450,1212 500,1202 500,1202 500,1202 501,1202 501,1202 558,1212 597,1202 599,1202 599,1202 600,1202 600,1202 716,1212 718,1213 965,1213 971,1210 994,1201 994,1201 996,1201 996,1201 996,1201 998,1201 1101,1210 1115,1210 1119,1210 1139,1201 1139,1201 1141,1201 1141,1201 1143,1201 1143,1201 1143,1201 1145,1201 1170,1208 1176,1210 1201,1208 1306,1201 1308,1201 1308,1201 1308,1201 1309,1201 1309,1201 1326,1208 1333,1210 1615,1206 1621,1235 1617,1263 324,1259"/>
+        <Baseline points="326,1239 1621,1235"/>
+        <TextEquiv>
+          <Unicode>à la traîne après de pareilles campagnes. Je ne suis pour ainsi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_14440e1c" >
+        <Coords points="327,1303 327,1276 1650,1281 1652,1307 1648,1334 1262,1325 1220,1331 1189,1334 1189,1334 1187,1334 1187,1334 1187,1334 1185,1334 1170,1331 1154,1325 1128,1329 1099,1334 1099,1334 1097,1334 1097,1334 1097,1334 1095,1334 1095,1334 1095,1334 1093,1334 1093,1334 1088,1329 1082,1323 991,1323 965,1327 936,1332 936,1332 936,1332 934,1332 807,1325 749,1323 743,1325 727,1332 727,1332 725,1332 725,1332 725,1334 445,1334 443,1332 326,1320"/>
+        <Baseline points="327,1303 1652,1307"/>
+        <TextEquiv>
+          <Unicode>dire pas sorti de ma rue Ducré. J&#39;ai fui tout triomphe personnel.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f9abf3e3" >
+        <Coords points="326,1374 324,1342 1597,1347 1601,1369 1599,1387 326,1393"/>
+        <Baseline points="326,1374 1601,1369"/>
+        <TextEquiv>
+          <Unicode>L&#39;organisation de demain, tel€ a été mon scrupule et ma préoc-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_deba5842" >
+        <Coords points="324,1439 324,1413 1577,1415 1579,1442 1577,1468 998,1468 996,1466 996,1466 958,1461 934,1457 784,1459 344,1464 342,1464 342,1464 340,1464 340,1464 340,1464 320,1453"/>
+        <Baseline points="324,1439 1579,1442"/>
+        <TextEquiv>
+          <Unicode>cupation, la conclusion de ma campagne. Et cette organisation,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c54fe2a9" >
+        <Coords points="327,1506 327,1481 1617,1484 1619,1510 1615,1532 326,1526"/>
+        <Baseline points="327,1506 1619,1510"/>
+        <TextEquiv>
+          <Unicode>chacun en a compris la nécessité et va se mettre à la reprendre.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_27a27bb9" >
+        <Coords points="663,1574 663,1539 723,1548 820,1539 826,1539 826,1539 828,1539 828,1539 829,1539 829,1539 829,1539 829,1539 831,1539 831,1539 831,1541 837,1545 846,1539 851,1536 853,1536 853,1536 853,1536 855,1536 855,1536 857,1536 934,1536 934,1536 934,1536 936,1536 936,1536 936,1536 938,1536 943,1539 952,1547 967,1539 978,1536 978,1536 980,1536 980,1536 982,1536 982,1536 982,1536 983,1536 983,1536 983,1536 991,1539 1009,1550 1053,1550 1064,1539 1068,1537 1068,1536 1069,1536 1069,1536 1069,1536 1071,1536 1071,1536 1073,1536 1126,1536 1126,1536 1126,1536 1128,1536 1128,1536 1128,1536 1130,1536 1130,1536 1130,1537 1134,1541 1143,1548 1333,1548 1344,1541 1353,1536 1355,1536 1355,1536 1357,1536 1357,1536 1357,1536 1359,1536 1359,1536 1359,1536 1361,1536 1361,1536 1363,1536 1363,1536 1370,1541 1379,1548 1403,1541 1418,1537 1419,1537 1419,1537 1421,1537 1421,1537 1421,1537 1423,1537 1423,1537 1432,1541 1451,1548 1582,1543 1584,1574 1584,1603 663,1603"/>
+        <Baseline points="663,1574 1584,1574"/>
+        <TextEquiv>
+          <Unicode>Me voici réélu non pour 9 ans, selon le terme</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9fb3ac56" >
+        <Coords points="327,1640 327,1603 371,1612 663,1607 747,1605 749,1605 749,1605 751,1605 751,1605 758,1607 776,1614 994,1611 1159,1607 1161,1607 1636,1618 1636,1645 1634,1662 327,1664"/>
+        <Baseline points="327,1640 1636,1645"/>
+        <TextEquiv>
+          <Unicode>constitutionnel, mais pour ce qui reste d&#39;années à courir, c&#39;est-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bf02d536" >
+        <Coords points="326,1706 326,1680 1579,1680 1581,1709 1577,1728 324,1724"/>
+        <Baseline points="326,1706 1581,1709"/>
+        <TextEquiv>
+          <Unicode>à-dire 7 ans, pour la s érie renouvelable en 1927, dont je fais</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d9500f60" >
+        <Coords points="326,1774 326,1748 1601,1752 1603,1777 1599,1801 324,1797"/>
+        <Baseline points="326,1774 1603,1777"/>
+        <TextEquiv>
+          <Unicode>partie. Je sors de cette crise d&#39;autant plus fortifié que j&#39;ai</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2991dda1" >
+        <Coords points="327,1841 327,1807 1617,1810 1619,1845 1617,1863 1112,1871 1110,1871 1110,1871 1108,1871 1108,1871 1108,1871 1090,1861 1090,1861 1090,1861 1062,1869 1060,1869 1060,1869 1060,1869 1058,1869 894,1860 873,1860 872,1860 861,1869 861,1869 859,1869 859,1869 859,1869 857,1869 857,1869 857,1871 780,1871 778,1869 655,1860 564,1869 564,1869 562,1869 562,1869 505,1860 419,1869 419,1869 417,1869 417,1869 326,1856"/>
+        <Baseline points="327,1841 1619,1845"/>
+        <TextEquiv>
+          <Unicode>été plus attaqué. Et il me revient de Paris que mon succès, dont</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f7bd0afe" >
+        <Coords points="326,1907 327,1872 351,1882 393,1872 399,1872 399,1872 399,1872 401,1872 401,1872 403,1872 404,1872 437,1883 681,1883 714,1874 729,1872 729,1872 729,1872 731,1872 731,1872 732,1872 732,1872 740,1874 758,1882 791,1876 807,1872 807,1872 809,1872 809,1872 846,1876 908,1882 985,1876 1029,1874 1031,1874 1031,1874 1031,1874 1033,1874 1033,1874 1040,1876 1055,1883 1068,1878 1075,1874 1075,1874 1077,1874 1077,1874 1077,1874 1079,1874 1079,1874 1101,1878 1137,1883 1192,1878 1233,1874 1233,1874 1234,1874 1234,1874 1262,1878 1291,1883 1298,1878 1306,1874 1308,1874 1308,1874 1308,1874 1309,1874 1309,1874 1311,1874 1311,1874 1311,1874 1337,1880 1361,1883 1579,1882 1582,1911 1581,1931 326,1931"/>
+        <Baseline points="326,1907 1582,1911"/>
+        <TextEquiv>
+          <Unicode>on était inquiet, aura été un son de cloche de bon augure pour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b99ad591" >
+        <Coords points="326,1973 326,1942 1555,1942 1557,1977 1555,2006 991,2006 989,2004 989,2004 952,1999 927,1995 767,1997 368,2002 366,2002 366,2002 364,2002 322,1991"/>
+        <Baseline points="326,1973 1557,1977"/>
+        <TextEquiv>
+          <Unicode>les partisans nombreux mais souvent timides de nos XXX idées.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

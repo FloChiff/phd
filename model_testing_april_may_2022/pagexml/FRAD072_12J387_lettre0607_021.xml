@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.706618+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.706640+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_021.jpg" imageWidth="1731" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_1ad5fab6" >
+        <Coords points="888,150 884,115 1031,120 1034,146 1036,162 961,183 959,183 959,183 958,183 958,183 958,183 886,166"/>
+        <Baseline points="888,150 1034,146"/>
+        <TextEquiv>
+          <Unicode>- 21 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_99692912" >
+        <Coords points="316,292 315,258 1311,258 1447,256 1450,254 1463,245 1465,245 1465,245 1465,245 1467,245 1467,245 1469,245 1469,245 1542,254 1545,281 1544,309 316,311"/>
+        <Baseline points="316,292 1545,281"/>
+        <TextEquiv>
+          <Unicode>travers le jardin, des fils de fer tendus pour sécher le linge</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a54fdb95" >
+        <Coords points="318,360 313,335 362,320 364,320 366,320 368,320 404,329 558,320 560,320 562,320 600,333 732,333 780,344 828,344 954,338 945,318 947,318 987,329 1029,318 1025,324 1033,318 1034,318 1036,318 1055,331 1115,331 1205,318 1207,318 1208,318 1232,329 1458,329 1524,316 1525,316 1527,316 1551,329 1611,329 1615,355 1613,378 318,380"/>
+        <Baseline points="318,360 1615,355"/>
+        <TextEquiv>
+          <Unicode>qu&#39;on lave à la maison, et se cogner le nez, à la tombée du jour.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3e5f46bc" >
+        <Coords points="710,419 708,395 760,386 760,386 762,386 926,395 939,395 939,395 958,386 958,386 958,386 959,386 959,386 961,386 961,386 1066,395 1067,395 1069,395 1115,386 1115,386 1115,386 1117,386 1117,386 1117,386 1119,386 1148,397 1154,399 1360,399 1362,397 1382,388 1382,388 1384,388 1384,388 1384,388 1386,388 1593,399 1595,422 1591,443 707,439"/>
+        <Baseline points="710,419 1595,422"/>
+        <TextEquiv>
+          <Unicode>Au premier étage, une grande chambre froide,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9968951c" >
+        <Coords points="316,490 313,461 1481,457 1487,487 1485,510 316,510"/>
+        <Baseline points="316,490 1487,487"/>
+        <TextEquiv>
+          <Unicode>sur la rue, au-dessus du salon, et une toute petite sur le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_da3e5fe7" >
+        <Coords points="316,558 315,529 1135,529 1210,521 1236,519 1236,519 1238,519 1269,521 1381,529 1392,519 1392,519 1392,519 1393,519 1393,519 1393,519 1395,519 1395,519 1395,519 1397,519 1412,519 1518,529 1597,519 1602,554 1599,580 474,576 316,585"/>
+        <Baseline points="316,558 1602,554"/>
+        <TextEquiv>
+          <Unicode>jardin; c&#39;est celle-là que j&#39;ai choisie. Là je suis bien seul,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_30c2a642" >
+        <Coords points="316,624 309,600 324,589 324,589 326,589 326,589 326,589 327,589 327,589 329,589 1597,595 1600,618 1597,648 315,646"/>
+        <Baseline points="316,624 1600,618"/>
+        <TextEquiv>
+          <Unicode>il n&#39;y a pas plus de campagne électorale, plus de ville, mais seule-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7c6bee51" >
+        <Coords points="315,692 315,664 1599,664 1599,692 1599,712 315,717"/>
+        <Baseline points="315,692 1599,692"/>
+        <TextEquiv>
+          <Unicode>ment la quiétude de tous les petits jardins de toutes les/petites</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9e30fd0b" >
+        <Coords points="315,754 313,728 366,719 366,719 368,719 368,719 368,719 370,719 370,719 370,719 371,719 371,719 381,728 382,730 485,730 489,728 520,719 522,719 522,719 523,719 523,719 622,728 630,728 631,728 657,719 657,719 659,719 659,719 661,719 661,719 661,719 663,719 663,719 686,728 707,719 707,719 707,719 708,719 708,719 710,719 710,719 772,728 785,730 800,728 868,721 868,721 870,721 870,721 870,721 912,730 919,732 1503,732 1505,759 1503,776 1111,785 1110,785 710,774 327,781 326,781 326,781 324,781 324,781 324,781 322,781 322,781 309,770"/>
+        <Baseline points="315,754 1505,759"/>
+        <TextEquiv>
+          <Unicode>maisons côte à côte ou adossées; et, par dessus ces petits</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e93f2c03" >
+        <Coords points="315,823 315,796 1621,796 1622,827 1619,849 313,842"/>
+        <Baseline points="315,823 1622,827"/>
+        <TextEquiv>
+          <Unicode>domaines, le ciel, toujours le ciel, consolateur, inspirateur, la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_222c3686" >
+        <Coords points="315,889 315,854 707,862 727,858 754,853 754,853 754,853 756,853 756,853 758,853 758,853 772,858 782,862 789,858 802,853 802,853 802,853 804,853 804,853 805,853 805,853 805,853 807,853 826,858 838,864 849,860 860,854 860,854 862,854 862,854 862,854 864,854 864,854 901,860 930,865 1025,865 1031,862 1040,854 1042,854 1042,854 1042,854 1044,854 1044,854 1044,854 1045,854 1221,864 1245,864 1251,864 1306,854 1306,854 1307,854 1307,854 1307,854 1360,865 1362,893 1360,911 329,917 327,917 327,917 326,917 326,917 326,917 324,917 307,906"/>
+        <Baseline points="315,889 1362,893"/>
+        <TextEquiv>
+          <Unicode>grande promesse, la grande justice, l&#39;espoirt infini.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_48ffeff9" >
+        <Coords points="708,953 708,920 1595,935 1595,961 1591,983 705,977"/>
+        <Baseline points="708,953 1595,961"/>
+        <TextEquiv>
+          <Unicode>Dans ma toute petite chambre, en plein midi,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_542be948" >
+        <Coords points="298,1019 298,992 1450,992 1450,992 1542,1003 1544,1025 1542,1043 732,1050 730,1050 730,1050 677,1041 331,1049 329,1049 329,1049 329,1049 327,1049 294,1038"/>
+        <Baseline points="298,1019 1544,1025"/>
+        <TextEquiv>
+          <Unicode>-heureusement par ces jours sombres,- et bien chauffée au bois</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a2b8446c" >
+        <Coords points="313,1089 313,1061 1558,1063 1560,1093 1556,1114 311,1107"/>
+        <Baseline points="313,1089 1560,1093"/>
+        <TextEquiv>
+          <Unicode>de chêne par Emilienne et par Mme. Baroux qui prie le Bon Dieu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f850fc67" >
+        <Coords points="313,1158 313,1127 1481,1133 1481,1158 1481,1179 313,1179"/>
+        <Baseline points="313,1158 1481,1158"/>
+        <TextEquiv>
+          <Unicode>pour mon succès, j&#39;ai passé trois semaines de sécurité, de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c5c142c9" >
+        <Coords points="313,1221 311,1195 619,1186 620,1186 620,1186 672,1195 688,1197 703,1195 745,1188 745,1188 745,1188 747,1188 882,1195 958,1199 981,1195 1014,1190 1014,1190 1016,1190 1108,1190 1108,1190 1108,1190 1110,1190 1110,1190 1110,1190 1111,1190 1111,1190 1111,1191 1117,1195 1121,1199 1163,1195 1216,1191 1216,1191 1218,1191 1218,1191 1219,1191 1219,1191 1232,1195 1247,1201 1540,1197 1544,1228 1542,1246 1254,1255 1252,1255 1252,1255 1251,1255 1251,1255 1251,1255 1249,1255 1236,1246 1232,1246 313,1246"/>
+        <Baseline points="313,1221 1544,1228"/>
+        <TextEquiv>
+          <Unicode>repos, de détente; préparant mes itinéraires, mes plans, mes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c341fba6" >
+        <Coords points="311,1287 311,1261 1556,1266 1558,1292 1556,1312 348,1316 346,1316 346,1316 344,1316 307,1305"/>
+        <Baseline points="311,1287 1558,1292"/>
+        <TextEquiv>
+          <Unicode>lettres, mes circulaires, recevant aussi mes amis, à commencer</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ca526672" >
+        <Coords points="311,1356 311,1329 694,1329 694,1329 719,1320 719,1320 721,1320 721,1320 721,1320 723,1320 723,1320 725,1320 763,1331 769,1331 769,1331 778,1321 778,1321 780,1321 780,1321 780,1321 782,1321 782,1321 782,1321 783,1321 965,1331 981,1331 983,1331 1003,1321 1003,1321 1005,1321 1005,1321 1007,1321 1179,1321 1179,1321 1179,1321 1181,1321 1181,1321 1181,1321 1201,1332 1203,1332 1205,1332 1223,1323 1223,1323 1225,1323 1225,1323 1225,1323 1227,1323 1227,1323 1229,1323 1229,1323 1229,1323 1245,1332 1247,1332 1262,1332 1355,1323 1357,1323 1628,1334 1628,1362 1626,1382 326,1384 324,1384 324,1384 322,1384 322,1384 322,1384 320,1384 320,1384 305,1373"/>
+        <Baseline points="311,1356 1628,1362"/>
+        <TextEquiv>
+          <Unicode>par mon petit Fertré accourant aux ordres dès le matin, mais pour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d66693e0" >
+        <Coords points="311,1420 311,1389 1540,1402 1542,1428 1538,1450 309,1437"/>
+        <Baseline points="311,1420 1542,1428"/>
+        <TextEquiv>
+          <Unicode>un instant seulement. Le travail une fois fini, la réflexion</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8011a65f" >
+        <Coords points="311,1486 311,1451 370,1461 512,1453 522,1453 523,1453 523,1453 523,1453 527,1453 573,1462 685,1455 694,1455 696,1455 1584,1466 1586,1495 1582,1514 309,1512"/>
+        <Baseline points="311,1486 1586,1495"/>
+        <TextEquiv>
+          <Unicode>bien arrêtée, je passais du 37 au 33 et je déjeunais en famille</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_10b77dfc" >
+        <Coords points="311,1556 311,1526 419,1530 441,1526 478,1519 478,1519 478,1519 479,1519 479,1519 479,1519 481,1519 503,1526 516,1532 718,1532 723,1528 734,1521 736,1521 736,1521 738,1521 738,1521 738,1521 740,1521 740,1521 741,1521 769,1528 778,1530 780,1528 787,1521 787,1521 789,1521 789,1521 789,1521 791,1521 791,1521 791,1521 793,1521 793,1521 793,1521 794,1521 816,1528 818,1528 820,1528 888,1519 888,1519 890,1519 890,1519 890,1519 892,1519 923,1528 934,1532 945,1530 979,1521 981,1521 981,1521 983,1521 1174,1530 1210,1532 1214,1530 1227,1521 1229,1521 1229,1521 1229,1521 1230,1521 1230,1521 1232,1521 1232,1521 1232,1521 1234,1521 1265,1532 1271,1534 1547,1534 1549,1559 1545,1578 309,1574"/>
+        <Baseline points="311,1556 1549,1559"/>
+        <TextEquiv>
+          <Unicode>avec Fertré et ses enfants, sa jeune femme faisant la cuisine,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_736759bc" >
+        <Coords points="313,1622 313,1596 1553,1603 1555,1629 1551,1647 311,1638"/>
+        <Baseline points="313,1622 1555,1629"/>
+        <TextEquiv>
+          <Unicode>tout en causant, déjeunant, elle-même servant, riant, en vraie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_992dda1f" >
+        <Coords points="311,1688 313,1651 351,1660 463,1653 465,1653 838,1664 1066,1656 1067,1656 1069,1656 1069,1656 1069,1656 1071,1656 1071,1656 1071,1656 1089,1666 1573,1660 1575,1697 1573,1713 566,1717 564,1717 564,1717 562,1717 562,1717 562,1717 560,1717 560,1717 549,1708 329,1715 327,1715 327,1715 327,1715 326,1715 326,1715 324,1715 305,1704"/>
+        <Baseline points="311,1688 1575,1697"/>
+        <TextEquiv>
+          <Unicode>Française. Plaisants repas où la méchanceté de nos adversaires</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_11f593af" >
+        <Coords points="311,1755 311,1720 1611,1730 1613,1764 1610,1786 309,1774"/>
+        <Baseline points="311,1755 1613,1764"/>
+        <TextEquiv>
+          <Unicode>n&#39;existait plus ; où nous parlions surtout des choses essentielles</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_43955b6b" >
+        <Coords points="311,1821 309,1796 567,1786 569,1786 569,1786 569,1786 609,1796 622,1797 635,1796 668,1788 668,1788 668,1788 670,1788 670,1788 672,1788 696,1796 705,1797 708,1796 719,1788 721,1788 721,1788 723,1788 723,1788 723,1788 725,1788 725,1788 725,1788 758,1796 771,1797 804,1796 895,1788 897,1788 897,1788 897,1788 899,1788 899,1788 915,1796 925,1801 1183,1801 1192,1796 1208,1790 1208,1790 1210,1790 1210,1790 1212,1790 1212,1790 1212,1790 1214,1790 1214,1790 1214,1790 1216,1790 1223,1796 1232,1801 1533,1797 1536,1829 1535,1845 311,1847"/>
+        <Baseline points="311,1821 1536,1829"/>
+        <TextEquiv>
+          <Unicode>dans ce petit monde: les poules du jardin qui pondaient très</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_751d1bcd" >
+        <Coords points="311,1887 311,1852 368,1861 547,1854 577,1854 578,1854 578,1854 591,1856 652,1863 804,1858 870,1856 871,1856 1593,1869 1595,1894 1593,1922 1276,1927 1274,1927 1274,1927 1273,1927 1273,1927 1258,1922 1241,1916 1075,1916 1055,1922 1044,1926 1042,1926 1042,1926 1042,1926 1040,1926 1040,1926 1038,1926 1038,1926 1038,1926 1036,1926 1033,1922 1022,1915 921,1915 892,1922 884,1924 882,1924 882,1924 882,1924 881,1924 881,1924 879,1924 870,1922 840,1915 809,1922 796,1924 796,1924 796,1924 794,1924 794,1924 793,1924 783,1922 756,1915 747,1922 745,1924 745,1924 743,1924 743,1924 743,1924 741,1924 741,1924 741,1926 659,1926 657,1924 611,1922 476,1913 452,1922 448,1922 448,1922 446,1922 446,1922 445,1922 309,1920"/>
+        <Baseline points="311,1887 1595,1894"/>
+        <TextEquiv>
+          <Unicode>régulièrement, le coq batailleur et bien symbolique, toujours en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

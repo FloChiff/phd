@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.925357+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.925379+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J388_lettre0844_004.jpg" imageWidth="1698" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_07219b86" >
+        <Coords points="835,205 837,186 930,185 934,201 936,228 897,223 837,227"/>
+        <Baseline points="836,206 936,203"/>
+        <TextEquiv>
+          <Unicode>- 4 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cbd4b115" >
+        <Coords points="256,342 249,314 263,303 263,303 265,303 265,303 265,303 267,303 267,303 269,303 269,303 269,303 313,313 344,303 346,303 346,303 346,303 348,303 348,303 417,313 423,313 434,313 544,303 545,303 545,303 545,303 547,303 569,311 578,313 1555,298 1560,335 1558,355 256,362"/>
+        <Baseline points="256,342 1560,335"/>
+        <TextEquiv>
+          <Unicode>confusion du bien et du mal, les embusqués et les voleurs récom-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e0e1f0a2" >
+        <Coords points="254,410 250,378 1571,371 1577,402 1575,426 932,426 917,432 912,435 912,435 912,435 910,435 910,435 908,435 816,433 586,428 567,437 566,437 566,437 566,437 564,437 564,437 562,437 533,437 348,430 254,439"/>
+        <Baseline points="254,410 1577,402"/>
+        <TextEquiv>
+          <Unicode>pensés, les héros oubliés; voilà la règle pour le moment. Quan-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ed8e4acd" >
+        <Coords points="254,476 250,452 307,439 307,439 309,439 309,439 404,448 435,439 437,439 437,439 437,439 439,439 642,448 763,437 763,437 765,437 765,437 765,437 767,437 796,448 901,448 912,437 912,437 914,437 914,437 914,437 915,437 915,437 915,437 917,437 917,437 919,437 919,437 946,446 1016,437 1016,437 1018,437 1018,437 1018,437 1020,437 1020,437 1042,446 1155,437 1157,437 1395,444 1417,435 1417,435 1419,435 1419,435 1419,435 1421,435 1573,446 1577,470 1575,488 254,499"/>
+        <Baseline points="254,476 1577,470"/>
+        <TextEquiv>
+          <Unicode>tité de femmes laissées seules, dans les villes, avec des alloca-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9826ef2a" >
+        <Coords points="254,543 247,516 261,505 261,505 263,505 263,505 263,505 265,505 265,505 267,505 1593,512 1597,540 1595,563 254,563"/>
+        <Baseline points="254,543 1597,540"/>
+        <TextEquiv>
+          <Unicode>tions inattendues, des pensions, une aisance relativement considé-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8a818100" >
+        <Coords points="252,604 250,578 1608,576 1610,607 1608,627 943,637 941,637 941,637 939,637 939,637 939,637 917,626 915,626 908,626 826,635 826,635 824,635 666,626 666,626 666,626 637,635 635,635 635,635 635,637 267,637 265,635 265,635 263,635 263,635 263,635 261,635 261,635 247,624"/>
+        <Baseline points="252,604 1610,607"/>
+        <TextEquiv>
+          <Unicode>rables, des goûts de dépenses et d&#39;amusements satisfaits, s&#39;étaient</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_238fd55a" >
+        <Coords points="252,673 250,640 787,648 811,642 831,638 831,638 831,638 833,638 833,638 866,642 901,648 915,644 934,637 934,637 936,637 936,637 937,637 1077,637 1077,637 1077,637 1078,637 1078,637 1078,637 1080,637 1080,637 1088,644 1089,646 1091,644 1106,637 1106,637 1106,637 1108,637 1108,637 1110,637 1110,637 1110,637 1111,637 1111,637 1130,644 1133,648 1355,648 1357,646 1377,637 1377,637 1379,637 1379,637 1379,637 1381,637 1381,637 1381,637 1382,637 1382,637 1384,637 1384,637 1395,646 1397,648 1558,648 1562,670 1560,697 252,697"/>
+        <Baseline points="252,673 1562,670"/>
+        <TextEquiv>
+          <Unicode>habituées à se passer de leurs maris. Et à mesure que la guerre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_66e29fdb" >
+        <Coords points="252,745 250,710 1606,714 1610,739 1610,765 252,765"/>
+        <Baseline points="252,745 1610,739"/>
+        <TextEquiv>
+          <Unicode>se prolongeait, s&#39;éternisait, deux ans, trois ans, quatre ans, dans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5742d34b" >
+        <Coords points="252,811 250,776 1577,778 1580,807 1578,831 252,831"/>
+        <Baseline points="252,811 1580,807"/>
+        <TextEquiv>
+          <Unicode>l&#39;attente de la mort, XXXXXXX on en avait pris son parti, même au</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dfb2ca17" >
+        <Coords points="254,878 254,842 1382,849 1386,849 1419,840 1421,840 1421,840 1421,840 1423,840 1580,851 1580,878 1578,900 252,898"/>
+        <Baseline points="254,878 1580,878"/>
+        <TextEquiv>
+          <Unicode>front; la mort était là toute proche, imminente; à quoi bon les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fcf8a560" >
+        <Coords points="254,944 250,917 1459,906 1465,941 1463,961 254,964"/>
+        <Baseline points="254,944 1465,941"/>
+        <TextEquiv>
+          <Unicode>illusions ? &quot;Ne t&#39;en fais pas&quot;, tel est le mot profond qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d5498343" >
+        <Coords points="250,1012 247,986 289,975 291,975 291,975 293,975 293,975 293,975 294,975 324,984 402,975 402,975 404,975 404,975 459,984 507,975 507,975 507,975 509,975 652,984 754,975 756,975 862,975 862,975 862,975 864,975 864,975 864,975 866,975 882,986 1128,986 1139,975 1139,975 1141,975 1141,975 1141,975 1142,975 1142,975 1144,975 1560,986 1560,1012 1560,1032 250,1032"/>
+        <Baseline points="250,1012 1560,1012"/>
+        <TextEquiv>
+          <Unicode>résumait la douloureuse résignation de nos combattants, tous les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4a344c81" >
+        <Coords points="250,1080 247,1049 1536,1047 1542,1076 1538,1098 296,1098 250,1107"/>
+        <Baseline points="250,1080 1542,1076"/>
+        <TextEquiv>
+          <Unicode>jours et à tout instant prêts au sacrifice. C&#39;est dans ce sens</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_34c28170" >
+        <Coords points="250,1146 247,1107 285,1105 287,1105 287,1105 287,1105 289,1105 289,1105 293,1107 322,1120 355,1107 357,1107 357,1107 359,1107 359,1107 360,1107 360,1107 368,1107 437,1118 467,1109 478,1105 479,1105 479,1105 481,1105 648,1105 648,1105 648,1105 650,1105 668,1111 699,1120 800,1118 807,1113 816,1105 818,1105 818,1105 818,1105 820,1105 820,1105 820,1105 822,1105 822,1105 862,1113 893,1118 934,1113 974,1109 974,1109 976,1109 976,1109 976,1109 978,1109 978,1109 979,1109 987,1114 996,1120 1097,1120 1104,1114 1122,1107 1122,1107 1124,1107 1124,1107 1124,1107 1126,1107 1126,1107 1126,1107 1128,1107 1128,1107 1130,1107 1142,1116 1150,1120 1478,1120 1481,1142 1478,1169 249,1168"/>
+        <Baseline points="250,1146 1481,1142"/>
+        <TextEquiv>
+          <Unicode>que Jacques Blance cite ce mot sublime et lamentable de l&#39;un</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b88171f4" >
+        <Coords points="252,1210 250,1182 1584,1179 1586,1215 1582,1241 250,1230"/>
+        <Baseline points="252,1210 1586,1215"/>
+        <TextEquiv>
+          <Unicode>d&#39;eux, répondant à son chef qui le pressait d&#39;écrire à sa famille,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bb64320e" >
+        <Coords points="250,1279 250,1244 1540,1250 1540,1279 1540,1298 250,1305"/>
+        <Baseline points="250,1279 1540,1279"/>
+        <TextEquiv>
+          <Unicode>inquiète de rester sans nouvelles et de le savoir en péril dans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8396ef17" >
+        <Coords points="250,1347 250,1310 1500,1320 1502,1347 1500,1367 250,1376"/>
+        <Baseline points="250,1347 1502,1347"/>
+        <TextEquiv>
+          <Unicode>les tranchées de première ligne: &quot;Non, mon Capitaine, il vaut</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_12d97882" >
+        <Coords points="249,1415 247,1382 1534,1382 1538,1411 1536,1433 249,1437"/>
+        <Baseline points="249,1415 1538,1411"/>
+        <TextEquiv>
+          <Unicode>mieux qu&#39;ils s&#39;habituent à nous oublier !&quot;, tant il s&#39;attendait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3d827b97" >
+        <Coords points="249,1481 249,1448 1556,1457 1556,1481 1556,1501 249,1508"/>
+        <Baseline points="249,1481 1556,1481"/>
+        <TextEquiv>
+          <Unicode>à être tué, comme les camarades. Beaucoup de veuves se sont re-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6e6a640a" >
+        <Coords points="247,1547 243,1515 489,1508 490,1508 490,1508 490,1508 492,1508 492,1508 501,1512 514,1519 703,1519 740,1510 754,1508 754,1508 756,1508 756,1508 756,1508 758,1508 765,1510 789,1517 868,1510 903,1506 903,1506 904,1506 904,1506 906,1506 906,1506 906,1506 908,1506 912,1508 925,1517 1163,1517 1194,1506 1196,1506 1197,1506 1197,1506 1197,1506 1199,1506 1199,1506 1207,1506 1274,1515 1355,1506 1355,1506 1357,1506 1357,1506 1359,1506 1359,1506 1359,1506 1360,1506 1360,1506 1373,1517 1467,1517 1551,1504 1556,1543 1553,1572 245,1567"/>
+        <Baseline points="247,1547 1556,1543"/>
+        <TextEquiv>
+          <Unicode>mariées. Le Maire du Mans est chargé de remettre aux veuves une</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_12bd71ea" >
+        <Coords points="258,1614 254,1589 740,1578 741,1578 1042,1585 1058,1585 1062,1585 1133,1576 1133,1576 1135,1576 1476,1585 1480,1609 1478,1638 1208,1640 1207,1640 1207,1640 1205,1640 1205,1640 1205,1640 1203,1640 1201,1638 1186,1629 1104,1638 1089,1638 1089,1638 1088,1638 1088,1638 1086,1638 1086,1638 1086,1638 1084,1638 1084,1638 1071,1629 1045,1636 1034,1640 1033,1640 1033,1640 1033,1640 1031,1640 1031,1640 1029,1640 1016,1636 994,1631 987,1636 981,1642 981,1642 979,1642 979,1642 979,1642 978,1642 978,1642 978,1644 908,1644 906,1642 906,1642 904,1642 904,1642 904,1642 903,1642 903,1642 897,1636 890,1631 862,1636 833,1642 833,1642 833,1642 831,1642 677,1636 598,1633 589,1634 566,1644 566,1644 564,1644 564,1644 562,1644 256,1633"/>
+        <Baseline points="258,1614 1480,1609"/>
+        <TextEquiv>
+          <Unicode>plaque de bronze ou un diplôme avec ces mots: &quot;Mort pour la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b762b709" >
+        <Coords points="249,1678 247,1647 1606,1645 1610,1682 1608,1706 342,1708 340,1708 247,1697"/>
+        <Baseline points="249,1678 1610,1682"/>
+        <TextEquiv>
+          <Unicode>France&quot;, au-dessous du nom du combattant qui n&#39;est plus. La moitié</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_77c36f83" >
+        <Coords points="247,1746 247,1711 1586,1722 1588,1750 1586,1770 247,1770"/>
+        <Baseline points="247,1746 1588,1750"/>
+        <TextEquiv>
+          <Unicode>de ces témoignages n&#39;arrivent pas à leur adresse ou on les refuse.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2447062d" >
+        <Coords points="245,1816 239,1790 260,1779 260,1779 260,1779 261,1779 261,1779 261,1779 263,1779 432,1790 474,1790 619,1790 620,1788 650,1779 652,1779 652,1779 652,1779 653,1779 653,1779 655,1779 655,1779 677,1788 679,1788 679,1788 710,1779 712,1779 712,1779 712,1779 714,1779 714,1779 716,1779 749,1788 752,1788 767,1788 908,1779 910,1779 1075,1786 1082,1786 1082,1786 1102,1777 1102,1777 1102,1777 1104,1777 1104,1777 1106,1777 1434,1786 1437,1812 1437,1836 976,1845 974,1845 974,1845 932,1836 926,1836 919,1836 879,1845 879,1845 879,1845 877,1845 877,1845 877,1845 875,1845 851,1836 848,1836 848,1836 837,1845 837,1845 835,1845 835,1845 833,1845 833,1845 833,1845 708,1847 707,1847 707,1847 648,1838 593,1847 593,1847 593,1847 591,1847 591,1847 589,1847 589,1847 564,1838 545,1847 545,1847 545,1847 544,1847 544,1847 544,1847 542,1847 542,1847 470,1838 415,1847 415,1847 413,1847 413,1847 413,1847 368,1838 357,1847 357,1847 355,1847 355,1847 355,1847 353,1847 353,1847 353,1847 351,1847 351,1847 349,1847 313,1838 298,1847 296,1847 296,1847 296,1847 294,1847 294,1847 293,1847 293,1847 293,1847 243,1836"/>
+        <Baseline points="245,1816 1437,1812"/>
+        <TextEquiv>
+          <Unicode>Le mort est mort, n&#39;en parlons plus. Son souvenir même est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3eeda0f2" >
+        <Coords points="249,1883 247,1850 445,1852 448,1880 446,1913 360,1905 249,1915"/>
+        <Baseline points="249,1883 448,1880"/>
+        <TextEquiv>
+          <Unicode>importun.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_63a45e61" >
+        <Coords points="608,1946 608,1916 961,1920 1044,1915 1088,1911 1089,1911 1170,1913 1386,1922 1430,1913 1434,1913 1434,1913 1434,1913 1436,1913 1436,1913 1441,1913 1525,1922 1566,1913 1571,1949 1567,1982 1463,1973 1428,1980 1419,1982 1419,1982 1419,1982 1417,1982 1417,1982 1395,1980 1327,1973 1163,1977 1007,1980 1005,1980 1005,1980 1003,1980 1003,1980 989,1975 979,1971 914,1973 703,1980 701,1980 701,1980 701,1980 699,1980 666,1971 617,1980 617,1980 617,1980 615,1980 615,1980 613,1980 613,1980 613,1980 611,1980 611,1980 611,1979 600,1968"/>
+        <Baseline points="608,1946 1571,1949"/>
+        <TextEquiv>
+          <Unicode>Et combien plus aux profiteurs innombrables qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

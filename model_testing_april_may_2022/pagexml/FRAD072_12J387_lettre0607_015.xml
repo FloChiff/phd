@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.638896+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.638917+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_015.jpg" imageWidth="1731" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_50dd2bf8" >
+        <Coords points="848,164 842,135 996,131 1001,162 1000,190 948,184 921,195 915,197 915,197 914,197 914,197 914,197 912,197 912,197 910,197 910,197 906,195 882,186 849,199"/>
+        <Baseline points="848,164 1001,162"/>
+        <TextEquiv>
+          <Unicode>- 15 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_30f090c1" >
+        <Coords points="338,302 335,274 1556,263 1562,298 1558,324 337,320"/>
+        <Baseline points="338,302 1562,298"/>
+        <TextEquiv>
+          <Unicode>condition cependant, c&#39;est qu&#39;ils me répudieront ouvertement,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3214a883" >
+        <Coords points="340,366 338,336 608,338 626,336 703,327 703,327 705,327 705,327 771,338 774,360 774,380 628,393 626,393 338,386"/>
+        <Baseline points="340,366 774,360"/>
+        <TextEquiv>
+          <Unicode>Qu&#39;à cela ne tienne !</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c355e41a" >
+        <Coords points="730,428 730,397 903,400 906,399 914,391 914,391 915,391 915,391 915,391 917,391 917,391 919,391 919,391 996,400 1023,402 1036,400 1071,393 1071,393 1071,393 1073,393 1073,393 1143,402 1150,402 1150,402 1164,393 1166,393 1166,393 1166,393 1168,393 1168,393 1170,393 1170,393 1265,404 1274,404 1280,404 1333,395 1333,395 1335,395 1335,395 1335,395 1393,406 1401,406 1414,406 1560,397 1562,397 1562,397 1562,397 1617,410 1617,435 1613,463 727,455"/>
+        <Baseline points="730,428 1617,435"/>
+        <TextEquiv>
+          <Unicode>Par une lettre publique, (dont voici copie),</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_26159f0d" >
+        <Coords points="337,499 333,476 426,463 426,463 428,463 428,463 430,463 430,463 430,463 432,463 445,472 465,463 465,463 467,463 467,463 467,463 468,463 468,463 470,463 507,472 516,465 516,463 516,463 518,463 518,463 518,463 520,463 520,463 522,463 829,472 903,461 903,461 904,461 904,461 972,472 1111,472 1122,461 1122,461 1124,461 1124,461 1124,461 1126,461 1126,461 1126,461 1128,461 1410,470 1425,461 1426,461 1426,461 1426,461 1428,461 1428,461 1430,461 1430,461 1430,461 1432,461 1463,472 1465,496 1463,516 337,518"/>
+        <Baseline points="337,499 1465,496"/>
+        <TextEquiv>
+          <Unicode>adressée à chaque électeur sénatorial, dès le début de/la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_733b55b7" >
+        <Coords points="337,567 337,543 1584,543 1584,567 1584,585 337,587"/>
+        <Baseline points="337,567 1584,567"/>
+        <TextEquiv>
+          <Unicode>campagne, et reproduite par les journaux locaux, ces Messieurs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_192ea336" >
+        <Coords points="337,633 335,607 602,598 604,598 604,598 659,607 663,607 664,607 674,598 674,598 675,598 675,598 675,598 677,598 677,598 677,598 679,598 679,598 681,598 681,598 681,598 697,607 699,607 705,607 754,598 754,598 756,598 756,598 756,598 758,598 758,598 778,607 780,609 1582,609 1584,637 1580,660 335,657"/>
+        <Baseline points="337,633 1584,637"/>
+        <TextEquiv>
+          <Unicode>osent expliquer qu&#39;ils ne peuvent faire liste commune avec moi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5859c3d4" >
+        <Coords points="335,701 335,675 1580,675 1580,701 1580,721 335,725"/>
+        <Baseline points="335,701 1580,701"/>
+        <TextEquiv>
+          <Unicode>parce que j&#39;ai été trop partial, disent-ils, pour M. Caillaux;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_da6fe31e" >
+        <Coords points="335,765 335,739 1540,745 1542,770 1538,794 333,783"/>
+        <Baseline points="335,765 1542,770"/>
+        <TextEquiv>
+          <Unicode>ils sont donc obligés de recommander à ma place un troisième</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a99b29f6" >
+        <Coords points="335,834 333,811 421,800 421,800 423,800 423,800 423,800 424,800 424,800 446,809 470,800 470,800 472,800 472,800 474,800 474,800 474,800 520,809 555,800 556,800 556,800 556,800 558,800 558,800 560,800 598,809 641,800 641,800 641,800 642,800 642,800 725,809 921,800 923,800 923,800 923,800 978,809 1034,800 1034,800 1036,800 1036,800 1036,800 1091,811 1256,811 1265,801 1265,800 1265,800 1267,800 1267,800 1267,800 1269,800 1269,800 1269,800 1271,800 1456,809 1481,800 1481,800 1483,800 1483,800 1485,800 1485,800 1485,800 1487,800 1524,811 1522,834 1520,854 333,853"/>
+        <Baseline points="335,834 1522,834"/>
+        <TextEquiv>
+          <Unicode>candidat, -(le Département de la Sarthe devant nommer trois</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0c8b0882" >
+        <Coords points="337,898 337,867 1513,878 1514,904 1511,926 335,920"/>
+        <Baseline points="337,898 1514,904"/>
+        <TextEquiv>
+          <Unicode>Sénateurs),- dont ils feront connaître le nom plus tard....</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5e47dc1d" >
+        <Coords points="729,964 727,939 844,930 846,930 979,937 1051,941 1077,937 1108,931 1108,931 1108,931 1110,931 1110,931 1111,931 1111,931 1126,937 1144,942 1188,937 1212,933 1212,933 1214,933 1214,933 1214,933 1216,933 1216,933 1223,937 1238,942 1322,935 1339,935 1340,935 1340,935 1355,935 1454,944 1481,935 1483,935 1485,935 1485,935 1485,935 1487,935 1487,935 1487,935 1491,935 1529,944 1549,935 1555,972 1551,992 725,983"/>
+        <Baseline points="729,964 1555,972"/>
+        <TextEquiv>
+          <Unicode>Ici commence un intermède plutôt comique.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e00dff0f" >
+        <Coords points="333,1030 333,994 379,1005 1621,1006 1621,1039 1619,1063 1326,1065 1324,1065 1324,1065 1293,1060 1269,1056 1223,1060 1139,1065 1137,1065 1137,1065 1031,1056 996,1054 990,1056 972,1063 972,1063 970,1063 970,1063 970,1063 968,1063 968,1063 967,1063 939,1056 934,1054 930,1056 908,1063 908,1063 906,1063 906,1063 906,1063 904,1063 904,1063 903,1063 903,1063 903,1063 884,1054 882,1054 881,1054 851,1063 849,1063 849,1063 849,1063 848,1063 732,1052 723,1052 716,1052 633,1061 633,1061 631,1061 631,1061 564,1050 562,1050 562,1050 549,1060 547,1060 547,1060 547,1060 545,1060 545,1060 545,1061 362,1061 360,1060 360,1060 359,1060 359,1060 329,1047"/>
+        <Baseline points="333,1030 1621,1039"/>
+        <TextEquiv>
+          <Unicode>Où donc choisir ce candidat ? Ira-t-on prendre un réactionnaire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0dd1ff63" >
+        <Coords points="333,1098 333,1071 1483,1076 1485,1105 1483,1124 359,1125 357,1125 357,1125 355,1125 355,1125 329,1114"/>
+        <Baseline points="333,1098 1485,1105"/>
+        <TextEquiv>
+          <Unicode>avéré ? Un Nicolaï de nouveau ? un La Rochefoucauld, un</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_af57f298" >
+        <Coords points="333,1162 333,1133 1558,1142 1560,1171 1558,1193 333,1193"/>
+        <Baseline points="333,1162 1560,1171"/>
+        <TextEquiv>
+          <Unicode>Talhouët ? Impossible; les électeurs ne pourraient plus s&#39;y</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0149bd40" >
+        <Coords points="333,1230 333,1204 1615,1212 1617,1235 1615,1259 415,1261 413,1261 331,1250"/>
+        <Baseline points="333,1230 1617,1235"/>
+        <TextEquiv>
+          <Unicode>tromper; ils voteraient sûrement pour moi. On va donc chercher</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cbf165b3" >
+        <Coords points="333,1298 333,1266 1540,1279 1542,1303 1538,1325 331,1316"/>
+        <Baseline points="333,1298 1542,1303"/>
+        <TextEquiv>
+          <Unicode>un être incolore, inconnu, donc sans ennemis, et qui portera</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f64044e3" >
+        <Coords points="333,1363 333,1338 1569,1340 1571,1369 1569,1400 1161,1400 1159,1398 1159,1398 1124,1395 1088,1389 954,1391 749,1396 747,1396 747,1396 747,1396 745,1396 745,1396 729,1389 723,1387 653,1389 382,1395 381,1395 381,1395 331,1384"/>
+        <Baseline points="333,1363 1571,1369"/>
+        <TextEquiv>
+          <Unicode>l&#39;étiquette républicaine délivrée par M.M. Lebert et Cordelet;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d70f6824" >
+        <Coords points="333,1429 331,1406 1533,1404 1536,1435 1535,1457 333,1459"/>
+        <Baseline points="333,1429 1536,1435"/>
+        <TextEquiv>
+          <Unicode>par M. Lebert tout seul, en fait, puisque M. Cordelet n&#39;agit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6064e32d" >
+        <Coords points="331,1499 331,1468 826,1471 826,1499 824,1526 329,1521"/>
+        <Baseline points="331,1499 826,1499"/>
+        <TextEquiv>
+          <Unicode>plus; on agit pour lui.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_82042600" >
+        <Coords points="721,1565 721,1537 1611,1545 1613,1572 1610,1594 718,1583"/>
+        <Baseline points="721,1565 1613,1572"/>
+        <TextEquiv>
+          <Unicode>Mais M. Lebert ne jouit pas d&#39;une suffisante</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ec849fb0" >
+        <Coords points="333,1631 333,1594 391,1603 1591,1603 1595,1638 1591,1662 331,1647"/>
+        <Baseline points="333,1631 1595,1638"/>
+        <TextEquiv>
+          <Unicode>considération personnelle; il n&#39;arrivera pas à décider le can-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_df6ed7b1" >
+        <Coords points="331,1697 331,1667 1514,1680 1516,1706 1514,1720 1386,1731 1386,1731 1384,1731 1241,1722 1210,1720 1177,1722 1053,1730 1051,1730 1051,1730 1051,1730 1049,1730 1049,1730 1047,1730 1036,1722 1029,1719 1009,1722 976,1728 976,1728 976,1728 974,1728 873,1722 772,1717 723,1722 692,1726 690,1726 327,1722"/>
+        <Baseline points="331,1697 1516,1706"/>
+        <TextEquiv>
+          <Unicode>didat qu&#39;on chercher; et c&#39;est alors que le Gouvernement se</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cb0cc7eb" >
+        <Coords points="331,1763 331,1733 1328,1742 1329,1768 1328,1790 1128,1799 1126,1799 1126,1799 1066,1790 1044,1799 1044,1799 1042,1799 1042,1799 1042,1799 1040,1799 1040,1799 1038,1799 998,1788 994,1788 974,1788 763,1797 762,1797 762,1797 760,1797 760,1797 760,1797 758,1797 745,1788 699,1797 699,1797 699,1797 697,1797 697,1797 697,1797 696,1797 661,1786 661,1786 657,1786 551,1796 551,1796 549,1796 549,1796 483,1786 373,1796 373,1796 371,1796 371,1796 370,1796 326,1783"/>
+        <Baseline points="331,1763 1329,1768"/>
+        <TextEquiv>
+          <Unicode>décide, malencontreusement pour lui, à intervenir.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fcfdfbe5" >
+        <Coords points="721,1832 719,1807 855,1797 857,1797 857,1797 857,1797 859,1797 859,1797 859,1797 877,1807 879,1808 1011,1808 1020,1808 1106,1799 1106,1799 1108,1799 1108,1799 1188,1810 1197,1810 1208,1810 1311,1801 1311,1801 1313,1801 1313,1801 1315,1801 1315,1801 1342,1810 1348,1814 1555,1814 1555,1839 1553,1871 1489,1872 1487,1872 1487,1872 1487,1872 1485,1872 1485,1872 1481,1871 1459,1861 1430,1871 1425,1872 1423,1872 1423,1872 1423,1872 1421,1872 1421,1872 1421,1872 1419,1872 1412,1871 1382,1861 1353,1871 1351,1871 1349,1871 1349,1871 1349,1871 1348,1871 1348,1871 1346,1871 1346,1871 1346,1871 1344,1871 1344,1871 1344,1871 1329,1860 1175,1869 1139,1871 1137,1871 1137,1871 1137,1871 1135,1871 1135,1871 1135,1871 1133,1871 1133,1871 1133,1869 1132,1869 1124,1861 1055,1869 1042,1869 1042,1869 1040,1869 1040,1869 1038,1869 1034,1869 994,1858 719,1865"/>
+        <Baseline points="721,1832 1555,1839"/>
+        <TextEquiv>
+          <Unicode>Le Préfet, jusqu&#39;ici plutôt convenable, a</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

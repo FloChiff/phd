@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:45.125058+00:00</Created>
+        <LastChange>2022-05-20T11:35:45.125080+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J391_lettre1358_014.jpg" imageWidth="1744" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_455a7c21" >
+        <Coords points="793,172 787,144 934,129 939,166 939,184 840,197 840,197 839,197 839,197 791,188"/>
+        <Baseline points="793,172 939,166"/>
+        <TextEquiv>
+          <Unicode>- 14 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_afa19e16" >
+        <Coords points="443,272 439,236 599,243 1597,225 1602,259 1602,280 1434,292 1434,294 965,294 470,294 445,303"/>
+        <Baseline points="443,272 1602,259"/>
+        <TextEquiv>
+          <Unicode>Nous avons approuvé les rapports sur le Comité de Coopéra-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2f6dd3ec" >
+        <Coords points="293,340 287,307 1362,302 1368,329 1372,346 1357,357 1357,357 1355,357 1355,357 1353,357 1353,357 1353,357 1351,357 1205,349 1190,358 1188,358 1188,358 1188,358 1187,358 1187,358 1185,358 291,357"/>
+        <Baseline points="293,340 1368,329"/>
+        <TextEquiv>
+          <Unicode>tion intellectuelle et la Bibliothèque Russe à Prague.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1c9475e8" >
+        <Coords points="446,404 445,377 610,377 613,375 632,366 632,366 632,366 633,366 633,366 633,366 635,366 785,373 822,375 837,373 895,364 895,364 897,364 1170,371 1201,371 1205,371 1240,360 1242,360 1242,360 1242,360 1243,360 1243,360 1245,360 1245,360 1245,360 1265,369 1311,360 1311,360 1311,360 1313,360 1313,360 1313,360 1357,369 1359,369 1362,369 1505,360 1507,360 1507,360 1584,369 1588,393 1588,419 1042,419 1031,421 996,428 996,428 996,428 994,428 875,421 851,421 848,421 828,430 828,430 826,430 826,430 826,430 824,430 654,422 637,422 635,422 613,432 613,432 611,432 611,432 611,432 610,432 445,422"/>
+        <Baseline points="446,404 1588,393"/>
+        <TextEquiv>
+          <Unicode>En ce qui concerne le &quot;National Peace Council&quot;, vous avez</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4944717e" >
+        <Coords points="294,474 291,446 879,432 881,432 1159,437 1168,437 1172,437 1260,428 1260,428 1262,428 1364,435 1366,435 1368,435 1441,426 1441,426 1443,426 1547,435 1551,461 1547,488 1381,481 1355,490 1353,490 1353,490 1351,490 1351,490 1351,490 1350,490 1339,490 1242,483 1199,490 1190,492 1190,492 1190,492 294,494"/>
+        <Baseline points="294,474 1551,461"/>
+        <TextEquiv>
+          <Unicode>très clairement expliqué les scrupules de la Dotation, et c&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0da0ad39" >
+        <Coords points="291,538 289,508 796,508 807,505 837,497 839,497 839,497 840,497 840,497 917,505 952,507 970,503 1014,496 1014,496 1014,496 1016,496 1133,503 1174,505 1190,503 1242,494 1242,494 1243,494 1243,494 1331,501 1351,503 1366,501 1434,492 1434,492 1436,492 1436,492 1436,492 1438,492 1469,501 1471,501 1471,501 1482,492 1482,492 1483,492 1483,492 1485,492 1485,492 1485,492 1487,492 1623,501 1626,527 1624,547 291,558"/>
+        <Baseline points="291,538 1626,527"/>
+        <TextEquiv>
+          <Unicode>alors que vous avez provoqué les protestations du Baron d&#39;Adelsward.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_847a391c" >
+        <Coords points="293,604 285,578 304,567 305,567 305,567 305,567 307,567 307,567 309,567 961,571 1024,562 1024,562 1025,562 1165,569 1188,560 1188,560 1190,560 1190,560 1192,560 1630,567 1634,593 1632,613 293,622"/>
+        <Baseline points="293,604 1634,593"/>
+        <TextEquiv>
+          <Unicode>Je n&#39;y reviens pas. Le procès-verbal fait justice de ces critiques</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_580b4fa7" >
+        <Coords points="293,670 289,644 567,631 569,631 1623,635 1626,660 1628,679 1593,690 1591,690 1591,690 1591,692 293,692"/>
+        <Baseline points="293,670 1626,660"/>
+        <TextEquiv>
+          <Unicode>acerbes, assez ingrates et peu encourageantes pour la Dotation.Car-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_781b6888" >
+        <Coords points="293,735 293,703 434,704 434,735 434,757 293,757"/>
+        <Baseline points="293,735 434,735"/>
+        <TextEquiv>
+          <Unicode>negie.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_30102239" >
+        <Coords points="446,800 439,772 456,761 457,761 457,761 457,761 459,761 459,761 459,761 461,761 661,770 668,770 672,770 751,759 751,759 752,759 890,768 893,768 893,768 919,757 919,757 921,757 921,757 921,757 923,757 923,757 923,757 925,757 925,757 925,757 945,768 1053,768 1069,757 1071,757 1071,757 1071,757 1073,757 1073,757 1075,757 1075,757 1075,757 1077,757 1077,757 1100,767 1128,757 1130,757 1130,757 1130,757 1132,757 1293,765 1348,754 1348,754 1348,754 1350,754 1573,765 1577,790 1575,809 1124,822 1122,822 445,818"/>
+        <Baseline points="446,800 1577,790"/>
+        <TextEquiv>
+          <Unicode>Le Professeur Redlich a ménagé la chèvre et le chou. Le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_af2afc4a" >
+        <Coords points="294,865 291,840 373,829 373,829 375,829 375,829 375,829 417,838 419,838 425,838 573,829 575,829 575,829 575,829 619,836 630,827 630,827 632,827 632,827 632,827 633,827 633,827 635,827 1247,834 1267,834 1271,834 1390,823 1390,823 1392,823 1606,834 1610,858 1610,878 294,889"/>
+        <Baseline points="294,865 1610,858"/>
+        <TextEquiv>
+          <Unicode>Comte Mensdorff aurait été plus solide. Les critiques d&#39;Adelsward</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_eae9e8b4" >
+        <Coords points="294,931 291,902 1569,893 1575,924 1573,944 294,959"/>
+        <Baseline points="294,931 1575,924"/>
+        <TextEquiv>
+          <Unicode>vous ont, en somme, donné, ainsi qu&#39;à Scott, l&#39;occasion de faire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_28889d7d" >
+        <Coords points="298,999 294,974 1348,964 1353,992 1353,1017 298,1023"/>
+        <Baseline points="298,999 1353,992"/>
+        <TextEquiv>
+          <Unicode>connaître au Conseil bien des vérités qu&#39;il ignorait:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6aa423b4" >
+        <Coords points="448,1061 445,1038 501,1025 501,1025 501,1025 503,1025 701,1034 773,1023 773,1023 774,1023 1000,1032 1139,1021 1139,1021 1141,1021 1300,1030 1485,1019 1487,1019 1487,1019 1487,1019 1489,1019 1522,1028 1553,1019 1555,1019 1555,1019 1555,1019 1557,1019 1557,1019 1557,1019 1558,1019 1590,1030 1591,1054 1590,1074 448,1087"/>
+        <Baseline points="448,1061 1591,1054"/>
+        <TextEquiv>
+          <Unicode>1°) La Dotation n&#39;est pas libre, aux Etats-Unis, de faire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e599eb47" >
+        <Coords points="300,1129 296,1096 1634,1094 1639,1122 1635,1151 1419,1142 1397,1151 1397,1151 1395,1151 1395,1151 1395,1151 1394,1151 1394,1151 1392,1151 1392,1151 1366,1142 1269,1153 1269,1153 1267,1153 1267,1153 1265,1153 1225,1144 1080,1153 1079,1153 1079,1153 1013,1144 994,1153 994,1153 994,1153 992,1153 992,1153 992,1153 991,1153 991,1153 989,1153 989,1153 989,1153 987,1153 987,1153 976,1144 943,1155 941,1155 941,1155 941,1155 939,1155 745,1146 683,1155 683,1155 681,1155 681,1155 681,1155 679,1155 679,1155 677,1155 663,1146 633,1157 633,1157 632,1157 632,1157 632,1157 630,1157 630,1157 630,1157 630,1157 628,1157 591,1147 459,1157 457,1157 457,1157 366,1147 300,1158"/>
+        <Baseline points="300,1129 1639,1122"/>
+        <TextEquiv>
+          <Unicode>opposition à l&#39;opinion et aux pouvoirs publics américains. €€ €€</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9a6448b1" >
+        <Coords points="452,1191 448,1166 1624,1157 1630,1186 1628,1206 452,1213"/>
+        <Baseline points="452,1191 1630,1186"/>
+        <TextEquiv>
+          <Unicode>2°) Elle n&#39;est pas riche comme on le croit: elle reçoit, en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ea7b14f9" >
+        <Coords points="298,1259 294,1233 1628,1219 1634,1250 1632,1270 1095,1283 1093,1283 850,1276 833,1276 828,1276 758,1285 758,1285 756,1285 584,1277 580,1277 580,1277 549,1287 547,1287 547,1287 547,1287 545,1287 296,1277"/>
+        <Baseline points="298,1259 1634,1250"/>
+        <TextEquiv>
+          <Unicode>un mois, assez de demandes d&#39;argent pour absorber, non pas seulement</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9f133482" >
+        <Coords points="298,1323 294,1299 899,1288 904,1318 908,1336 890,1347 888,1347 888,1347 888,1347 886,1347 886,1347 884,1347 296,1343"/>
+        <Baseline points="298,1323 904,1318"/>
+        <TextEquiv>
+          <Unicode>ses revenus, mais son capital.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f88e40a4" >
+        <Coords points="454,1391 450,1360 608,1352 610,1352 610,1352 648,1358 672,1362 679,1358 690,1351 692,1351 692,1351 694,1351 694,1351 696,1351 796,1351 796,1351 877,1358 906,1360 910,1358 919,1349 919,1349 921,1349 921,1349 921,1349 923,1349 923,1349 923,1349 925,1349 1049,1356 1073,1358 1095,1356 1210,1347 1212,1347 1212,1347 1306,1356 1313,1356 1320,1356 1410,1345 1410,1345 1412,1345 1612,1356 1615,1382 1612,1418 452,1415"/>
+        <Baseline points="454,1391 1615,1382"/>
+        <TextEquiv>
+          <Unicode>3°) enfin, elle n&#39;est même pas reconnue d&#39;utilité publique</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2752a4b2" >
+        <Coords points="298,1453 294,1422 1610,1420 1615,1446 1617,1466 1580,1477 1579,1477 1579,1477 1577,1477 985,1471 597,1482 595,1482 296,1473"/>
+        <Baseline points="298,1453 1615,1446"/>
+        <TextEquiv>
+          <Unicode>aux Etats-Unis, où on l&#39;accuse volontiers de défendre des intérêts</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_68bd034d" >
+        <Coords points="302,1523 296,1499 331,1488 333,1488 333,1488 335,1488 1018,1492 1051,1482 1053,1482 1053,1482 1055,1482 1555,1490 1558,1514 1557,1541 302,1545"/>
+        <Baseline points="302,1523 1558,1514"/>
+        <TextEquiv>
+          <Unicode>capitalistes; on la soumet à des enquêtes parlementaires: on la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_897b2b34" >
+        <Coords points="302,1589 300,1554 1650,1556 1654,1581 1652,1601 976,1614 974,1614 872,1612 694,1607 606,1614 588,1616 588,1616 586,1616 562,1616 426,1609 302,1618"/>
+        <Baseline points="302,1589 1654,1581"/>
+        <TextEquiv>
+          <Unicode>soupçonne de vouloir imposer une politique internationale différente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0b73f12e" >
+        <Coords points="300,1653 296,1629 842,1614 844,1614 1306,1620 1357,1611 1357,1611 1357,1611 1359,1611 1613,1620 1617,1644 1617,1669 897,1669 875,1671 787,1678 785,1678 604,1671 584,1671 577,1671 507,1680 507,1680 505,1680 298,1671"/>
+        <Baseline points="300,1653 1617,1644"/>
+        <TextEquiv>
+          <Unicode>de celle qui a le consentement des Etats-Unis (c&#39;est exactement le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4100c7ba" >
+        <Coords points="300,1719 298,1686 1575,1686 1579,1709 1577,1739 298,1737"/>
+        <Baseline points="300,1719 1579,1709"/>
+        <TextEquiv>
+          <Unicode>reproche qu&#39;adresse M. Poincaré à quiconque ne vote pas pour lui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_46cbf800" >
+        <Coords points="302,1783 298,1757 472,1744 474,1744 474,1744 602,1753 617,1753 1051,1750 1057,1781 1057,1810 994,1812 992,1812 992,1812 992,1812 991,1812 991,1812 987,1810 963,1801 930,1810 925,1812 923,1812 923,1812 923,1812 921,1812 921,1812 919,1812 912,1810 877,1801 765,1801 754,1810 752,1812 752,1812 751,1812 751,1812 749,1812 749,1812 749,1812 747,1812 703,1810 584,1801 489,1801 472,1808 465,1812 465,1812 465,1812 463,1812 463,1812 463,1812 461,1812 461,1812 459,1812 443,1808 419,1803 302,1807"/>
+        <Baseline points="302,1783 1057,1781"/>
+        <TextEquiv>
+          <Unicode>au Sénat et à la Chambre des Députés.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b6692ecc" >
+        <Coords points="459,1847 457,1816 1558,1819 1562,1843 1560,1871 459,1874"/>
+        <Baseline points="459,1847 1562,1843"/>
+        <TextEquiv>
+          <Unicode>En fait, tout gouvernement revendique le monopole de la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c8c2778a" >
+        <Coords points="304,1916 300,1893 381,1880 381,1880 382,1880 382,1880 505,1889 542,1878 544,1878 544,1878 545,1878 545,1878 635,1887 650,1878 652,1878 652,1878 652,1878 654,1878 654,1878 655,1878 1612,1880 1615,1905 1613,1929 1432,1929 1416,1933 1392,1940 1390,1940 1390,1940 1388,1940 1225,1937 1093,1933 1086,1938 1082,1942 1082,1942 1080,1942 1080,1942 1080,1942 1079,1942 1079,1942 1079,1942 1077,1942 1077,1942 1075,1942 1075,1942 1066,1938 1051,1933 983,1940 956,1942 956,1942 954,1942 954,1942 943,1940 904,1933 881,1942 873,1944 873,1944 872,1944 872,1944 870,1944 870,1944 842,1942 745,1933 721,1944 718,1946 718,1946 718,1946 716,1946 716,1946 714,1946 663,1944 404,1937 392,1948 392,1948 390,1948 390,1948 390,1948 388,1948 388,1948 388,1948 304,1949"/>
+        <Baseline points="304,1916 1615,1905"/>
+        <TextEquiv>
+          <Unicode>politique extérieure; et toute organisation internationale, quelle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_14029eae" >
+        <Coords points="307,1980 304,1951 573,1942 575,1942 575,1942 624,1949 639,1951 654,1949 696,1942 696,1942 697,1942 697,1942 697,1942 699,1942 699,1942 699,1942 701,1942 701,1942 708,1949 710,1949 710,1949 719,1942 719,1942 721,1942 721,1942 723,1942 723,1942 723,1942 828,1940 829,1940 1031,1948 1077,1949 1086,1948 1128,1938 1128,1938 1128,1938 1130,1938 1329,1948 1350,1948 1353,1948 1390,1937 1392,1937 1392,1937 1394,1937 1394,1937 1394,1937 1395,1937 1395,1937 1395,1937 1416,1948 1612,1948 1615,1971 1615,1993 307,2008"/>
+        <Baseline points="307,1980 1615,1971"/>
+        <TextEquiv>
+          <Unicode>qu&#39;elle soit, empiète inévitablement sur les prétentions gouverne-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_07270466" >
+        <Coords points="305,2045 304,2017 1080,2017 1082,2015 1106,2006 1106,2006 1108,2006 1108,2006 1110,2006 1472,2015 1476,2039 1472,2068 1249,2061 305,2070"/>
+        <Baseline points="305,2045 1476,2039"/>
+        <TextEquiv>
+          <Unicode>mentales, à moins d&#39;être volontairement aveugle et servile.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

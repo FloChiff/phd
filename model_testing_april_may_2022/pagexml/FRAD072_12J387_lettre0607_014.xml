@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.629230+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.629251+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J387_lettre0607_014.jpg" imageWidth="1733" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_93f1edf0" >
+        <Coords points="881,150 875,117 1024,109 1029,146 1029,173 881,177"/>
+        <Baseline points="881,150 1029,146"/>
+        <TextEquiv>
+          <Unicode>- 14 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_19092d7f" >
+        <Coords points="686,281 683,256 718,243 719,243 719,243 719,243 721,243 721,243 723,243 763,254 793,239 793,239 793,239 795,239 795,239 796,239 859,239 859,239 859,239 861,239 861,239 861,239 862,239 888,256 1058,256 1058,281 1057,309 685,305"/>
+        <Baseline points="686,281 1058,281"/>
+        <TextEquiv>
+          <Unicode>Ce n&#39;est pas tout.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2f8d41d4" >
+        <Coords points="686,351 681,325 705,313 705,313 705,313 707,313 707,313 708,313 708,313 708,313 710,313 741,322 784,311 785,311 785,311 787,311 981,322 1064,311 1064,311 1066,311 1066,311 1068,311 1068,311 1068,311 1069,311 1088,322 1179,322 1203,309 1203,309 1203,309 1205,309 1205,309 1207,309 1207,309 1207,309 1209,309 1209,309 1209,309 1210,309 1210,309 1210,311 1221,322 1320,322 1340,309 1342,309 1342,309 1344,309 1344,309 1344,309 1346,309 1346,309 1346,309 1405,320 1432,309 1432,309 1434,309 1434,309 1436,309 1436,309 1436,309 1494,322 1498,347 1496,375 686,378"/>
+        <Baseline points="686,351 1498,347"/>
+        <TextEquiv>
+          <Unicode>Le dit Lebert avait, a encore, un oncle,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3366e109" >
+        <Coords points="329,430 326,397 1536,389 1542,421 1540,443 1298,454 1297,454 1137,446 1113,446 1106,446 1057,455 1057,455 1055,455 327,452"/>
+        <Baseline points="329,430 1542,421"/>
+        <TextEquiv>
+          <Unicode>Sénateur de la Sarthe, lui aussi, doyen même et ancien vice-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_04e46f5b" >
+        <Coords points="329,497 324,474 355,459 355,459 357,459 357,459 357,459 359,459 534,470 703,459 705,459 705,459 705,459 707,459 707,459 708,459 725,470 800,470 831,470 833,468 851,457 853,457 853,457 855,457 855,457 855,457 857,457 857,457 857,457 904,468 908,468 914,468 987,459 987,459 989,459 989,459 989,459 1024,466 1051,455 1051,455 1053,455 1053,455 1053,455 1055,455 1055,455 1143,466 1152,466 1155,466 1185,457 1187,457 1187,457 1187,457 1188,457 1188,457 1190,457 1190,457 1190,457 1192,457 1192,457 1201,465 1203,468 1267,468 1271,465 1278,457 1278,457 1280,457 1280,457 1280,457 1282,457 1282,457 1284,457 1284,457 1284,457 1320,465 1324,465 1324,465 1342,454 1344,454 1344,454 1346,454 1346,454 1346,454 1348,454 1348,454 1350,454 1388,465 1394,466 1500,466 1505,463 1520,454 1522,454 1522,454 1524,454 1524,454 1524,454 1525,454 1525,454 1591,463 1595,490 1593,508 959,521 958,521 868,519 716,514 653,521 637,523 637,523 635,523 599,523 437,516 329,525"/>
+        <Baseline points="329,497 1595,490"/>
+        <TextEquiv>
+          <Unicode>président du Sénat. Cet oncle, M. Cordelet, octogénaire, répu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7fd86a44" >
+        <Coords points="329,563 324,540 355,529 357,529 357,529 357,529 359,529 664,534 741,536 749,534 769,527 769,527 771,527 771,527 773,527 992,530 1159,534 1181,529 1198,525 1199,525 1199,525 1201,525 1579,525 1582,558 1580,578 329,584"/>
+        <Baseline points="329,563 1582,558"/>
+        <TextEquiv>
+          <Unicode>blicain modéré, estimable, estimé, méprisait naturellement son</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bd200e0a" >
+        <Coords points="329,631 326,607 432,595 434,595 624,595 624,595 624,595 626,595 626,595 626,595 628,595 643,604 945,595 947,595 947,595 947,595 948,595 948,595 970,604 1066,593 1066,593 1068,593 1068,593 1069,593 1069,593 1069,593 1089,604 1419,604 1447,593 1449,593 1449,593 1449,593 1450,593 1613,604 1617,627 1615,648 329,657"/>
+        <Baseline points="329,631 1617,627"/>
+        <TextEquiv>
+          <Unicode>neveu, au point qu&#39;il combattit, jadis, avec nous, son élection.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_82e5b136" >
+        <Coords points="327,695 327,668 1626,670 1626,699 1623,719 326,712"/>
+        <Baseline points="327,695 1626,699"/>
+        <TextEquiv>
+          <Unicode>Mais l&#39;octogénaire avait un fils et de ce fils, assez incapable,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_533a3ec9" >
+        <Coords points="329,767 326,732 1628,730 1634,763 1634,792 329,792"/>
+        <Baseline points="329,767 1634,763"/>
+        <TextEquiv>
+          <Unicode>il avait été longtemps fort empêtré. Caillaux n&#39;avait pu refuser</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5bb82af0" >
+        <Coords points="327,831 327,800 1515,807 1515,831 1513,851 326,849"/>
+        <Baseline points="327,831 1515,831"/>
+        <TextEquiv>
+          <Unicode>à ce vénérable républicain sa bienveillance, sa protection.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0e343efe" >
+        <Coords points="327,897 327,867 1615,867 1617,902 1613,928 326,915"/>
+        <Baseline points="327,897 1617,902"/>
+        <TextEquiv>
+          <Unicode>Le fils fut nommé Préfet. Malheureusement, préfét incapable, il</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2873f5c5" >
+        <Coords points="326,964 324,941 1520,935 1522,964 1520,986 324,984"/>
+        <Baseline points="326,964 1522,964"/>
+        <TextEquiv>
+          <Unicode>lui fallut se faire nommer trésorier,- payeur général; mais</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e7b97c5a" >
+        <Coords points="327,1032 327,995 408,995 408,995 408,995 410,995 410,995 410,995 410,995 412,995 412,995 412,997 421,1006 445,995 446,995 446,995 448,995 448,995 448,995 450,995 450,995 452,995 452,995 452,995 454,995 474,1006 632,997 688,995 690,995 690,995 690,995 692,995 705,999 732,1006 767,999 789,995 789,995 789,995 791,995 791,995 793,995 793,995 806,999 826,1006 848,1001 866,995 868,995 868,995 870,995 870,995 915,1001 958,1006 989,1003 1022,997 1022,997 1024,997 1024,997 1024,997 1025,997 1025,997 1038,1003 1047,1006 1049,1003 1057,997 1057,995 1057,995 1058,995 1058,995 1058,995 1060,995 1060,995 1060,995 1062,995 1062,995 1111,1003 1135,1006 1183,1005 1295,997 1297,997 1480,1008 1480,1032 1480,1052 327,1060"/>
+        <Baseline points="327,1032 1480,1032"/>
+        <TextEquiv>
+          <Unicode>trésorier plus incapable encore, il lui fallut prendre sa</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c42b437f" >
+        <Coords points="326,1096 326,1071 1551,1071 1553,1100 1551,1118 976,1127 974,1127 974,1127 972,1127 932,1118 366,1125 364,1125 364,1125 362,1125 322,1114"/>
+        <Baseline points="326,1096 1553,1100"/>
+        <TextEquiv>
+          <Unicode>retraite. Pendant ce temps, le père Cordelet devenait suroc-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_72405ffd" >
+        <Coords points="326,1164 326,1133 1547,1140 1549,1168 1547,1184 956,1193 954,1193 954,1193 892,1184 368,1191 366,1191 366,1191 364,1191 322,1180"/>
+        <Baseline points="326,1164 1549,1168"/>
+        <TextEquiv>
+          <Unicode>togénaire. Il a plus de 86 ans, ne parle plus, n&#39;écrit plus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_14b1aeec" >
+        <Coords points="327,1230 327,1206 1555,1212 1555,1235 1553,1252 1271,1261 1269,1261 326,1250"/>
+        <Baseline points="327,1230 1555,1235"/>
+        <TextEquiv>
+          <Unicode>Il aura 95 ans quand son mandat expirera. Les électeurs sou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6876073d" >
+        <Coords points="324,1296 324,1270 1591,1272 1593,1303 1591,1320 976,1327 974,1327 850,1318 377,1323 375,1323 375,1323 322,1312"/>
+        <Baseline points="324,1296 1593,1303"/>
+        <TextEquiv>
+          <Unicode>haitaient intérieurement, discrètemet, qu&#39;il ne se représentât</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a420ed2c" >
+        <Coords points="324,1363 324,1338 1518,1340 1520,1367 1518,1387 324,1387"/>
+        <Baseline points="324,1363 1520,1367"/>
+        <TextEquiv>
+          <Unicode>pas. Mais la retraite! Quelle déception pour sa famille !</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_08c7040c" >
+        <Coords points="326,1431 327,1396 357,1406 637,1398 696,1398 697,1398 1612,1409 1612,1435 1608,1455 324,1450"/>
+        <Baseline points="326,1431 1612,1435"/>
+        <TextEquiv>
+          <Unicode>Quelle satisfaction, au contraire, si, avec l&#39;appui du Gouverne-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_22826819" >
+        <Coords points="322,1497 322,1473 1553,1477 1555,1501 1553,1517 958,1526 956,1526 956,1526 906,1517 903,1517 322,1517"/>
+        <Baseline points="322,1497 1555,1501"/>
+        <TextEquiv>
+          <Unicode>ment, il arrivait à se faire réélire!- C&#39;était possible à la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_42c126ab" >
+        <Coords points="324,1565 322,1537 1298,1534 1300,1534 1623,1545 1624,1572 1623,1590 324,1590"/>
+        <Baseline points="324,1565 1624,1572"/>
+        <TextEquiv>
+          <Unicode>condition qu&#39;il se présentât, lui aussi, comme anti-Caillautiste.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e3efd387" >
+        <Coords points="322,1631 322,1605 1630,1612 1630,1638 1626,1662 320,1655"/>
+        <Baseline points="322,1631 1630,1638"/>
+        <TextEquiv>
+          <Unicode>C&#39;est ce qu&#39;il fit, ou ce qu&#39;on lui fit faire dans l&#39;inconscience</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_05b8dfd1" >
+        <Coords points="322,1699 322,1669 1588,1677 1590,1704 1586,1730 320,1717"/>
+        <Baseline points="322,1699 1590,1704"/>
+        <TextEquiv>
+          <Unicode>de son grand âge. Quoi qu&#39;il en soit, voilà les deux débiteurs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ebbf9102" >
+        <Coords points="320,1764 320,1735 1568,1744 1569,1774 1566,1792 318,1790"/>
+        <Baseline points="320,1764 1569,1774"/>
+        <TextEquiv>
+          <Unicode>de Caillaux devenus ses pires ennemis contre moi qui suis seul</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5eb84cec" >
+        <Coords points="320,1832 320,1799 1527,1814 1529,1839 1525,1860 318,1849"/>
+        <Baseline points="320,1832 1529,1839"/>
+        <TextEquiv>
+          <Unicode>à ne lui rien devoir. Voilà les deux renégats tout indiqués</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f581cb11" >
+        <Coords points="320,1898 322,1863 342,1872 446,1865 456,1865 457,1865 457,1865 467,1865 553,1874 681,1869 730,1867 732,1867 1467,1882 1469,1907 1465,1927 318,1922"/>
+        <Baseline points="320,1898 1469,1907"/>
+        <TextEquiv>
+          <Unicode>pour être les candidats de la réaction contre moi. A une</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

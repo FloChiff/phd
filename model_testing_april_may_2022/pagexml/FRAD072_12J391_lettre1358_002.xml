@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:44.997231+00:00</Created>
+        <LastChange>2022-05-20T11:35:44.997253+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J391_lettre1358_002.jpg" imageWidth="1742" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_26839940" >
+        <Coords points="848,153 848,129 963,131 965,157 963,170 908,179 908,179 906,179 906,179 844,168"/>
+        <Baseline points="848,153 965,157"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2e69817e" >
+        <Coords points="452,252 450,225 1014,217 1016,217 1016,217 1018,217 1018,217 1018,217 1020,217 1020,217 1029,227 1031,228 1578,228 1580,256 1577,283 448,280"/>
+        <Baseline points="452,252 1580,256"/>
+        <TextEquiv>
+          <Unicode>3°- Le lendemain Mardi 3, l&#39;après-midi, nous nous sommes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8f4cafdd" >
+        <Coords points="293,320 294,281 327,292 348,283 348,283 348,283 349,283 349,283 349,283 351,283 351,283 408,292 448,283 450,283 450,283 450,283 452,283 452,283 452,283 516,292 566,283 571,283 571,283 571,283 573,283 587,283 692,292 730,285 743,283 743,283 743,283 745,283 745,283 767,285 820,292 877,287 912,283 912,283 914,283 914,283 914,283 915,283 928,287 950,294 1009,289 1038,285 1038,285 1040,285 1040,285 1060,289 1093,294 1135,289 1170,285 1170,285 1172,285 1172,285 1210,291 1247,294 1573,294 1577,324 1573,347 291,340"/>
+        <Baseline points="293,320 1577,324"/>
+        <TextEquiv>
+          <Unicode>retrouvés rue Pierre Curie où notre personnel vous attendait im-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_39a37f98" >
+        <Coords points="293,386 294,349 316,358 511,351 542,351 544,351 544,351 553,351 606,360 818,355 915,353 917,353 917,353 919,353 919,353 919,353 921,353 925,357 936,364 1542,364 1544,393 1542,411 293,411"/>
+        <Baseline points="293,386 1544,393"/>
+        <TextEquiv>
+          <Unicode>patiemment, y compris le Professeur Lichtenberger qui tenait à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_db2c90c7" >
+        <Coords points="296,450 296,415 340,424 467,417 467,417 468,417 468,417 468,417 582,428 1613,428 1615,459 1611,483 294,470"/>
+        <Baseline points="296,450 1615,459"/>
+        <TextEquiv>
+          <Unicode>s&#39;entretenir longuement avec vous. De là nous n&#39;avons pu résister</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_27d5ec90" >
+        <Coords points="294,518 294,488 1611,494 1613,527 1611,552 1353,556 1351,556 1260,549 1207,545 1170,547 1097,554 1095,554 1095,554 1020,545 992,543 968,545 906,552 906,552 904,552 904,552 838,543 818,541 813,543 793,551 793,551 791,551 791,551 791,551 789,551 635,541 630,541 626,541 560,551 560,551 558,551 558,551 556,551 514,540 511,540 501,540 351,549 349,549 349,549 349,549 293,536"/>
+        <Baseline points="294,518 1613,527"/>
+        <TextEquiv>
+          <Unicode>au plaisir d&#39;aller jeter un coup d&#39;oeil rapide sur l&#39;hôtel du Bou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9c0f1244" >
+        <Coords points="293,584 293,558 1593,567 1595,593 1591,616 291,606"/>
+        <Baseline points="293,584 1595,593"/>
+        <TextEquiv>
+          <Unicode>levard Saint-Germain, encore aux mains des ouvriers mais déjà ma-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_557a3b4d" >
+        <Coords points="293,653 293,626 511,626 511,626 533,616 533,616 534,616 534,616 534,616 536,616 536,616 536,616 538,616 567,626 567,626 569,626 659,618 659,618 661,618 661,618 663,618 663,618 663,618 664,618 677,627 681,629 785,629 787,627 813,618 813,618 815,618 815,618 816,618 816,618 818,618 818,618 818,618 838,627 838,627 838,627 873,618 875,618 875,618 875,618 877,618 877,618 936,627 945,629 950,629 979,620 981,620 981,620 981,620 983,620 1152,629 1161,629 1166,629 1267,620 1269,620 1593,633 1595,660 1593,677 293,679"/>
+        <Baseline points="293,653 1595,660"/>
+        <TextEquiv>
+          <Unicode>gnifique, rayonnant d&#39;avenir, en dépit et en raison même des tra-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b6d83380" >
+        <Coords points="291,715 289,688 445,679 446,679 446,679 446,679 501,690 507,692 884,693 884,693 906,684 906,684 908,684 908,684 908,684 910,684 910,684 910,684 912,684 912,684 937,695 939,695 954,695 1055,688 1056,688 1056,688 1056,688 1058,688 1089,697 1095,697 1106,697 1194,688 1194,688 1196,688 1196,688 1197,688 1197,688 1227,699 1230,699 1241,699 1313,690 1313,690 1315,690 1315,690 1366,699 1375,701 1395,701 1527,692 1529,692 1529,692 1679,704 1681,732 1677,761 1520,750 1262,757 1219,757 1218,757 1218,757 1208,756 1154,746 1117,756 1115,756 1113,756 1113,756 1111,756 1111,756 1111,756 1106,756 1051,745 802,752 762,752 760,752 760,752 749,750 690,741 655,750 653,750 652,750 652,750 650,750 650,750 650,750 644,750 597,739 533,748 527,748 527,748 525,748 525,748 523,748 522,748 483,739 291,745"/>
+        <Baseline points="291,715 1681,732"/>
+        <TextEquiv>
+          <Unicode>vaux sérieux que nous y faisons, peinture, nettoyage, adaptation, etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_209c0a1a" >
+        <Coords points="445,783 445,748 540,757 653,750 670,750 672,750 672,750 681,750 741,759 912,754 994,752 996,752 1606,765 1608,790 1604,818 443,803"/>
+        <Baseline points="445,783 1608,790"/>
+        <TextEquiv>
+          <Unicode>Le Mercredi 4, j&#39;ai renoncé, pour ne pas trop me surmener,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_74865531" >
+        <Coords points="287,847 287,820 1633,829 1635,858 1632,882 285,875"/>
+        <Baseline points="287,847 1635,858"/>
+        <TextEquiv>
+          <Unicode>à me rendre avec vous au dîner de la Chambre de Commerce Américaine</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2a8a7014" >
+        <Coords points="293,915 291,887 555,878 556,878 655,889 670,889 707,889 925,882 926,882 926,882 981,891 989,891 994,891 1022,882 1023,882 1023,882 1023,882 1025,882 1025,882 1077,891 1093,893 1115,891 1185,884 1185,884 1186,884 1186,884 1188,884 1188,884 1207,891 1212,895 1613,895 1615,924 1613,942 1362,952 1360,952 1269,942 1256,942 1236,942 1104,950 1102,950 1102,950 1102,950 1100,950 1100,950 1099,950 1088,942 1082,941 293,941"/>
+        <Baseline points="293,915 1615,924"/>
+        <TextEquiv>
+          <Unicode>où vous avez parlé et rencontré quantité de personnalités intéres-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_93baaad7" >
+        <Coords points="294,981 294,955 1630,964 1632,990 1630,1008 1099,1016 1097,1016 1097,1016 1022,1006 591,1012 589,1012 589,1012 587,1012 587,1012 560,1003 327,1010 326,1010 326,1010 326,1010 324,1010 291,999"/>
+        <Baseline points="294,981 1632,990"/>
+        <TextEquiv>
+          <Unicode>santes, à commencer par le Maréchal Foch, et votre cher ambassadeur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_49eddc07" >
+        <Coords points="291,1047 289,1023 644,1021 646,1047 644,1076 289,1067"/>
+        <Baseline points="291,1047 646,1047"/>
+        <TextEquiv>
+          <Unicode>Myron T. Herrick.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0610b66f" >
+        <Coords points="445,1111 445,1083 1575,1098 1575,1125 1573,1144 1498,1153 1498,1153 1496,1153 1300,1144 1258,1142 1238,1144 1170,1149 1168,1149 939,1142 780,1136 756,1140 738,1144 738,1144 738,1144 736,1144 736,1144 734,1144 734,1144 734,1144 732,1144 729,1140 716,1135 443,1138"/>
+        <Baseline points="445,1111 1575,1125"/>
+        <TextEquiv>
+          <Unicode>Le Jeudi 5, vous êtes venu au Sénat avec M. et Mme Brown</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e805e134" >
+        <Coords points="293,1179 293,1153 1154,1153 1154,1153 1154,1153 1155,1153 1155,1153 1155,1153 1157,1153 1170,1162 1172,1162 1194,1162 1324,1155 1326,1155 1666,1168 1668,1193 1666,1212 1500,1222 1498,1222 1498,1222 1496,1222 1456,1212 1452,1212 1439,1212 1331,1221 1329,1221 1329,1221 1329,1221 1328,1221 1328,1221 1328,1221 1309,1212 1306,1210 1271,1212 1155,1219 1154,1219 1154,1219 1064,1212 1025,1208 987,1212 926,1215 925,1215 925,1215 925,1215 923,1215 923,1215 912,1210 901,1206 860,1210 815,1215 815,1215 813,1215 813,1215 811,1215 793,1210 771,1204 293,1208"/>
+        <Baseline points="293,1179 1668,1193"/>
+        <TextEquiv>
+          <Unicode>Scott que mon fils et ma belle-fille étaient allés attendre la veille</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2ce087e6" >
+        <Coords points="289,1244 289,1219 1595,1232 1595,1257 1593,1285 1232,1285 1230,1283 1230,1283 1229,1283 1229,1283 1229,1283 1227,1283 1221,1277 1212,1274 1097,1276 890,1281 888,1281 888,1281 888,1281 849,1272 837,1270 813,1272 729,1279 729,1279 727,1279 727,1279 672,1270 659,1268 642,1268 549,1277 549,1277 547,1277 547,1277 481,1266 474,1266 468,1266 388,1276 388,1276 386,1276 386,1276 285,1263"/>
+        <Baseline points="289,1244 1595,1257"/>
+        <TextEquiv>
+          <Unicode>à la Gare Saint-Lazare, puis installer à l&#39;hôtel Lutetia, et avec</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6b62f841" >
+        <Coords points="293,1312 296,1277 307,1287 626,1283 862,1281 864,1281 864,1281 904,1288 934,1292 974,1288 1036,1283 1036,1283 1038,1283 1038,1283 1040,1283 1040,1283 1056,1290 1067,1294 1099,1290 1150,1285 1150,1285 1152,1285 1152,1285 1214,1292 1247,1296 1306,1294 1426,1288 1428,1288 1626,1299 1628,1325 1624,1347 291,1336"/>
+        <Baseline points="293,1312 1628,1325"/>
+        <TextEquiv>
+          <Unicode>Shotwell. Pour la première fois, les représentants des trois Divi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_28a60a3b" >
+        <Coords points="293,1380 291,1354 487,1345 489,1345 489,1345 489,1345 490,1345 490,1345 492,1345 492,1345 492,1345 503,1354 505,1356 527,1354 628,1347 628,1347 630,1347 630,1347 688,1356 707,1358 754,1356 897,1349 899,1349 899,1349 899,1349 901,1349 901,1349 921,1358 928,1362 1029,1362 1034,1358 1049,1351 1049,1351 1049,1351 1051,1351 1051,1351 1051,1351 1053,1351 1143,1358 1185,1362 1197,1358 1221,1352 1223,1352 1223,1352 1225,1352 1225,1352 1225,1352 1227,1352 1247,1360 1256,1362 1529,1362 1533,1391 1529,1418 291,1400"/>
+        <Baseline points="293,1380 1533,1391"/>
+        <TextEquiv>
+          <Unicode>sions de la Dotation se trouvaient ensemble à Paris. Les deux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a33c5628" >
+        <Coords points="291,1446 291,1418 1610,1433 1610,1461 1606,1482 289,1466"/>
+        <Baseline points="291,1446 1610,1461"/>
+        <TextEquiv>
+          <Unicode>groupes interparlementaires de l&#39;Union Française et de nos Régions</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2fc7b160" >
+        <Coords points="289,1510 289,1484 1624,1497 1626,1526 1622,1548 287,1528"/>
+        <Baseline points="289,1510 1626,1526"/>
+        <TextEquiv>
+          <Unicode>Dévastées ont tenu à profiter de votre visite pour vous exprimer la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ce5e6a01" >
+        <Coords points="289,1578 289,1550 1606,1561 1608,1592 1606,1609 1469,1618 1467,1618 1467,1618 1370,1609 1368,1609 1368,1609 1280,1616 1280,1616 1278,1616 1278,1616 1223,1607 1218,1605 287,1600"/>
+        <Baseline points="289,1578 1608,1592"/>
+        <TextEquiv>
+          <Unicode>gratitude des populations qu&#39;ils représentent et, je puis dire, de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_119bc3b8" >
+        <Coords points="287,1640 287,1611 1569,1633 1571,1658 1567,1680 285,1658"/>
+        <Baseline points="287,1640 1571,1658"/>
+        <TextEquiv>
+          <Unicode>la France entière, pour les généreuses initiatives prises par la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bb982be1" >
+        <Coords points="287,1706 287,1682 1606,1700 1606,1724 1602,1742 285,1728"/>
+        <Baseline points="287,1706 1606,1724"/>
+        <TextEquiv>
+          <Unicode>Dotation, tant de fois, avant, pendant et depuis la guerre, et no-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1c5b9b4e" >
+        <Coords points="287,1772 287,1744 1615,1764 1617,1794 1615,1814 1397,1821 1395,1821 1395,1821 1307,1810 1278,1808 1232,1810 1111,1816 1110,1816 1110,1816 1108,1816 1078,1808 1062,1805 1029,1808 963,1814 963,1814 961,1814 961,1814 959,1814 959,1814 959,1814 958,1814 948,1807 941,1803 908,1807 844,1812 844,1812 842,1812 842,1812 805,1805 783,1801 765,1805 732,1810 732,1810 732,1810 730,1810 730,1810 729,1810 703,1803 685,1799 659,1803 620,1808 620,1808 619,1808 619,1808 567,1801 534,1797 529,1801 523,1807 523,1807 522,1807 522,1807 522,1807 520,1807 520,1807 518,1807 415,1805 415,1805 415,1805 413,1805 413,1805 413,1805 412,1805 404,1799 393,1794 287,1797"/>
+        <Baseline points="287,1772 1617,1794"/>
+        <TextEquiv>
+          <Unicode>tammet pour ce qu&#39;elle a fait à la Sorbonne, à Reims, à Fargniers,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a71bcc6f" >
+        <Coords points="283,1838 283,1808 591,1814 595,1812 611,1805 611,1805 611,1805 613,1805 613,1805 615,1805 615,1805 615,1805 617,1805 617,1805 617,1805 619,1805 619,1805 628,1814 630,1814 631,1814 664,1807 664,1807 664,1807 666,1807 807,1816 809,1816 809,1816 837,1807 837,1807 838,1807 838,1807 840,1807 840,1807 934,1819 934,1843 932,1883 774,1883 773,1882 773,1882 771,1882 771,1882 771,1882 769,1882 769,1882 763,1876 749,1867 670,1874 595,1880 593,1880 593,1880 593,1880 591,1880 591,1880 591,1880 575,1871 564,1865 534,1869 472,1878 472,1878 470,1878 470,1878 468,1878 468,1878 468,1878 467,1878 450,1867 443,1861 280,1860"/>
+        <Baseline points="283,1838 934,1843"/>
+        <TextEquiv>
+          <Unicode>à Belgrade, à Louvain, etc. etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fee966f6" >
+        <Coords points="443,1902 443,1876 1507,1887 1507,1915 1505,1937 901,1940 899,1940 899,1940 897,1940 897,1940 875,1931 751,1938 749,1938 749,1938 749,1938 747,1938 747,1938 745,1938 729,1929 463,1935 461,1935 461,1935 459,1935 459,1935 459,1935 437,1924"/>
+        <Baseline points="443,1902 1507,1915"/>
+        <TextEquiv>
+          <Unicode>Ont pris la parole pour vous remercier, après moi, le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

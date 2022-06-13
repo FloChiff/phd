@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-05-20T11:35:45.048590+00:00</Created>
+        <LastChange>2022-05-20T11:35:45.048611+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAD072_12J391_lettre1358_007.jpg" imageWidth="1739" imageHeight="2197">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_fc4732a5" >
+        <Coords points="842,188 842,153 978,155 978,188 978,208 842,214"/>
+        <Baseline points="842,188 978,188"/>
+        <TextEquiv>
+          <Unicode>- 7 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8337c414" >
+        <Coords points="434,263 430,230 1625,216 1630,254 1629,280 434,289"/>
+        <Baseline points="434,263 1630,254"/>
+        <TextEquiv>
+          <Unicode>Les procès-verbaux me dispensent d&#39;insister sur ces séances,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f7765c36" >
+        <Coords points="278,329 273,296 306,287 307,287 307,287 309,287 309,287 382,296 410,298 417,296 437,287 437,287 439,287 439,287 439,287 441,287 441,287 509,294 536,298 564,294 639,285 639,285 641,285 641,285 641,285 643,285 643,285 643,285 645,285 657,294 661,298 727,298 738,294 787,285 787,285 787,285 789,285 925,294 958,296 973,294 1035,283 1035,283 1037,283 1037,283 1037,283 1039,283 1039,283 1039,283 1040,283 1055,294 1057,296 1174,296 1178,294 1198,283 1198,283 1198,283 1200,283 1200,283 1200,283 1202,283 1202,283 1203,283 1246,294 1251,294 1262,294 1394,281 1394,281 1396,281 1643,294 1647,322 1647,340 1246,351 1244,351 1004,344 984,344 982,344 952,353 951,353 951,353 951,353 949,353 667,346 659,346 657,346 621,355 619,355 619,355 617,355 276,346"/>
+        <Baseline points="278,329 1647,322"/>
+        <TextEquiv>
+          <Unicode>d&#39;un intérêt vriament exceptionnel, et qui a dépassé notre espérance,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5b8ca59d" >
+        <Coords points="282,397 278,367 1625,353 1630,388 1629,413 820,411 760,421 751,421 751,421 749,421 731,421 606,413 282,422"/>
+        <Baseline points="282,397 1630,388"/>
+        <TextEquiv>
+          <Unicode>comme celui de l&#39;Assemblée Générale de la Conciliation de la veille.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c08a60b3" >
+        <Coords points="436,461 432,428 1607,426 1612,452 1610,477 436,485"/>
+        <Baseline points="436,461 1612,452"/>
+        <TextEquiv>
+          <Unicode>Je dirai seulement que, soit avant, soit après les séances,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c365009e" >
+        <Coords points="282,530 278,503 1610,494 1616,521 1614,540 282,552"/>
+        <Baseline points="282,530 1616,521"/>
+        <TextEquiv>
+          <Unicode>soit dans les intervalles, chacun a naturellement visité attentive-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6e6eb67c" >
+        <Coords points="280,596 276,567 1651,563 1656,591 1656,609 280,616"/>
+        <Baseline points="280,596 1656,591"/>
+        <TextEquiv>
+          <Unicode>ment notre nouvel immeuble. Nous avons eu la satisfaction de voir le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_35b4f93a" >
+        <Coords points="284,662 280,635 753,624 754,624 754,624 754,624 756,624 778,631 780,631 782,631 804,622 804,622 806,622 806,622 806,622 808,622 969,629 980,629 980,629 1002,620 1002,620 1004,620 1004,620 1004,620 1006,620 1158,629 1161,653 1159,682 1037,677 980,684 960,686 960,686 958,686 958,686 958,686 956,686 949,684 919,675 888,684 883,686 881,686 881,686 881,686 879,686 879,686 866,684 811,675 767,684 760,686 760,686 760,686 758,686 736,684 650,679 632,686 621,690 621,690 619,690 619,690 617,690 617,690 617,690 615,690 602,686 584,681 284,686"/>
+        <Baseline points="284,662 1161,653"/>
+        <TextEquiv>
+          <Unicode>succès répondre pleinement à nos espérances.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ab70232f" >
+        <Coords points="437,726 436,690 742,697 780,688 782,688 784,688 784,688 786,688 786,688 791,688 859,697 870,688 870,688 872,688 872,688 872,688 872,688 874,688 874,688 875,688 995,688 995,688 995,688 996,688 996,688 996,688 996,688 1017,697 1095,697 1104,688 1104,688 1104,686 1104,686 1106,686 1106,686 1106,686 1108,686 1108,686 1110,686 1110,686 1110,686 1112,686 1115,688 1141,697 1339,697 1354,686 1354,686 1356,686 1356,686 1356,686 1357,686 1357,686 1357,686 1359,686 1359,686 1361,686 1365,686 1401,695 1482,686 1491,686 1491,686 1493,686 1493,686 1493,686 1497,686 1535,695 1559,686 1559,686 1559,686 1561,686 1561,686 1561,686 1563,686 1563,686 1564,686 1564,686 1564,686 1564,686 1566,686 1566,686 1577,695 1596,686 1603,723 1601,745 1051,745 1000,750 967,754 967,754 965,754 835,752 505,746 437,756"/>
+        <Baseline points="437,726 1603,723"/>
+        <TextEquiv>
+          <Unicode>Certains de nos membres, particulièrement le Baron Suédois</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_443e2d55" >
+        <Coords points="282,794 278,770 412,757 414,757 538,757 538,757 538,757 540,757 540,757 540,757 542,757 558,767 842,757 844,757 844,757 908,767 938,756 938,756 940,756 940,756 941,756 941,756 1031,765 1238,756 1240,756 1240,756 1242,756 1279,765 1315,756 1317,756 1317,756 1319,756 1319,756 1319,756 1363,767 1434,767 1445,756 1445,756 1447,756 1447,756 1447,756 1449,756 1449,756 1449,756 1451,756 1451,756 1453,756 1453,756 1453,756 1473,767 1597,767 1601,790 1597,820 313,814 284,823"/>
+        <Baseline points="282,794 1601,790"/>
+        <TextEquiv>
+          <Unicode>ADELSWARD, ayant insisté, outre mesure, sur le caract§ère somptueux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4f7f6b85" >
+        <Coords points="280,862 276,836 1614,833 1619,858 1618,878 280,880"/>
+        <Baseline points="280,862 1619,858"/>
+        <TextEquiv>
+          <Unicode>de nos dépenses et sur les sacrifices que ces dépenses infligeaient</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_17519eea" >
+        <Coords points="280,931 281,911 1575,898 1579,924 1579,942 874,953 872,953 628,946 604,946 591,946 467,955 465,955 278,946"/>
+        <Baseline points="280,931 1579,924"/>
+        <TextEquiv>
+          <Unicode>à des organisations nécessite€ses que je connais d&#39;ailleurs mieux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_358f56d7" >
+        <Coords points="285,995 280,972 322,959 324,959 324,959 326,959 487,959 487,959 487,959 489,959 489,959 489,959 491,959 507,968 793,957 795,957 1132,966 1180,955 1181,955 1181,955 1183,955 1559,966 1563,990 1561,1017 285,1019"/>
+        <Baseline points="285,995 1563,990"/>
+        <TextEquiv>
+          <Unicode>que lui, j&#39;ai pris sur moi de déclarer expressément, et une fois</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_25c3042a" >
+        <Coords points="284,1061 280,1038 357,1027 359,1027 1577,1032 1581,1058 1579,1087 284,1087"/>
+        <Baseline points="284,1061 1581,1058"/>
+        <TextEquiv>
+          <Unicode>pour toutes, que l&#39;achat de cet hôtel était pour nous, non pas un</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7775b0d3" >
+        <Coords points="284,1125 284,1091 1618,1094 1619,1125 1616,1149 282,1146"/>
+        <Baseline points="284,1125 1619,1125"/>
+        <TextEquiv>
+          <Unicode>luxe, mais un placement louable, et même enviable. J&#39;ai ajouté que</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_86fab64b" >
+        <Coords points="282,1191 278,1166 1539,1158 1544,1188 1541,1215 280,1210"/>
+        <Baseline points="282,1191 1544,1188"/>
+        <TextEquiv>
+          <Unicode>nous n&#39;avions sacrifié personne, ni les sociétés de la Paix, ni</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6d94f50e" >
+        <Coords points="285,1254 285,1224 1638,1232 1638,1257 1634,1279 284,1274"/>
+        <Baseline points="285,1254 1638,1257"/>
+        <TextEquiv>
+          <Unicode>l&#39;Union Interparlementaire - dont le Baron suédois s&#39;est fait l&#39;avo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4e945f02" >
+        <Coords points="285,1321 285,1290 659,1294 698,1292 787,1285 789,1285 789,1285 789,1285 791,1285 791,1285 793,1285 793,1285 802,1292 806,1294 830,1292 916,1285 918,1285 918,1285 918,1285 956,1292 971,1296 1020,1294 1136,1287 1137,1287 1284,1294 1313,1296 1323,1296 1372,1287 1372,1287 1374,1287 1374,1287 1374,1287 1376,1287 1409,1296 1412,1298 1634,1298 1636,1325 1632,1354 1533,1343 1356,1352 1290,1354 1288,1354 1288,1354 1264,1351 1220,1343 1203,1351 1192,1354 1192,1354 1191,1354 1191,1354 1191,1354 1189,1354 1189,1354 1189,1354 1187,1354 1187,1354 1185,1354 1185,1354 1185,1354 1181,1349 1172,1343 1128,1349 1112,1351 1112,1351 1110,1351 1057,1349 938,1342 912,1347 883,1352 883,1352 883,1352 881,1352 689,1343 628,1342 624,1343 606,1352 606,1352 606,1352 604,1352 604,1352 604,1354 452,1354 450,1352 284,1338"/>
+        <Baseline points="285,1321 1636,1325"/>
+        <TextEquiv>
+          <Unicode>cat un peu/trop lourdement zélé, encore moins la Société des Nations,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4f76c426" >
+        <Coords points="284,1391 280,1363 1572,1358 1577,1387 1574,1417 930,1407 857,1418 857,1418 855,1418 480,1409 441,1418 439,1418 439,1418 437,1418 437,1418 366,1409 284,1420"/>
+        <Baseline points="284,1391 1577,1387"/>
+        <TextEquiv>
+          <Unicode>pour laquelle je n&#39;ai pas hésité à me compromettre, en engageant,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b1984a1c" >
+        <Coords points="287,1455 287,1417 349,1426 967,1418 969,1418 971,1418 971,1418 971,1418 973,1418 973,1418 973,1418 974,1418 974,1418 987,1428 1654,1420 1656,1459 1654,1475 1594,1488 1594,1488 1592,1488 1592,1488 1497,1477 1462,1488 1460,1488 1460,1488 1460,1488 1458,1488 1458,1488 1456,1488 1420,1479 1293,1486 1291,1486 1123,1477 1095,1486 1095,1486 1093,1486 1093,1486 1092,1486 1092,1486 996,1477 978,1488 976,1488 976,1488 974,1488 974,1488 974,1488 973,1488 973,1488 879,1475 635,1486 634,1486 634,1486 634,1486 632,1486 591,1475 531,1484 531,1484 529,1484 529,1484 421,1475 406,1486 406,1486 404,1486 404,1486 404,1486 403,1486 403,1486 401,1486 401,1486 285,1471"/>
+        <Baseline points="287,1455 1656,1459"/>
+        <TextEquiv>
+          <Unicode>sans aucune autorisation, des dépenses assez considérables pour payer</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8899b3d0" >
+        <Coords points="287,1519 287,1493 1619,1493 1621,1525 1619,1550 403,1550 401,1548 285,1537"/>
+        <Baseline points="287,1519 1621,1525"/>
+        <TextEquiv>
+          <Unicode>son loyer à Paris, son secrétaire et ses publications. J&#39;avoue que</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_59d0465d" >
+        <Coords points="287,1587 285,1563 1522,1561 1524,1587 1522,1614 285,1607"/>
+        <Baseline points="287,1587 1524,1587"/>
+        <TextEquiv>
+          <Unicode>ce neutre Suédois, si exigeant pour la Dotation Carnegie, pour</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9c98d30d" >
+        <Coords points="285,1651 287,1614 306,1623 533,1618 593,1616 595,1616 595,1616 597,1616 597,1616 602,1618 623,1625 824,1620 949,1618 951,1618 951,1618 982,1622 1015,1627 1055,1623 1093,1620 1095,1620 1618,1631 1619,1658 1618,1677 304,1680 302,1680 302,1680 300,1680 300,1680 300,1680 298,1680 280,1669"/>
+        <Baseline points="285,1651 1619,1658"/>
+        <TextEquiv>
+          <Unicode>l&#39;Amérique et pour la France, m&#39;a porté sur les nerfs, et qu&#39;il m&#39;a</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c99f6bb6" >
+        <Coords points="289,1717 291,1678 339,1693 535,1693 580,1682 595,1680 595,1680 595,1680 597,1680 597,1680 599,1680 599,1680 606,1682 635,1693 676,1684 687,1682 687,1682 687,1682 689,1682 721,1684 813,1693 837,1686 852,1682 853,1682 853,1682 853,1682 855,1682 855,1682 897,1688 956,1695 1040,1689 1126,1684 1128,1684 1128,1684 1128,1684 1130,1684 1130,1684 1130,1684 1132,1684 1132,1684 1139,1691 1145,1695 1178,1691 1236,1686 1236,1686 1238,1686 1363,1695 1401,1697 1405,1695 1418,1686 1420,1686 1420,1686 1420,1686 1421,1686 1421,1686 1423,1686 1506,1686 1506,1686 1506,1686 1574,1699 1575,1724 1574,1744 289,1744"/>
+        <Baseline points="289,1717 1575,1724"/>
+        <TextEquiv>
+          <Unicode>fallu de la patience pour ne pas céder à l&#39;agacement de mes amis,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3c49b25e" >
+        <Coords points="287,1783 285,1759 469,1750 470,1750 470,1750 551,1759 555,1759 557,1759 591,1750 593,1750 593,1750 595,1750 595,1750 595,1750 597,1750 597,1750 597,1750 599,1750 613,1759 615,1761 634,1759 714,1752 714,1752 716,1752 716,1752 718,1752 718,1752 718,1752 720,1752 720,1752 731,1761 732,1761 765,1761 929,1753 930,1753 930,1753 1011,1761 1033,1763 1048,1761 1104,1753 1104,1753 1106,1753 1106,1753 1106,1753 1108,1753 1108,1753 1108,1753 1110,1753 1121,1761 1125,1764 1596,1764 1597,1790 1596,1810 309,1812 307,1812 307,1812 306,1812 306,1812 306,1812 284,1801"/>
+        <Baseline points="287,1783 1597,1790"/>
+        <TextEquiv>
+          <Unicode>excédés de ses interventions. Il ne s&#39;est d&#39;ailleurs ap€eçu aucu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5f1d2a8a" >
+        <Coords points="287,1850 287,1821 1665,1827 1667,1860 1663,1887 1385,1876 1255,1885 1244,1885 1244,1887 1117,1887 1115,1885 1115,1885 1114,1885 1114,1885 1114,1885 1112,1885 1112,1883 1095,1874 934,1883 916,1883 914,1883 896,1883 754,1872 668,1882 659,1882 657,1882 285,1878"/>
+        <Baseline points="287,1850 1667,1860"/>
+        <TextEquiv>
+          <Unicode>nement de l&#39;effet qu&#39;il a produit et il est parti tout à fait content,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a6fcf39a" >
+        <Coords points="287,1915 285,1889 643,1882 645,1882 645,1882 646,1882 646,1882 646,1882 648,1882 648,1882 648,1883 654,1887 657,1891 701,1887 756,1883 756,1883 758,1883 813,1887 883,1893 901,1887 914,1883 916,1883 916,1883 916,1883 918,1883 918,1883 918,1883 919,1883 919,1883 929,1887 941,1894 1176,1894 1240,1887 1258,1885 1258,1885 1260,1885 1260,1885 1262,1885 1269,1887 1310,1896 1368,1887 1370,1887 1370,1887 1370,1887 1372,1887 1378,1887 1515,1896 1561,1887 1564,1924 1561,1949 285,1940"/>
+        <Baseline points="287,1915 1564,1924"/>
+        <TextEquiv>
+          <Unicode>après avoir touché ses frais de voyage et de séjour, s&#39;élevant à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bbf45631" >
+        <Coords points="285,1982 285,1953 1577,1958 1579,1991 1574,2023 1542,2012 1453,2023 1442,2023 1442,2023 1440,2023 1440,2023 1438,2023 1434,2023 1390,2012 1343,2021 1334,2023 1334,2023 1334,2023 1332,2023 1332,2023 1330,2023 1330,2023 1330,2023 1326,2021 1302,2010 1101,2019 1068,2021 1066,2021 1066,2021 1066,2021 1064,2021 1064,2021 1064,2021 1062,2021 1062,2021 1062,2019 1062,2019 1049,2008 995,2019 991,2019 991,2019 991,2019 989,2019 989,2019 987,2019 987,2019 987,2019 956,2008 921,2017 919,2017 919,2017 919,2017 918,2017 918,2017 916,2017 916,2017 916,2017 897,2008 883,2019 883,2019 881,2019 881,2019 881,2019 879,2019 879,2019 879,2019 877,2019 877,2019 875,2019 872,2019 835,2008 699,2017 689,2017 687,2017 687,2017 676,2017 540,2006 522,2015 522,2015 522,2015 522,2015 520,2015 520,2015 520,2015 518,2015 518,2015 516,2015 516,2015 516,2015 516,2015 514,2015 514,2015 500,2004 285,2013"/>
+        <Baseline points="285,1982 1579,1991"/>
+        <TextEquiv>
+          <Unicode>près de 3.000 Francs, qu&#39;il n&#39;aura pas classés, je suppose, parmi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
