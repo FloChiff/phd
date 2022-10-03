@@ -16,7 +16,7 @@
 | Lemma |611 | 1994 | 905 |
 | Difference |297 | 821 | 45 |
 
-Percentage of common words (tokens) in the total of words (war + other): 16,89% 
+Percentage of common words (tokens) in the total of words (war + other): 16,89%  
 Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 
 ##### Table of the part-of-speech (POS) for the words present in the sets (tokens)
@@ -95,6 +95,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 | X | 3 | 12 | 0 |
 | Total | 611 | 1994 | 905 |
 
+-----
 
 ### The second set of tests: incorrect words removed
 #### Table of results
@@ -112,7 +113,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 | Lemma | 563 | 1817 | 901 |
 | Difference | 303 | 839 | 46 |
 
-Percentage of common words (tokens) in the total of words (war + other): 17,49% 
+Percentage of common words (tokens) in the total of words (war + other): 17,49%  
 Percentage of common words (lemmas) in the total of words (war + other): 21,54%
 
 ##### Table of the POS for the words present in the sets (tokens)
