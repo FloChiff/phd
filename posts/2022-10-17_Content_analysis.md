@@ -1,4 +1,8 @@
-# 2022-10-17 - Analysis of the content of the test corpus
+---
+layout: post
+title: "Analysis of the content of the test corpus"
+date: 2022-10-17
+---
 
 ## Creating the sets of tests
 I have two sets of tests, taken from the corpus of Paul d'Estournelles de Constant. After some reading of the content, I did the separation according to what I deduced was their theme: one of them is mostly about war, the other deals with other topics. There are nine letters in each test set; the war set is about 31-pages long; the other is about 76-pages long. 

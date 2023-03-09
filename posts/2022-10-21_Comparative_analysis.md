@@ -1,4 +1,8 @@
-# 2022-10-21 - Comparative analysis
+---
+layout: post
+title: "Comparative analysis"
+date: 2022-10-21
+---
 
 ## Introduction
 As I previously mentioned, my thesis aims to determine if the lexicon of the ground truth has an impact on the efficiency of the model, especially if it is specific. To prove or refute this theory, I need to do different kind of tests.

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Lexicon analysis"
+date: 2022-06-15
 ---
-
-# 2022-06-15 - Lexicon analysis
 
 ## Why a lexicon analysis ?
 I am currently working on a thesis in digital humanities. My research is centred around optical character recognition (OCR) and, most precisely, the ground truth used to produce a model for the transcription. The hypothesis I am trying to demonstrate is that the lexicon contained in the ground truth used for the production of a transcription model will ultimately impact the efficiency of the model on the corpus it is applied on. Consequently, if a corpus' main lexicon is the same as the one the model was trained on, the error rate of the transcription will be way lower than if it has an opposite lexicon.  
