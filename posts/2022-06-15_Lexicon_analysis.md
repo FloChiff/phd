@@ -11,14 +11,14 @@ Therefore, as the lexicon represents a huge part in my research, I decided that 
 
 ## Few steps for the analysis
 ### First step: Retrieving the texts to do the analysis
-To start my analysis, I need to get my hand on the text, in its raw form. My idea was to retrieve, from all the files exported from eScriptorium, the content of the tag or attribute containing the text of the transcription. As I had a lot of files in different folders, I created two scripts, one in Python and one in Bash, to do that rapidly. The [Python script](https://github.com/FloChiff/phd/blob/main/lexicon_analysis/word_frequency/groundtruth/scripts/groundtruth.py) works with BeautifulSoup because the exported files are in XML (Page or Alto) and it provides two options of text retrieving, depending on the XML export chosen. The output is in the 'a' mode as I need to add all the transcriptions in the same file. The [Bash script](https://github.com/FloChiff/phd/blob/main/lexicon_analysis/word_frequency/groundtruth/scripts/generate_groundtruth.sh) is just a way to gather in one go the content of the various folders.  
+To start my analysis, I need to get my hand on the text, in its raw form. My idea was to retrieve, from all the files exported from eScriptorium, the content of the tag or attribute containing the text of the transcription. As I had a lot of files in different folders, I created two scripts, one in Python and one in Bash, to do that rapidly. The [Python script](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/groundtruth/scripts/groundtruth.py) works with BeautifulSoup because the exported files are in XML (Page or Alto) and it provides two options of text retrieving, depending on the XML export chosen. The output is in the 'a' mode as I need to add all the transcriptions in the same file. The [Bash script](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/groundtruth/scripts/generate_groundtruth.sh) is just a way to gather in one go the content of the various folders.  
 Once those two scripts have been executed, I have in a single file the full content I will use for the subsequent lexicon analysis.
 
 ### Second step: Finding the perfect way to analyse the lexicon
 After retrieving my texts, I could start the analysis of the lexicon. To do so, I decided that the best choice was a frequency list:  
 > In computational linguistics, a __frequency list__ is a sorted list of words (word types) together with their frequency, where frequency here usually means the number of occurrences in a given corpus, from which the rank can be derived as the position in the list. ^[[https://en.wikipedia.org/wiki/Word_list](https://en.wikipedia.org/wiki/Word_list)]
 
-In order to generate that frequency list, I needed to create a [new script](https://github.com/FloChiff/phd/blob/main/lexicon_analysis/word_frequency/groundtruth/scripts/clean_groundtruth.py) that would clean the retrieved texts, count the words and render the occurrences.  
+In order to generate that frequency list, I needed to create a [new script](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/groundtruth/scripts/clean_groundtruth.py) that would clean the retrieved texts, count the words and render the occurrences.  
 The cleaning of the files looked like this:  
 
 - Delete all the numbers
@@ -44,9 +44,9 @@ Now, the ground truth were easily selected for the test because they were previo
 ### My results
 My lists and word clouds are now generated, and each document can be found in the following folders:  
 
-- [Frequency list and wordcloud for the groundtruth](https://github.com/FloChiff/phd/blob/main/lexicon_analysis/word_frequency/groundtruth/)
-- [Frequency lists and wordclouds for the source test (43 pages)](https://github.com/FloChiff/phd/blob/main/lexicon_analysis/word_frequency/test_43_pages/)
-- [Frequency lists and wordclouds for the source test (107 pages)](https://github.com/FloChiff/phd/blob/main/lexicon_analysis/word_frequency/test_107_pages/)
+- [Frequency list and wordcloud for the groundtruth](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/groundtruth/)
+- [Frequency lists and wordclouds for the source test (43 pages)](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/test_43_pages/)
+- [Frequency lists and wordclouds for the source test (107 pages)](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/test_107_pages/)
 
 Here are the various observations that I gathered when looking at the files and comparing them:  
 

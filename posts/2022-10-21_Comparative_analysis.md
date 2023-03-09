@@ -47,12 +47,13 @@ This tool evaluates the success of a transcription task on an image or several, 
 With the web application, it is also possible to have access to a 'versus text', which will show where are the differences between the reference and the prediction. This is a good way to determine more easily where the model had a problem, which could then be helpful to know how to better train and improve it. However, the web application is limited on the number of characters that can be submitted in the reference/prediction (7000 characters), so it will only be possible to test little bit of the transcription.
 
 #### How to have access to KaMi
-- [Web Application](https://kami-app.herokuapp.com/)
+- Web Application
 - [GitHub](https://github.com/KaMI-tools-project/KaMi-lib)
 
 ## Table of results
 ### General results
 #### Results
+
 |  | Set War/Model War | Set War/Model Other | Set Other/Model Other | Set Other/Model War |
 |--|--|--|--|--|
 | Levensthein distance (char) | 372 | 770 | 451 | 4090 |
@@ -74,6 +75,7 @@ First of all, the most striking thing we can observe is the Levensthein distance
 #### Set Other
 ##### Letter 1358 Page 4
 ###### Results
+
 |  | Model Other | Model War |
 |--|--|--|
 | Levensthein Distance (Char.) | 7 | 127 |
@@ -93,6 +95,7 @@ The length difference is not that high between the predictions and the reference
 
 ##### Letter 607 Page 3
 ###### Results
+
 |  | Model Other | Model War |
 |--|--|--|
 | Levensthein Distance (Char.) | 1 | 21 |
@@ -112,6 +115,7 @@ The number of characters in the prediction is the same for both models, but also
 
 ##### Letter 607 Page 17
 ###### Results
+
 |  | Model Other | Model War |
 |--|--|--|
 | Levensthein Distance (Char.) | 6 | 86 |
@@ -131,6 +135,7 @@ The MO did pretty well and was different from the reference by only one more cha
 
 ##### Letter 722 Page 1
 ###### Results
+
 |  | Model Other | Model War |
 |--|--|--|
 | Levensthein Distance (Char.) | 9 | 65 |
@@ -150,6 +155,7 @@ The MO is wrong by two more characters in its prediction and four more for the M
 
 ##### Letter 1170 Page 3
 ###### Results
+
 |  | Model Other | Model War |
 |--|--|--|
 | Levensthein Distance (Char.) | 11 | 56 |
@@ -173,6 +179,7 @@ In conclusion, for this test set, we can say that the MO rather did well on the 
 #### Set War
 ##### Letter 678 Page 1
 ###### Results
+
 |  | Model War | Model Other |
 |--|--|--|
 | Levensthein Distance (Char.) | 11 | 33 |
@@ -192,6 +199,7 @@ The MW only miss the reference by one, while the MO did it by five less characte
 
 ##### Letter 1000 Page 3
 ###### Results
+
 |  | Model War | Model Other |
 |--|--|--|
 | Levensthein Distance (Char.) | 8 | 6 |
@@ -211,6 +219,7 @@ The MW and MO did both very well on this transcription and here, the MO was bett
 
 ##### Letter 1367 Page 1
 ###### Results
+
 |  | Model War | Model Other |
 |--|--|--|
 | Levensthein Distance (Char.) | 19 | 50 |
@@ -230,6 +239,7 @@ The MO and MW were rather close in their predictions to the reference (by one) b
 
 ##### Letter 844 Page 1
 ###### Results
+
 |  | Model War | Model Other |
 |--|--|--|
 | Levensthein Distance (Char.) | 21 | 40 |
@@ -249,6 +259,7 @@ Both transcriptions are pretty off for their usual results, with a WER of 6 and 
 
 ##### Letter 948 Page 1
 ###### Results
+
 |  | Model War | Model Other |
 |--|--|--|
 | Levensthein Distance (Char.) | 27 | 59 |
@@ -274,6 +285,7 @@ The MW has been retrained on its own data, in order to double the input and to s
 
 #### General
 ###### Results
+
 |  | Set Other/Model War Retrained | Set War/Model War Retrained  |
 |--|--|--|
 | Levensthein Distance (Char.) | 3768 | 197 |
@@ -293,6 +305,7 @@ In the matter of the prediction, the MWR did a little better on its own set, by 
 
 #### Results by letters
 ###### Results
+
 |  | 1358_4 | 607_3 | 607_17 | 722_1 | 1170_3 | 678_1 | 1000_3 | 1367_1 | 844_1 | 948_1 |
 |--|--|--|--|--|--|--|--|--|--|--|
 | Levensthein Distance (Char.) | 121 | 19 | 84 | 61 | 55 | 8 | 9 | 13 | 6 | 9 |
