@@ -1,7 +1,6 @@
 # Tools
 
-##### KaMi App
-[https://kami-app.herokuapp.com/](https://kami-app.herokuapp.com/)  
+##### KaMi App 
 KaMi stands for Kraken Model Inspector  
 This tool evaluates the success of a transcription task comparing a correct transcription (reference) and a prediction. The results are then the Levenshtein distance of this evaluation, the Word Error Rate (WER), the Character Error Rate (CER), the Word Accuracy (Wacc), as well as some others statistics taken from the Speech Recognition domain.  
 KaMi also offers the possibility to ignore some specificities from the transcription to obtain a more accurate analysis. Thus, it is possible to choose to ignore digits, punctuation, diacritics and cases from the transcription. The statistics at the end will be given with and without what was chosen before initializing the comparison. For example, if everything is selected, the statistics given will be one with a complete comparison, no specificities taken into account, then one with the digits ignored, one with the punctuation ignored, etc. and at the end, one with all the options ignored combined.
