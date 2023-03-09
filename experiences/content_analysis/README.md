@@ -5,7 +5,7 @@
 ##### Table for the words present in the sets
 
 |  | War | Other |
-| :--: | :--: | :--: |
+|--|--|--|
 | Token | 1858 |3765 |
 | Lemma | 1516 | 2898 |
 | Difference | 342 | 867 |
@@ -13,7 +13,7 @@
 ##### Table for the words uniquely present in each set and in common
 
 |  | War | Other | Common |
-| :--: | :--: | :--: | :--: |
+|--|--|--|--|
 | Token |908 | 2815 | 950 |
 | Lemma |611 | 1994 | 905 |
 | Difference |297 | 821 | 45 |
@@ -24,7 +24,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 ##### Table of the part-of-speech (POS) for the words present in the sets (tokens)
 
 | | War | Other |
-| :--: | :--: | :--: |
+|--|--|--|
 | ADJ | 429 | 977 |
 | ADP | 36 | 51 |
 | ADV | 117 | 184 |
@@ -44,7 +44,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 ##### Table of the POS for the words present in the sets (lemmas)
 
 | | War | Other |
-| :--: | :--: | :--: |
+|--|--|--|
 | ADJ | 309 | 678 |
 | ADP | 32 | 49 |
 | ADV | 112 | 171 |
@@ -64,7 +64,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 ##### Table of the POS for the words uniquely present in each set and in common (tokens)
 
 |  | War | Other | Common |
-| :--: | :--: | :--: | :--: |
+|--|--|--|--|
 | ADJ | 239 | 787 | 191 |
 | ADP | 7 | 21 | 26 |
 | ADV | 38 | 106 | 75 |
@@ -84,7 +84,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 ##### Table of the POS for the words uniquely present in each set and in common (lemmas)
 
 |  | War | Other | Common |
-| :--: | :--: | :--: | :--: |
+|--|--|--|--|
 | ADJ | 152 | 516 | 174 |
 | ADP | 4 | 18 | 25 |
 | ADV | 39 | 103 | 72 |
@@ -108,7 +108,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 ##### Table for the words present in the sets
 
 |  | War | Other |
-| :--: | :--: | :--: |
+|--|--|--|
 | Token | 1813 | 3603 |
 | Lemma | 1464 | 2718 |
 | Difference | 349 | 885 |
@@ -116,7 +116,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 ##### Table for the words uniquely present in each set and in common
 
 |  | War | Other | Common |
-| :--: | :--: | :--: | :--: |
+|--|--|--|--|
 | Token | 866 | 2656 | 947 |
 | Lemma | 563 | 1817 | 901 |
 | Difference | 303 | 839 | 46 |
@@ -127,7 +127,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 21,54%
 ##### Table of the POS for the words present in the sets (tokens)
 
 |  | War | Other |
-| :--: | :--: | :--: |
+|--|--|--|
 | ADJ | 390 | 860 |
 | ADP | 35 | 41 |
 | ADV | 108 | 175 |
@@ -147,7 +147,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 21,54%
 ##### Table of the POS for the words present in the sets (lemmas)
 
 |  | War | Other |
-| :--: | :--: | :--: |
+|--|--|--|
 | ADJ | 304 | 598 |
 | ADP | 31 | 45 |
 | ADV | 107 | 166 |
@@ -167,7 +167,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 21,54%
 ##### Table of the POS for the words uniquely present in each set and in common (tokens)
 
 |  | War | Other | Common |
-| :--: | :--: | :--: | :--: |
+|--|--|--|--|
 | ADJ | 225 | 722 | 186 |
 | ADP | 4 | 17 | 29 |
 | ADV | 36 | 104 | 77 |
@@ -187,7 +187,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 21,54%
 ##### Table of the POS for the words uniquely present in each set and in common (lemmas)
 
 |  | War | Other | Common |
-| :--: | :--: | :--: | :--: |
+|--|--|--|--|
 | ADJ | 126 | 452 | 170 |
 | ADP | 5 | 17 | 27 |
 | ADV | 39 | 99 | 72 |
