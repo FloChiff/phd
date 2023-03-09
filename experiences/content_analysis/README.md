@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Table of results for the content analysis of the test corpus"
+title: "Table of results (content analysis)"
 date: 2022-10-17
 ---
 
