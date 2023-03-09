@@ -36,7 +36,8 @@ minima:
 #
   header_pages:
   - notes/bibliography.md
+  - notes/glossary.md
 
 # Set to `true` to show excerpts on the homepage.
 #
-show_excerpts: true
+show_excerpts: false
