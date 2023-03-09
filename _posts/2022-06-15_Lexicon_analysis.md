@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Lexicon analysis"
+---
+
 # 2022-06-15 - Lexicon analysis
 
 ## Why a lexicon analysis ?
