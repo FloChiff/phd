@@ -1,4 +1,8 @@
-## Analysis of the content of the test corpus
+---
+layout: page
+title: "Table of results for the content analysis of the test corpus"
+date: 2022-10-17
+---
 
 ### The first set of tests: incorrect words present
 #### Table of results

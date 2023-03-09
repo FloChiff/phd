@@ -1,5 +1,7 @@
-# Bibliography
-
+---
+layout: page
+title: "Bibliography"
+---
 
 ##### Assefi, Mehdi. (2016). *OCR as a Service: An Experimental Evaluation of Google Docs OCR, Tesseract, ABBYY FineReader, and Transym*. ISCV. ⟨[Link](https://www.researchgate.net/publication/310645810_OCR_as_a_Service_An_Experimental_Evaluation_of_Google_Docs_OCR_Tesseract_ABBYY_FineReader_and_Transym)⟩  
 In this paper, the authors present different ways to do OCR by doing an evaluation of several systems created for OCR which are Google Docs OCR, Tesseract, ABBYY FineReader and Transym. After explaining quickly what is the point of OCR, they do a rapid presentation of every system chosen and how they operate. They then applied those systems in documents related to healthcare, to see how it would worked and helped in this particular domain. Finally, they experiment on an established dataset of various documents, from noisy images to barcodes to evaluate the efficiency of the systems. In the end, they provide the statistics from this experiment, with the different options tested and the conclusion drawn from it.

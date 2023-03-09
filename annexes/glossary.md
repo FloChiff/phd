@@ -1,4 +1,7 @@
-# Glossary
+---
+layout: page
+title: "Glossary"
+---
 
 **Allographétique**: Various ways of writing the same letter from the Latin script, i.e. long s and curve s.
 

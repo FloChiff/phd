@@ -1,4 +1,7 @@
-# Tools
+---
+layout: page
+title: "Tools"
+---
 
 ##### KaMi App 
 KaMi stands for Kraken Model Inspector  
