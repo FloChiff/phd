@@ -1,0 +1,12 @@
+title: My PhD
+author:
+  name: Floriane Chiffoleau
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  This website reports the experiences, readings and others activities 
+  I am currently doing as part of my PhD.
+# Build settings
+
+theme: minima
