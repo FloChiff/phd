@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analysis of the content of the test corpus"
+title: "Content analysis"
 date: 2022-10-17
 ---
 
