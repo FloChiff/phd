@@ -10,9 +10,9 @@ Reports of my experiments:
 - [Comparative Analysis (Oct 21, 2022)](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html)
 
 Details on some of the results:
-- [Model testing (Lexicon analysis)](https://flochiff.github.io/phd/experiences/lexicon_analysis/README.html)
-- [Table of results (Content analysis)](https://flochiff.github.io/phd/experiences/content_analysis/README.html)
-- [Metrics (Comparative analysis)](https://flochiff.github.io/phd/experiences/comparative_analysis/README.html)
+- [Model testing (Lexicon analysis)](https://flochiff.github.io/phd/experiences/lexicon_analysis/model_testing_lexicon_analysis.html)
+- [Table of results (Content analysis)](https://flochiff.github.io/phd/experiences/content_analysis/table_results_content_analysis.html)
+- [Metrics (Comparative analysis)](https://flochiff.github.io/phd/experiences/comparative_analysis/metrics_comparative_analysis.html)
 
 Additionals informations:
 - [Bibliography](https://flochiff.github.io/phd/annexes/bibliography.html)

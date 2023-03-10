@@ -21,7 +21,7 @@ The second script, [producing_part_of_speech_tagging.py](https://github.com/FloC
 
 ## Results
 The different results of this analysis can be found in the _content\_analysis_ folder at the following links: 
-* [Table of results](https://github.com/FloChiff/phd/blob/main/experiences/content_analysis/README.md) 
+* [Table of results](https://github.com/FloChiff/phd/blob/main/experiences/content_analysis/table_results_content_analysis.md) 
 * [Diagrams for the POS tagging](https://github.com/FloChiff/phd/tree/main/experiences/content_analysis/diagrams)
 * [Wordclouds](https://github.com/FloChiff/phd/tree/main/experiences/content_analysis/wordclouds)
 
