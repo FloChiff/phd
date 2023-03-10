@@ -2,6 +2,7 @@
 layout: post
 title: "Lexicon analysis"
 date: 2022-06-15
+toc: true
 ---
 
 ## Why a lexicon analysis ?
