@@ -10,5 +10,7 @@ layout: home
 
 Welcome to my PhD dedicated website 👋 !!!
 
-In this website, you have the opportunity to observe the advancements of my thesis.  
-I am documenting and sharing the experiments I am conducting to answer the question established for my PhD. I am also giving summaries from the reading I did, presenting the tools I used and defining the common and difficults words/expressions I encountered during my research.
+In this website, you have the opportunity to read on the advancements of my thesis.  
+I am documenting and sharing the experiments I am conducting to answer the question established for my PhD, and I am sometimes providing extensive results (such as tables) from the experiments.  
+I am also giving summaries from the reading I did, presenting the tools I used and defining the common and difficults words/expressions I encountered during my research.  
+
