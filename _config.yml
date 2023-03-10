@@ -29,14 +29,14 @@ minima:
   #
   social_links:
   - { platform: github,         user_url: "https://github.com/FloChiff" }
+  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=72fbbw0AAAAJ&hl" }
+  - { platform: hal,            user_url: "https://cv.hal.science/floriane-chiffoleau" }
   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/floriane-chiffoleau-8ba868196/" }
   - { platform: twitter,        user_url: "https://twitter.com/MissBrutus" }
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
-  header_pages:
-    - menu.md
 
 # Set to `true` to show excerpts on the homepage.
 #
-show_excerpts: false
+#show_excerpts: false
