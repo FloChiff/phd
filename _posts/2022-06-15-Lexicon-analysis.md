@@ -44,9 +44,10 @@ Now, the ground truth were easily selected for the test because they were previo
 ### My results
 My lists and word clouds are now generated, and each document can be found in the following folders:  
 
-- [Frequency list and wordcloud for the groundtruth](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/groundtruth/)
-- [Frequency lists and wordclouds for the source test (43 pages)](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/test_43_pages/)
-- [Frequency lists and wordclouds for the source test (107 pages)](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/test_107_pages/)
+- [Frequency list for the groundtruth](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/groundtruth/)
+- [Frequency lists for the source test (43 pages)](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/test_43_pages/)
+- [Frequency lists for the source test (107 pages)](https://github.com/FloChiff/phd/blob/main/experiences/lexicon_analysis/word_frequency/test_107_pages/)
+- [Wordclouds for the grountruth and for the source test of 43 and 107 pages](https://flochiff.github.io/phd/experiences/lexicon_analysis/wordclouds_lexicon_analysis.html)
 
 Here are the various observations that I gathered when looking at the files and comparing them:  
 

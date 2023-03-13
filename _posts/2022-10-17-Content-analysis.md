@@ -20,10 +20,10 @@ The first script, [creating_list_of_tokens.py](https://github.com/FloChiff/phd/b
 The second script, [producing_part_of_speech_tagging.py](https://github.com/FloChiff/phd/blob/main/experiences/content_analysis/scripts/producing_part_of_speech_tagging.py), uses again the NLP tool, [spaCy](https://spacy.io/), to retrieve the part-of-speech tagging of each token from the given lists (e.g., 'abdication' = NOUN, or ‘ignorer' = VERB or 'et' = CCONJ).
 
 ## Results
-The different results of this analysis can be found in the _content\_analysis_ folder at the following links: 
-* [Table of results](https://github.com/FloChiff/phd/blob/main/experiences/content_analysis/table_results_content_analysis.md) 
-* [Diagrams for the POS tagging](https://github.com/FloChiff/phd/tree/main/experiences/content_analysis/diagrams)
-* [Wordclouds](https://github.com/FloChiff/phd/tree/main/experiences/content_analysis/wordclouds)
+The different results of this analysis can be found at the following links: 
+* [Table of results](https://flochiff.github.io/phd/experiences/content_analysis/table_results_content_analysis.html) 
+* [Diagrams for the POS tagging](https://flochiff.github.io/phd/experiences/content_analysis/diagrams_pos_content_analysis.html)
+* [Wordclouds](https://flochiff.github.io/phd/experiences/content_analysis/wordclouds_content_analysis.html)
 
 ## Analysis of results
 First of all, although it was already known from when I have chosen my two sets of tests, we can observe that there is a big difference between the vocabulary of the war set and of the other set. I knew that one was way longer than the other one but I thought that it might not be clearly visible on the results. However, it is noticeable, first by the sheer number: there is the double of tokens and/or lemmas from the war set to the other. Then, when we do the separation between unique and common words, this difference stays noticeable because the common words of "war" represents half of the whole set, while it is only a quarter for the "other", which gives us the idea that this test set will contain a lot of unique word that will not really help our study. 
