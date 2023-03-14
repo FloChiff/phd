@@ -11,6 +11,7 @@ Reports of my experiments:
 
 Details on some of the results:
 - [Diagrams (POS) (Content analysis)](https://flochiff.github.io/phd/experiences/content_analysis/diagrams_pos_content_analysis.html)
+- [Histograms (Token analysis)](https://flochiff.github.io/phd/experiences/token_analysis/histograms_token_analysis.html)
 - [Metrics (Comparative analysis)](https://flochiff.github.io/phd/experiences/comparative_analysis/metrics_comparative_analysis.html)
 - [Model testing (Lexicon analysis)](https://flochiff.github.io/phd/experiences/lexicon_analysis/model_testing_lexicon_analysis.html)
 - [Popular tokens (Token analysis)](https://flochiff.github.io/phd/experiences/token_analysis/popular_tokens_token_analysis.html)
