@@ -41,7 +41,7 @@ title: "Tables of results (Token analysis)"
 | More than 1000 | 2 | ø | ø | 
 | Total | 416 | 1569 | 2405 | 
 
-### Tokens from set Other (11 and more)
+### Tokens from set Other (11 occurrences and more)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -49,7 +49,7 @@ title: "Tables of results (Token analysis)"
 | Total | 722 | 2112 | 2968 | 
 | Percentage on the total | 43% | 21% | 9% | 
 
-### Tokens from set Other (Only 1)
+### Tokens from set Other (Only 1 occurrence)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -57,7 +57,7 @@ title: "Tables of results (Token analysis)"
 | Total | 722 | 2112 | 2846 | 
 | Percentage on the total | 21% | 32% | 46% | 
 
-### Tokens from set Other (Stopwords)
+### Tokens from set Other (Stopwords in 11 occurrences and more)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -100,7 +100,7 @@ title: "Tables of results (Token analysis)"
 | 101 to 500 | 36 | 4 | 
 | Total | 365 | 1158 | 1508 | 
 
-### Tokens from set War (11 and more)
+### Tokens from set War (11 occurrences and more)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -108,7 +108,7 @@ title: "Tables of results (Token analysis)"
 | Total | 575 | 1438 | 1778 | 
 | Percentage on the total | 37% | 11% | 4% | 
 
-### Tokens from set War (Only 1)
+### Tokens from set War (Only 1 occurrence)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -116,7 +116,7 @@ title: "Tables of results (Token analysis)"
 | Total | 575 | 1438 | 1778 | 
 | Percentage on the total | 26% | 41% | 56% | 
 
-### Tokens from set War (Stopwords)
+### Tokens from set War (Stopwords in 11 occurrences and more)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -125,7 +125,7 @@ title: "Tables of results (Token analysis)"
 | Percentage on the total | 16% | 16% | 29% | 
 
 ## Comparison
-### Most popular tokens (11 and more) (numbers)
+### Most popular tokens (11 occurrences and more) (numbers)
 
 |  | War | Other | Common | 
 |---|---|---|---|
@@ -133,7 +133,7 @@ title: "Tables of results (Token analysis)"
 | 3grams | 5 | 277 | 156 | 
 | 4grams | 7 | 199 | 61 | 
 
-### Most popular tokens (11 and more) (percentages)
+### Most popular tokens (11 occurrences and more) (percentages)
 
 |  | War | Other | 
 |---|---|---|
