@@ -125,6 +125,37 @@ title: "Tables of results (Token analysis)"
 | Percentage on the total | 16% | 16% | 29% | 
 
 ## Comparison
+### All tokens (numbers)
+
+|  | War | Other |
+|--|--|--|
+| 4-grams (Total) | 1778 | 2968 |
+| 4-grams (All Caps) | 76 | 122 |
+| 4-grams (Initials) | 194 | 441 |
+| 4-grams (Lowercases) | 1508 | 2405 |
+| 3-grams (Total) | 1438 | 2112 |
+| 3-grams (All Caps) | 96 | 164 |
+| 3-grams (Initials) | 184 | 379 |
+| 3-grams (Lowercases) | 1158 | 1569 |
+| 2-grams (Total) | 575 | 722 |
+| 2-grams (All Caps) | 105 | 143 |
+| 2-grams (Initials) | 105 | 163 |
+| 2-grams (Lowercases) | 365 | 416 |
+
+### All tokens (percentages)
+
+|  | War | Other |
+|--|--|--|
+| 4-grams (All Caps) | 4% | 4% |
+| 4-grams (Initials) | 11% | 15% |
+| 4-grams (Lowercases) | 85% | 81% |
+| 3-grams (All Caps) | 7% | 8% |
+| 3-grams (Initials) | 13% | 18% |
+| 3-grams (Lowercases) | 81% | 74% |
+| 2-grams (All Caps) | 18% | 20% |
+| 2-grams (Initials) | 18% | 23% |
+| 2-grams (Lowercases) | 63% | 58% |
+
 ### Most popular tokens (11 occurrences and more) (numbers)
 
 |  | War | Other | Common | 
