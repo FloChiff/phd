@@ -125,7 +125,38 @@ title: "Tables of results (Token analysis)"
 | Percentage on the total | 16% | 16% | 29% | 
 
 ## Comparison
-### All tokens (numbers)
+### Total of tokens (numbers)
+
+|  | War | Other |
+|--|--|--|
+| 4-grams (Total) | 4949 | 12751 |
+| 4-grams (All Caps) | 133 | 191 |
+| 4-grams (Initials) | 481 | 1392 |
+| 4-grams (Lowercases) | 4335 | 11168 |
+| 3-grams (Total) | 7613 | 19702 |
+| 3-grams (All Caps) | 195 | 286 |
+| 3-grams (Initials) | 528 | 1523 |
+| 3-grams (Lowercases) | 6890 | 17893 |
+| 2-grams (Total) | 13747 | 35235 |
+| 2-grams (All Caps) | 336 | 489 |
+| 2-grams (Initials) | 641 | 1831 |
+| 2-grams (Lowercases) | 12770 | 32915 |
+
+### Total of tokens (percentages)
+
+|  | War | Other |
+|--|--|--|
+| 4-grams (All Caps) | 3% | 1% |
+| 4-grams (Initials) | 10% | 11% |
+| 4-grams (Lowercases) | 88% | 88% |
+| 3-grams (All Caps) | 3% | 1% |
+| 3-grams (Initials) | 7% | 8% |
+| 3-grams (Lowercases) | 91% | 91% |
+| 2-grams (All Caps) | 2% | 1% |
+| 2-grams (Initials) | 5% | 5% |
+| 2-grams (Lowercases) | 93% | 93% |
+
+### All unique tokens (numbers)
 
 |  | War | Other |
 |--|--|--|
@@ -142,7 +173,7 @@ title: "Tables of results (Token analysis)"
 | 2-grams (Initials) | 105 | 163 |
 | 2-grams (Lowercases) | 365 | 416 |
 
-### All tokens (percentages)
+### All unique tokens (percentages)
 
 |  | War | Other |
 |--|--|--|
