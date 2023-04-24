@@ -81,6 +81,12 @@ First OCR system = 1940 ; the number of publication for HTR/OCR increased in 200
 
 ----------
 
+**T. -T. -H. Nguyen, A. Jatowt, M. Coustaty, N. -V. Nguyen and A. Doucet, "Deep Statistical Analysis of OCR Errors for Effective Post-OCR Processing," *2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL)*, Champaign, IL, USA, 2019, pp. 29-38, doi: [10.1109/JCDL.2019.00015](https://doi.org/10.1109/JCDL.2019.00015).**
+
+In this paper, the authors dig deeper into OCR errors, by presenting the common type of errors, comparing them with common misspelling and analyzing how much they appear within their test sets. They detail five main types of analyses: edit operations, length effects, erroneous characters positions, real-words vs non-words, and word boundary. After presenting it all, they also mix one with another when it occurs in the test sets to push the analysis. The objective is to thorougly observe and search the sets to retrieve the easily and quickly fixable mistakes for an effective post-OCR processing.
+
+----------
+
 **Reul Christian, Wick Christoph, Noeth Maximilian, Buettner Andreas, Wehner Maximilian, and Springmann Uwe. 2021. "Mixed Model OCR Training on Historical Latin Script for Out-of-the-Box Recognition and Finetuning". In *The 6th International Workshop on Historical Document Imaging and Processing* (*HIP '21*). Association for Computing Machinery, New York, NY, USA, 7–12. DOI:[https://doi.org/10.1145/3476887.3476910](https://doi.org/10.1145/3476887.3476910)**  
 
 In this paper, the authors present their project of building a mixed model for a category of historical printings with polyfonts. After exposing previous works in that area, the authors expose their methodology, training and evaluation data, and their transcription guidelines. Then, they describe the various ways they did their experiments, with one option or another, as well as the errors they mostly encountered. Finally, they present the idea of finetuning the work rather than doing it from scratch, before concluding on those different results and what they can hope to do from there.
