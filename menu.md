@@ -11,6 +11,7 @@ Reports of my experiments:
 
 Details on some of the results:
 - [Bar charts (Token analysis)](https://flochiff.github.io/phd/experiences/token_analysis/bar_charts_token_analysis.html)
+- [Comparison of transcriptions errors (Token analysis)](https://flochiff.github.io/phd/experiences/token_analysis/comparison_transcriptions_errors.html)
 - [Diagrams (POS) (Content analysis)](https://flochiff.github.io/phd/experiences/content_analysis/diagrams_pos_content_analysis.html)
 - [Metrics (Comparative analysis)](https://flochiff.github.io/phd/experiences/comparative_analysis/metrics_comparative_analysis.html)
 - [Model testing (Lexicon analysis)](https://flochiff.github.io/phd/experiences/lexicon_analysis/model_testing_lexicon_analysis.html)
