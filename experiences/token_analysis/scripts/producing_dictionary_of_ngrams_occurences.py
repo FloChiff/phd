@@ -14,7 +14,11 @@
 """
 
 import sys
-from results_lists_and_dictionaries import war as liste
+from results_lists_and_dictionaries import gt as liste
+from results_lists_and_dictionaries import gt_2_grams #as liste
+from results_lists_and_dictionaries import gt_3_grams #as liste
+from results_lists_and_dictionaries import gt_4_grams #as liste
+from results_lists_and_dictionaries import war #as liste
 from results_lists_and_dictionaries import war_2_grams #as liste
 from results_lists_and_dictionaries import war_3_grams #as liste
 from results_lists_and_dictionaries import war_4_grams #as liste
