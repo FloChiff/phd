@@ -41,7 +41,7 @@ title: "Tables of results (Token analysis)"
 | More than 1000 | 2 | ø | ø | 
 | Total | 416 | 1569 | 2405 | 
 
-### Tokens from set Other (11 occurrences and more)
+### Tokens from set Other (11 and more)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -49,7 +49,7 @@ title: "Tables of results (Token analysis)"
 | Total | 722 | 2112 | 2968 | 
 | Percentage on the total | 43% | 21% | 9% | 
 
-### Tokens from set Other (Only 1 occurrence)
+### Tokens from set Other (Only 1)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -57,7 +57,7 @@ title: "Tables of results (Token analysis)"
 | Total | 722 | 2112 | 2846 | 
 | Percentage on the total | 21% | 32% | 46% | 
 
-### Tokens from set Other (Stopwords in 11 occurrences and more)
+### Tokens from set Other (Stopwords)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -100,7 +100,7 @@ title: "Tables of results (Token analysis)"
 | 101 to 500 | 36 | 4 | 
 | Total | 365 | 1158 | 1508 | 
 
-### Tokens from set War (11 occurrences and more)
+### Tokens from set War (11 and more)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -108,7 +108,7 @@ title: "Tables of results (Token analysis)"
 | Total | 575 | 1438 | 1778 | 
 | Percentage on the total | 37% | 11% | 4% | 
 
-### Tokens from set War (Only 1 occurrence)
+### Tokens from set War (Only 1)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -116,7 +116,7 @@ title: "Tables of results (Token analysis)"
 | Total | 575 | 1438 | 1778 | 
 | Percentage on the total | 26% | 41% | 56% | 
 
-### Tokens from set War (Stopwords in 11 occurrences and more)
+### Tokens from set War (Stopwords)
 
 |  | 2grams | 3grams | 4grams | 
 |---|---|---|---|
@@ -124,70 +124,73 @@ title: "Tables of results (Token analysis)"
 | Total | 211 | 161 | 68 | 
 | Percentage on the total | 16% | 16% | 29% | 
 
+
+## Set Ground Truth
+
+### Token from set Ground Truth (All Caps)
+
+|  | 2grams | 3grams | 4grams |
+|---|---|---|---|
+| 1 | 27 | 365 | 528 |
+| 2 to 5 | 79 | 359 | 303 |
+| 6 to 10 | 34 | 81 | 34 |
+| 11 to 50 | 101 | 53 | 29 |
+| 51 to 100 | 25 | 9 | 3 |
+| More than 100 | 15 | 3 | 2 |
+| Total | 281 | 870 | 899 |
+
+### Token from set Ground Truth (Initials)
+
+|  | 2grams | 3grams | 4grams |
+|---|---|---|---|
+| 1 | 29 | 287 | 515 |
+| 2 to 5 | 54 | 273 | 356 |
+| 6 to 10 | 24 | 99 | 95 |
+| 11 to 50 | 68 | 107 | 96 |
+| 51 to 100 | 27 | 16 | 13 |
+| More than 100 | 22 | 13 | 10 |
+| Total | 224 | 795 | 1085 |
+
+### Token from set Ground Truth (Lowercases)
+
+|  | 2grams | 3grams | 4grams |
+|---|---|---|---|
+| 1 | 76 | 440 | 1349 |
+| 2 to 5 | 88 | 531 | 1510 |
+| 6 to 10 | 48 | 311 | 602 |
+| 11 to 50 | 89 | 650 | 907 |
+| 51 to 100 | 33 | 207 | 149 |
+| 101 to 500 | 124 | 203 | 79 |
+| 501 to 1000 | 44 | 17 | 8 |
+| More than 1000 | 52 | 7 |  |
+| Total | 554 | 2366 | 4604 |
+
+### Tokens from set Ground Truth (11 and more)
+
+|  | 2grams | 3grams | 4grams |
+|---|---|---|---|
+| 11 and more | 600 | 1285 | 1296 |
+| Total | 1059 | 4031 | 6588 |
+| Percentage on the total | 57% | 32% | 20% |
+
+### Tokens from set Ground Truth (Only 1)
+
+|  | 2grams | 3grams | 4grams |
+|---|---|---|---|
+| 1 | 132 | 1092 | 2392 |
+| Total | 1059 | 4031 | 6588 |
+| Percentage on the total | 12% | 27% | 36% |
+
+### Tokens from set Ground Truth (Stopwords)
+
+|  | 2grams | 3grams | 4grams |
+|---|---|---|---|
+| Stopwords | 75 | 41 | 45 |
+| Total | 600 | 1285 | 1296 |
+| Percentage on the total | 13% | 3% | 3% |
+
 ## Comparison
-### Total of tokens (numbers)
-
-|  | War | Other |
-|--|--|--|
-| 4-grams (Total) | 4949 | 12751 |
-| 4-grams (All Caps) | 133 | 191 |
-| 4-grams (Initials) | 481 | 1392 |
-| 4-grams (Lowercases) | 4335 | 11168 |
-| 3-grams (Total) | 7613 | 19702 |
-| 3-grams (All Caps) | 195 | 286 |
-| 3-grams (Initials) | 528 | 1523 |
-| 3-grams (Lowercases) | 6890 | 17893 |
-| 2-grams (Total) | 13747 | 35235 |
-| 2-grams (All Caps) | 336 | 489 |
-| 2-grams (Initials) | 641 | 1831 |
-| 2-grams (Lowercases) | 12770 | 32915 |
-
-### Total of tokens (percentages)
-
-|  | War | Other |
-|--|--|--|
-| 4-grams (All Caps) | 3% | 1% |
-| 4-grams (Initials) | 10% | 11% |
-| 4-grams (Lowercases) | 88% | 88% |
-| 3-grams (All Caps) | 3% | 1% |
-| 3-grams (Initials) | 7% | 8% |
-| 3-grams (Lowercases) | 91% | 91% |
-| 2-grams (All Caps) | 2% | 1% |
-| 2-grams (Initials) | 5% | 5% |
-| 2-grams (Lowercases) | 93% | 93% |
-
-### All unique tokens (numbers)
-
-|  | War | Other |
-|--|--|--|
-| 4-grams (Total) | 1778 | 2968 |
-| 4-grams (All Caps) | 76 | 122 |
-| 4-grams (Initials) | 194 | 441 |
-| 4-grams (Lowercases) | 1508 | 2405 |
-| 3-grams (Total) | 1438 | 2112 |
-| 3-grams (All Caps) | 96 | 164 |
-| 3-grams (Initials) | 184 | 379 |
-| 3-grams (Lowercases) | 1158 | 1569 |
-| 2-grams (Total) | 575 | 722 |
-| 2-grams (All Caps) | 105 | 143 |
-| 2-grams (Initials) | 105 | 163 |
-| 2-grams (Lowercases) | 365 | 416 |
-
-### All unique tokens (percentages)
-
-|  | War | Other |
-|--|--|--|
-| 4-grams (All Caps) | 4% | 4% |
-| 4-grams (Initials) | 11% | 15% |
-| 4-grams (Lowercases) | 85% | 81% |
-| 3-grams (All Caps) | 7% | 8% |
-| 3-grams (Initials) | 13% | 18% |
-| 3-grams (Lowercases) | 81% | 74% |
-| 2-grams (All Caps) | 18% | 20% |
-| 2-grams (Initials) | 18% | 23% |
-| 2-grams (Lowercases) | 63% | 58% |
-
-### Most popular tokens (11 occurrences and more) (numbers)
+### Most popular tokens (11 and more) (numbers)
 
 |  | War | Other | Common | 
 |---|---|---|---|
@@ -195,13 +198,73 @@ title: "Tables of results (Token analysis)"
 | 3grams | 5 | 277 | 156 | 
 | 4grams | 7 | 199 | 61 | 
 
-### Most popular tokens (11 occurrences and more) (percentages)
+|  | War | GT | Common | 
+|---|---|---|---|
+| 2grams | 0 | 389 | 211 | 
+| 3grams | 0 | 1124 | 161 | 
+| 4grams | 0 | 1228 | 68 | 
+
+|  | Other | GT | Common | 
+|---|---|---|---|
+| 2grams | 2 | 293 | 307 | 
+| 3grams | 7 | 859 | 426 | 
+| 4grams | 10 | 1046 | 250 | 
+
+|  | War_unique | GT | Common | 
+|---|---|---|---|
+| 2grams | 0 | 600 | 0 | 
+| 3grams | 0 | 1280 | 5 | 
+| 4grams | 0 | 1289 | 7 | 
+
+|  | Other_unique | GT | Common | 
+|---|---|---|---|
+| 2grams | 2 | 504 | 96 | 
+| 3grams | 7 | 1015 | 270 | 
+| 4grams | 10 | 1107 | 189 | 
+
+|  | Common_unique | GT | Common | 
+|---|---|---|---|
+| 2grams | 0 | 389 | 211 | 
+| 3grams | 0 | 1129 | 156 | 
+| 4grams | 0 | 1235 | 61 | 
+
+### Most popular tokens (11 and more) (percentages)
 
 |  | War | Other | 
 |---|---|---|
 | 2grams | 0% | 32% | 
 | 3grams | 3% | 64% | 
 | 4grams | 10% | 77% | 
+
+|  | War | GT |
+|---|---|---|
+| 2grams | 0% | 64% |
+| 3grams | 0% | 88% | 
+| 4grams | 0% | 95% | 
+
+|  | Other | GT |
+|---|---|---|
+| 2grams | 0,6% | 49% |
+| 3grams | 1,6% | 67% | 
+| 4grams | 3,8% | 81% |
+
+|  | War_unique | GT |
+|---|---|---|
+| 2grams | 0% | 100% |
+| 3grams | 0% | 99,6% |
+| 4grams | 0% | 99,5% |
+
+|  | Other_unique | GT |
+|---|---|---|
+| 2grams | 2% | 84% |
+| 3grams | 2,5% | 79% |
+| 4grams | 5% | 85% |
+
+|  | Common_unique | GT |
+|---|---|---|
+| 2grams | 0% | 65% | 
+| 3grams | 0% | 88% | 
+| 4grams | 0% | 95% |
 
 ### Least popular tokens (Only 1 occurrence) (numbers)
 
@@ -211,10 +274,70 @@ title: "Tables of results (Token analysis)"
 | 3grams | 475 | 557 | 112 | 
 | 4grams | 801 | 1128 | 194 |  
 
+|  | War | GT | Common | 
+|---|---|---|---|
+| 2grams | 139 | 122 | 10 | 
+| 3grams | 543| 1048 | 44 | 
+| 4grams | 910 | 2307 | 85 | 
+
+|  | Other | GT | Common | 
+|---|---|---|---|
+| 2grams | 144 | 124 | 8 | 
+| 3grams | 589 | 1012 | 80 | 
+| 4grams | 1122 | 2192 | 200 | 
+
+|  | War_unique | GT | Common | 
+|---|---|---|---|
+| 2grams | 112 | 124 | 8 | 
+| 3grams | 435 | 1052 | 40 | 
+| 4grams | 730 | 2321 | 71 | 
+
+|  | Other_unique | GT | Common | 
+|---|---|---|---|
+| 2grams | 117 | 126 | 6 | 
+| 3grams | 481 | 1016 | 76 | 
+| 4grams | 942 | 2206 | 186 | 
+
+|  | Common_unique | GT | Common | 
+|---|---|---|---|
+| 2grams | 27 | 130 | 2 | 
+| 3grams | 108 | 1088 | 4 | 
+| 4grams | 180 | 2378 | 14 | 
+
 ### Least popular tokens (Only 1 occurrence) (percentages)
 
 |  | War | Other | 
 |---|---|---|
 | 2grams | 81% | 81% | 
 | 3grams | 81% | 83% | 
- | 4grams | 81% | 85% | 
+| 4grams | 81% | 85% | 
+
+|  | War | GT |
+|---|---|---|
+| 2grams | 93% | 92% |
+| 3grams | 93%| 96% | 
+| 4grams | 91% | 96% |
+
+|  | Other | GT |
+|---|---|---|
+| 2grams | 95% | 94% |
+| 3grams | 88% | 92% |
+| 4grams | 85% | 92% |
+
+|  | War_unique | GT | 
+|---|---|---|
+| 2grams | 93% | 94% |
+| 3grams | 92% | 96% |
+| 4grams | 91% | 97% |
+
+|  | Other_unique | GT | 
+|---|---|---|
+| 2grams | 95% | 95% |
+| 3grams | 86% | 93% |
+| 4grams | 84% | 92% | 
+
+|  | Common_unique | GT |
+|---|---|---|
+| 2grams | 93% | 98% | 
+| 3grams | 96% | 99,6% |
+| 4grams | 98% | 99% |
