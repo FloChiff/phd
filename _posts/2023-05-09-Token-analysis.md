@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Token analysis (Part 1)"
+title: "Token analysis"
 date: 2023-05-09
 ---
 

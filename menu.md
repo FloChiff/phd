@@ -8,7 +8,7 @@ Reports of my experiments:
 - [Lexicon Analysis (Jun 15, 2022)](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html)
 - [Content Analysis (Oct 17, 2022)](https://flochiff.github.io/phd/2022/10/17/Content-analysis.html)
 - [Comparative Analysis (Oct 21, 2022)](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html)
-- [Token Analysis - Part 1 (May 9, 2023)](https://flochiff.github.io/phd/2023/05/09/Token-analysis-part-1.html)
+- [Token Analysis (May 9, 2023)](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html)
 
 Details on some of the results:
 - [Bar charts (Token analysis)](https://flochiff.github.io/phd/experiments/token_analysis/bar_charts_token_analysis.html)
