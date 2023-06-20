@@ -4,6 +4,32 @@ title: "Comparative analysis"
 date: 2022-10-21
 ---
 
+1. [Introduction](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#introduction)
+2. [How to do a comparative analysis of transcription?](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#how-to-do-a-comparative-analysis-of-transcription)
+	1. [Some definitions](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#some-definitions)
+	2. [The tool: KaMi](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#the-tool-kami)
+3. [Table of results](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#table-of-results)
+	1. [General results](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#general-results)
+	2. [Results by page](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#results-by-page)
+		1. [Set Other](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#set-other)
+			1. [Letter 1358 Page 4](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-1358-page-4)
+			2. [Letter 607 Page 3](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-607-page-3)
+			3. [Letter 607 Page 17](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-607-page-17)
+			4. [Letter 722 Page 1](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-722-page-1)
+			5. [Letter 1170 Page 3](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-1170-page-3)
+			6. [Conclusion/General observations](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#conclusiongeneral-observations)
+		2. [Set War](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#set-war)
+			1. [Letter 678 Page 1](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-678-page-1)
+			2. [Letter 1000 Page 3](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-1000-page-3)
+			3. [Letter 1367 Page 1](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-1367-page-1)
+			4. [Letter 844 Page 1](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-844-page-1)
+			5. [Letter 948 Page 1](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#letter-948-page-1)
+			6. [Conclusion/General observations](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#conclusiongeneral-observations-1)
+	3. [New results: Model War Retrained](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#new-results-model-war-retrained)
+		1. [General](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#general)
+		2. [Results by letters](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#results-by-letters)
+4. [Conclusion](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html#conclusion)
+
 ## Introduction
 As I previously mentioned, my thesis aims to determine if the lexicon of the ground truth has an impact on the efficiency of the model, especially if it is specific. To prove or refute this theory, I need to do different kind of tests.
 In the last entry of my logbook, I presented the content analysis I did on two tests sets I developed from the corpus of Paul d'Estournelles de Constant. The idea was to obtain a thoroughly knowledge of the content of those tests sets.  

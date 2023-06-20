@@ -4,6 +4,18 @@ title: "Lexicon analysis"
 date: 2022-06-15
 ---
 
+1. [Why a lexicon analysis ?](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#why-a-lexicon-analysis-)
+2. [Few steps for the analysis](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#few-steps-for-the-analysis)
+	1. [First step: Retrieving the texts to do the analysis](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#first-step-retrieving-the-texts-to-do-the-analysis)
+	2. [Second step: Finding the perfect way to analyse the lexicon](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#second-step-finding-the-perfect-way-to-analyse-the-lexicon)
+	3. [Third step: Providing a visualization for the output](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#third-step-providing-a-visualization-for-the-output)
+3. [The analysis](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#the-analysis)
+	1. [My source test](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#my-source-test)
+	2. [My results](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#my-results)
+		1. [Frequency list](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#frequency-list)
+		2. [Wordcloud](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#wordcloud)
+	3. [My conclusions](https://flochiff.github.io/phd/2022/06/15/Lexicon-analysis.html#my-conclusions)
+
 ## Why a lexicon analysis ?
 I am currently working on a thesis in digital humanities. My research is centred around optical character recognition (OCR) and, most precisely, the ground truth used to produce a model for the transcription. The hypothesis I am trying to demonstrate is that the lexicon contained in the ground truth used for the production of a transcription model will ultimately impact the efficiency of the model on the corpus it is applied on. Consequently, if a corpus' main lexicon is the same as the one the model was trained on, the error rate of the transcription will be way lower than if it has an opposite lexicon.  
 

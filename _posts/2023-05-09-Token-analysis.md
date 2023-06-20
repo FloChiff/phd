@@ -4,6 +4,17 @@ title: "Token analysis"
 date: 2023-05-09
 ---
 
+1. [Introduction](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#introduction)
+2. [A few definitions to start with](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#a-few-definitions-to-start-with)
+3. [Obtaining data about our *n-grams*](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#obtaining-data-about-our-n-grams)
+    1. [First step: Retrieving tokens from the test sets](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#first-step-retrieving-tokens-from-the-test-sets)
+    2. [Second step: Obtaining lists of *n-grams* from the tokens](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#second-step-obtaining-lists-of-n-grams-from-the-tokens)
+    3. [Third step: Producing dictionaries of occurrences from the *n-grams*](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#third-step-producing-dictionaries-of-occurrences-from-the-n-grams)
+    4. [Fourth step: Cleaning the dictionaries](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#fourth-step-cleaning-the-dictionaries)
+    5. [Fifth (and last) step: Obtaining more specific data](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#fifth-and-last-step-obtaining-more-specific-data)
+    6. [A new variable added: the ground truth of the collection studied](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#a-new-variable-added-the-ground-truth-of-the-collection-studied)
+4. [Results](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html#results)
+
 ## Introduction
 As I presented it previously, I already did a lexicon analysis with my test corpus (the sets of War corpus and Other (subjects) corpus) and it wasn't very conclusive, since the lexicon didn't seem to be involved in the bad results of the models. Given this result, I decided to go a little deeper in the source of my test as I decided to go at a sublexical level and to study tokens. Following along my research on what is recognized by the text recognition software, I want to know if the patterns recognized in handwritten text recognition are those of recurring tokens, i.e. recurrent combinations of characters. This would also mean that the mistakes in the transcription would be caused by less known patterns from the ground truth.
 
