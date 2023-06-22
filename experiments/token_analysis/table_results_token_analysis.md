@@ -13,7 +13,7 @@ title: "Tables of results (Token analysis)"
 | 3grams | 7613 | 19702 | 108922 |
 | 2grams | 13747 | 35235 | 196585 |
 
-### All tokens (by type)
+### All tokens (by type) (numbers)
 
 |  | War | Other | Ground Truth |
 |--|--|--|--|
@@ -27,6 +27,19 @@ title: "Tables of results (Token analysis)"
 | 2grams (I) | 641 | 1831 | 9094 |
 | 2grams (L) | 12770 | 32915 | 180258 |
 
+### All tokens (by type) (percentages)
+
+|  | War | Other | Ground Truth |
+|--|--|--|--|
+| 4grams (AC) | 2% | 1% | 4% |
+| 4grams (I) | 10% | 11% | 10% |
+| 4grams (L) | 88% | 88% | 86% |
+| 3grams (AC) | 2% | 1% | 4% |
+| 3grams (I) | 7% | 8% | 7% |
+| 3grams (L) | 91% | 91% | 89% |
+| 2grams (AC) | 2% | 1% | 4% |
+| 2grams (I) | 5% | 5% | 5% |
+| 2grams (L) | 93% | 93% | 92% |
 
 ## Set Other
 
