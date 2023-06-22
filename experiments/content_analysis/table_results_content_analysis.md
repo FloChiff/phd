@@ -4,9 +4,25 @@ title: "Table of results (content analysis)"
 date: 2022-10-17
 ---
 
-### The first set of tests: incorrect words present
-#### Table of results
-##### Table for the words present in the sets
+1. [The first set of tests: incorrect words present](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#the-first-set-of-tests-incorrect-words-present)
+	1. [Table for the words present in the sets](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-for-the-words-present-in-the-sets)
+	2. [Table for the words uniquely present in each set and in common](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-for-the-words-uniquely-present-in-each-set-and-in-common)
+	3. [Table of the part-of-speech (POS) for the words present in the sets (tokens)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-of-the-part-of-speech-pos-for-the-words-present-in-the-sets-tokens)
+	4. [Table of the POS for the words present in the sets (lemmas)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-of-the-pos-for-the-words-present-in-the-sets-lemmas)
+	5. [Table of the POS for the words uniquely present in each set and in common (tokens)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-of-the-pos-for-the-words-uniquely-present-in-each-set-and-in-common-tokens)
+	6. [Table of the POS for the words uniquely present in each set and in common (lemmas)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-of-the-pos-for-the-words-uniquely-present-in-each-set-and-in-common-lemmas)
+2. [The second set of tests: incorrect words removed](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#the-second-set-of-tests-incorrect-words-removed)
+	1. [Table for the words present in the sets](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-for-the-words-present-in-the-sets-1)
+	2. [Table for the words uniquely present in each set and in common](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-for-the-words-uniquely-present-in-each-set-and-in-common-1)
+	3. [Table of the POS for the words present in the sets (tokens)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-of-the-pos-for-the-words-present-in-the-sets-tokens)
+	4. [Table of the POS for the words present in the sets (lemmas)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-of-the-pos-for-the-words-present-in-the-sets-lemmas-1)
+	5. [Table of the POS for the words uniquely present in each set and in common (tokens)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-of-the-pos-for-the-words-uniquely-present-in-each-set-and-in-common-tokens-1)
+	6. [Table of the POS for the words uniquely present in each set and in common (lemmas)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html#table-of-the-pos-for-the-words-uniquely-present-in-each-set-and-in-common-lemmas-1)
+
+
+## The first set of tests: incorrect words present
+### Table of results
+#### Table for the words present in the sets
 
 |  | War | Other |
 |--|--|--|
@@ -14,7 +30,7 @@ date: 2022-10-17
 | Lemma | 1516 | 2898 |
 | Difference | 342 | 867 |
 
-##### Table for the words uniquely present in each set and in common
+#### Table for the words uniquely present in each set and in common
 
 |  | War | Other | Common |
 |--|--|--|--|
@@ -25,7 +41,7 @@ date: 2022-10-17
 Percentage of common words (tokens) in the total of words (war + other): 16,89%  
 Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 
-##### Table of the part-of-speech (POS) for the words present in the sets (tokens)
+#### Table of the part-of-speech (POS) for the words present in the sets (tokens)
 
 | | War | Other |
 |--|--|--|
@@ -45,7 +61,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 | X | 0 | 3 |
 | Total | 1858 | 3765 |
 
-##### Table of the POS for the words present in the sets (lemmas)
+#### Table of the POS for the words present in the sets (lemmas)
 
 | | War | Other |
 |--|--|--|
@@ -65,7 +81,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 | X | 0 | 2 |
 | Total | 1516 | 2898 |
 
-##### Table of the POS for the words uniquely present in each set and in common (tokens)
+#### Table of the POS for the words uniquely present in each set and in common (tokens)
 
 |  | War | Other | Common |
 |--|--|--|--|
@@ -85,7 +101,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 | X | 2 | 10 | 2 |
 | Total | 908 | 2815 | 950 |
 
-##### Table of the POS for the words uniquely present in each set and in common (lemmas)
+#### Table of the POS for the words uniquely present in each set and in common (lemmas)
 
 |  | War | Other | Common |
 |--|--|--|--|
@@ -107,9 +123,9 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 
 -----
 
-### The second set of tests: incorrect words removed
-#### Table of results
-##### Table for the words present in the sets
+## The second set of tests: incorrect words removed
+### Table of results
+#### Table for the words present in the sets
 
 |  | War | Other |
 |--|--|--|
@@ -117,7 +133,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 | Lemma | 1464 | 2718 |
 | Difference | 349 | 885 |
 
-##### Table for the words uniquely present in each set and in common
+#### Table for the words uniquely present in each set and in common
 
 |  | War | Other | Common |
 |--|--|--|--|
@@ -128,7 +144,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 20,69%
 Percentage of common words (tokens) in the total of words (war + other): 17,49%  
 Percentage of common words (lemmas) in the total of words (war + other): 21,54%
 
-##### Table of the POS for the words present in the sets (tokens)
+#### Table of the POS for the words present in the sets (tokens)
 
 |  | War | Other |
 |--|--|--|
@@ -148,7 +164,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 21,54%
 | X | 7 | 2 |
 | Total | 1813 | 3603 |
 
-##### Table of the POS for the words present in the sets (lemmas)
+#### Table of the POS for the words present in the sets (lemmas)
 
 |  | War | Other |
 |--|--|--|
@@ -168,7 +184,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 21,54%
 | X | 0 | 0 |
 | Total | 1464 | 2718 |
 
-##### Table of the POS for the words uniquely present in each set and in common (tokens)
+#### Table of the POS for the words uniquely present in each set and in common (tokens)
 
 |  | War | Other | Common |
 |--|--|--|--|
@@ -188,7 +204,7 @@ Percentage of common words (lemmas) in the total of words (war + other): 21,54%
 | X | 2 | 10 | 1 |
 | Total | 866 | 2656 | 947 |
 
-##### Table of the POS for the words uniquely present in each set and in common (lemmas)
+#### Table of the POS for the words uniquely present in each set and in common (lemmas)
 
 |  | War | Other | Common |
 |--|--|--|--|
