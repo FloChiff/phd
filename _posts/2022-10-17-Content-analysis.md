@@ -10,7 +10,7 @@ date: 2022-10-17
 4. [Analysis of results](https://flochiff.github.io/phd/2022/10/17/Content-analysis.html#analysis-of-results)
 
 ## Creating the sets of tests
-I have two sets of tests, taken from the corpus of Paul d'Estournelles de Constant. After some reading of the content, I did the separation according to what I deduced was their theme: one of them is mostly about war, the other deals with other topics. There are nine letters in each test set; the war set is about 31-pages long; the other is about 76-pages long. 
+I have two sets of tests, taken from the corpus of Paul d'Estournelles de Constant. After some reading of the content, I did the separation according to what I deduced was their theme: one of them is mostly about war, the other deals with other topics. There are nine letters in each test set; the war set is about 31-pages long; the other is about 76-pages long (For more information about the dataset, see [here](https://flochiff.github.io/phd/dataset/dataset.html)).
 
 To analyse those sets, I first needed to concatenate them in one file, which is done with the [groundtruth.py](https://github.com/FloChiff/phd/blob/main/experiments/lexicon_analysis/word_frequency/scripts/groundtruth.py) script. I then have two text files, one with all the content from the war set and one with all the content from the other set.
 
