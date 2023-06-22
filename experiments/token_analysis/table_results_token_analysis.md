@@ -3,6 +3,31 @@ layout: page
 title: "Tables of results (Token analysis)"
 ---
 
+## Total
+
+### All tokens
+
+|  | War | Other | Ground Truth |
+|--|--|--|--|
+| 4grams | 4949 | 12751 | 69883 |
+| 3grams | 7613 | 19702 | 108922 |
+| 2grams | 13747 | 35235 | 196585 |
+
+### All tokens (by type)
+
+|  | War | Other | Ground Truth |
+|--|--|--|--|
+| 4grams (AC) | 133 | 191 | 2744 |
+| 4grams (I) | 481 | 1392 | 6854 |
+| 4grams (L) | 4335 | 11168 | 60285 |
+| 3grams (AC) | 195 | 286 | 4153 |
+| 3grams (I) | 528 | 1523 | 7512 |
+| 3grams (L) | 6890 | 17893 | 97257 |
+| 2grams (AC) | 226 | 489 | 7233 |
+| 2grams (I) | 641 | 1831 | 9094 |
+| 2grams (L) | 12770 | 32915 | 180258 |
+
+
 ## Set Other
 
 ### Token from set Other (All Caps)
