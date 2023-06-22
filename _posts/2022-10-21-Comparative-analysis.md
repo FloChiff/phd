@@ -101,7 +101,7 @@ First of all, the most striking thing we can observe is the Levensthein distance
 #### Set Other
 ##### Letter 1358 Page 4
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.bbd715g8/fe7ca9dd778be186ccae7b88f6b22937855c8473" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.bbd715g8/fe7ca9dd778be186ccae7b88f6b22937855c8473" width="150" title="Letter 1358 page 4"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.bbd715g8/fe7ca9dd778be186ccae7b88f6b22937855c8473" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.bbd715g8/fe7ca9dd778be186ccae7b88f6b22937855c8473" width="150" title="Letter 1358 page 4"></a></figure>
 
 ###### Results
 
@@ -124,7 +124,7 @@ The length difference is not that high between the predictions and the reference
 
 ##### Letter 607 Page 3
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/72b5373146096b82d2279f0d6ba56a8e3736f918" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/72b5373146096b82d2279f0d6ba56a8e3736f918" width="150" title="Letter 607 page 3"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/72b5373146096b82d2279f0d6ba56a8e3736f918" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/72b5373146096b82d2279f0d6ba56a8e3736f918" width="150" title="Letter 607 page 3"></a></figure>
 
 ###### Results
 
@@ -147,7 +147,7 @@ The number of characters in the prediction is the same for both models, but also
 
 ##### Letter 607 Page 17
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/b081dc81c084b83a3db96580306556bf6a24f10e" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/b081dc81c084b83a3db96580306556bf6a24f10e" width="150" title="Letter 607 page 17"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/b081dc81c084b83a3db96580306556bf6a24f10e" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/b081dc81c084b83a3db96580306556bf6a24f10e" width="150" title="Letter 607 page 17"></a></figure>
 
 ###### Results
 
@@ -170,7 +170,7 @@ The MO did pretty well and was different from the reference by only one more cha
 
 ##### Letter 722 Page 1
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.da8cb4yl/0413edfec4c21790bc4baa803a5c2aae24690c3e" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.da8cb4yl/0413edfec4c21790bc4baa803a5c2aae24690c3e" width="150" title="Letter 722 page 1"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.da8cb4yl/0413edfec4c21790bc4baa803a5c2aae24690c3e" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.da8cb4yl/0413edfec4c21790bc4baa803a5c2aae24690c3e" width="150" title="Letter 722 page 1"></a></figure>
 
 ###### Results
 
@@ -193,7 +193,7 @@ The MO is wrong by two more characters in its prediction and four more for the M
 
 ##### Letter 1170 Page 3
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.e691hsj0/88a93a7b84203e7df9249ca3dca9e551a61d3103" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.e691hsj0/88a93a7b84203e7df9249ca3dca9e551a61d3103" width="150" title="Letter 1170 page 3"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.e691hsj0/88a93a7b84203e7df9249ca3dca9e551a61d3103" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.e691hsj0/88a93a7b84203e7df9249ca3dca9e551a61d3103" width="150" title="Letter 1170 page 3"></a></figure>
 
 ###### Results
 
@@ -220,7 +220,7 @@ In conclusion, for this test set, we can say that the MO rather did well on the 
 #### Set War
 ##### Letter 678 Page 1
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.cc374i0g/6ea6739856ae6fc8156d2749f126354aa6aff3e2" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.cc374i0g/6ea6739856ae6fc8156d2749f126354aa6aff3e2" width="150" title="Letter 678 page 1"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.cc374i0g/6ea6739856ae6fc8156d2749f126354aa6aff3e2" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.cc374i0g/6ea6739856ae6fc8156d2749f126354aa6aff3e2" width="150" title="Letter 678 page 1"></a></figure>
 
 ###### Results
 
@@ -243,7 +243,7 @@ The MW only miss the reference by one, while the MO did it by five less characte
 
 ##### Letter 1000 Page 3
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.a3692c2y/a345f2cdf6d9367ebc1d1a7b02ce458605164ff7" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.a3692c2y/a345f2cdf6d9367ebc1d1a7b02ce458605164ff7" width="150" title="Letter 1000 page 3"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.a3692c2y/a345f2cdf6d9367ebc1d1a7b02ce458605164ff7" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.a3692c2y/a345f2cdf6d9367ebc1d1a7b02ce458605164ff7" width="150" title="Letter 1000 page 3"></a></figure>
 
 ###### Results
 
@@ -266,7 +266,7 @@ The MW and MO did both very well on this transcription and here, the MO was bett
 
 ##### Letter 1367 Page 1
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.b7dfjchh/c92a343cc47b94e651498dfc3e3366e2f48c6ec8" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.b7dfjchh/c92a343cc47b94e651498dfc3e3366e2f48c6ec8" width="150" title="Letter 1367 page 1"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.b7dfjchh/c92a343cc47b94e651498dfc3e3366e2f48c6ec8" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.b7dfjchh/c92a343cc47b94e651498dfc3e3366e2f48c6ec8" width="150" title="Letter 1367 page 1"></a></figure>
 
 ###### Results
 
@@ -289,7 +289,7 @@ The MO and MW were rather close in their predictions to the reference (by one) b
 
 ##### Letter 844 Page 1
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.bf9ejv49/ff8489bf07604f5fe2727d24b326789ed660428b" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.bf9ejv49/ff8489bf07604f5fe2727d24b326789ed660428b" width="150" title="Letter 844 page 1"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.bf9ejv49/ff8489bf07604f5fe2727d24b326789ed660428b" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.bf9ejv49/ff8489bf07604f5fe2727d24b326789ed660428b" width="150" title="Letter 844 page 1"></a></figure>
 
 ###### Results
 
@@ -312,7 +312,7 @@ Both transcriptions are pretty off for their usual results, with a WER of 6 and 
 
 ##### Letter 948 Page 1
 
-<figure><a href="https://api.nakala.fr/data/10.34847/nkl.ccb7m46q/b3b5af4d1b0431acb90a27a079c85f99bcea3d97" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.ccb7m46q/b3b5af4d1b0431acb90a27a079c85f99bcea3d97" width="150" title="Letter 948 page 1"></img></a></figure>
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.ccb7m46q/b3b5af4d1b0431acb90a27a079c85f99bcea3d97" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.ccb7m46q/b3b5af4d1b0431acb90a27a079c85f99bcea3d97" width="150" title="Letter 948 page 1"></a></figure>
 
 ###### Results
 
