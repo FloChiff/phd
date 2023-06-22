@@ -100,6 +100,9 @@ First of all, the most striking thing we can observe is the Levensthein distance
 ### Results by page
 #### Set Other
 ##### Letter 1358 Page 4
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.bbd715g8/fe7ca9dd778be186ccae7b88f6b22937855c8473" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.bbd715g8/fe7ca9dd778be186ccae7b88f6b22937855c8473" width="150" title="Letter 1358 page 4"></img></a></figure>
+
 ###### Results
 
 |  | Model Other | Model War |
@@ -120,6 +123,9 @@ First of all, the most striking thing we can observe is the Levensthein distance
 The length difference is not that high between the predictions and the reference, but the metrics are not so good. For the MO, there are few substitutions and deletions, which cause an accuracy of only 91%. On the other end, the MW is really bad, with a WER of 75% and a CER of 25%, due mostly to a high number of substitutions. When we look at the versus text, we can see that this page is mostly uppercases, which can explain the bad transcription. The MO had some problems with few similar looking letters and the MW struggle with most of them, rendering the transcription unintelligible.
 
 ##### Letter 607 Page 3
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/72b5373146096b82d2279f0d6ba56a8e3736f918" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/72b5373146096b82d2279f0d6ba56a8e3736f918" width="150" title="Letter 607 page 3"></img></a></figure>
+
 ###### Results
 
 |  | Model Other | Model War |
@@ -140,6 +146,9 @@ The length difference is not that high between the predictions and the reference
 The number of characters in the prediction is the same for both models, but also with the reference. Only one substitution has been made on the transcription with the MO while a lot has been made with the other (19). The MO is almost perfect (more than 99%) while the MW is pretty accurate, even though it is not perfect (about 91%). With the versus, we can see that the MO replace an 'l' by a 'm' inside a word, which can be understandable because there was a substitution in the text itself, with a character behind the 'l'. The MW had the same problem with this weird letter and also had few problems with uppercase, numbers and some similarly shaped letters (p/b, m/n, o/e). Overall, we can say that the MW did rather well on this image from the SO.
 
 ##### Letter 607 Page 17
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/b081dc81c084b83a3db96580306556bf6a24f10e" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.8991xkm4/b081dc81c084b83a3db96580306556bf6a24f10e" width="150" title="Letter 607 page 17"></img></a></figure>
+
 ###### Results
 
 |  | Model Other | Model War |
@@ -160,6 +169,9 @@ The number of characters in the prediction is the same for both models, but also
 The MO did pretty well and was different from the reference by only one more character. It has a pretty good accuracy and a rather low CER. The MW, on the other end, is pretty bad: there is a lot of deletions and even more substitutions and it seemed to have impacted a lot of words because the WER is pretty high for this model (17%). The MO has had problems with the punctuations, confusing exclamation points or commas with characters. The MW has had a lot of difficulties at the beginning of the page, managing to transcribe incorrectly half of the first two sentences. Then, it had a lot of difficulties with recognizing correctly the uppercases and finally, it did a lot of substitutions that did not really make any sense, because the before and after characters have no resemblance at all. Overall, the MW was a big miss on that page.
 
 ##### Letter 722 Page 1
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.da8cb4yl/0413edfec4c21790bc4baa803a5c2aae24690c3e" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.da8cb4yl/0413edfec4c21790bc4baa803a5c2aae24690c3e" width="150" title="Letter 722 page 1"></img></a></figure>
+
 ###### Results
 
 |  | Model Other | Model War |
@@ -180,6 +192,9 @@ The MO did pretty well and was different from the reference by only one more cha
 The MO is wrong by two more characters in its prediction and four more for the MW. The deletions and insertions are pretty low for both. However, the difference in substitutions is high (5 for MO and 61 for MW). Therefore, the MO has a good word accuracy (96%) and a low CER (1%), while the MW doesn't have a CER too high (7,5%) but this is not the case for the WER, which is at 24%. With the versus, we can see that the MO had some difficulties with the uppercase of the title and on the number of the letter (it forgot one), while the MW got all the title wrong and had a lot of difficulties on diverse words from the letter, without any pattern appearing (i.e., specific words or characters).
 
 ##### Letter 1170 Page 3
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.e691hsj0/88a93a7b84203e7df9249ca3dca9e551a61d3103" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.e691hsj0/88a93a7b84203e7df9249ca3dca9e551a61d3103" width="150" title="Letter 1170 page 3"></img></a></figure>
+
 ###### Results
 
 |  | Model Other | Model War |
@@ -204,6 +219,9 @@ In conclusion, for this test set, we can say that the MO rather did well on the 
 
 #### Set War
 ##### Letter 678 Page 1
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.cc374i0g/6ea6739856ae6fc8156d2749f126354aa6aff3e2" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.cc374i0g/6ea6739856ae6fc8156d2749f126354aa6aff3e2" width="150" title="Letter 678 page 1"></img></a></figure>
+
 ###### Results
 
 |  | Model War | Model Other |
@@ -224,6 +242,9 @@ In conclusion, for this test set, we can say that the MO rather did well on the 
 The MW only miss the reference by one, while the MO did it by five less characters. The MW has few substitutions which cause a WER of 5%. The MO's is higher, with 13%, due to more substitutions, but also deletions and insertions that were not here in the result of the MW. The errors of the MO come from the uppercase at the beginning of the page, as well as few others present in the rest of the page. The MW also struggled with the uppercases of the beginning of the letters, as well as some double letters where it got one of them correctly but not the other.
 
 ##### Letter 1000 Page 3
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.a3692c2y/a345f2cdf6d9367ebc1d1a7b02ce458605164ff7" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.a3692c2y/a345f2cdf6d9367ebc1d1a7b02ce458605164ff7" width="150" title="Letter 1000 page 3"></img></a></figure>
+
 ###### Results
 
 |  | Model War | Model Other |
@@ -244,6 +265,9 @@ The MW only miss the reference by one, while the MO did it by five less characte
 The MW and MO did both very well on this transcription and here, the MO was better than the MW, even though the latter was trained on this image. The CER is pretty low for both and the WER doesn't go above 3% for the MW and 2% for the MO. The problem comes mostly from substitutions. For the MW, it completely messed up the various 'v' at the beginning of words at the start of the letter, as well as some uppercases. For the MO, it put the wrong number of page and then messed up the 'interior' characters of two words. 
 
 ##### Letter 1367 Page 1
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.b7dfjchh/c92a343cc47b94e651498dfc3e3366e2f48c6ec8" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.b7dfjchh/c92a343cc47b94e651498dfc3e3366e2f48c6ec8" width="150" title="Letter 1367 page 1"></img></a></figure>
+
 ###### Results
 
 |  | Model War | Model Other |
@@ -264,6 +288,9 @@ The MW and MO did both very well on this transcription and here, the MO was bett
 The MO and MW were rather close in their predictions to the reference (by one) but then, they both did a lot of substitutions and few deletions and insertions. The CER is not too high but the errors must have been pretty widespread because the WER is at 6.5% and 14% which is pretty high for those models. The versus indeed shows that almost every character error, whether it is on the MO or the MW, are on a different word. For the MW, the errors came from uppercases but also from pretty random characters, where the substitutions don’t really make any senses. The MO had big trouble in the opener (header, dateline, title and salute) and it completely missed the air quotes at the beginning of some lines, which had not been a problem for the MW. It also struggled with some uppercases. 
 
 ##### Letter 844 Page 1
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.bf9ejv49/ff8489bf07604f5fe2727d24b326789ed660428b" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.bf9ejv49/ff8489bf07604f5fe2727d24b326789ed660428b" width="150" title="Letter 844 page 1"></img></a></figure>
+
 ###### Results
 
 |  | Model War | Model Other |
@@ -284,6 +311,9 @@ The MO and MW were rather close in their predictions to the reference (by one) b
 Both transcriptions are pretty off for their usual results, with a WER of 6 and 10%. However, the prediction length shows that while the MW predicted less characters (minus 4), the MO predicted more (plus 5). Indeed, they both have almost the same number of deletions (4/5) but the MO had 10 insertions while the MW had 0. The MW had trouble with uppercases and similar looking characters (b/p, n/u, c/o). The MO had trouble again in the opener (header, letterhead, dateline and title), it mixed up some similar looking characters and also added some ghost punctuation (commas or hyphen) randomly.
 
 ##### Letter 948 Page 1
+
+<figure><a href="https://api.nakala.fr/data/10.34847/nkl.ccb7m46q/b3b5af4d1b0431acb90a27a079c85f99bcea3d97" target="_blank"><img src="https://api.nakala.fr/data/10.34847/nkl.ccb7m46q/b3b5af4d1b0431acb90a27a079c85f99bcea3d97" width="150" title="Letter 948 page 1"></img></a></figure>
+
 ###### Results
 
 |  | Model War | Model Other |
