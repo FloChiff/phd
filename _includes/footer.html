@@ -18,7 +18,7 @@
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.website -%}
-            <li><a class="u-email" href="{{ site.author.url }}">{{ site.author.website }}</a></li>
+            <li><a class="u-email" href="{{ site.author.url }}" target="_blank">{{ site.author.website }}</a></li>
           {%- endif %}
         </ul>
       {%- endif %}
