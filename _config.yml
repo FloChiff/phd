@@ -1,6 +1,8 @@
 title: My PhD website
 author:
   name: Floriane Chiffoleau
+  website: Personal Website
+  url: https://flochiff.github.io/
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -29,8 +31,6 @@ minima:
   #
   social_links:
   - { platform: github,         user_url: "https://github.com/FloChiff" }
-  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=72fbbw0AAAAJ&hl" }
-  - { platform: hal,            user_url: "https://cv.hal.science/floriane-chiffoleau" }
   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/floriane-chiffoleau-8ba868196/" }
   - { platform: twitter,        user_url: "https://twitter.com/MissBrutus" }
 
