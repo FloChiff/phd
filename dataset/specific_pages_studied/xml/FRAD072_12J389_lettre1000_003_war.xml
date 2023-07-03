@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRAD072_12J389_lettre1000_003.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1769"
+          HEIGHT="2197"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1769"
+                  HEIGHT="2197">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_4c616296"
+                    
+                    BASELINE="857 172 937 166" 
+                    HPOS="851"
+                    VPOS="135"
+                    WIDTH="86"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="857 172 851 142 932 135 937 166 937 192 857 192"/></Shape>
+	    <String CONTENT="-3-"
+                    HPOS="851"
+                    VPOS="135"
+                    WIDTH="86"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4bed50c"
+                    
+                    BASELINE="397 272 1615 269" 
+                    HPOS="393"
+                    VPOS="228"
+                    WIDTH="1222"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="397 272 393 245 481 234 481 234 483 234 483 234 483 234 485 234 509 241 523 230 525 230 525 230 525 230 527 230 527 230 527 230 529 230 529 230 615 241 662 230 664 230 664 230 666 230 666 230 668 230 708 241 721 230 721 230 723 230 723 230 723 230 725 230 725 230 727 230 727 230 838 241 846 241 1104 241 1104 239 1117 228 1117 228 1117 228 1118 228 1118 228 1120 228 1120 228 1120 228 1122 228 1122 228 1122 228 1124 228 1124 228 1150 239 1150 239 1151 239 1175 228 1175 228 1177 228 1177 228 1177 228 1179 228 1179 228 1181 228 1181 228 1210 239 1212 241 1298 241 1302 239 1329 228 1329 228 1331 228 1331 228 1333 228 1333 228 1333 228 1388 238 1399 241 1541 241 1547 238 1558 228 1560 228 1560 228 1560 228 1562 228 1562 228 1562 228 1563 228 1563 228 1611 238 1615 269 1613 289 1518 300 1516 300 1023 292 950 302 950 302 948 302 395 292"/></Shape>
+	    <String CONTENT="compris la portée de cette entreprise; vous l&#x27;avez, non sans"
+                    HPOS="393"
+                    VPOS="228"
+                    WIDTH="1222"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67494da8"
+                    
+                    BASELINE="397 336 1615 336" 
+                    HPOS="395"
+                    VPOS="302"
+                    WIDTH="1222"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="397 336 395 309 683 302 684 302 684 302 686 302 686 302 686 302 688 302 688 302 695 309 699 313 827 313 833 309 853 302 853 302 855 302 855 302 855 302 857 302 857 302 858 302 888 309 895 311 911 309 992 302 992 302 994 302 994 302 994 302 996 302 1021 311 1023 311 1027 311 1047 302 1047 302 1049 302 1049 302 1049 302 1051 302 1051 302 1052 302 1052 302 1052 302 1054 302 1067 311 1071 313 1457 313 1457 311 1481 302 1481 302 1483 302 1483 302 1485 302 1485 302 1485 302 1536 311 1576 302 1578 302 1578 302 1580 302 1580 302 1580 302 1582 302 1617 313 1615 336 1615 369 397 369"/></Shape>
+	    <String CONTENT="difficultés sérieuses à surmonter avec vos amis, secondée de"
+                    HPOS="395"
+                    VPOS="302"
+                    WIDTH="1222"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93bcb9b4"
+                    
+                    BASELINE="397 402 1615 408" 
+                    HPOS="397"
+                    VPOS="377"
+                    WIDTH="1218"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="397 402 397 377 1613 382 1615 408 1613 433 397 433"/></Shape>
+	    <String CONTENT="toutes vos forces. Je me suis rendu compte des services que"
+                    HPOS="397"
+                    VPOS="377"
+                    WIDTH="1218"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e95d5bc"
+                    
+                    BASELINE="397 472 1615 472" 
+                    HPOS="395"
+                    VPOS="448"
+                    WIDTH="1220"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="397 472 397 448 1615 448 1615 472 1615 492 1098 503 1096 503 968 494 869 503 869 503 868 503 868 503 796 494 721 503 721 503 719 503 604 494 569 503 567 503 567 503 567 503 565 503 395 492"/></Shape>
+	    <String CONTENT="nous pouvions rendre, vous et moi, quand, après ma visite de"
+                    HPOS="395"
+                    VPOS="448"
+                    WIDTH="1220"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a5868f6"
+                    
+                    BASELINE="397 540 1615 536" 
+                    HPOS="393"
+                    VPOS="508"
+                    WIDTH="1222"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="397 540 393 510 1609 508 1615 536 1613 567 397 567"/></Shape>
+	    <String CONTENT="Senlis, je vous ai adressé, avec mes protestations indignées"
+                    HPOS="393"
+                    VPOS="508"
+                    WIDTH="1222"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3528efa"
+                    
+                    BASELINE="397 604 1670 607" 
+                    HPOS="395"
+                    VPOS="571"
+                    WIDTH="1275"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="397 604 395 576 1668 571 1670 607 1668 626 397 626"/></Shape>
+	    <String CONTENT="contre l&#x27;infamie des violations allemandes du droit, des photo-"
+                    HPOS="395"
+                    VPOS="571"
+                    WIDTH="1275"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f92c4684"
+                    
+                    BASELINE="397 673 1653 670" 
+                    HPOS="395"
+                    VPOS="640"
+                    WIDTH="1258"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="397 673 395 640 1649 644 1653 670 1651 692 397 695"/></Shape>
+	    <String CONTENT="graphies que vous avez fait publier, avec la traduction de mes"
+                    HPOS="395"
+                    VPOS="640"
+                    WIDTH="1258"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11cec29a"
+                    
+                    BASELINE="397 739 1576 735" 
+                    HPOS="395"
+                    VPOS="704"
+                    WIDTH="1181"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="397 739 395 704 1573 708 1576 735 1573 765 1510 756 1474 765 1474 765 1472 765 1472 765 1472 767 1245 767 1243 765 1243 765 1241 765 1241 765 1241 765 1239 765 1237 763 1225 756 1140 763 1111 765 1111 765 1109 765 1109 765 1091 763 1045 756 1009 763 983 767 983 767 981 767 395 757"/></Shape>
+	    <String CONTENT="lettres, dans le New-York Times. Combien j&#x27;ai regretté de"
+                    HPOS="395"
+                    VPOS="704"
+                    WIDTH="1181"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e33dad7a"
+                    
+                    BASELINE="395 801 1635 805" 
+                    HPOS="390"
+                    VPOS="770"
+                    WIDTH="1245"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="395 801 393 776 1631 770 1635 805 1633 820 1023 829 1021 829 880 820 410 827 408 827 408 827 406 827 406 827 406 827 404 827 404 827 390 816"/></Shape>
+	    <String CONTENT="ne pas vous avoir écrit davantage ! Certaines de mes lettres"
+                    HPOS="390"
+                    VPOS="770"
+                    WIDTH="1245"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_828dab95"
+                    
+                    BASELINE="397 873 1655 869" 
+                    HPOS="393"
+                    VPOS="844"
+                    WIDTH="1262"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="397 873 393 847 1649 844 1655 869 1653 898 1300 898 1298 897 1298 897 1296 897 1296 897 1296 897 1294 897 1276 887 1201 895 1184 897 1184 897 1182 897 1133 895 979 889 966 895 957 898 957 898 955 898 955 898 955 898 954 898 954 898 952 898 952 898 941 895 924 889 857 895 792 898 791 898 395 891"/></Shape>
+	    <String CONTENT="sont restées inachevées; celles par exemple que j&#x27;aurais voulu"
+                    HPOS="393"
+                    VPOS="844"
+                    WIDTH="1262"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e74230f8"
+                    
+                    BASELINE="395 937 1593 933" 
+                    HPOS="391"
+                    VPOS="898"
+                    WIDTH="1202"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="395 937 391 915 485 913 503 900 505 900 505 900 505 900 507 900 507 900 509 900 509 900 629 911 633 913 708 913 710 911 725 900 727 900 727 900 727 900 728 900 728 900 730 900 730 900 818 909 835 913 988 913 999 908 1031 898 1032 898 1032 898 1032 898 1034 898 1137 908 1172 909 1587 904 1593 933 1589 963 393 957"/></Shape>
+	    <String CONTENT="vous écrire, quand je visitais notre front de Verdun et des"
+                    HPOS="391"
+                    VPOS="898"
+                    WIDTH="1202"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f60693d3"
+                    
+                    BASELINE="397 1005 1664 1005" 
+                    HPOS="395"
+                    VPOS="968"
+                    WIDTH="1269"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="397 1005 395 979 455 968 455 968 457 968 457 968 549 979 628 979 640 968 640 968 642 968 642 968 644 968 644 968 644 968 646 968 787 979 926 979 939 968 939 968 941 968 941 968 941 968 943 968 943 968 944 968 1475 977 1567 968 1567 968 1569 968 1664 979 1664 1005 1664 1032 397 1032"/></Shape>
+	    <String CONTENT="Ardennes et des Vosges, et du Nord; tous nos fronts. Le temps,"
+                    HPOS="395"
+                    VPOS="968"
+                    WIDTH="1269"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb96a8d7"
+                    
+                    BASELINE="395 1071 1668 1071" 
+                    HPOS="391"
+                    VPOS="1038"
+                    WIDTH="1277"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="395 1071 393 1045 1666 1038 1668 1071 1668 1096 1391 1100 1389 1100 1345 1094 1303 1091 1296 1094 1289 1100 1287 1100 1287 1100 1285 1100 1285 1100 1285 1100 1283 1100 1283 1100 1281 1100 1263 1094 1247 1091 1232 1094 1212 1100 1210 1100 1210 1100 1210 1102 955 1102 954 1100 954 1100 919 1093 906 1091 889 1093 831 1100 831 1100 829 1100 829 1100 827 1100 827 1100 807 1093 802 1091 785 1093 706 1100 706 1100 705 1100 705 1100 703 1100 703 1100 703 1100 701 1100 701 1100 690 1091 688 1091 567 1091 562 1091 468 1100 468 1100 466 1100 466 1100 465 1100 465 1100 465 1100 446 1091 426 1100 426 1100 426 1100 424 1100 424 1100 423 1100 423 1100 421 1100 421 1100 391 1089"/></Shape>
+	    <String CONTENT="les forces me manquaient. J&#x27;étais absorbé aussi pas les basses"
+                    HPOS="391"
+                    VPOS="1038"
+                    WIDTH="1277"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ea21b61"
+                    
+                    BASELINE="395 1136 1573 1136" 
+                    HPOS="395"
+                    VPOS="1102"
+                    WIDTH="1178"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="395 1136 395 1102 564 1111 626 1102 635 1102 635 1102 637 1102 637 1102 639 1102 639 1102 639 1102 640 1102 659 1113 902 1113 922 1103 930 1102 930 1102 932 1102 932 1102 933 1102 933 1102 933 1102 935 1102 935 1102 943 1103 959 1111 977 1103 987 1102 988 1102 988 1102 988 1102 990 1102 990 1102 992 1102 992 1102 992 1102 999 1105 1012 1111 1058 1105 1087 1102 1087 1102 1089 1102 1089 1102 1091 1102 1106 1105 1131 1111 1571 1109 1573 1136 1573 1157 1477 1168 1477 1168 1475 1168 1314 1158 1296 1158 1280 1158 1164 1168 1164 1169 1025 1169 1023 1168 1023 1168 1021 1168 1021 1168 1021 1168 1020 1168 1020 1168 1012 1160 1010 1158 1007 1160 987 1168 987 1168 985 1168 985 1168 985 1168 983 1168 983 1168 981 1168 981 1168 981 1168 966 1160 961 1158 844 1158 840 1160 833 1168 833 1168 831 1168 831 1168 831 1168 829 1168 829 1168 829 1168 827 1168 827 1168 825 1168 800 1160 787 1158 395 1162"/></Shape>
+	    <String CONTENT="luttes suscitées contre moi dans mon pays natal, et jusque"
+                    HPOS="395"
+                    VPOS="1102"
+                    WIDTH="1178"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc2ba138"
+                    
+                    BASELINE="395 1206 1651 1202" 
+                    HPOS="391"
+                    VPOS="1175"
+                    WIDTH="1260"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="395 1206 391 1179 1646 1175 1651 1202 1651 1226 1258 1233 1256 1233 1256 1233 1254 1233 1254 1233 1254 1233 1252 1233 1252 1233 1252 1233 1248 1230 1239 1222 1129 1222 1113 1230 1106 1233 1106 1233 1106 1233 1104 1233 1104 1233 1104 1233 1102 1233 1102 1233 1100 1233 1100 1233 1091 1230 1073 1224 1036 1230 1007 1235 1007 1235 1005 1235 902 1232 732 1224 721 1232 717 1235 717 1235 716 1235 716 1235 716 1235 714 1235 714 1235 712 1235 712 1235 677 1233 586 1224 527 1233 512 1235 512 1235 510 1235 510 1235 510 1235 509 1235 503 1233 472 1224 395 1233"/></Shape>
+	    <String CONTENT="dans ma propre commune, et surtout par ma collaboration active"
+                    HPOS="391"
+                    VPOS="1175"
+                    WIDTH="1260"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be09e224"
+                    
+                    BASELINE="395 1272 1633 1272" 
+                    HPOS="395"
+                    VPOS="1235"
+                    WIDTH="1238"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="395 1272 395 1246 640 1246 642 1243 651 1235 651 1235 653 1235 653 1235 653 1235 655 1235 655 1235 655 1235 657 1235 657 1235 659 1235 684 1243 692 1244 699 1243 719 1235 719 1235 721 1235 721 1235 723 1235 723 1235 723 1235 725 1235 747 1243 756 1246 871 1246 877 1241 882 1235 882 1235 884 1235 884 1235 884 1235 886 1235 886 1235 888 1235 888 1235 888 1235 889 1235 889 1235 889 1235 891 1235 891 1235 897 1241 902 1244 921 1241 952 1235 952 1235 954 1235 954 1235 954 1235 981 1241 1007 1244 1047 1239 1085 1235 1085 1235 1087 1235 1241 1237 1567 1244 1631 1235 1633 1272 1633 1288 955 1299 954 1299 908 1296 844 1290 796 1298 774 1299 774 1299 772 1299 772 1299 747 1298 686 1290 672 1298 668 1299 668 1299 668 1299 666 1299 666 1299 666 1299 664 1299 664 1299 662 1299 662 1299 662 1299 659 1298 642 1290 565 1299 553 1299 553 1299 551 1299 551 1299 542 1299 481 1290 395 1299"/></Shape>
+	    <String CONTENT="aux travaux du Sénat et à l&#x27;organisation de notre aviation, à"
+                    HPOS="395"
+                    VPOS="1235"
+                    WIDTH="1238"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c09beae5"
+                    
+                    BASELINE="395 1338 1629 1334" 
+                    HPOS="391"
+                    VPOS="1299"
+                    WIDTH="1238"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="395 1338 391 1312 487 1301 487 1301 488 1301 488 1301 538 1310 542 1310 543 1310 551 1303 551 1301 551 1301 553 1301 553 1301 553 1301 554 1301 554 1301 556 1301 824 1307 1007 1310 1047 1305 1084 1299 1084 1299 1085 1299 1085 1299 1118 1303 1153 1309 1192 1303 1219 1299 1219 1299 1221 1299 1221 1299 1221 1299 1223 1299 1234 1303 1254 1310 1432 1310 1470 1299 1477 1299 1477 1299 1477 1299 1479 1299 1479 1299 1486 1299 1538 1309 1624 1299 1629 1334 1626 1362 1378 1354 1294 1363 1292 1363 1292 1363 1291 1363 1291 1363 1289 1363 1289 1363 1256 1354 1162 1363 1162 1363 1161 1363 1161 1363 1084 1354 1071 1363 1071 1363 1069 1363 1069 1363 1069 1363 1067 1363 1067 1363 1065 1363 573 1356 499 1365 499 1365 498 1365 498 1365 496 1365 496 1365 470 1356 395 1367"/></Shape>
+	    <String CONTENT="la défense de nos côtes contre le blocus des sous-marins: que"
+                    HPOS="391"
+                    VPOS="1299"
+                    WIDTH="1238"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8786e2ec"
+                    
+                    BASELINE="395 1404 1613 1404" 
+                    HPOS="395"
+                    VPOS="1373"
+                    WIDTH="1218"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="395 1404 395 1373 1613 1376 1613 1404 1613 1426 395 1431"/></Shape>
+	    <String CONTENT="sais-je encore ? Tout ce que j&#x27;ai pu dépenser de mes forces"
+                    HPOS="395"
+                    VPOS="1373"
+                    WIDTH="1218"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b412850"
+                    
+                    BASELINE="395 1471 1629 1466" 
+                    HPOS="391"
+                    VPOS="1433"
+                    WIDTH="1238"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="395 1471 391 1446 1369 1433 1371 1433 1626 1442 1629 1466 1627 1493 395 1501"/></Shape>
+	    <String CONTENT="pour participer à cette noble révolte de notre Défense natio-"
+                    HPOS="391"
+                    VPOS="1433"
+                    WIDTH="1238"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e743e072"
+                    
+                    BASELINE="395 1536 1595 1536" 
+                    HPOS="391"
+                    VPOS="1501"
+                    WIDTH="1204"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="395 1536 391 1512 428 1501 430 1501 430 1501 430 1501 432 1501 432 1501 434 1501 434 1501 461 1510 461 1510 466 1510 618 1503 620 1503 699 1508 728 1510 732 1508 743 1501 745 1501 745 1501 747 1501 747 1501 747 1501 748 1501 748 1501 748 1501 750 1501 770 1508 780 1510 796 1508 836 1501 836 1501 838 1501 838 1501 889 1506 921 1510 935 1506 952 1501 954 1501 954 1501 954 1501 955 1501 955 1501 957 1501 977 1506 996 1510 1025 1504 1056 1501 1056 1501 1058 1501 1058 1501 1058 1501 1060 1501 1071 1504 1087 1510 1153 1504 1195 1501 1197 1501 1287 1503 1534 1510 1593 1501 1595 1536 1595 1558 395 1558"/></Shape>
+	    <String CONTENT="nale, je l&#x27;ai prodigué, jusqu&#x27;au jour où j&#x27;ai eu la joie de"
+                    HPOS="391"
+                    VPOS="1501"
+                    WIDTH="1204"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c14c778"
+                    
+                    BASELINE="395 1600 1648 1603" 
+                    HPOS="393"
+                    VPOS="1570"
+                    WIDTH="1255"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="395 1600 395 1570 1648 1576 1648 1603 1644 1622 393 1620"/></Shape>
+	    <String CONTENT="voir arriver - en toute sûreté, dans nos ports, après les con-"
+                    HPOS="393"
+                    VPOS="1570"
+                    WIDTH="1255"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30ee2c72"
+                    
+                    BASELINE="393 1667 1631 1667" 
+                    HPOS="393"
+                    VPOS="1642"
+                    WIDTH="1238"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="393 1667 393 1642 1631 1642 1631 1667 1631 1697 393 1697"/></Shape>
+	    <String CONTENT="vois quotidiens et bi-quotidiens de mes amis anglais, ceux de"
+                    HPOS="393"
+                    VPOS="1642"
+                    WIDTH="1238"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85c3c3ee"
+                    
+                    BASELINE="393 1733 1646 1730" 
+                    HPOS="390"
+                    VPOS="1697"
+                    WIDTH="1256"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="393 1733 390 1708 1040 1697 1041 1697 1642 1706 1646 1730 1644 1748 1598 1759 1598 1759 1596 1759 391 1752"/></Shape>
+	    <String CONTENT="vos transatlantiques. Ce fut l&#x27;entente cordiale franco-améri-"
+                    HPOS="390"
+                    VPOS="1697"
+                    WIDTH="1256"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09057e06"
+                    
+                    BASELINE="395 1801 1662 1801" 
+                    HPOS="393"
+                    VPOS="1768"
+                    WIDTH="1269"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="395 1801 393 1775 1660 1768 1662 1801 1662 1825 1378 1830 1377 1830 1377 1830 1377 1830 1349 1825 1333 1821 1309 1825 1263 1830 1263 1830 1261 1830 1179 1823 1140 1821 1087 1823 941 1830 939 1830 939 1830 939 1830 937 1830 937 1830 935 1830 922 1823 921 1821 899 1823 809 1830 809 1830 807 1830 807 1830 805 1830 805 1830 805 1830 787 1821 787 1821 787 1821 776 1830 776 1830 774 1830 774 1830 772 1830 772 1830 772 1830 770 1830 770 1830 770 1830 769 1830 743 1821 739 1821 736 1821 706 1830 705 1830 705 1830 703 1830 703 1830 703 1830 701 1830 673 1821 670 1821 666 1821 622 1830 622 1830 622 1830 620 1830 620 1830 618 1830 618 1830 618 1830 617 1830 604 1821 584 1830 584 1830 582 1830 582 1830 582 1830 580 1830 393 1819"/></Shape>
+	    <String CONTENT="caine rêvée pour la paix, réalisée pour repousser et pour écra-"
+                    HPOS="393"
+                    VPOS="1768"
+                    WIDTH="1269"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6731466"
+                    
+                    BASELINE="397 1865 868 1865" 
+                    HPOS="397"
+                    VPOS="1825"
+                    WIDTH="471"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="397 1865 397 1838 518 1838 518 1836 531 1825 531 1825 531 1825 532 1825 532 1825 534 1825 534 1825 534 1825 536 1825 868 1836 868 1865 868 1887 397 1896"/></Shape>
+	    <String CONTENT="ser à jamais la guerre."
+                    HPOS="397"
+                    VPOS="1825"
+                    WIDTH="471"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13b5957b"
+                    
+                    BASELINE="650 1929 1626 1933" 
+                    HPOS="648"
+                    VPOS="1891"
+                    WIDTH="978"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="650 1929 648 1902 701 1891 701 1891 703 1891 703 1891 703 1891 754 1900 763 1904 871 1904 873 1900 882 1893 882 1891 882 1891 884 1891 884 1891 884 1891 886 1891 886 1891 886 1891 888 1891 888 1891 889 1891 889 1891 913 1900 919 1902 950 1900 1063 1891 1065 1891 1065 1891 1065 1891 1111 1900 1139 1904 1193 1898 1265 1893 1267 1893 1334 1893 1334 1893 1334 1893 1336 1893 1336 1893 1338 1893 1347 1898 1358 1904 1622 1898 1626 1933 1624 1951 648 1953"/></Shape>
+	    <String CONTENT="Puis ce fut l&#x27;armistice, l&#x27;apothéose du triomphe"
+                    HPOS="648"
+                    VPOS="1891"
+                    WIDTH="978"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3e8f394"
+                    
+                    BASELINE="395 1999 1620 1999" 
+                    HPOS="395"
+                    VPOS="1973"
+                    WIDTH="1225"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="395 1999 395 1973 1620 1973 1620 1999 1620 2019 395 2026"/></Shape>
+	    <String CONTENT="du droit; .... puis les déceptions de la paix; et mon impuis-"
+                    HPOS="395"
+                    VPOS="1973"
+                    WIDTH="1225"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5b9024e"
+                    
+                    BASELINE="397 2072 1604 2077" 
+                    HPOS="395"
+                    VPOS="2035"
+                    WIDTH="1209"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="397 2072 395 2045 708 2035 710 2035 710 2035 710 2035 712 2035 712 2035 714 2035 714 2035 714 2035 725 2045 770 2037 770 2037 770 2037 772 2037 924 2046 943 2046 959 2046 1106 2037 1107 2037 1107 2037 1107 2037 1109 2037 1137 2046 1181 2037 1181 2037 1181 2037 1182 2037 1182 2037 1184 2037 1184 2037 1184 2037 1186 2037 1201 2048 1203 2048 1206 2048 1237 2039 1239 2039 1239 2039 1241 2039 1602 2050 1604 2077 1600 2099 395 2094"/></Shape>
+	    <String CONTENT="sance totale à servir, au moment même où toute ma passion et"
+                    HPOS="395"
+                    VPOS="2035"
+                    WIDTH="1209"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

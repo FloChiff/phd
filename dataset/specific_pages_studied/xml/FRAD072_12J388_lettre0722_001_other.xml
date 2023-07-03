@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRAD072_12J388_lettre0722_001.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1698"
+          HEIGHT="2197"
+          PHYSICAL_IMG_NR="55"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1698"
+                  HEIGHT="2197">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_5989828f"
+                    
+                    BASELINE="743 203 1040 197" 
+                    HPOS="741"
+                    VPOS="170"
+                    WIDTH="299"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="743 203 741 182 781 172 812 175 847 170 886 173 972 175 1036 173 1040 197 1040 232 743 234"/></Shape>
+	    <String CONTENT="LETTRE N° 722."
+                    HPOS="741"
+                    VPOS="170"
+                    WIDTH="299"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc94b5d5"
+                    
+                    BASELINE="108 302 335 300" 
+                    HPOS="102"
+                    VPOS="267"
+                    WIDTH="235"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="108 302 102 267 145 274 207 272 243 271 295 278 329 273 335 300 337 336 284 334 249 336 192 339 106 331"/></Shape>
+	    <String CONTENT="SÉNAT"
+                    HPOS="102"
+                    VPOS="267"
+                    WIDTH="235"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00aa80f7"
+                    
+                    BASELINE="1003 369 1511 372" 
+                    HPOS="1000"
+                    VPOS="342"
+                    WIDTH="509"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1349 344 1331 344 1313 344 1295 344 1276 344 1258 344 1240 344 1221 344 1203 344 1185 344 1166 344 1148 346 1130 346 1111 346 1093 346 1075 346 1056 346 1038 346 1020 346 1001 346 1001 367 1000 391 1505 395 1509 371 1507 344 1359 342 1349 344"/></Shape>
+	    <String CONTENT="PARIS, 18 Novembre 1920."
+                    HPOS="1000"
+                    VPOS="342"
+                    WIDTH="509"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e1eb4f4"
+                    
+                    BASELINE="562 600 1344 603" 
+                    HPOS="549"
+                    VPOS="576"
+                    WIDTH="794"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="560 598 563 576 1343 579 1342 602 1340 630 549 618"/></Shape>
+	    <String CONTENT="MISS MARGARET C. ALEXANDER à PARIS."
+                    HPOS="549"
+                    VPOS="576"
+                    WIDTH="794"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80b93a83"
+                    
+                    BASELINE="899 798 1243 801" 
+                    HPOS="892"
+                    VPOS="773"
+                    WIDTH="351"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="902 795 899 774 963 774 1024 773 1091 778 1141 775 1193 773 1243 778 1243 801 1238 828 1199 827 1137 822 1079 824 1017 824 941 830 892 829"/></Shape>
+	    <String CONTENT="Mon cher Butler,"
+                    HPOS="892"
+                    VPOS="773"
+                    WIDTH="351"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f55113b3"
+                    
+                    BASELINE="719 931 1569 935" 
+                    HPOS="714"
+                    VPOS="906"
+                    WIDTH="855"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="719 931 719 906 1567 906 1569 935 1567 953 758 963 756 963 756 963 754 963 714 950"/></Shape>
+	    <String CONTENT="Miss Margaret C. Alexander est de nouveau"
+                    HPOS="714"
+                    VPOS="906"
+                    WIDTH="855"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8ed04bf"
+                    
+                    BASELINE="315 997 1511 1001" 
+                    HPOS="313"
+                    VPOS="966"
+                    WIDTH="1199"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="315 997 315 966 1038 966 1038 966 1038 966 1040 966 1040 966 1040 966 1042 966 1042 966 1051 974 1055 975 1110 974 1324 966 1326 966 1326 966 1415 975 1461 966 1461 966 1461 966 1463 966 1463 966 1465 966 1512 979 1511 1001 1509 1021 921 1030 919 1030 826 1021 382 1028 380 1028 380 1028 313 1017"/></Shape>
+	    <String CONTENT="à Paris, en route pour l&#x27;Albanie où elle va représenter la"
+                    HPOS="313"
+                    VPOS="966"
+                    WIDTH="1199"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b57f512"
+                    
+                    BASELINE="315 1065 1417 1069" 
+                    HPOS="311"
+                    VPOS="1039"
+                    WIDTH="1106"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="315 1065 315 1039 1415 1041 1417 1069 1415 1109 1320 1109 1318 1107 1318 1107 1317 1107 1317 1107 1317 1107 1315 1107 1315 1107 1315 1105 1304 1098 1295 1105 1293 1107 1293 1107 1291 1107 1291 1107 1291 1107 1289 1107 1289 1107 1289 1109 901 1109 899 1107 899 1107 897 1107 897 1107 873 1098 853 1089 725 1094 635 1098 633 1098 633 1098 631 1098 631 1098 617 1093 606 1089 597 1093 571 1100 569 1100 569 1100 569 1100 567 1100 567 1100 567 1100 566 1100 566 1100 545 1091 531 1103 531 1105 531 1105 529 1105 529 1105 527 1105 527 1105 527 1105 525 1105 525 1105 523 1105 523 1105 523 1105 492 1089 490 1089 437 1089 435 1089 412 1102 412 1102 412 1102 410 1102 410 1102 410 1102 408 1102 408 1102 406 1102 406 1102 406 1102 404 1102 404 1102 404 1100 391 1087 311 1085"/></Shape>
+	    <String CONTENT="Croix-Rouge américaine. Je l&#x27;ai, vous le pensez bien,"
+                    HPOS="311"
+                    VPOS="1039"
+                    WIDTH="1106"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fddb3157"
+                    
+                    BASELINE="316 1133 1487 1138" 
+                    HPOS="315"
+                    VPOS="1105"
+                    WIDTH="1172"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="316 1133 315 1107 1483 1105 1487 1138 1485 1162 316 1162"/></Shape>
+	    <String CONTENT="saturée de conseils. L&#x27;Albanie n&#x27;a pas dû changer depuis"
+                    HPOS="315"
+                    VPOS="1105"
+                    WIDTH="1172"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb60e221"
+                    
+                    BASELINE="315 1201 1525 1204" 
+                    HPOS="313"
+                    VPOS="1171"
+                    WIDTH="1212"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="315 1201 313 1177 1522 1171 1525 1204 1523 1226 923 1235 921 1235 921 1235 919 1235 919 1235 888 1224 886 1224 884 1224 835 1233 835 1233 833 1233 833 1233 833 1233 831 1233 831 1233 809 1224 809 1224 730 1224 555 1224 544 1233 544 1233 542 1233 542 1233 542 1233 540 1233 540 1233 540 1235 393 1235 391 1233 391 1233 313 1221"/></Shape>
+	    <String CONTENT="ma jeunesse et il faut un certain courage à une jeune femme"
+                    HPOS="313"
+                    VPOS="1171"
+                    WIDTH="1212"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a89c4e5c"
+                    
+                    BASELINE="316 1268 1544 1272" 
+                    HPOS="311"
+                    VPOS="1233"
+                    WIDTH="1233"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="316 1268 320 1233 331 1243 635 1237 767 1235 769 1235 1542 1246 1544 1272 1542 1288 333 1296 331 1296 331 1296 329 1296 329 1296 329 1296 327 1296 311 1285"/></Shape>
+	    <String CONTENT="pour y aller vivre, en ce moment et en cette saison. Je lui"
+                    HPOS="311"
+                    VPOS="1233"
+                    WIDTH="1233"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5701b45"
+                    
+                    BASELINE="316 1332 1505 1336" 
+                    HPOS="313"
+                    VPOS="1301"
+                    WIDTH="1192"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 1332 316 1301 1503 1312 1505 1336 1500 1367 1476 1358 1139 1363 915 1367 914 1367 914 1367 881 1362 853 1356 688 1358 353 1365 351 1365 351 1365 349 1365 313 1354"/></Shape>
+	    <String CONTENT="recommande de s&#x27;entourer de protection et de ne pas y être"
+                    HPOS="313"
+                    VPOS="1301"
+                    WIDTH="1192"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0a5105d"
+                    
+                    BASELINE="316 1402 476 1402" 
+                    HPOS="315"
+                    VPOS="1363"
+                    WIDTH="161"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="316 1402 315 1380 474 1363 476 1402 474 1439 315 1431"/></Shape>
+	    <String CONTENT="isolée."
+                    HPOS="315"
+                    VPOS="1363"
+                    WIDTH="161"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c611c9e"
+                    
+                    BASELINE="714 1468 1542 1468" 
+                    HPOS="710"
+                    VPOS="1433"
+                    WIDTH="832"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="714 1468 710 1444 743 1433 745 1433 745 1433 745 1433 747 1433 747 1433 802 1442 804 1442 805 1442 915 1433 915 1433 917 1433 917 1433 919 1433 919 1433 919 1433 921 1433 921 1433 932 1442 934 1442 945 1442 1047 1433 1049 1433 1049 1433 1119 1440 1141 1444 1219 1444 1223 1440 1229 1435 1229 1433 1229 1433 1230 1433 1230 1433 1230 1433 1232 1433 1232 1433 1234 1433 1234 1433 1234 1433 1236 1433 1258 1440 1269 1442 1540 1439 1542 1468 1542 1490 1434 1503 1434 1503 1432 1503 1432 1503 1382 1493 1373 1492 1371 1493 1359 1503 1357 1503 1357 1503 1357 1503 1355 1503 1355 1503 1355 1504 1236 1504 1234 1503 1234 1503 1232 1503 1208 1495 1192 1492 1159 1497 1119 1503 1119 1503 1117 1503 1117 1503 1117 1503 1115 1503 1115 1503 1115 1503 1113 1503 1106 1497 1097 1492 1011 1492 912 1501 881 1503 881 1503 879 1503 879 1503 866 1501 805 1492 714 1503"/></Shape>
+	    <String CONTENT="Miss Alexander est descendue rue Pierre-"
+                    HPOS="710"
+                    VPOS="1433"
+                    WIDTH="832"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea1f8a01"
+                    
+                    BASELINE="315 1532 1516 1536" 
+                    HPOS="313"
+                    VPOS="1501"
+                    WIDTH="1203"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="315 1532 315 1501 1514 1506 1516 1536 1514 1554 1203 1565 1203 1567 1044 1567 1042 1565 1042 1565 1040 1565 1016 1558 1011 1556 998 1558 948 1565 948 1565 946 1565 946 1565 946 1565 945 1565 923 1558 910 1554 884 1558 848 1563 848 1563 846 1563 752 1558 666 1554 622 1559 584 1563 584 1563 582 1563 533 1559 467 1554 448 1559 437 1563 435 1563 435 1563 435 1563 434 1563 313 1559"/></Shape>
+	    <String CONTENT="Curie, où nous l&#x27;accueillons comme un membre de la famille."
+                    HPOS="313"
+                    VPOS="1501"
+                    WIDTH="1203"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8690860a"
+                    
+                    BASELINE="316 1601 1485 1598" 
+                    HPOS="315"
+                    VPOS="1565"
+                    WIDTH="1170"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="316 1601 315 1569 663 1576 675 1570 685 1567 685 1567 686 1567 686 1567 686 1567 688 1567 688 1567 688 1567 690 1567 690 1567 699 1570 712 1576 727 1570 738 1567 740 1567 740 1567 740 1567 741 1567 741 1567 743 1567 760 1570 780 1576 809 1570 840 1567 840 1567 842 1567 842 1567 842 1567 844 1567 844 1567 844 1567 855 1572 864 1576 1045 1572 1461 1565 1463 1565 1463 1565 1465 1565 1465 1565 1465 1565 1467 1565 1485 1576 1485 1598 1483 1620 316 1623"/></Shape>
+	    <String CONTENT="Nous sommes heureux de voir notre petit bureau devenir le"
+                    HPOS="315"
+                    VPOS="1565"
+                    WIDTH="1170"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d6571c9"
+                    
+                    BASELINE="315 1669 1500 1666" 
+                    HPOS="311"
+                    VPOS="1644"
+                    WIDTH="1189"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="315 1669 311 1647 1494 1644 1500 1666 1500 1686 1426 1697 1426 1697 1425 1697 313 1689"/></Shape>
+	    <String CONTENT="foyer modeste, mais toujours ouvert, de votre personnel et"
+                    HPOS="311"
+                    VPOS="1644"
+                    WIDTH="1189"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33b6f077"
+                    
+                    BASELINE="315 1737 1474 1737" 
+                    HPOS="313"
+                    VPOS="1697"
+                    WIDTH="1161"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="315 1737 315 1697 544 1711 642 1700 650 1700 650 1700 652 1700 652 1700 652 1700 653 1700 653 1700 655 1700 677 1711 696 1700 705 1697 705 1697 705 1697 707 1697 707 1697 708 1697 708 1697 771 1702 844 1709 851 1704 859 1699 859 1697 859 1697 860 1697 860 1697 862 1697 862 1697 862 1697 864 1697 864 1697 864 1697 866 1697 866 1697 866 1697 868 1697 877 1704 888 1711 934 1704 954 1702 954 1702 956 1702 1031 1706 1126 1711 1133 1708 1150 1697 1152 1697 1152 1697 1152 1697 1153 1697 1153 1697 1155 1697 1229 1697 1229 1697 1229 1697 1230 1697 1230 1697 1230 1697 1232 1697 1232 1697 1232 1699 1243 1709 1247 1711 1285 1709 1417 1702 1419 1702 1419 1702 1419 1702 1474 1713 1474 1737 1472 1766 1280 1759 1260 1766 1252 1768 1252 1768 1251 1768 1251 1768 1249 1768 1249 1768 1249 1768 1247 1768 1247 1768 1247 1768 1241 1764 1229 1759 1139 1764 1077 1768 1075 1768 1075 1768 1075 1768 1051 1764 1025 1759 981 1763 932 1768 932 1768 930 1768 930 1768 899 1763 879 1759 870 1763 857 1768 857 1768 855 1768 855 1768 855 1768 853 1768 853 1768 853 1768 851 1768 851 1768 837 1763 829 1759 802 1763 747 1768 747 1768 745 1768 745 1768 743 1768 743 1768 743 1768 741 1768 730 1761 725 1759 608 1759 597 1761 549 1768 549 1768 547 1768 547 1768 545 1768 511 1759 507 1759 507 1759 496 1768 496 1768 494 1768 494 1768 492 1768 492 1768 492 1768 490 1768 490 1768 490 1768 489 1768 463 1759 459 1759 456 1759 401 1768 401 1768 399 1768 399 1768 313 1757"/></Shape>
+	    <String CONTENT="du nôtre, tous deux de plus en plus en parfaite harmonie."
+                    HPOS="313"
+                    VPOS="1697"
+                    WIDTH="1161"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89dabed3"
+                    
+                    BASELINE="315 1801 1403 1801" 
+                    HPOS="313"
+                    VPOS="1772"
+                    WIDTH="1090"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="315 1801 313 1777 1401 1772 1403 1801 1403 1827 315 1834"/></Shape>
+	    <String CONTENT="Il ne nous manque plus que l&#x27;arrivée de Haskell et de"
+                    HPOS="313"
+                    VPOS="1772"
+                    WIDTH="1090"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05ea649e"
+                    
+                    BASELINE="115 2030 1073 2034" 
+                    HPOS="113"
+                    VPOS="1999"
+                    WIDTH="960"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="115 2030 115 1999 1073 1999 1073 2034 1069 2067 591 2057 113 2063"/></Shape>
+	    <String CONTENT="à Monsieur le Président Nicholas Murray BUTLER."
+                    HPOS="113"
+                    VPOS="1999"
+                    WIDTH="960"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
