@@ -15,6 +15,11 @@ In this paper, the authors present a new way to exploit the ground truth created
 
 ----------
 
+**Boschetti, Federico, Matteo Romanello, Alison Babeu, David Bamman, et Gregory Crane. 2009. *Improving OCR Accuracy for Classical Critical Editions*. In Research and Advanced Technology for Digital Libraries, édité par Maristella Agosti, José Borbinha, Sarantos Kapidakis, Christos Papatheodorou, et Giannis Tsakonas, 5714:156‑67. Berlin, Heidelberg: Springer Berlin Heidelberg. [https://doi.org/10.1007/978-3-642-04346-8_17](https://doi.org/10.1007/978-3-642-04346-8_17).**  
+In this paper, the authors compared different software used for their classical editions, in Greek and Latin, and the results they obtain. They use equations, regex and outputs to check the accuracy of the OCR software and search which is the best and how to improve everything.
+
+----------
+
 **Eikvil, Line. “*Optical Character Recognition.*” (1993). ⟨[Link](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.25.3684)⟩**  
 This work is a complete presentation of OCR. After an introduction to present largely the concept of OCR and an history of the OCR from the moment it was developed to the time of the article production, the author breaks down the operation of OCR, step by step, using schemas to illustrate it. Then, it presents different cases of use of OCR, as well as the systems that are doing OCR and the way to evaluate it. Finally, the author explores the future of OCR, i.e. how to expand it.
 
@@ -111,15 +116,20 @@ In this paper, the authors are presenting their project which aims at performing
 
 ----------
 
+**R. Smith, "An Overview of the Tesseract OCR Engine," *Ninth International Conference on Document Analysis and Recognition (ICDAR 2007)*, 2007, pp. 629-633, doi: [10.1109/ICDAR.2007.4376991](https://doi.org/10.1109/ICDAR.2007.4376991)**  
+
+In this paper, the author presents in details the OCR system Tesseract. After a brief history of its creation, he does a step by step presentation of the way it runs and the results obtained from it.
+
+----------
+
 **Springmann, U., Reul, C., Dipper, S., and Baiter, J., “Ground Truth for training OCR engines on historical documents in German Fraktur and Early Modern Latin”, *arXiv e-prints*, 2018. doi: [10.48550/arXiv.1809.05501](https://doi.org/10.48550/arXiv.1809.05501)**  
 
 In this article, the authors expose the datasets they worked on to obtain models for German Fratkur and Early Modern Latin corpus. After a quick introduction on OCR, the authors presents one by one the content of each of their ground truth corpora, providing illustration of the writing mentioned and information about the number of lines for each part of the dataset. The authors also mention the specificities presented by German Fraktur for the training of a model and how to respond to it. Finally, they describe the rules they have to follow to transcribe their ground truth to help with the subsequent OCR of other corpora.
 
 ----------
 
-**R. Smith, "An Overview of the Tesseract OCR Engine," *Ninth International Conference on Document Analysis and Recognition (ICDAR 2007)*, 2007, pp. 629-633, doi: [10.1109/ICDAR.2007.4376991](https://doi.org/10.1109/ICDAR.2007.4376991)**  
-
-In this paper, the author presents in details the OCR system Tesseract. After a brief history of its creation, he does a step by step presentation of the way it runs and the results obtained from it.
+**Srivastava, Nitish, Geoﬀrey Hinton, Alex Krizhevsky, Ilya Sutskever, et Ruslan Salakhutdinov. 2014. *Dropout: A Simple Way to Prevent Neural Networks from Overﬁtting*. Journal of Machine Learning Research 15 (2014) 1929-1958. [https://jmlr.org/papers/v15/srivastava14a.html](https://jmlr.org/papers/v15/srivastava14a.html).**
+In this paper, the authors present the idea of dropout, how does it, in what cases and what is it useful. They also explain the way to use it with different inputs. In the article, we can found mentions of much software, definitions (such as regularization, overfitting, nets, neural networks, etc.) and description of how to proceed to create dropout.
 
 ----------
 
