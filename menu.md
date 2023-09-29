@@ -9,6 +9,7 @@ Reports of my experiments:
 - [Content Analysis (Oct 17, 2022)](https://flochiff.github.io/phd/2022/10/17/Content-analysis.html)
 - [Comparative Analysis (Oct 21, 2022)](https://flochiff.github.io/phd/2022/10/21/Comparative-analysis.html)
 - [Token Analysis (May 9, 2023)](https://flochiff.github.io/phd/2023/05/09/Token-analysis.html)
+- [Token Error Analysis (September 29, 2023)](https://flochiff.github.io/phd/2023/09/29/Token-error-analysis.html)
 
 Details on some of the results:
 - [Bar charts (Token analysis)](https://flochiff.github.io/phd/experiments/token_analysis/bar_charts_token_analysis.html)
@@ -17,8 +18,12 @@ Details on some of the results:
 - [Metrics (Comparative analysis)](https://flochiff.github.io/phd/experiments/comparative_analysis/metrics_comparative_analysis.html)
 - [Model testing (Lexicon analysis)](https://flochiff.github.io/phd/experiments/lexicon_analysis/model_testing_lexicon_analysis.html)
 - [Popular tokens (Token analysis)](https://flochiff.github.io/phd/experiments/token_analysis/popular_tokens_token_analysis.html)
+- [Table of token error analysis by bigrams (Token error analysis)](https://flochiff.github.io/phd/experiments/token_error_analysis/token_error_analysis_tables/table_of_2grams.pdf)
+- [Table of token error analysis by trigrams (Token error analysis)](https://flochiff.github.io/phd/experiments/token_error_analysis/token_error_analysis_tables/table_of_3grams.pdf)
+- [Table of token error analysis by tetragrams (Token error analysis)](https://flochiff.github.io/phd/experiments/token_error_analysis/token_error_analysis_tables/table_of_4grams.pdf)
 - [Table of results (Content analysis)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html)
 - [Table of results (Token analysis)](https://flochiff.github.io/phd/experiments/token_analysis/table_results_token_analysis.html)
+- [Table of results (Token error analysis)](https://flochiff.github.io/phd/experiments/token_error_analysis/table_results_token_error_analysis.html)
 - [Wordclouds (Content analysis)](https://flochiff.github.io/phd/experiments/content_analysis/wordclouds_content_analysis.html)
 - [Wordclouds (Lexicon analysis)](https://flochiff.github.io/phd/experiments/lexicon_analysis/wordclouds_lexicon_analysis.html)
 
