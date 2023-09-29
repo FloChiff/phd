@@ -23,7 +23,7 @@ Details on some of the results:
 - [Table of token error analysis by tetragrams (Token error analysis)](https://flochiff.github.io/phd/experiments/token_error_analysis/token_error_analysis_tables/table_of_4grams.pdf)
 - [Table of results (Content analysis)](https://flochiff.github.io/phd/experiments/content_analysis/table_results_content_analysis.html)
 - [Table of results (Token analysis)](https://flochiff.github.io/phd/experiments/token_analysis/table_results_token_analysis.html)
-- [Table of results (Token error analysis)](https://flochiff.github.io/phd/experiments/token_error_analysis/table_results_token_error_analysis.html)
+- [Table of results (Token error analysis)](https://flochiff.github.io/phd/experiments/token_error_analysis/results_from_the_token_error_analysis_tables/table_results_token_error_analysis.html)
 - [Wordclouds (Content analysis)](https://flochiff.github.io/phd/experiments/content_analysis/wordclouds_content_analysis.html)
 - [Wordclouds (Lexicon analysis)](https://flochiff.github.io/phd/experiments/lexicon_analysis/wordclouds_lexicon_analysis.html)
 
