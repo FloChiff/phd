@@ -11,6 +11,8 @@ title: "Glossary"
 Formula: CER = Substitution(s) + Insertion(s) + Deletion(s) / Number of characters in the GT \\
 The lower the CER value (with 0 being a perfect score), the better the performance of the OCR model.
 
+**Convolutional Neural Network (CNN)**: CNNs are deep learning models used for processing and analysing visual data. They leverage filters and layers to recognise patterns and features within images.  
+
 **Dropout**: Method to counter the overfitting. At each epoch, some neurons in the network will be deactivated aleatory (so that it is not the same each time), which means that the model will be trained with a different neuron configuration each time, which will produce slightly different models each time.
 
 **"Gold" corpus**: Data exclusively created and verified by humans, to obtain a perfect transcription.

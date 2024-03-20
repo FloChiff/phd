@@ -15,6 +15,12 @@ In this paper, the authors present a new way to exploit the ground truth created
 
 ----------
 
+**Balci B., Saadati D., Shiferaw D., *Handwritten Text Recognition using Deep Learning* [http://vision.stanford.edu/teaching/cs231n/reports/2017/pdfs/810.pdf](http://vision.stanford.edu/teaching/cs231n/reports/2017/pdfs/810.pdf)**
+
+In this article, the authors present the work they have done to execute a handwritten text recognition with deep learning, or more exactly a handwritten character recognition as they are using a method of segmentation and recognition where the model learns the character individually and not the word. After a little SOTA about the evolution of automatic recognition, they present the preprocessing thy choose to do as well as the methods they used for vocabulary size, classification, training and segmentation. After giving the results of their experiments, they mention the issue that is handwritten for character recognition and hypothesis that a larger corpus might help them get better results.
+
+----------
+
 **Boschetti, Federico, Matteo Romanello, Alison Babeu, David Bamman, et Gregory Crane. 2009. *Improving OCR Accuracy for Classical Critical Editions*. In Research and Advanced Technology for Digital Libraries, édité par Maristella Agosti, José Borbinha, Sarantos Kapidakis, Christos Papatheodorou, et Giannis Tsakonas, 5714:156‑67. Berlin, Heidelberg: Springer Berlin Heidelberg. [https://doi.org/10.1007/978-3-642-04346-8_17](https://doi.org/10.1007/978-3-642-04346-8_17).**  
 In this paper, the authors compared different software used for their classical editions, in Greek and Latin, and the results they obtain. They use equations, regex and outputs to check the accuracy of the OCR software and search which is the best and how to improve everything.
 
@@ -74,6 +80,12 @@ In this paper, the authors expose the system they established to do HTR. After i
 
 ----------
 
+**Lin, Junxia, Ledolter, Johannes. (2021). *A Simple and Practical Approach to Improve Misspellings in OCR Text.* [https://arxiv.org/abs/2106.12030](https://arxiv.org/abs/2106.12030)** 
+
+In this article, the authors work on the identification and correction of non-word errors in OCR text. They start by presenting the various types of OCR errors that can be found, detailing them one after the other and explaining what they are made of. Then, they do the state-of-the-art in OCR misspellings corrections, followed by a presentation of the dataset used for their work and an explaination on the kind of words included in their work. The big part of their article talks about their proposed method, which they detailed in different steps, and the results it shows, which are pretty good according to the authors. 
+
+----------
+
 **U. -. Marti and H. Bunke, "On the influence of vocabulary size and language models in unconstrained handwritten text recognition," Proceedings of Sixth International Conference on Document Analysis and Recognition, 2001, pp. 260-265, doi: [10.1109/ICDAR.2001.953795](https://doi.org/10.1109/ICDAR.2001.953795)**  
 
 In this paper, the authors present an experiment of text recognition on handwritten text that takes into account the size of the vocabulary given to recognize the text. After introducing the steps done to the images and the text to help process it, they present the perplexity results of their experiments. They present the difference between using language models or not and the efficiency of recognition with the vocabulary size. They conclude by insisting on the importance of language models and ways needed to improve it.
@@ -89,6 +101,18 @@ First OCR system = 1940 ; the number of publication for HTR/OCR increased in 200
 **T. -T. -H. Nguyen, A. Jatowt, M. Coustaty, N. -V. Nguyen and A. Doucet, "Deep Statistical Analysis of OCR Errors for Effective Post-OCR Processing," *2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL)*, Champaign, IL, USA, 2019, pp. 29-38, doi: [10.1109/JCDL.2019.00015](https://doi.org/10.1109/JCDL.2019.00015).**
 
 In this paper, the authors dig deeper into OCR errors, by presenting the common type of errors, comparing them with common misspelling and analyzing how much they appear within their test sets. They detail five main types of analyses: edit operations, length effects, erroneous characters positions, real-words vs non-words, and word boundary. After presenting it all, they also mix one with another when it occurs in the test sets to push the analysis. The objective is to thorougly observe and search the sets to retrieve the easily and quickly fixable mistakes for an effective post-OCR processing.
+
+----------
+
+**Nguyen, Thi Tuyet Hai, Adam Jatowt, Mickael Coustaty, et Antoine Doucet. 2022. *Survey of Post-OCR Processing Approaches*. ACM Computing Surveys 54 (6):1‑37. [https://doi.org/10.1145/3453476](https://doi.org/10.1145/3453476).**
+
+In this article, the authors mentions the various post-OCR processing approaches that can exist. First, they are doing a little history on OCR and digitization, and the problem that arised with the poor OCR results provided for most of the digitized texts at the time and the consequences it had on tasks such as information retrieval or natural language processing. They reflect on what can be observed and modified in order to fix those issues. The author then explain mathematically what is post-OCR processing problem. The authors started by presenting some projects that used full manual post-OCR processing. Then, the authors mentions semi-automatic approaches, divided in type of approaches. They develop a lot about lexical approaches and error models, which are isolated-word approaches, which mainly is made of error detection and error correction, with list of candidates for correction. They then present other types of models such as feature-based machine learning, string-to-string transformation, and neural machine translation (NMT). Finally, they present the last type of post-ocr processing which focuses on neural networks and language models. In the next part, there are introducing important resources for post-ocr processing that are freely accessible, such as the metrics, that they are explaining thoroughly, the datasets that are used to test and approve the post-ocr tools, which they present in details and the languages resources that can help, which they detailed by language. They end their article by talking about the various evolutions of the methods mentioned all along the paper.
+
+----------
+
+**Plamondon, Réjean, Sargur N. Srihari. *“On-Line and Off-Line Handwriting Recognition: A Comprehensive Survey.”* IEEE Trans. Pattern Anal. Mach. Intell. 22 (2000): 63-84. [https://ieeexplore.ieee.org/document/824821](https://ieeexplore.ieee.org/document/824821)**
+
+This article presents various information about online and offline handwritten recognition. It begins by presenting the various elements of handwritten text recognition, what to look for, how can that work, mostly with the online version. It then presents what constitutes online hanwritten text recognition and the various uses of it. In a second part, it focuses on offline HTR and presents some preprocessing steps that can help with the recognition and then gives examples and study cases of situations where HTR can be used (postal service or signature verification). It finishes by proposing some preprocessing/additional steps to help the recognition such as using word recognizer, n-gram class, lexical techniques, etc.). It concludes by saying that there are good progress in online HTR but it is still mainly in the research area for offline, while hoping that the techniques will improve, in English but also in other languages.
 
 ----------
 
