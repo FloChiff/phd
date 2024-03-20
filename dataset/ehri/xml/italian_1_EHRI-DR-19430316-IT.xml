@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>italian_1_EHRI-DR-19430316-IT.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4775" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3452"
+          HEIGHT="5054"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3452"
+                  HEIGHT="5054">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_18b27797"
+                    TAGREFS="LT4775"
+                    BASELINE="879 229 2099 231" 
+                    HPOS="876"
+                    VPOS="117"
+                    WIDTH="1218"
+                    HEIGHT="173">
+            <Shape><Polygon POINTS="876 227 876 290 2094 290 2094 227 2090 147 1648 164 1597 134 1589 126 1584 126 1580 126 1576 126 1572 126 1551 130 1458 168 1323 168 1293 138 1293 134 1289 134 1285 134 1281 134 1146 155 1070 122 1062 117 1057 117 876 117 876 227"/></Shape>
+	    <String CONTENT="4I7/92 del I6 marzo I943 XXI."
+                    HPOS="876"
+                    VPOS="117"
+                    WIDTH="1218"
+                    HEIGHT="173"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0d8fb9c"
+                    TAGREFS="LT4775"
+                    BASELINE="455 673 3376 673" 
+                    HPOS="455"
+                    VPOS="555"
+                    WIDTH="2921"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="455 673 455 737 3376 724 3376 673 3367 560 3224 598 3051 560 3013 555 3009 555 3005 555 2988 564 2891 610 2764 568 2760 568 2756 568 2655 576 2651 576 2646 576 2600 614 2174 614 2044 585 2040 585 1791 610 1669 606 1622 576 1605 564 1601 564 1597 564 1593 564 1589 564 1584 564 1567 576 1508 614 1171 614 1129 581 1100 555 1095 555 1091 555 628 555 623 555 455 585 455 673"/></Shape>
+	    <String CONTENT="che aveva portato seco, e la ricerca di oro e valuta sulle persone dei"
+                    HPOS="455"
+                    VPOS="555"
+                    WIDTH="2921"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68aabc20"
+                    TAGREFS="LT4775"
+                    BASELINE="455 808 3342 800" 
+                    HPOS="450"
+                    VPOS="741"
+                    WIDTH="2892"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="455 808 455 859 3338 859 3342 800 3333 741 450 741 455 808"/></Shape>
+	    <String CONTENT="concentrati ha permesso a funzionari, poliziotti e soldati di far man"
+                    HPOS="450"
+                    VPOS="741"
+                    WIDTH="2892"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5010abef"
+                    TAGREFS="LT4775"
+                    BASELINE="455 930 3376 918" 
+                    HPOS="450"
+                    VPOS="863"
+                    WIDTH="2926"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="455 930 455 981 973 1002 977 1002 1323 981 1348 1002 1352 1002 1357 1002 1361 1002 1365 1002 1433 977 1441 977 1475 977 1664 998 1669 1002 1669 998 1875 977 1892 977 1896 977 1951 998 1955 998 1959 998 1964 998 2010 977 2031 977 2394 998 2398 998 3371 968 3376 918 3363 863 450 871 455 930"/></Shape>
+	    <String CONTENT="bassa su quello che era ancora possibile prendere: persino pezzetti di"
+                    HPOS="450"
+                    VPOS="863"
+                    WIDTH="2926"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e22d2c2"
+                    TAGREFS="LT4775"
+                    BASELINE="459 1048 3308 1040" 
+                    HPOS="455"
+                    VPOS="985"
+                    WIDTH="2853"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="459 1048 459 1090 1816 1111 1820 1111 1825 1111 1913 1086 1930 1086 1943 1086 2031 1107 2035 1107 3304 1082 3308 1040 3296 985 455 985 459 1048"/></Shape>
+	    <String CONTENT="sapone, spazzolini da denti usati e tubi di dentifricio quasi finiti"
+                    HPOS="455"
+                    VPOS="985"
+                    WIDTH="2853"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b53c2e40"
+                    TAGREFS="LT4775"
+                    BASELINE="459 1175 3439 1162" 
+                    HPOS="455"
+                    VPOS="1099"
+                    WIDTH="2984"
+                    HEIGHT="177">
+            <Shape><Polygon POINTS="459 1175 459 1217 813 1242 817 1242 821 1242 855 1225 864 1221 931 1225 1154 1242 1159 1242 1272 1229 1348 1221 1386 1229 1428 1242 1433 1242 1437 1242 1496 1234 1580 1217 1605 1234 1618 1242 1622 1242 1626 1242 1631 1242 1669 1234 1744 1217 1808 1238 1841 1246 1846 1246 1850 1246 1913 1238 2027 1221 2174 1238 2174 1242 2221 1276 2225 1276 2229 1276 2233 1276 3439 1255 3439 1162 3426 1099 455 1107 459 1175"/></Shape>
+	    <String CONTENT="sono stati tolti a disgraziati dei quali si può veramente dire che han-"
+                    HPOS="455"
+                    VPOS="1099"
+                    WIDTH="2984"
+                    HEIGHT="177"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49941f42"
+                    TAGREFS="LT4775"
+                    BASELINE="455 1284 2014 1292" 
+                    HPOS="450"
+                    VPOS="1217"
+                    WIDTH="1564"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="455 1284 450 1322 1045 1326 1057 1339 1091 1373 1091 1377 1095 1377 1100 1377 1234 1381 1239 1381 2010 1364 2014 1292 2010 1217 455 1217 455 1284"/></Shape>
+	    <String CONTENT="no ormai solo gli occhi per piangere."
+                    HPOS="450"
+                    VPOS="1217"
+                    WIDTH="1564"
+                    HEIGHT="164"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d150b8ac"
+                    TAGREFS="LT4775"
+                    BASELINE="699 1410 3409 1402" 
+                    HPOS="695"
+                    VPOS="1339"
+                    WIDTH="2714"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="699 1410 699 1461 1492 1482 1496 1482 1702 1461 1707 1461 1711 1461 1816 1482 1820 1482 1825 1482 1909 1461 1921 1461 2794 1478 2798 1478 2802 1478 2882 1457 2887 1457 2895 1457 3076 1478 3081 1478 3405 1453 3409 1402 3397 1339 695 1351 699 1410"/></Shape>
+	    <String CONTENT="Alle preoccupazioni per l&#x27;incertissimo avvenire, ed al dolore per"
+                    HPOS="695"
+                    VPOS="1339"
+                    WIDTH="2714"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6405e251"
+                    TAGREFS="LT4775"
+                    BASELINE="459 1524 3342 1524" 
+                    HPOS="459"
+                    VPOS="1457"
+                    WIDTH="2883"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="459 1524 459 1579 956 1579 986 1600 990 1600 994 1600 998 1600 1003 1600 1062 1579 1129 1600 1133 1600 1138 1600 1808 1579 1879 1613 1884 1613 1888 1617 3207 1617 3207 1613 3211 1613 3215 1613 3266 1579 3342 1579 3342 1524 3342 1465 459 1457 459 1524"/></Shape>
+	    <String CONTENT="la perdita totale di ogni avere, si aggiungono per i 9.000 deportandi"
+                    HPOS="459"
+                    VPOS="1457"
+                    WIDTH="2883"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df57f666"
+                    TAGREFS="LT4775"
+                    BASELINE="459 1646 3380 1646" 
+                    HPOS="459"
+                    VPOS="1579"
+                    WIDTH="2921"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="459 1646 459 1722 3380 1722 3380 1646 3376 1579 459 1583 459 1646"/></Shape>
+	    <String CONTENT="le sofferenze davvero non necessarie alle quali vengono sottoposti per"
+                    HPOS="459"
+                    VPOS="1579"
+                    WIDTH="2921"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ec6a16a"
+                    TAGREFS="LT4775"
+                    BASELINE="459 1764 3405 1760" 
+                    HPOS="455"
+                    VPOS="1705"
+                    WIDTH="2950"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="459 1764 459 1811 3397 1815 3405 1760 3392 1705 455 1705 459 1764"/></Shape>
+	    <String CONTENT="imprevidenza o per pura brutalità. Gli impianti igienici più elementari"
+                    HPOS="455"
+                    VPOS="1705"
+                    WIDTH="2950"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46e841d0"
+                    TAGREFS="LT4775"
+                    BASELINE="463 1886 3304 1878" 
+                    HPOS="459"
+                    VPOS="1811"
+                    WIDTH="2845"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="463 1886 463 1933 3300 1924 3304 1878 3291 1811 459 1832 463 1886"/></Shape>
+	    <String CONTENT="che mancavano all&#x27;inizio quasi completamente cominciano a funzionare"
+                    HPOS="459"
+                    VPOS="1811"
+                    WIDTH="2845"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72bfaba8"
+                    TAGREFS="LT4775"
+                    BASELINE="459 2004 3304 1996" 
+                    HPOS="455"
+                    VPOS="1928"
+                    WIDTH="2849"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="459 2004 459 2051 1424 2051 1454 2063 1479 2072 1483 2072 1487 2072 1492 2072 1496 2072 1504 2063 1521 2051 1677 2051 1778 2063 1833 2072 1837 2072 1900 2067 2056 2046 2162 2067 2208 2076 2212 2080 3300 2080 3304 1996 3291 1928 455 1945 459 2004"/></Shape>
+	    <String CONTENT="solo ora ma in modo ancora insufficiente, il vitto è molto scarso ed"
+                    HPOS="455"
+                    VPOS="1928"
+                    WIDTH="2849"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec6b6d60"
+                    TAGREFS="LT4775"
+                    BASELINE="463 2114 3367 2122" 
+                    HPOS="459"
+                    VPOS="2034"
+                    WIDTH="2908"
+                    HEIGHT="177">
+            <Shape><Polygon POINTS="463 2114 459 2164 1104 2194 1108 2194 1112 2194 1116 2194 1146 2173 1492 2173 1567 2202 1572 2202 1921 2206 1926 2211 3258 2211 3258 2206 3262 2206 3363 2173 3367 2122 3363 2059 463 2034 463 2114"/></Shape>
+	    <String CONTENT="inadatto ( i primi giorni anche per bimbi di pochi mesi veniva distri-"
+                    HPOS="459"
+                    VPOS="2034"
+                    WIDTH="2908"
+                    HEIGHT="177"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e471233"
+                    TAGREFS="LT4775"
+                    BASELINE="459 2240 3405 2240" 
+                    HPOS="459"
+                    VPOS="2152"
+                    WIDTH="2946"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="459 2240 459 2291 1420 2291 1428 2295 1462 2324 1466 2324 1470 2324 1475 2324 2073 2299 2086 2299 2094 2299 2292 2324 2297 2324 3405 2303 3405 2240 3401 2164 1462 2177 1281 2156 1277 2156 1057 2177 1007 2156 1003 2156 459 2152 459 2240"/></Shape>
+	    <String CONTENT="buita una brodaglia di fagioli senza pane ), le guardie adoperano sotto"
+                    HPOS="459"
+                    VPOS="2152"
+                    WIDTH="2946"
+                    HEIGHT="172"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fb61ad5"
+                    TAGREFS="LT4775"
+                    BASELINE="459 2366 3237 2354" 
+                    HPOS="455"
+                    VPOS="2299"
+                    WIDTH="2782"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="459 2366 459 2438 3228 2442 3237 2354 3224 2299 455 2299 459 2366"/></Shape>
+	    <String CONTENT="ogni pretesto con sadica energia le fruste delle quali sono munite,"
+                    HPOS="455"
+                    VPOS="2299"
+                    WIDTH="2782"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_182652ef"
+                    TAGREFS="LT4775"
+                    BASELINE="459 2476 3405 2484" 
+                    HPOS="455"
+                    VPOS="2421"
+                    WIDTH="2950"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="459 2476 455 2518 514 2543 518 2543 522 2543 1496 2527 1934 2548 1938 2548 3401 2527 3405 2484 3401 2421 459 2421 459 2476"/></Shape>
+	    <String CONTENT="mentre la promiscuità e la ristrettezza dello spazio rendono in pratica"
+                    HPOS="455"
+                    VPOS="2421"
+                    WIDTH="2950"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac1df005"
+                    TAGREFS="LT4775"
+                    BASELINE="459 2590 3363 2607" 
+                    HPOS="455"
+                    VPOS="2527"
+                    WIDTH="2908"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="459 2590 455 2632 518 2657 522 2657 526 2657 1133 2640 1184 2661 1188 2661 1192 2661 3359 2649 3363 2607 3359 2535 459 2527 459 2590"/></Shape>
+	    <String CONTENT="impossible il riposo; conseguenza tragica ma logica di utto ciò sono"
+                    HPOS="455"
+                    VPOS="2527"
+                    WIDTH="2908"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef6b1f48"
+                    TAGREFS="LT4775"
+                    BASELINE="459 2708 3338 2724" 
+                    HPOS="455"
+                    VPOS="2640"
+                    WIDTH="2883"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="459 2708 455 2754 606 2779 611 2779 767 2762 1180 2783 1184 2788 3333 2788 3338 2724 3333 2644 459 2640 459 2708"/></Shape>
+	    <String CONTENT="i suicidi-che sinora secondo quanto mi risulta sono stati almeno tre-"
+                    HPOS="455"
+                    VPOS="2640"
+                    WIDTH="2883"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3d9f8e6"
+                    TAGREFS="LT4775"
+                    BASELINE="459 2842 3291 2842" 
+                    HPOS="459"
+                    VPOS="2775"
+                    WIDTH="2832"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="459 2842 459 2910 3283 2914 3291 2842 3287 2775 459 2775 459 2842"/></Shape>
+	    <String CONTENT="e, specie tra le donne, i casi di isterico nervosismo confinante con"
+                    HPOS="459"
+                    VPOS="2775"
+                    WIDTH="2832"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3bfdefda"
+                    TAGREFS="LT4775"
+                    BASELINE="455 2943 910 2952" 
+                    HPOS="450"
+                    VPOS="2884"
+                    WIDTH="460"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="455 2943 450 3028 906 3023 910 2952 906 2893 455 2884 455 2943"/></Shape>
+	    <String CONTENT="la pazzia."
+                    HPOS="450"
+                    VPOS="2884"
+                    WIDTH="460"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2c058e4"
+                    
+                    BASELINE="708 3218 3408 3233" 
+                    HPOS="699"
+                    VPOS="3146"
+                    WIDTH="2706"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="3401 3167 3359 3167 3317 3167 3274 3167 3232 3167 3190 3167 3148 3167 3106 3167 3064 3167 3022 3167 2979 3167 2937 3167 2895 3162 2853 3162 2811 3162 2769 3162 2727 3162 2684 3162 2642 3162 2600 3162 2558 3162 2516 3162 2474 3162 2431 3158 2389 3158 2347 3158 2305 3158 2263 3158 2221 3158 2179 3158 2136 3158 2094 3158 2052 3158 2010 3158 1968 3154 1926 3154 1884 3154 1841 3154 1799 3154 1757 3154 1715 3154 1673 3154 1631 3154 1589 3154 1546 3154 1504 3154 1462 3150 1420 3150 1378 3150 1336 3150 1293 3150 1251 3150 1209 3150 1167 3150 1125 3150 1083 3150 1041 3150 998 3146 956 3146 914 3146 872 3146 830 3146 788 3146 746 3146 703 3146 703 3217 699 3264 872 3293 876 3293 1500 3272 1542 3272 1546 3272 1597 3306 1601 3306 1605 3306 1610 3306 1614 3306 1719 3276 1833 3297 1837 3297 2415 3280 2431 3280 2520 3310 2524 3310 2528 3310 3401 3285 3405 3230 3401 3167 3401 3167"/></Shape>
+	    <String CONTENT="Secondo quanto vanno qui dicendo i Bulgari, l&#x27;eliminazione totale"
+                    HPOS="699"
+                    VPOS="3146"
+                    WIDTH="2706"
+                    HEIGHT="164"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73600d66"
+                    TAGREFS="LT4775"
+                    BASELINE="455 3344 3291 3365" 
+                    HPOS="450"
+                    VPOS="3251"
+                    WIDTH="2841"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="455 3344 450 3377 3283 3398 3291 3365 3291 3301 2617 3297 2613 3293 2516 3268 2512 3268 2507 3268 2503 3268 2406 3293 2402 3293 2398 3293 2368 3268 2368 3264 2364 3264 2360 3264 2356 3264 2254 3280 2149 3259 1981 3259 1976 3259 1972 3259 1968 3259 1968 3264 1938 3289 1934 3293 1593 3293 1572 3285 1483 3255 1479 3255 1475 3255 1361 3280 1344 3285 1306 3280 1024 3251 880 3251 876 3251 872 3251 868 3251 830 3276 821 3285 720 3285 712 3276 678 3251 674 3251 670 3251 665 3251 455 3272 455 3344"/></Shape>
+	    <String CONTENT="degli israeliti dalla Macedonia sarebbe stata chiesta dalla Germania"
+                    HPOS="450"
+                    VPOS="3251"
+                    WIDTH="2841"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d1cbdd0"
+                    TAGREFS="LT4775"
+                    BASELINE="450 3470 3392 3483" 
+                    HPOS="446"
+                    VPOS="3411"
+                    WIDTH="2946"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="450 3470 446 3504 3384 3529 3392 3483 3388 3419 450 3411 450 3470"/></Shape>
+	    <String CONTENT="per ragioni militari: è però indubbio che essi ne hanno fatto un ottimo"
+                    HPOS="446"
+                    VPOS="3411"
+                    WIDTH="2946"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f71cb0a2"
+                    TAGREFS="LT4775"
+                    BASELINE="459 3596 3392 3596" 
+                    HPOS="459"
+                    VPOS="3537"
+                    WIDTH="2933"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="459 3596 459 3647 1247 3647 1277 3672 1281 3672 1285 3672 1517 3689 1521 3693 3169 3693 3169 3689 3173 3689 3178 3689 3232 3651 3392 3647 3392 3596 3392 3537 459 3537 459 3596"/></Shape>
+	    <String CONTENT="grosso affare, che nell&#x27;eseguirla essi hanno dimostrato il più assoluto"
+                    HPOS="459"
+                    VPOS="3537"
+                    WIDTH="2933"
+                    HEIGHT="156"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5711aa1"
+                    TAGREFS="LT4775"
+                    BASELINE="459 3697 3253 3718" 
+                    HPOS="455"
+                    VPOS="3638"
+                    WIDTH="2798"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="459 3697 455 3735 3245 3756 3253 3718 3249 3659 459 3638 459 3697"/></Shape>
+	    <String CONTENT="disprezzo di ogni più elementare principio umanitario. Non esito ad"
+                    HPOS="455"
+                    VPOS="3638"
+                    WIDTH="2798"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0559e5d5"
+                    TAGREFS="LT4775"
+                    BASELINE="459 3819 3317 3841" 
+                    HPOS="455"
+                    VPOS="3765"
+                    WIDTH="2862"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="459 3819 455 3862 2174 3900 2179 3900 3312 3883 3317 3841 3312 3786 459 3765 459 3819"/></Shape>
+	    <String CONTENT="affermare che pochissime sono le persone presnti a Skopie I&#x27;ll marzo"
+                    HPOS="455"
+                    VPOS="3765"
+                    WIDTH="2862"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5234a5f3"
+                    TAGREFS="LT4775"
+                    BASELINE="459 3942 3355 3958" 
+                    HPOS="455"
+                    VPOS="3878"
+                    WIDTH="2900"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="459 3942 455 3980 3346 3996 3355 3958 3350 3900 459 3878 459 3942"/></Shape>
+	    <String CONTENT="che, vedendo il modo in cui le famiglie israelite venivano condotte al"
+                    HPOS="455"
+                    VPOS="3878"
+                    WIDTH="2900"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0207ff7"
+                    TAGREFS="LT4775"
+                    BASELINE="455 4060 3304 4081" 
+                    HPOS="450"
+                    VPOS="4001"
+                    WIDTH="2854"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="455 4060 450 4097 3296 4127 3304 4081 3300 4005 455 4001 455 4060"/></Shape>
+	    <String CONTENT="campo di concentramento, e apprendendo poi il trarramento loro fatto,"
+                    HPOS="450"
+                    VPOS="4001"
+                    WIDTH="2854"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9561f028"
+                    TAGREFS="LT4775"
+                    BASELINE="450 4177 3321 4203" 
+                    HPOS="446"
+                    VPOS="4102"
+                    WIDTH="2875"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="450 4177 446 4220 3312 4241 3321 4203 3317 4135 450 4102 450 4177"/></Shape>
+	    <String CONTENT="non hanno provato un senso di compassione per i colpiti e di profonda"
+                    HPOS="446"
+                    VPOS="4102"
+                    WIDTH="2875"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4e765e6"
+                    TAGREFS="LT4775"
+                    BASELINE="484 4291 3262 4312" 
+                    HPOS="480"
+                    VPOS="4228"
+                    WIDTH="2782"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="484 4291 480 4338 3253 4363 3262 4312 3258 4257 2802 4257 2786 4249 2710 4228 2705 4228 2701 4228 2339 4245 2233 4249 484 4228 484 4291"/></Shape>
+	    <String CONTENT="riprovazione per le autorità bulgare responsabili ed i loro agenti."
+                    HPOS="480"
+                    VPOS="4228"
+                    WIDTH="2782"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb1634d6"
+                    TAGREFS="LT4775"
+                    BASELINE="695 4413 3283 4434" 
+                    HPOS="691"
+                    VPOS="4359"
+                    WIDTH="2592"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="695 4413 691 4451 3274 4481 3283 4434 3279 4375 695 4359 695 4413"/></Shape>
+	    <String CONTENT="Circa la famiglia israelita italiana Modiano, e le famiglie di"
+                    HPOS="691"
+                    VPOS="4359"
+                    WIDTH="2592"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a1148d0"
+                    TAGREFS="LT4775"
+                    BASELINE="446 4527 3392 4561" 
+                    HPOS="442"
+                    VPOS="4439"
+                    WIDTH="2950"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="446 4527 442 4569 3384 4603 3392 4561 3392 4498 3342 4481 3338 4481 3333 4481 3140 4493 3043 4502 2996 4493 2891 4468 2887 4468 2882 4468 2823 4489 2790 4498 2659 4485 2571 4477 2566 4477 2507 4481 2389 4493 2351 4477 2309 4460 2305 4460 2301 4460 2056 4472 1791 4485 1698 4464 1673 4460 1669 4460 1664 4460 1652 4464 1563 4485 1340 4460 1336 4460 1201 4481 1015 4447 994 4447 990 4447 977 4447 838 4477 767 4443 762 4443 758 4443 446 4439 446 4527"/></Shape>
+	    <String CONTENT="israeliti pertinenti albanesi di Skopie condotte al campi di concentra-"
+                    HPOS="442"
+                    VPOS="4439"
+                    WIDTH="2950"
+                    HEIGHT="164"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0cb96c5b"
+                    TAGREFS="LT4775"
+                    BASELINE="446 4658 3308 4691" 
+                    HPOS="442"
+                    VPOS="4590"
+                    WIDTH="2866"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="446 4658 442 4691 3300 4729 3308 4691 3300 4611 2958 4628 2895 4607 2891 4607 446 4590 446 4658"/></Shape>
+	    <String CONTENT="mento, che sarebbero 9 con circa 25 membri, ho già riferito con tele-"
+                    HPOS="442"
+                    VPOS="4590"
+                    WIDTH="2866"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc21df83"
+                    TAGREFS="LT4775"
+                    BASELINE="450 4776 3426 4813" 
+                    HPOS="450"
+                    VPOS="4700"
+                    WIDTH="2976"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="450 4776 450 4839 1437 4839 1563 4847 1829 4868 1833 4868 2010 4851 2052 4847 2061 4851 2094 4872 2099 4872 2103 4872 2107 4872 2743 4860 3097 4885 3102 4889 3388 4889 3388 4885 3392 4885 3397 4885 3422 4860 3426 4813 3426 4750 2941 4725 2937 4725 2495 4738 2431 4738 2423 4738 2368 4717 2364 4717 2360 4717 2124 4733 2103 4733 2094 4733 2010 4712 2006 4712 2002 4712 1475 4725 1441 4725 1437 4725 1361 4704 1357 4704 1352 4704 1239 4721 1095 4700 1091 4700 450 4712 450 4776"/></Shape>
+	    <String CONTENT="gramma N.409/88 del I4 marzo corrente, e mi riservo di riferire ulterior"
+                    HPOS="450"
+                    VPOS="4700"
+                    WIDTH="2976"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51b9c2e8"
+                    TAGREFS="LT4775"
+                    BASELINE="450 4889 734 4889" 
+                    HPOS="446"
+                    VPOS="4826"
+                    WIDTH="287"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="446 4885 446 4957 733 4927 733 4885 733 4830 446 4826 446 4885"/></Shape>
+	    <String CONTENT="mente"
+                    HPOS="446"
+                    VPOS="4826"
+                    WIDTH="287"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

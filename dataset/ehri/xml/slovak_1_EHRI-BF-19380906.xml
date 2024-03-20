@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>slovak_1_EHRI-BF-19380906.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4775" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3860"
+          HEIGHT="5304"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3860"
+                  HEIGHT="5304">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3a8b78c2"
+                    TAGREFS="LT4775"
+                    BASELINE="1193 1511 2621 1502" 
+                    HPOS="1189"
+                    VPOS="1401"
+                    WIDTH="1432"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="1193 1511 1193 1551 2621 1542 2621 1502 2613 1432 2259 1401 2254 1401 1985 1427 1914 1401 1910 1401 1905 1401 1901 1401 1786 1427 1494 1405 1490 1405 1485 1405 1423 1436 1189 1436 1193 1511"/></Shape>
+	    <String CONTENT="Prezídiu ministerstva vnútra"
+                    HPOS="1189"
+                    VPOS="1401"
+                    WIDTH="1432"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11106342"
+                    TAGREFS="LT4775"
+                    BASELINE="2661 1675 3404 1675" 
+                    HPOS="2661"
+                    VPOS="1595"
+                    WIDTH="743"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="2661 1675 2661 1706 2714 1732 2719 1732 2723 1732 2728 1732 2772 1710 2834 1732 2838 1732 2843 1732 2847 1732 2896 1714 2904 1710 2909 1714 2931 1732 2935 1732 2940 1732 2944 1732 2949 1732 2993 1719 3015 1710 3033 1719 3064 1732 3068 1732 3072 1732 3077 1732 3099 1719 3117 1710 3130 1723 3143 1732 3148 1732 3152 1732 3156 1732 3214 1723 3302 1710 3400 1728 3404 1675 3404 1613 2661 1595 2661 1675"/></Shape>
+	    <String CONTENT="v P r a h e ."
+                    HPOS="2661"
+                    VPOS="1595"
+                    WIDTH="743"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af522798"
+                    TAGREFS="LT4775"
+                    BASELINE="1096 1944 3515 1922" 
+                    HPOS="1092"
+                    VPOS="1825"
+                    WIDTH="2423"
+                    HEIGHT="199">
+            <Shape><Polygon POINTS="1096 1944 1096 1997 1569 2024 1574 2024 1737 1997 1768 1993 1817 1997 2056 2015 2060 2015 2334 1993 2400 1989 2423 1993 2515 2015 2520 2015 2524 2015 2714 1989 2776 1984 2812 1989 2913 2011 2918 2011 2922 2011 2975 1989 2993 1984 3059 1989 3258 2006 3263 2006 3510 1984 3515 1922 3506 1851 3271 1825 3267 1825 3263 1825 3258 1825 3258 1829 3232 1851 3232 1856 3134 1856 3134 1851 3046 1825 3042 1825 3037 1825 2754 1856 2736 1856 2723 1856 2502 1834 2498 1834 2493 1834 2414 1860 2405 1860 2369 1860 2109 1843 2104 1843 1857 1865 1834 1865 1817 1865 1587 1838 1582 1838 1578 1838 1525 1869 1516 1874 1092 1874 1096 1944"/></Shape>
+	    <String CONTENT="Krajinský úrad oznamuje podľa zprávy policajného"
+                    HPOS="1092"
+                    VPOS="1825"
+                    WIDTH="2423"
+                    HEIGHT="199"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e09ccda7"
+                    TAGREFS="LT4775"
+                    BASELINE="694 2126 3523 2099" 
+                    HPOS="689"
+                    VPOS="1993"
+                    WIDTH="2834"
+                    HEIGHT="177">
+            <Shape><Polygon POINTS="694 2126 694 2170 3519 2161 3523 2099 3510 2028 3134 2028 3130 2024 3095 1997 3095 1993 3090 1993 3086 1993 3081 1993 3077 1993 2997 2024 2971 2033 2922 2024 2807 2002 2803 2002 2661 2024 2568 2037 2484 2024 2409 2011 2405 2011 2400 2011 2396 2011 2378 2024 2356 2037 2325 2024 2299 2011 2294 2011 2290 2011 2184 2024 2157 2024 2153 2024 2131 2002 2126 2002 2122 2002 2117 2002 1750 2006 1746 2006 1719 2019 1693 2037 1675 2019 1671 2015 1666 2015 1662 2015 1158 2011 1154 2011 1149 2011 1145 2011 1136 2019 1109 2042 1092 2028 1092 2024 1087 2024 1083 2024 1078 2024 1074 2024 1070 2024 1039 2055 924 2055 689 2019 694 2126"/></Shape>
+	    <String CONTENT="riaditeľstva v Bratislave, že dňa 17. augusta 1938 o 0.50"
+                    HPOS="689"
+                    VPOS="1993"
+                    WIDTH="2834"
+                    HEIGHT="177"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_439ed149"
+                    TAGREFS="LT4775"
+                    BASELINE="694 2298 3616 2276" 
+                    HPOS="689"
+                    VPOS="2192"
+                    WIDTH="2927"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="694 2298 694 2342 3616 2333 3616 2276 3603 2205 2776 2214 2741 2214 2542 2192 2537 2192 2533 2192 2529 2192 2493 2214 2489 2218 2188 2218 2175 2218 2064 2196 2060 2196 2056 2196 1985 2218 1870 2196 1865 2196 1423 2201 1419 2201 1414 2201 1388 2223 1282 2201 1277 2201 1154 2227 1052 2210 1047 2210 689 2232 694 2298"/></Shape>
+	    <String CONTENT="stal sa neďaleko československo-nemeckých hraníc na pravom"
+                    HPOS="689"
+                    VPOS="2192"
+                    WIDTH="2927"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fe16a22"
+                    TAGREFS="LT4775"
+                    BASELINE="694 2470 3603 2448" 
+                    HPOS="689"
+                    VPOS="2382"
+                    WIDTH="2914"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="694 2470 694 2519 3599 2510 3603 2448 3590 2382 689 2404 694 2470"/></Shape>
+	    <String CONTENT="brehu Dunaja pokus ilegálneho prekročenia hraníc so strany"
+                    HPOS="689"
+                    VPOS="2382"
+                    WIDTH="2914"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1158ab60"
+                    TAGREFS="LT4775"
+                    BASELINE="694 2647 3470 2621" 
+                    HPOS="689"
+                    VPOS="2559"
+                    WIDTH="2781"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="694 2647 694 2691 3466 2674 3470 2621 3457 2559 689 2563 694 2647"/></Shape>
+	    <String CONTENT="Pavla Kastnera, narodeného dňa 25. marca 1891 v"
+                    HPOS="689"
+                    VPOS="2559"
+                    WIDTH="2781"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1153265"
+                    TAGREFS="LT4775"
+                    BASELINE="694 2815 3572 2797" 
+                    HPOS="689"
+                    VPOS="2727"
+                    WIDTH="2883"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="694 2815 694 2868 1074 2868 1114 2890 1118 2890 1123 2890 1127 2890 1131 2890 1184 2864 1189 2864 1344 2886 1348 2886 1512 2864 1565 2890 1569 2890 1574 2890 1737 2859 1750 2855 2312 2855 2321 2855 2374 2890 2378 2890 2383 2890 2387 2895 2851 2895 2851 2890 3112 2855 3280 2873 3285 2873 3568 2846 3572 2797 3563 2727 1414 2727 1410 2727 1406 2727 1401 2727 1401 2731 1383 2749 1379 2753 689 2753 694 2815"/></Shape>
+	    <String CONTENT="Moravskej Ostrave, príslušného do Viedne, náboženstva ži-"
+                    HPOS="689"
+                    VPOS="2727"
+                    WIDTH="2883"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b085fe8"
+                    TAGREFS="LT4775"
+                    BASELINE="698 2996 3572 2974" 
+                    HPOS="694"
+                    VPOS="2895"
+                    WIDTH="2878"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="698 2996 698 3045 3568 3040 3572 2974 3563 2917 3121 2895 3117 2895 2993 2917 2984 2917 2953 2917 2507 2899 2502 2899 2330 2921 2308 2921 2250 2921 1848 2903 1843 2903 1839 2903 1803 2921 1790 2930 694 2930 698 2996"/></Shape>
+	    <String CONTENT="dovského, zamestnaním technika, naposledy bytom vo Viedni"
+                    HPOS="694"
+                    VPOS="2895"
+                    WIDTH="2878"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ab1aae0"
+                    TAGREFS="LT4775"
+                    BASELINE="698 3173 3572 3151" 
+                    HPOS="694"
+                    VPOS="3085"
+                    WIDTH="2878"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="698 3173 698 3222 3568 3213 3572 3151 3563 3085 729 3085 725 3085 720 3085 716 3085 694 3098 698 3173"/></Shape>
+	    <String CONTENT="VIII. okres, Josefstädterstrasse č. 29, ktorému pri tom na-"
+                    HPOS="694"
+                    VPOS="3085"
+                    WIDTH="2878"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d679ad6"
+                    TAGREFS="LT4775"
+                    BASELINE="698 3345 3612 3319" 
+                    HPOS="694"
+                    VPOS="3253"
+                    WIDTH="2918"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="698 3345 698 3407 2219 3385 2228 3390 2263 3421 2263 3425 2268 3425 2272 3425 2277 3425 3493 3416 3497 3416 3612 3372 3612 3319 3599 3253 694 3275 698 3345"/></Shape>
+	    <String CONTENT="pomáhal Nikola Novakov, 25 ročný bulharský štátny prísluš-"
+                    HPOS="694"
+                    VPOS="3253"
+                    WIDTH="2918"
+                    HEIGHT="172"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3895fb3"
+                    TAGREFS="LT4775"
+                    BASELINE="698 3527 3616 3505" 
+                    HPOS="694"
+                    VPOS="3421"
+                    WIDTH="2922"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="698 3527 698 3566 3616 3549 3616 3505 3607 3443 3033 3421 3028 3421 3024 3421 2971 3443 1313 3434 1308 3434 1304 3434 1207 3456 760 3438 756 3438 751 3438 694 3456 698 3527"/></Shape>
+	    <String CONTENT="ník, zahradník, bytom vo Wolfsthal, Nemecko. Pokus sa ne-"
+                    HPOS="694"
+                    VPOS="3421"
+                    WIDTH="2922"
+                    HEIGHT="145"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5dfa3f9b"
+                    TAGREFS="LT4775"
+                    BASELINE="703 3703 3554 3677" 
+                    HPOS="698"
+                    VPOS="3602"
+                    WIDTH="2856"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="703 3703 703 3752 3550 3743 3554 3677 3546 3606 2126 3602 2122 3602 2117 3602 2113 3602 2113 3606 2109 3606 2095 3624 2082 3624 1972 3606 1967 3606 1675 3628 1635 3628 1596 3628 1215 3611 1211 3611 1207 3611 1202 3611 1167 3633 1154 3633 817 3615 813 3615 698 3637 703 3703"/></Shape>
+	    <String CONTENT="zdaril, nakoľka zasiahla československá pohraničná stráž,"
+                    HPOS="698"
+                    VPOS="3602"
+                    WIDTH="2856"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04d78cc2"
+                    TAGREFS="LT4775"
+                    BASELINE="698 3876 3621 3858" 
+                    HPOS="694"
+                    VPOS="3792"
+                    WIDTH="2927"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="698 3876 698 3929 3621 3911 3621 3858 3612 3796 694 3792 698 3876"/></Shape>
+	    <String CONTENT="ktorá menovaných perlustrovala. Pri perlustrácii v nestre-"
+                    HPOS="694"
+                    VPOS="3792"
+                    WIDTH="2927"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf6bbea6"
+                    TAGREFS="LT4775"
+                    BASELINE="698 4048 3585 4031" 
+                    HPOS="694"
+                    VPOS="3964"
+                    WIDTH="2891"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="698 4048 698 4092 3585 4070 3585 4031 3572 3964 694 3978 698 4048"/></Shape>
+	    <String CONTENT="ženom okamžiku použil Pavel Kastner neznámeho jedu, na čo"
+                    HPOS="694"
+                    VPOS="3964"
+                    WIDTH="2891"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a358573"
+                    TAGREFS="LT4775"
+                    BASELINE="698 4225 1644 4216" 
+                    HPOS="694"
+                    VPOS="4132"
+                    WIDTH="950"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="698 4225 698 4265 1105 4287 1109 4287 1644 4260 1644 4216 1635 4154 1167 4132 1162 4132 1158 4132 1114 4154 844 4137 840 4137 694 4159 698 4225"/></Shape>
+	    <String CONTENT="za 5 minút zomrel."
+                    HPOS="694"
+                    VPOS="4132"
+                    WIDTH="950"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2c232e6"
+                    TAGREFS="LT4775"
+                    BASELINE="1100 4393 3444 4380" 
+                    HPOS="1096"
+                    VPOS="4318"
+                    WIDTH="2348"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="1100 4393 1100 4446 3439 4433 3444 4380 3431 4318 1096 4327 1100 4393"/></Shape>
+	    <String CONTENT="Nikola Novakov, ktorého policajné riaditeľstvo"
+                    HPOS="1096"
+                    VPOS="4318"
+                    WIDTH="2348"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b84809be"
+                    TAGREFS="LT4775"
+                    BASELINE="698 4583 3630 4565" 
+                    HPOS="694"
+                    VPOS="4499"
+                    WIDTH="2936"
+                    HEIGHT="177">
+            <Shape><Polygon POINTS="698 4583 698 4636 1109 4636 1180 4671 1184 4671 1189 4676 1189 4671 1193 4671 1264 4636 1401 4671 1406 4671 1410 4671 1574 4636 1600 4632 1666 4632 1671 4636 1706 4663 1706 4667 1711 4667 1715 4667 1719 4671 1861 4671 1861 4667 1865 4667 1936 4636 1949 4632 1958 4636 2033 4663 2038 4663 2042 4663 2047 4663 2051 4663 2095 4636 2100 4636 2197 4663 2201 4663 2206 4663 2210 4663 2277 4636 2294 4632 2312 4636 2392 4658 2396 4658 2400 4658 2405 4658 2409 4658 2436 4636 2449 4627 2484 4636 2573 4663 2577 4663 2582 4663 2586 4663 2666 4636 2701 4627 2922 4627 2958 4636 3024 4658 3028 4658 3033 4663 3267 4663 3267 4658 3271 4658 3320 4636 3355 4623 3378 4636 3409 4658 3413 4658 3417 4658 3422 4658 3630 4636 3630 4565 3616 4499 694 4499 698 4583"/></Shape>
+	    <String CONTENT="v Bratislave pre ilegálne prekročenie štátnej hranice odsú-"
+                    HPOS="694"
+                    VPOS="4499"
+                    WIDTH="2936"
+                    HEIGHT="177"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

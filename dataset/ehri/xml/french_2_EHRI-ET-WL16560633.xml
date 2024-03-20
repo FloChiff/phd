@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>french_2_EHRI-ET-WL16560633.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4775" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="827"
+          HEIGHT="1001"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="827"
+                  HEIGHT="1001">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b9afd7e4"
+                    TAGREFS="LT4775"
+                    BASELINE="399 85 457 87" 
+                    HPOS="398"
+                    VPOS="68"
+                    WIDTH="58"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="398 84 398 91 417 99 418 99 418 99 455 93 456 86 456 69 398 68 398 84"/></Shape>
+	    <String CONTENT="- 3 -"
+                    HPOS="398"
+                    VPOS="68"
+                    WIDTH="58"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00798dd0"
+                    TAGREFS="LT4775"
+                    BASELINE="156 150 675 149" 
+                    HPOS="156"
+                    VPOS="131"
+                    WIDTH="519"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="156 150 156 159 675 157 675 149 674 135 638 131 637 131 636 131 626 135 617 138 566 138 564 135 561 133 561 132 560 132 559 132 559 132 558 132 557 132 554 135 551 138 453 138 441 135 416 131 415 131 373 132 372 132 371 132 367 135 363 139 313 139 307 136 297 133 297 133 296 133 295 133 288 136 284 138 278 136 267 132 266 132 265 132 264 132 256 136 252 138 241 136 215 132 214 132 213 132 204 136 201 138 156 137 156 150"/></Shape>
+	    <String CONTENT="Quant à l’alimentation, les hommes recevaient un pain de 900"
+                    HPOS="156"
+                    VPOS="131"
+                    WIDTH="519"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f09eb430"
+                    TAGREFS="LT4775"
+                    BASELINE="114 168 733 166" 
+                    HPOS="113"
+                    VPOS="155"
+                    WIDTH="620"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="114 168 114 177 732 177 733 166 731 156 113 155 114 168"/></Shape>
+	    <String CONTENT="grammes, soit 225 grammes par hommes, chaque jour. A midi et le soir,"
+                    HPOS="113"
+                    VPOS="155"
+                    WIDTH="620"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd9f2fee"
+                    TAGREFS="LT4775"
+                    BASELINE="115 184 736 184" 
+                    HPOS="115"
+                    VPOS="172"
+                    WIDTH="621"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="115 184 115 192 736 192 736 184 736 172 115 172 115 184"/></Shape>
+	    <String CONTENT="de la soupe chaude. Le matin un liquide noirâtre appelé café, avec un"
+                    HPOS="115"
+                    VPOS="172"
+                    WIDTH="621"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7a1838e"
+                    TAGREFS="LT4775"
+                    BASELINE="114 198 692 200" 
+                    HPOS="114"
+                    VPOS="187"
+                    WIDTH="578"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="114 198 114 208 691 206 692 200 691 189 114 187 114 198"/></Shape>
+	    <String CONTENT="peu de saccharine. Le soir chacun s’endormait de fatigue. Toute"
+                    HPOS="114"
+                    VPOS="187"
+                    WIDTH="578"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b562cf06"
+                    TAGREFS="LT4775"
+                    BASELINE="114 216 665 214" 
+                    HPOS="113"
+                    VPOS="202"
+                    WIDTH="552"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="114 216 114 225 664 226 665 214 663 202 113 203 114 216"/></Shape>
+	    <String CONTENT="conversation était interdite. Il n’y avait aucune possibilité"
+                    HPOS="113"
+                    VPOS="202"
+                    WIDTH="552"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0eb6c8c5"
+                    TAGREFS="LT4775"
+                    BASELINE="115 230 196 231" 
+                    HPOS="114"
+                    VPOS="219"
+                    WIDTH="82"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="115 230 114 239 194 240 196 231 195 220 115 219 115 230"/></Shape>
+	    <String CONTENT="d’écrire."
+                    HPOS="114"
+                    VPOS="219"
+                    WIDTH="82"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a618b9e"
+                    TAGREFS="LT4775"
+                    BASELINE="156 261 703 262" 
+                    HPOS="156"
+                    VPOS="246"
+                    WIDTH="547"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="156 261 156 269 701 270 703 262 701 250 480 251 466 247 460 246 459 246 453 247 435 251 376 247 352 246 351 246 350 246 347 246 340 250 327 246 323 246 322 246 322 246 316 246 299 250 292 246 290 246 289 246 288 246 283 246 263 250 246 246 243 246 242 246 237 246 201 250 156 246 156 261"/></Shape>
+	    <String CONTENT="Notre informateur travailla comme tousles autres très durement"
+                    HPOS="156"
+                    VPOS="246"
+                    WIDTH="547"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4528762"
+                    TAGREFS="LT4775"
+                    BASELINE="114 280 746 278" 
+                    HPOS="113"
+                    VPOS="266"
+                    WIDTH="633"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="114 280 114 288 745 285 746 278 744 267 113 266 114 280"/></Shape>
+	    <String CONTENT="pendant une semaine. Ensuite, un des conducteurs d’auto allemand ayant"
+                    HPOS="113"
+                    VPOS="266"
+                    WIDTH="633"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31e1cae5"
+                    TAGREFS="LT4775"
+                    BASELINE="115 296 709 294" 
+                    HPOS="114"
+                    VPOS="284"
+                    WIDTH="595"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="115 296 115 303 708 301 709 294 706 284 114 285 115 296"/></Shape>
+	    <String CONTENT="disparu, l’un des officiers surveillants demanda si quelqu’un savait"
+                    HPOS="114"
+                    VPOS="284"
+                    WIDTH="595"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d2b72d5"
+                    TAGREFS="LT4775"
+                    BASELINE="114 311 753 311" 
+                    HPOS="114"
+                    VPOS="298"
+                    WIDTH="639"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="114 311 114 318 752 320 753 311 752 298 114 300 114 311"/></Shape>
+	    <String CONTENT="conduire. Ayant travaillé danslesusines Ford à Bruxelles, notre réfugié"
+                    HPOS="114"
+                    VPOS="298"
+                    WIDTH="639"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f4284a7"
+                    TAGREFS="LT4775"
+                    BASELINE="114 327 706 327" 
+                    HPOS="114"
+                    VPOS="316"
+                    WIDTH="592"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="114 327 114 337 706 337 706 327 706 316 114 316 114 327"/></Shape>
+	    <String CONTENT="fut choisi et conduisit désormaisla voiture de cet officer, l’accom-"
+                    HPOS="114"
+                    VPOS="316"
+                    WIDTH="592"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0455e59"
+                    TAGREFS="LT4775"
+                    BASELINE="114 344 710 342" 
+                    HPOS="113"
+                    VPOS="332"
+                    WIDTH="597"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="114 344 114 354 177 350 708 350 710 342 707 332 113 333 114 344"/></Shape>
+	    <String CONTENT="pagnant dans toutes ses tournées. Un contact sympathique s’établit"
+                    HPOS="113"
+                    VPOS="332"
+                    WIDTH="597"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_930baba8"
+                    TAGREFS="LT4775"
+                    BASELINE="114 358 702 360" 
+                    HPOS="113"
+                    VPOS="347"
+                    WIDTH="589"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="114 358 113 365 389 369 390 369 391 369 399 365 407 370 408 370 408 370 409 370 481 366 497 370 498 370 499 371 570 371 570 370 571 370 584 366 665 370 666 370 667 370 678 366 692 370 693 370 694 370 695 370 695 370 701 365 702 360 701 348 114 347 114 358"/></Shape>
+	    <String CONTENT="entre eux et l’officer s’exprima librement devant lui. C’était un"
+                    HPOS="113"
+                    VPOS="347"
+                    WIDTH="589"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d71d1f14"
+                    TAGREFS="LT4775"
+                    BASELINE="115 376 744 374" 
+                    HPOS="114"
+                    VPOS="364"
+                    WIDTH="630"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="115 376 115 383 743 382 744 374 741 364 114 365 115 376"/></Shape>
+	    <String CONTENT="jeune officier allemand d’environ 25ans. D&#x27;origine bavaroise, il avait"
+                    HPOS="114"
+                    VPOS="364"
+                    WIDTH="630"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e98016de"
+                    TAGREFS="LT4775"
+                    BASELINE="115 392 709 392" 
+                    HPOS="115"
+                    VPOS="381"
+                    WIDTH="594"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="115 392 115 399 709 398 709 392 708 381 115 381 115 392"/></Shape>
+	    <String CONTENT="déjà gagné trois étoiles; il avait perdu deux frères à la guerre et"
+                    HPOS="115"
+                    VPOS="381"
+                    WIDTH="594"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7fadc2a"
+                    TAGREFS="LT4775"
+                    BASELINE="114 407 681 406" 
+                    HPOS="113"
+                    VPOS="393"
+                    WIDTH="568"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="114 407 114 415 680 415 681 406 679 393 113 395 114 407"/></Shape>
+	    <String CONTENT="laissait derrière lui une jeune femme et un petit enfant. Il se"
+                    HPOS="113"
+                    VPOS="393"
+                    WIDTH="568"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e6b3df4"
+                    TAGREFS="LT4775"
+                    BASELINE="114 423 735 422" 
+                    HPOS="113"
+                    VPOS="412"
+                    WIDTH="622"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="114 423 114 435 734 430 735 422 732 412 113 412 114 423"/></Shape>
+	    <String CONTENT="déclarait complètement dégoûté par la guerre et tout ce qui s’y rappor-"
+                    HPOS="113"
+                    VPOS="412"
+                    WIDTH="622"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d290cbb4"
+                    TAGREFS="LT4775"
+                    BASELINE="114 437 665 440" 
+                    HPOS="113"
+                    VPOS="427"
+                    WIDTH="552"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="114 437 113 444 664 447 665 440 665 427 114 427 114 437"/></Shape>
+	    <String CONTENT="tait. Il était d’avis quela guerre était perdue et ne pouvait"
+                    HPOS="113"
+                    VPOS="427"
+                    WIDTH="552"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1059c99"
+                    TAGREFS="LT4775"
+                    BASELINE="114 456 658 454" 
+                    HPOS="113"
+                    VPOS="444"
+                    WIDTH="545"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="114 456 114 466 657 462 658 454 656 444 113 444 114 456"/></Shape>
+	    <String CONTENT="supporter l’idée de tout ce qu’on avait fait et faisait encore"
+                    HPOS="113"
+                    VPOS="444"
+                    WIDTH="545"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea3c36cf"
+                    TAGREFS="LT4775"
+                    BASELINE="114 472 256 471" 
+                    HPOS="113"
+                    VPOS="460"
+                    WIDTH="143"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="114 472 114 482 256 482 256 471 253 460 113 460 114 472"/></Shape>
+	    <String CONTENT="subir aux Juifs."
+                    HPOS="113"
+                    VPOS="460"
+                    WIDTH="143"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b8d2e98"
+                    TAGREFS="LT4775"
+                    BASELINE="155 501 736 503" 
+                    HPOS="154"
+                    VPOS="487"
+                    WIDTH="582"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="155 501 154 508 735 511 736 503 735 487 155 488 155 501"/></Shape>
+	    <String CONTENT="C&#x27;est de cet officier que notre réfugié eut des renseignements qui"
+                    HPOS="154"
+                    VPOS="487"
+                    WIDTH="582"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c20edcfa"
+                    TAGREFS="LT4775"
+                    BASELINE="113 519 684 519" 
+                    HPOS="113"
+                    VPOS="508"
+                    WIDTH="571"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="113 519 113 528 684 526 684 519 683 508 113 508 113 519"/></Shape>
+	    <String CONTENT="suivent. Ayant demandé ce qu’il était advenu du groupe de Juifs"
+                    HPOS="113"
+                    VPOS="508"
+                    WIDTH="571"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be54d353"
+                    TAGREFS="LT4775"
+                    BASELINE="113 535 731 535" 
+                    HPOS="113"
+                    VPOS="523"
+                    WIDTH="618"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="113 535 113 543 729 545 731 535 730 525 113 523 113 535"/></Shape>
+	    <String CONTENT="arrivé avec le sien et qui s’étaient déclarés incapables de travailler,"
+                    HPOS="113"
+                    VPOS="523"
+                    WIDTH="618"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdf53108"
+                    TAGREFS="LT4775"
+                    BASELINE="114 550 673 550" 
+                    HPOS="114"
+                    VPOS="540"
+                    WIDTH="559"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="114 550 114 558 673 558 673 550 673 540 114 540 114 550"/></Shape>
+	    <String CONTENT="l’officer répondit qu’ils avaient tous été exécutés et il ajouta"
+                    HPOS="114"
+                    VPOS="540"
+                    WIDTH="559"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bb5e32e"
+                    TAGREFS="LT4775"
+                    BASELINE="114 566 674 568" 
+                    HPOS="113"
+                    VPOS="555"
+                    WIDTH="561"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="114 566 113 573 672 574 674 568 673 556 114 555 114 566"/></Shape>
+	    <String CONTENT="que c’était le sort de tous ceux qui, épuisés, ne pouvaient plus"
+                    HPOS="113"
+                    VPOS="555"
+                    WIDTH="561"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f29ddf2"
+                    TAGREFS="LT4775"
+                    BASELINE="114 581 719 583" 
+                    HPOS="113"
+                    VPOS="571"
+                    WIDTH="606"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="114 581 113 591 717 593 719 583 718 572 114 571 114 581"/></Shape>
+	    <String CONTENT="travailler. L&#x27;officier était malheureux de cet état de choses, mais"
+                    HPOS="113"
+                    VPOS="571"
+                    WIDTH="606"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1915e917"
+                    TAGREFS="LT4775"
+                    BASELINE="114 599 694 599" 
+                    HPOS="114"
+                    VPOS="587"
+                    WIDTH="580"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="114 599 114 606 694 605 694 599 694 589 114 587 114 599"/></Shape>
+	    <String CONTENT="ne pouvait rien pour l’empêcher. Notre réfugié le pria de ne pas"
+                    HPOS="114"
+                    VPOS="587"
+                    WIDTH="580"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c169e80"
+                    TAGREFS="LT4775"
+                    BASELINE="115 615 700 615" 
+                    HPOS="115"
+                    VPOS="604"
+                    WIDTH="585"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="115 615 115 623 700 623 700 615 700 604 115 604 115 615"/></Shape>
+	    <String CONTENT="harceler constamment les Juifs au travail, mais l’officier expliqua"
+                    HPOS="115"
+                    VPOS="604"
+                    WIDTH="585"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d5864db"
+                    TAGREFS="LT4775"
+                    BASELINE="115 631 709 631" 
+                    HPOS="115"
+                    VPOS="618"
+                    WIDTH="594"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="115 631 115 638 708 640 709 631 708 618 115 620 115 631"/></Shape>
+	    <String CONTENT="qu’il y était contraint, parce qu’on exigeait de lui qu’une quantité"
+                    HPOS="115"
+                    VPOS="618"
+                    WIDTH="594"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d70aab5f"
+                    TAGREFS="LT4775"
+                    BASELINE="114 648 542 648" 
+                    HPOS="114"
+                    VPOS="638"
+                    WIDTH="428"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="114 648 114 654 158 659 159 659 196 655 203 655 541 658 542 648 542 638 114 638 114 648"/></Shape>
+	    <String CONTENT="déterminée de travail soit accomplie chaque jour."
+                    HPOS="114"
+                    VPOS="638"
+                    WIDTH="428"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_082bfc64"
+                    TAGREFS="LT4775"
+                    BASELINE="156 679 689 679" 
+                    HPOS="156"
+                    VPOS="666"
+                    WIDTH="533"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="156 679 156 686 688 688 689 679 689 668 156 666 156 679"/></Shape>
+	    <String CONTENT="Comme moyens d’exterminer les Juifs incapables de travailler,"
+                    HPOS="156"
+                    VPOS="666"
+                    WIDTH="533"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ef3f581"
+                    TAGREFS="LT4775"
+                    BASELINE="113 693 735 695" 
+                    HPOS="112"
+                    VPOS="679"
+                    WIDTH="623"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="113 693 112 700 733 703 735 695 735 682 113 679 113 693"/></Shape>
+	    <String CONTENT="l’officier indiqua qu’ils étaient collés au mur et fusillés ou, lorsque"
+                    HPOS="112"
+                    VPOS="679"
+                    WIDTH="623"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9e804a9"
+                    TAGREFS="LT4775"
+                    BASELINE="113 712 712 710" 
+                    HPOS="112"
+                    VPOS="700"
+                    WIDTH="600"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="113 712 113 723 711 722 712 710 710 700 112 700 113 712"/></Shape>
+	    <String CONTENT="ce moyen ne pouvait être employé, qu’on empoisonnait leur nourriture."
+                    HPOS="112"
+                    VPOS="700"
+                    WIDTH="600"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_238b64dd"
+                    TAGREFS="LT4775"
+                    BASELINE="156 741 740 744" 
+                    HPOS="155"
+                    VPOS="728"
+                    WIDTH="585"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="156 741 155 748 738 750 740 744 740 729 156 728 156 741"/></Shape>
+	    <String CONTENT="Notre homme vécut pendant une quinzaine de jours avec cet officier,"
+                    HPOS="155"
+                    VPOS="728"
+                    WIDTH="585"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7af3395"
+                    TAGREFS="LT4775"
+                    BASELINE="114 758 679 759" 
+                    HPOS="113"
+                    VPOS="747"
+                    WIDTH="566"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="114 758 113 764 677 769 679 759 678 748 114 747 114 758"/></Shape>
+	    <String CONTENT="dont la conduite fut celle d’un gentleman. Au bout de ce temps,"
+                    HPOS="113"
+                    VPOS="747"
+                    WIDTH="566"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0bc56715"
+                    TAGREFS="LT4775"
+                    BASELINE="114 773 742 774" 
+                    HPOS="113"
+                    VPOS="761"
+                    WIDTH="629"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="114 773 113 780 741 782 742 774 741 764 114 761 114 773"/></Shape>
+	    <String CONTENT="l’officier lui annonça qu’une chance très rare se présentait pour lui de"
+                    HPOS="113"
+                    VPOS="761"
+                    WIDTH="629"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_755a9b61"
+                    TAGREFS="LT4775"
+                    BASELINE="114 789 726 791" 
+                    HPOS="113"
+                    VPOS="778"
+                    WIDTH="613"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="114 789 113 796 724 799 726 791 725 780 114 778 114 789"/></Shape>
+	    <String CONTENT="fuite. Tous les deux ou trois mois, un train partait vers l’ouest et"
+                    HPOS="113"
+                    VPOS="778"
+                    WIDTH="613"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b5c1aab"
+                    TAGREFS="LT4775"
+                    BASELINE="115 807 742 807" 
+                    HPOS="115"
+                    VPOS="794"
+                    WIDTH="627"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="115 807 115 814 741 816 742 807 742 797 115 794 115 807"/></Shape>
+	    <String CONTENT="le lendemain était précisément jour de départ . L&#x27;officier insista pour"
+                    HPOS="115"
+                    VPOS="794"
+                    WIDTH="627"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e4b4252"
+                    TAGREFS="LT4775"
+                    BASELINE="114 823 741 823" 
+                    HPOS="114"
+                    VPOS="812"
+                    WIDTH="627"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="114 823 114 830 741 832 741 823 741 813 114 812 114 823"/></Shape>
+	    <String CONTENT="qu’il saisisse une occasion que ne se représenterait plus. Il l’intro-"
+                    HPOS="114"
+                    VPOS="812"
+                    WIDTH="627"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b63441f"
+                    TAGREFS="LT4775"
+                    BASELINE="115 838 740 840" 
+                    HPOS="115"
+                    VPOS="827"
+                    WIDTH="625"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="115 838 115 845 738 850 740 840 739 828 115 827 115 838"/></Shape>
+	    <String CONTENT="duisit lui-même dans un wagon de marchandises plein de colis et de sacs,"
+                    HPOS="115"
+                    VPOS="827"
+                    WIDTH="625"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26c5b83f"
+                    TAGREFS="LT4775"
+                    BASELINE="115 853 759 856" 
+                    HPOS="115"
+                    VPOS="842"
+                    WIDTH="644"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="115 853 115 865 758 865 759 856 759 843 115 842 115 853"/></Shape>
+	    <String CONTENT="il lui donna d’amples provisions (pain, conserves, etc.) pour le voyage et"
+                    HPOS="115"
+                    VPOS="842"
+                    WIDTH="644"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3bd0fba"
+                    TAGREFS="LT4775"
+                    BASELINE="115 870 750 871" 
+                    HPOS="114"
+                    VPOS="858"
+                    WIDTH="636"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="115 870 114 877 748 880 750 871 749 860 115 858 115 870"/></Shape>
+	    <String CONTENT="2 Reichsmarks (monnaie d’occupation). Il lui dit d’être sans crainte au"
+                    HPOS="114"
+                    VPOS="858"
+                    WIDTH="636"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0df48f64"
+                    TAGREFS="LT4775"
+                    BASELINE="115 885 732 888" 
+                    HPOS="114"
+                    VPOS="875"
+                    WIDTH="618"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="115 885 114 892 731 895 732 888 731 877 115 875 115 885"/></Shape>
+	    <String CONTENT="sujet de son uniforme et que ces uniformes Todt étaient portés danstous"
+                    HPOS="114"
+                    VPOS="875"
+                    WIDTH="618"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c508905f"
+                    TAGREFS="LT4775"
+                    BASELINE="115 901 725 904" 
+                    HPOS="115"
+                    VPOS="890"
+                    WIDTH="610"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="115 901 115 908 723 910 725 904 724 893 115 890 115 901"/></Shape>
+	    <String CONTENT="les territoires occupés. Après avoir vérifié que le wagon fût dûment"
+                    HPOS="115"
+                    VPOS="890"
+                    WIDTH="610"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e1af858"
+                    TAGREFS="LT4775"
+                    BASELINE="115 919 716 917" 
+                    HPOS="115"
+                    VPOS="907"
+                    WIDTH="601"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="115 919 115 927 714 930 716 917 713 907 115 908 115 919"/></Shape>
+	    <String CONTENT="scellé, il le recommanda à l’un des employés du train, et c’est ainsi"
+                    HPOS="115"
+                    VPOS="907"
+                    WIDTH="601"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

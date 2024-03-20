@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>italian_2_EHRI-DR-19411007-IT.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4775" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2119"
+          HEIGHT="3164"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2119"
+                  HEIGHT="3164">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_805e2f6d"
+                    
+                    BASELINE="333 1024 1888 1051" 
+                    HPOS="329"
+                    VPOS="986"
+                    WIDTH="1557"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="332 1023 329 1057 1881 1073 1886 1049 1886 1012 332 986 332 1023"/></Shape>
+	    <String CONTENT="Inasprimento delle misure contro gli ebrei nel Protettorato"
+                    HPOS="329"
+                    VPOS="986"
+                    WIDTH="1557"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d50442e"
+                    
+                    BASELINE="333 1081 882 1081" 
+                    HPOS="332"
+                    VPOS="1046"
+                    WIDTH="549"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="332 1078 332 1110 881 1107 881 1078 881 1046 332 1046 332 1078"/></Shape>
+	    <String CONTENT="di Boemia e Moravia."
+                    HPOS="332"
+                    VPOS="1046"
+                    WIDTH="549"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68d35b6a"
+                    TAGREFS="LT4775"
+                    BASELINE="707 1278 1918 1291" 
+                    HPOS="704"
+                    VPOS="1233"
+                    WIDTH="1214"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="707 1278 704 1305 730 1318 733 1318 736 1318 891 1307 1190 1323 1192 1323 1915 1315 1918 1291 1915 1252 707 1233 707 1278"/></Shape>
+	    <String CONTENT="In seguito a decisione del Rappresentante del"
+                    HPOS="704"
+                    VPOS="1233"
+                    WIDTH="1214"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51741201"
+                    TAGREFS="LT4775"
+                    BASELINE="255 1355 2018 1368" 
+                    HPOS="253"
+                    VPOS="1318"
+                    WIDTH="1765"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="255 1355 253 1376 290 1392 292 1392 295 1392 852 1384 960 1397 963 1397 2016 1389 2018 1368 2018 1331 255 1318 255 1355"/></Shape>
+	    <String CONTENT="Reichsprotektor, sono state prese e rese note dal Comandante della"
+                    HPOS="253"
+                    VPOS="1318"
+                    WIDTH="1765"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6162f813"
+                    TAGREFS="LT4775"
+                    BASELINE="258 1431 1994 1444" 
+                    HPOS="258"
+                    VPOS="1394"
+                    WIDTH="1736"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="258 1431 258 1471 1992 1471 1994 1444 1992 1407 258 1394 258 1431"/></Shape>
+	    <String CONTENT="Polizia di Sicurezza con lettera inviata al Ministro dell&#x27;Interno"
+                    HPOS="258"
+                    VPOS="1394"
+                    WIDTH="1736"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4521856"
+                    TAGREFS="LT4775"
+                    BASELINE="255 1510 2000 1518" 
+                    HPOS="253"
+                    VPOS="1476"
+                    WIDTH="1747"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="255 1510 253 1534 1994 1547 2000 1518 1997 1484 255 1476 255 1510"/></Shape>
+	    <String CONTENT="del Protettorato, ulteriori importanti misure contro gli ebrei ed"
+                    HPOS="253"
+                    VPOS="1476"
+                    WIDTH="1747"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6223cdeb"
+                    TAGREFS="LT4775"
+                    BASELINE="255 1589 841 1589" 
+                    HPOS="255"
+                    VPOS="1547"
+                    WIDTH="586"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="255 1589 255 1621 841 1621 841 1589 841 1552 255 1547 255 1589"/></Shape>
+	    <String CONTENT="i loro simpatizzanti."
+                    HPOS="255"
+                    VPOS="1547"
+                    WIDTH="586"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7946c46"
+                    TAGREFS="LT4775"
+                    BASELINE="704 1661 2037 1666" 
+                    HPOS="701"
+                    VPOS="1618"
+                    WIDTH="1336"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="704 1661 701 1687 2031 1692 2037 1666 2031 1618 704 1621 704 1661"/></Shape>
+	    <String CONTENT="Il contegno degli ebrei a Praga ed in altri centri"
+                    HPOS="701"
+                    VPOS="1618"
+                    WIDTH="1336"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c856c14f"
+                    TAGREFS="LT4775"
+                    BASELINE="255 1745 1950 1745" 
+                    HPOS="255"
+                    VPOS="1708"
+                    WIDTH="1695"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="255 1745 255 1771 1950 1771 1950 1745 1950 1711 255 1708 255 1745"/></Shape>
+	    <String CONTENT="della Boemia e Moravia fu giudicato provocatorio subito dopo la"
+                    HPOS="255"
+                    VPOS="1708"
+                    WIDTH="1695"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_56f73321"
+                    TAGREFS="LT4775"
+                    BASELINE="258 1819 2021 1832" 
+                    HPOS="255"
+                    VPOS="1771"
+                    WIDTH="1766"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="258 1819 255 1848 1794 1866 1797 1866 2018 1853 2021 1832 2018 1795 258 1771 258 1819"/></Shape>
+	    <String CONTENT="istituzione del distintivo della stella gialla, prima e dopo i re-"
+                    HPOS="255"
+                    VPOS="1771"
+                    WIDTH="1766"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50de4618"
+                    TAGREFS="LT4775"
+                    BASELINE="261 1890 1308 1901" 
+                    HPOS="258"
+                    VPOS="1853"
+                    WIDTH="1050"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="261 1890 258 1914 559 1932 562 1932 1306 1927 1308 1901 1306 1864 261 1853 261 1890"/></Shape>
+	    <String CONTENT="centi sviluppi della situazione locale."
+                    HPOS="258"
+                    VPOS="1853"
+                    WIDTH="1050"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6553440f"
+                    TAGREFS="LT4775"
+                    BASELINE="701 1972 2047 1988" 
+                    HPOS="699"
+                    VPOS="1935"
+                    WIDTH="1348"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="701 1972 699 1998 728 2011 730 2011 733 2011 849 2001 926 2014 928 2017 2045 2017 2047 1988 2047 1940 701 1935 701 1972"/></Shape>
+	    <String CONTENT="Effettivamente essi ostentarono il loro distintivo"
+                    HPOS="699"
+                    VPOS="1935"
+                    WIDTH="1348"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97eb289e"
+                    TAGREFS="LT4775"
+                    BASELINE="255 2046 1973 2061" 
+                    HPOS="253"
+                    VPOS="2001"
+                    WIDTH="1720"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="255 2046 253 2077 628 2077 664 2082 715 2090 717 2090 762 2082 799 2077 862 2082 965 2093 968 2093 971 2093 1002 2082 1018 2080 1039 2082 1089 2093 1092 2093 1095 2093 1097 2093 1110 2082 1116 2080 1132 2085 1163 2093 1166 2093 1169 2093 1614 2088 1688 2101 1691 2101 1694 2101 1731 2088 1768 2101 1770 2101 1773 2101 1971 2085 1973 2061 1973 2022 255 2001 255 2046"/></Shape>
+	    <String CONTENT="e circolarono molto numerosi per le strade, dando, come già ebbi"
+                    HPOS="253"
+                    VPOS="2001"
+                    WIDTH="1720"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_223fdeea"
+                    TAGREFS="LT4775"
+                    BASELINE="255 2125 2029 2146" 
+                    HPOS="253"
+                    VPOS="2085"
+                    WIDTH="1776"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="255 2125 253 2159 2024 2169 2029 2146 2029 2106 255 2085 255 2125"/></Shape>
+	    <String CONTENT="a riferire, la sensazione di sentirsi rispettivamente solidali con"
+                    HPOS="253"
+                    VPOS="2085"
+                    WIDTH="1776"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49d70b36"
+                    TAGREFS="LT4775"
+                    BASELINE="253 2198 854 2209" 
+                    HPOS="250"
+                    VPOS="2164"
+                    WIDTH="604"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="253 2198 250 2230 849 2249 854 2209 852 2175 253 2164 253 2198"/></Shape>
+	    <String CONTENT="la popolazione locale."
+                    HPOS="250"
+                    VPOS="2164"
+                    WIDTH="604"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcad0b23"
+                    TAGREFS="LT4775"
+                    BASELINE="696 2283 2034 2301" 
+                    HPOS="694"
+                    VPOS="2246"
+                    WIDTH="1340"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="696 2283 694 2314 712 2325 715 2325 717 2325 720 2325 1456 2322 1651 2338 1654 2338 2031 2328 2034 2301 2026 2254 1992 2264 696 2246 696 2283"/></Shape>
+	    <String CONTENT="La lettera del Comandante la Polizia di Sicurezza"
+                    HPOS="694"
+                    VPOS="2246"
+                    WIDTH="1340"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5423d41"
+                    TAGREFS="LT4775"
+                    BASELINE="248 2359 2034 2380" 
+                    HPOS="245"
+                    VPOS="2322"
+                    WIDTH="1789"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="248 2359 245 2391 2029 2407 2034 2380 2031 2343 248 2322 248 2359"/></Shape>
+	    <String CONTENT="al Ministero dell&#x27;Interno non è stata integralmente pubblicata, ma"
+                    HPOS="245"
+                    VPOS="2322"
+                    WIDTH="1789"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffa319ba"
+                    TAGREFS="LT4775"
+                    BASELINE="248 2438 1847 2457" 
+                    HPOS="245"
+                    VPOS="2399"
+                    WIDTH="1602"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="248 2438 245 2483 443 2473 482 2486 488 2489 490 2489 493 2489 525 2486 691 2475 723 2486 741 2494 744 2494 746 2494 839 2486 897 2483 939 2486 1023 2496 1026 2496 1029 2496 1055 2486 1074 2481 1110 2486 1174 2499 1176 2499 1179 2499 1182 2499 1182 2496 1192 2486 1198 2483 1219 2486 1287 2499 1290 2499 1475 2486 1509 2486 1514 2486 1543 2499 1546 2499 1549 2499 1551 2499 1588 2486 1593 2486 1614 2504 1617 2504 1620 2504 1622 2504 1844 2486 1847 2457 1844 2420 248 2399 248 2438"/></Shape>
+	    <String CONTENT="fra le misure adottate le principali sarebbero le seguenti:"
+                    HPOS="245"
+                    VPOS="2399"
+                    WIDTH="1602"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcfc3e65"
+                    TAGREFS="LT4775"
+                    BASELINE="343 2520 1981 2539" 
+                    HPOS="340"
+                    VPOS="2483"
+                    WIDTH="1641"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="343 2520 340 2547 657 2568 659 2568 794 2554 799 2554 815 2554 1287 2576 1290 2576 1293 2576 1295 2576 1311 2562 1512 2578 1514 2578 1979 2568 1981 2539 1981 2499 343 2483 343 2520"/></Shape>
+	    <String CONTENT="1° - chiusura di tutte le sinagoche e degli oratori ebraici;"
+                    HPOS="340"
+                    VPOS="2483"
+                    WIDTH="1641"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9bd1d61"
+                    TAGREFS="LT4775"
+                    BASELINE="343 2605 1910 2623" 
+                    HPOS="340"
+                    VPOS="2570"
+                    WIDTH="1570"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="343 2605 340 2634 519 2636 562 2655 564 2655 567 2655 675 2641 694 2655 696 2655 699 2655 701 2655 767 2641 783 2655 783 2657 786 2657 789 2657 791 2657 1079 2647 1092 2657 1092 2660 1095 2660 1097 2660 1100 2660 1184 2649 1240 2663 1242 2663 1245 2663 1380 2649 1427 2663 1430 2663 1432 2663 1435 2663 1461 2649 1490 2665 1493 2665 1496 2665 1725 2655 1781 2668 1783 2668 1786 2668 1789 2668 1791 2668 1791 2665 1804 2655 1907 2655 1910 2623 1907 2589 343 2570 343 2605"/></Shape>
+	    <String CONTENT="2° - obbligo di portare la stella gialla anche per alcune"
+                    HPOS="340"
+                    VPOS="2570"
+                    WIDTH="1570"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc043b68"
+                    TAGREFS="LT4775"
+                    BASELINE="472 2694 2096 2710" 
+                    HPOS="467"
+                    VPOS="2652"
+                    WIDTH="1628"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="469 2692 467 2723 546 2739 548 2739 723 2728 736 2728 746 2728 849 2742 852 2742 979 2731 1002 2731 1010 2731 1047 2744 1050 2744 1052 2744 1184 2734 1213 2734 1229 2736 1290 2747 1293 2750 2092 2750 2095 2707 2092 2660 1831 2670 1303 2668 1287 2657 1282 2652 1279 2652 1277 2652 1274 2652 469 2655 469 2692"/></Shape>
+	    <String CONTENT="categorie di eberei che nel Reich non sono tenute a portarle"
+                    HPOS="467"
+                    VPOS="2652"
+                    WIDTH="1628"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e28d424a"
+                    TAGREFS="LT4775"
+                    BASELINE="329 2779 2029 2794" 
+                    HPOS="327"
+                    VPOS="2736"
+                    WIDTH="1702"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="329 2779 327 2813 2024 2837 2029 2794 2026 2757 329 2736 329 2779"/></Shape>
+	    <String CONTENT="3° - minaccia di allontanare dalle città tutti gli ebrei, per"
+                    HPOS="327"
+                    VPOS="2736"
+                    WIDTH="1702"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
