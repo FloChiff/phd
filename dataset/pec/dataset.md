@@ -4,11 +4,11 @@ title: "Dataset"
 date: 2023-06-21
 ---
 
-1. [A bit of context](https://flochiff.github.io/phd/dataset/dataset.html#a-bit-of-context)
-2. [Description of the source](https://flochiff.github.io/phd/dataset/dataset.html#description-of-the-source)
-3. [Presentation of the dataset](https://flochiff.github.io/phd/dataset/dataset.html#presentation-of-the-dataset)
-    1. [The set "Ground truth"](https://flochiff.github.io/phd/dataset/dataset.html#the-set-ground-truth)
-    2. [The sets "War" and "Other"](https://flochiff.github.io/phd/dataset/dataset.html#the-sets-war-and-other)
+1. [A bit of context](https://flochiff.github.io/phd/dataset/pec/dataset.html#a-bit-of-context)
+2. [Description of the source](https://flochiff.github.io/phd/dataset/pec/dataset.html#description-of-the-source)
+3. [Presentation of the dataset](https://flochiff.github.io/phd/dataset/pec/dataset.html#presentation-of-the-dataset)
+    1. [The set "Ground truth"](https://flochiff.github.io/phd/dataset/pec/dataset.html#the-set-ground-truth)
+    2. [The sets "War" and "Other"](https://flochiff.github.io/phd/dataset/pec/dataset.html#the-sets-war-and-other)
 
 ### A bit of context
 In 1914, at the start of World War I, Paul d'Estournelles de Constant, a French diplomat and Senator, begans a regular correspondence with Nicholas Murray Butler, an American diplomat and University President, that would be pursued all through the war, and the following years, and this until 1924, the year of d'Estournelles' death. Some decades after his death, his daughter donated his papers, and everything he produced during his long life as a politician and a diplomat, to the Departmental Archives of his district, with a free access to it. Recently, this correspondence became a subject of interest for some historians, with the goal to make it available to a large audience by transcribing, encoding and publishing it. This became a reality with the DAHN project, that dedicated a huge part of its tasks to do just that. 
