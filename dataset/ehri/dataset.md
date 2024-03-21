@@ -57,7 +57,7 @@ As previously said, the dataset was used to generate a multilingual model. To te
 
 Here are the ten documents I selected:
 
-<figure>
+<figure style="text-align: center;">
 <a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/danish_1_EHRI-DR-19430528-DK.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/danish_1_EHRI-DR-19430528-DK.jpg" width="120" title="Danish 1"/></a>
 <a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/danish_2_EHRI-DR-19420615-DK_04.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/danish_2_EHRI-DR-19420615-DK_04.jpg" width="120" title="Danish 2" /></a>
 <a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/english_1_EHRI-BF-19380805.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/english_1_EHRI-BF-19380805.jpg" width="120" title="English 1" /></a>
@@ -65,12 +65,13 @@ Here are the ten documents I selected:
 <a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/french_1_EHRI-ET-WL16560633.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/french_1_EHRI-ET-WL16560633.jpg" width="120" title="French 1" /></a></figure>
 <figcaption style="text-align: center;">From left to right: Danish 1 (DR) and 2 (DR), English 1 (BF) and 2 (BF), French 1 (EHT).</figcaption>
 
-<figure><a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/french_2_EHRI-ET-WL16560633.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/french_2_EHRI-ET-WL16560633.jpg" width="120" title="French 2" /></a>
+<figure style="text-align: center;"><a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/french_2_EHRI-ET-WL16560633.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/french_2_EHRI-ET-WL16560633.jpg" width="120" title="French 2" /></a>
 <a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/italian_1_EHRI-DR-19430316-IT.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/italian_1_EHRI-DR-19430316-IT.jpg" width="120" title="Italian 1" /></a>
 <a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/italian_2_EHRI-DR-19411007-IT.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/italian_2_EHRI-DR-19411007-IT.jpg" width="120" title="Italian 2" /></a>
 <a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/slovak_1_EHRI-BF-19380906.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/slovak_1_EHRI-BF-19380906.jpg" width="120" title="Slovak 1" /></a>
 <a href="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/slovak_2_EHRI-BF-19380421e_SK_05.jpg" target="_blank"><img src="https://raw.githubusercontent.com/FloChiff/phd/main/dataset/ehri/images/slovak_2_EHRI-BF-19380421e_SK_05.jpg" width="120" title="Slovak 2" /></a></figure>
-<figcaption style="text-align: center;">From left to right: French 2 (EHT), Italian 1 (DR) and 2 (DR), Slovak 1 (BF) and 2 (BF).</figcaption>
+<figcaption style="text-align: center;">From left to right: French 2 (EHT), Italian 1 (DR) and 2 (DR), Slovak 1 (BF) and 2 (BF).</figcaption>  
+
 
 There are ten documents, all are typescripted but in five different languages: Danish, English, French, Italian and Slovak. I wanted to have languages that were represented in the dataset, with more or less content - English has the most documents, Slovak has the least and Danish is in between -, as well as two unknown languages, to see how well the model do in such cases. I also thought about compatibility when choosing the language. I saw, in a result from one experiment, that English and Slovak were less compatible, in terms of tokens, than English and Polish. As my goal is to test as much as I can the model, I choose Slovak rather than Polish as the less represented languages.  
 I also selected two pages of each, to have more ground for my analysis but also, again, to better test my model. For English and Danish, I selected an image from the dataset, but also one not from it, so that the model can be tested on languages that it knows but not only data that it has already seen. I wanted to do it for all known languages but the content on Slovak is limited in EHRI and the fifteen pages from the dataset were all that existed. For French and Italian, the images are evidently both unknown, as the model was never trained on such languages.  
