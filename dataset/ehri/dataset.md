@@ -36,16 +36,16 @@ The first case happened with German, Hungarian and Polish, which had full transc
 
 Here is how the dataset is constituted:
 
-| Language | Collection | Documents | Lines | ATR model accuracy |
-| :---: | :---: | :---: | :---: | :---: |
-| German | BF; Nisko; EHT | 56 | 2287 | 97.9% |
-| English | BF; EHT; DR | 54 | 1989 | 97.5% |
-| Czech | BF; EHT | 46 | 1713 | 96.7% |
-| Danish | DR | 36 | 1007 | 97.8% |
-| Hungarian | EHT | 30 | 1334 | 95.7% |
-| Polish | EHT | 15 | 468 | 93.1% |
-| Slovak | BF | 15 | 395 | 93.7% |
-| Multilingual | BF; Nisko; DR; EHT | 252 | 9193 | 97.2% |
+| Language | Collection | Documents | Lines |
+| :---: | :---: | :---: | :---: |
+| German | BF; Nisko; EHT | 56 | 2287 |
+| English | BF; EHT; DR | 54 | 1989 |
+| Czech | BF; EHT | 46 | 1713 |
+| Danish | DR | 36 | 1007 |
+| Hungarian | EHT | 30 | 1334 |
+| Polish | EHT | 15 | 468 |
+| Slovak | BF | 15 | 395 |
+| Multilingual | BF; Nisko; DR; EHT | 252 | 9193 |
 
 In this table, I mentioned each language of the dataset, the collections from which the documents came from, the number of documents and lines, as well as the accuracy that I obtained for the models I developed. As can be observed, there are two truly dominant languages (German and English). It is mostly due to the fact that they are found in the majority of collections. Then, there are three more or less important languages (Danish, Hungarian and Czech) and, finally, two rather limited languages in terms of quantity (Polish and Slovak).
 
