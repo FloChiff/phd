@@ -35,7 +35,6 @@ Details on some of the results:
 - [Table of results (Multilingual model EHRI)](https://flochiff.github.io/phd/experiments/multilingual_model_ehri/results_from_the_token_error_analysis_tables/table_results_token_error_analysis.html)
 - [Versus text (Comparative analysis)](https://github.com/FloChiff/phd/tree/main/experiments/comparative_analysis/versus_text)
 - [Versus text (Multilingual model EHRI)](https://github.com/FloChiff/phd/tree/main/experiments/multilingual_model_ehri/metrics_for_comparative_analysis/versus_text)
-- [Versus text - No punctuation (Multilingual model EHRI)](https://github.com/FloChiff/phd/tree/main/experiments/multilingual_model_ehri/metrics_for_comparative_analysis/versus_text_nopunctuation)
 - [Wordclouds (Content analysis)](https://flochiff.github.io/phd/experiments/content_analysis/wordclouds_content_analysis.html)
 - [Wordclouds (Lexicon analysis)](https://flochiff.github.io/phd/experiments/lexicon_analysis/wordclouds_lexicon_analysis.html)
 
