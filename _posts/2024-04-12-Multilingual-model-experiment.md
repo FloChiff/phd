@@ -215,6 +215,7 @@ Regarding those various numbers, it would be interesting to see, similarly to th
 
 ### The tables of n-grams
 #### Observations about the distribution of unknown occurrences in the tables
+
 | | 4grams | 3grams | 2grams |
 |:--|:--:|:--:|:--:|
 | Occurrences in CT = ø | 58 | 52 | 35 |
