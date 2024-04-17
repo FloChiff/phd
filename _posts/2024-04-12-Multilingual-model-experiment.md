@@ -127,8 +127,8 @@ Those metrics contains a column for each page of the test set. There are eleven 
 
 |  | EN 1 | EN 2 | DA 1 | DA 2 | SK 1 | SK 2 | FR 1 | FR 2 | IT 1 | IT 2  |
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Levensthein Distance (Char.) | 48 | 10 | 106 | 14 | 11 | 11 | 67 | 94 | 98 | 21 |
-| Levensthein Distance (Words) | 33 | 9 | 73 | 19 | 14 | 13 | 62 | 94 | 75 | 21 |
+| Levenshtein Distance (Char.) | 48 | 10 | 106 | 14 | 11 | 11 | 67 | 94 | 98 | 21 |
+| Levenshtein Distance (Words) | 33 | 9 | 73 | 19 | 14 | 13 | 62 | 94 | 75 | 21 |
 | WER in % | 9.85 | 2.325 | 39.673 | 8.636 | 10.37 | 6.046 | 13.596 | 20.042 | 20.215 | 11.351 |
 | CER in % | 2.51 | 0.421 | 8.811 | 0.893 | 1.199 | 0.812 | 2.433 | 3.196 | 4.224 | 1.76 |
 | Wacc in % | 90.149 | 97.674 | 60.326 | 91.363 | 86.629 | 93.953 | 86.403 | 79.957 | 79.784 | 88.648 |
@@ -143,8 +143,8 @@ Those metrics contains a column for each page of the test set. There are eleven 
 
 |  | EN 1 | EN 2 | DA 1 | DA 2 | SK 1 | SK 2 | FR 1 | FR 2 | IT 1 | IT 2  |
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Levensthein Distance (Char.) | 39 | 9 | 106 | 11 | 10 | 10 | 62 | 90 | 90 | 18 |
-| Levensthein Distance (Words) | 24 | 9 | 73 | 16 | 11 | 13 | 58 | 90 | 68 | 19 |
+| Levenshtein Distance (Char.) | 39 | 9 | 106 | 11 | 10 | 10 | 62 | 90 | 90 | 18 |
+| Levenshtein Distance (Words) | 24 | 9 | 73 | 16 | 11 | 13 | 58 | 90 | 68 | 19 |
 | WER in % | 7.185 | 2.362 | 39.673 | 7.339 | 8.208 | 6.103 | 12.803 | 19.313 | 18.428 | 10.439 |
 | CER in % | 2.108 | 0.389 | 9.298 | 0.726 | 1.129 | 0.759 | 2.307 | 3.132 | 3.956 | 1.534 |
 | Wacc in % | 92.814 | 97.637 | 60.326 | 92.66 | 91.791 | 93.896 | 87.196 | 80.686 | 81.571 | 89.56 |

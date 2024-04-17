@@ -9,8 +9,8 @@ date: 2022-10-21
 
 |  | Model Other | Model War | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 5 | 25 | 19 |
-| Levensthein Distance (Words) | 2 | 22 | 16 |
+| Levenshtein Distance (Char.) | 5 | 25 | 19 |
+| Levenshtein Distance (Words) | 2 | 22 | 16 |
 | Word Error Rate (WER in %) | 0.803 | 8.835 | 6.451 |
 | Char. Error Rate (CER in %) | 0.316 | 1.582 | 1.204 |
 | Word Accuracy (Wacc in %) | 99.196 | 91.164 | 93.548 |
@@ -25,8 +25,8 @@ date: 2022-10-21
 
 |  | Model Other | Model War | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 10 | 90 | 84 |
-| Levensthein Distance (Words) | 8 | 71 | 62 |
+| Levenshtein Distance (Char.) | 10 | 90 | 84 |
+| Levenshtein Distance (Words) | 8 | 71 | 62 |
 | Word Error Rate (WER in %) | 1.941 | 17.233 | 15.012 |
 | Char. Error Rate (CER in %) | 0.413 | 3.72 | 3.466 |
 | Word Accuracy (Wacc in %) | 98.058 | 82.766 | 84.987 |
@@ -41,8 +41,8 @@ date: 2022-10-21
 
 |  | Model Other | Model War | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 9 | 65 | 61 |
-| Levensthein Distance (Words) | 6 | 37 | 37 |
+| Levenshtein Distance (Char.) | 9 | 65 | 61 |
+| Levenshtein Distance (Words) | 6 | 37 | 37 |
 | Word Error Rate (WER in %) | 3.947 | 24.342 | 24.342 |
 | Char. Error Rate (CER in %) | 1.032 | 7.454 | 6.995 |
 | Word Accuracy (Wacc in %) | 96.052 | 75.657 | 75.657 |
@@ -57,8 +57,8 @@ date: 2022-10-21
 
 |  | Model Other | Model War | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 11 | 56 | 55 |
-| Levensthein Distance (Words) | 7 | 44 | 46 |
+| Levenshtein Distance (Char.) | 11 | 56 | 55 |
+| Levenshtein Distance (Words) | 7 | 44 | 46 |
 | Word Error Rate (WER in %) | 2.661 | 16.73 | 17.49 |
 | Char. Error Rate (CER in %) | 0.684 | 3.484 | 3.422 |
 | Word Accuracy (Wacc in %) | 97.338 | 83.269 | 82.509 |
@@ -73,8 +73,8 @@ date: 2022-10-21
 
 |  | Model Other | Model War | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 7 | 127 | 121 |
-| Levensthein Distance (Words) | 6 | 50 | 43 |
+| Levenshtein Distance (Char.) | 7 | 127 | 121 |
+| Levenshtein Distance (Words) | 6 | 50 | 43 |
 | Word Error Rate (WER in %) | 8.955 | 74.626 | 64.179 |
 | Char. Error Rate (CER in %) | 1.369 | 24.853 | 23.679 |
 | Word Accuracy (Wacc in %) | 91.044 | 25.373 | 35.82 |
@@ -91,8 +91,8 @@ date: 2022-10-21
 
 |  | Model War | Model Other | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 11 | 33 | 8 |
-| Levensthein Distance (Words) | 9 | 23 | 7 |
+| Levenshtein Distance (Char.) | 11 | 33 | 8 |
+| Levenshtein Distance (Words) | 9 | 23 | 7 |
 | Word Error Rate (WER in %) | 5.202 | 13.294 | 4.046 |
 | Char. Error Rate (CER in %) | 1.038 | 3.116 | 0.755 |
 | Word Accuracy (Wacc in %) | 94.797 | 86.705 | 95.953 |
@@ -107,8 +107,8 @@ date: 2022-10-21
 
 |  | Model War | Model Other | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 21 | 40 | 6 |
-| Levensthein Distance (Words) | 20 | 32 | 7 |
+| Levenshtein Distance (Char.) | 21 | 40 | 6 |
+| Levenshtein Distance (Words) | 20 | 32 | 7 |
 | Word Error Rate (WER in %) | 6.734 | 10.774 | 2.356 |
 | Char. Error Rate (CER in %) | 1.213 | 2.312 | 0.346 |
 | Word Accuracy (Wacc in %) | 93.265 | 89.225 | 97.643 |
@@ -123,8 +123,8 @@ date: 2022-10-21
 
 |  | Model War | Model Other | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 27 | 59 | 9 |
-| Levensthein Distance (Words) | 20 | 35 | 8 |
+| Levenshtein Distance (Char.) | 27 | 59 | 9 |
+| Levenshtein Distance (Words) | 20 | 35 | 8 |
 | Word Error Rate (WER in %) | 10.928 | 19.125 | 4.371 |
 | Char. Error Rate (CER in %) | 2.423 | 5.296 | 0.807 |
 | Word Accuracy (Wacc in %) | 89.071 | 80.874 | 95.628 |
@@ -139,8 +139,8 @@ date: 2022-10-21
 
 |  | Model War | Model Other | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 8 | 6 | 9 |
-| Levensthein Distance (Words) | 8 | 4 | 8 |
+| Levenshtein Distance (Char.) | 8 | 6 | 9 |
+| Levenshtein Distance (Words) | 8 | 4 | 8 |
 | Word Error Rate (WER in %) | 2.807 | 1.403 | 2.807 |
 | Char. Error Rate (CER in %) | 0.477 | 0.357 | 0.536 |
 | Word Accuracy (Wacc in %) | 97.192 | 98.596 | 97.192 |
@@ -155,8 +155,8 @@ date: 2022-10-21
 
 |  | Model War | Model Other | Model War Retrained |
 |--|--|--|--|
-| Levensthein Distance (Char.) | 19 | 50 | 13 |
-| Levensthein Distance (Words) | 18 | 38 | 13 |
+| Levenshtein Distance (Char.) | 19 | 50 | 13 |
+| Levenshtein Distance (Words) | 18 | 38 | 13 |
 | Word Error Rate (WER in %) | 6.545 | 13.818 | 4.727 |
 | Char. Error Rate (CER in %) | 1.172 | 3.086 | 0.802 |
 | Word Accuracy (Wacc in %) | 93.454 | 86.181 | 95.272 |

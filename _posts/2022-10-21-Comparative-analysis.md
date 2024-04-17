@@ -34,7 +34,7 @@ date: 2022-10-21
 As I previously mentioned, my thesis aims to determine if the lexicon of the ground truth has an impact on the efficiency of the model, especially if it is specific. To prove or refute this theory, I need to do different kind of tests.
 In the last entry of my logbook, I presented the content analysis I did on two tests sets I developed from the corpus of Paul d'Estournelles de Constant. The idea was to obtain a thoroughly knowledge of the content of those tests sets.  
 Those tests sets have been selected by reading the letters and each is supposed to have their own specific subject: one is about the war and the other is not about war but about "everything else" (For more information about the dataset, see [here](https://flochiff.github.io/phd/dataset/dataset.html)). After analysing the content and notably the unique tokens from each set, the theme selection appears more clearly. The war set is full of military terms, while the 'other' test set seems to be more about politics and administrative business. This seems logical, as war and politics are the two main topics of discussion between d'Estournelles and Butler.  
-Now that I know more about my sets, I will try to demonstrate my theory by using them for transcription. With each set, I did a training on [eScriptorium](https://escriptorium.paris.inria.fr/) and produced a model. Then, I apply to each set the model developed from the opposite set, but also the model developed from their respective set. The idea is to see how good the transcription can be, if the model has some problems recognizing some parts of the text, because it is not in the vocabulary it was trained with; moreover, we know, thanks to the word clouds the kind of words it should have problems with.  
+Now that I know more about my sets, I will try to demonstrate my theory by using them for transcription. With each set, I did a training on [eScriptorium](https://escriptorium.inria.fr/) and produced a model. Then, I apply to each set the model developed from the opposite set, but also the model developed from their respective set. The idea is to see how good the transcription can be, if the model has some problems recognizing some parts of the text, because it is not in the vocabulary it was trained with; moreover, we know, thanks to the word clouds the kind of words it should have problems with.  
 Right from the start, I must point out that the efficiency of one of the models might be instantly better than the other, due to the quantity of data given for the training. Indeed, the "war" set is made of about 30 pages, while the "other" has double or even more pages, so it gave the trainer the opportunity to recognize characters and words with more occurrences, which will be a bonus.
 
 ## How to do a comparative analysis of transcription?
@@ -42,7 +42,7 @@ Before starting to check the transcriptions, it is important to ask how will we 
 
 ### Some definitions
 There are some metrics to know in order to understand how to evaluate the quality of a transcription.
-First of all, the evaluation will be made by calculating the Levensthein distance, which is the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other. For example, the Levensthein distance between "complete" and "complet" will be 1, because there was one deletion ('e'), but, between "extraordinary" and "ektraodinnary", it will be 3 because there was one insertion ('n'), one deletion ('r') and one substitution ('x'-->'k').
+First of all, the evaluation will be made by calculating the Levenshtein distance, which is the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other. For example, the Levenshtein distance between "complete" and "complet" will be 1, because there was one deletion ('e'), but, between "extraordinary" and "ektraodinnary", it will be 3 because there was one insertion ('n'), one deletion ('r') and one substitution ('x'-->'k').
 Then, from that, the Word Error Rate (WER) and Character Error Rate (CER) will be calculated. The WER is a way to evaluate the quantity of words correctly transcribe by a model. It will be obtained as such: 
 
 > Word substitution(s) + Word insertion(s) + Word deletion(s) / Number of words in the reference
@@ -59,21 +59,21 @@ A high CER doesn't particularly mean a high WER, because the character errors co
 
 For the subsequent analysis that we will do, our metrics will be:
 
-* Levensthein distance, in characters and in words
+* Levenshtein distance, in characters and in words
 * WER, CER and Wacc
 * Hits (number of characters correctly guesses)
 * Substitutions/Insertions/Deletions
 * Length of the reference and of the prediction
 
-### The tool: KaMi
+### The tool: KaMI
 For my comparative analysis, I want to obtain some of the metrics I mentioned above. In order to do so, I will use KaMi, which stands for Kraken Model Inspector, a tool built for the evaluation of models and based on the Kraken transcription system.
 
 #### Functionalities
-This tool evaluates the success of a transcription task on an image or several, comparing a correct transcription - the reference - and a prediction, produced by transcribing with a chosen model. The results will be a series of metrics, with notably the Levensthein distance between the reference and the transcription, the Word Error Rate (WER) and the Character Error Rate (CER), the Word Accuracy (Wacc), as well as some others statistics taken from the Speech Recognition domain. With the results, the length of the reference and the prediction are also available, which is an already quick way to determine a difference.  
+This tool evaluates the success of a transcription task on an image or several, comparing a correct transcription - the reference - and a prediction, produced by transcribing with a chosen model. The results will be a series of metrics, with notably the Levenshtein distance between the reference and the transcription, the Word Error Rate (WER) and the Character Error Rate (CER), the Word Accuracy (Wacc), as well as some others statistics taken from the Speech Recognition domain. With the results, the length of the reference and the prediction are also available, which is an already quick way to determine a difference.  
 With the web application, it is also possible to have access to a 'versus text', which will show where are the differences between the reference and the prediction. This is a good way to determine more easily where the model had a problem, which could then be helpful to know how to better train and improve it. However, the web application is limited on the number of characters that can be submitted in the reference/prediction (7000 characters), so it will only be possible to test little bit of the transcription.
 
-#### How to have access to KaMi
-- Web Application
+#### How to have access to KaMI
+- [Web Application](https://huggingface.co/spaces/lterriel/kami-app)
 - [GitHub](https://github.com/KaMI-tools-project/KaMi-lib)
 
 ## Table of results
@@ -82,8 +82,8 @@ With the web application, it is also possible to have access to a 'versus text',
 
 |  | Set War/Model War | Set War/Model Other | Set Other/Model Other | Set Other/Model War |
 |--|--|--|--|--|
-| Levensthein distance (char) | 372 | 770 | 451 | 4090 |
-| Levensthein distance (words) | 322 | 540 | 346 | 2734 |
+| Levenshtein distance (char) | 372 | 770 | 451 | 4090 |
+| Levenshtein distance (words) | 322 | 540 | 346 | 2734 |
 | WER | 4,92% | 8,25% | 2,08% | 16,48% |
 | CER | 0,95% | 1,97% | 0,45% | 4,08% |
 | Word Accuracy | 95,08% | 91,74% | 97,91% | 83,51% |
@@ -95,7 +95,7 @@ With the web application, it is also possible to have access to a 'versus text',
 | Length (prediction) | 38963 | 38921 | 100130 | 100053 |
 
 #### Observations
-First of all, the most striking thing we can observe is the Levensthein distance in characters where the gap between the model with the set it trained on and the model trained with the other set is really high. For the war set, the number has more than doubled and for the other set, the number has been multiplied by almost 10. Then, we can see with the length of the reference and the prediction that all predictions are missing characters compared to the reference (41 SW/MW; 83 SW/MO; 59 SO/MO; 136 SO/MW). This can be partly explained by the fact that there is a lot of deletions in every model application but at the same time, the insertions aren't that high. We can also observe that the substitutions are really high, the smallest number being 274 for the SO/MO, while the SO/MO is at more than ten times that with 3301. Overall, the word accuracy percentage are not that bad: for the model applied to the set it trained on, we have 95% (SW) and 97% (SO) which is pretty good; for the model applied to the opposite set, we have 91% (SW) and 83% (SO). With those number, we can see that the MO did really well on its own set but it wasn't so bad either on the other set. On the other end, the MW did pretty bad on the SO but it wasn't as high as it could have been on its own set. This tends to prove the idea that the SW should had had the same number of pages on its training set as the SO, because the problem of the model come from the lack of content rather than the content itself.
+First of all, the most striking thing we can observe is the Levenshtein distance in characters where the gap between the model with the set it trained on and the model trained with the other set is really high. For the war set, the number has more than doubled and for the other set, the number has been multiplied by almost 10. Then, we can see with the length of the reference and the prediction that all predictions are missing characters compared to the reference (41 SW/MW; 83 SW/MO; 59 SO/MO; 136 SO/MW). This can be partly explained by the fact that there is a lot of deletions in every model application but at the same time, the insertions aren't that high. We can also observe that the substitutions are really high, the smallest number being 274 for the SO/MO, while the SO/MO is at more than ten times that with 3301. Overall, the word accuracy percentage are not that bad: for the model applied to the set it trained on, we have 95% (SW) and 97% (SO) which is pretty good; for the model applied to the opposite set, we have 91% (SW) and 83% (SO). With those number, we can see that the MO did really well on its own set but it wasn't so bad either on the other set. On the other end, the MW did pretty bad on the SO but it wasn't as high as it could have been on its own set. This tends to prove the idea that the SW should had had the same number of pages on its training set as the SO, because the problem of the model come from the lack of content rather than the content itself.
 
 ### Results by page
 #### Set Other
@@ -107,8 +107,8 @@ First of all, the most striking thing we can observe is the Levensthein distance
 
 |  | Model Other | Model War |
 |--|--|--|
-| Levensthein Distance (Char.) | 7 | 127 |
-| Levensthein Distance (Words) | 6 | 50 |
+| Levenshtein Distance (Char.) | 7 | 127 |
+| Levenshtein Distance (Words) | 6 | 50 |
 | Word Error Rate (WER in %) | 8.955 | 74.626 |
 | Char. Error Rate (CER in %) | 1.369 | 24.853 |
 | Word Accuracy (Wacc in %) | 91.044 | 25.373 |
@@ -130,8 +130,8 @@ The length difference is not that high between the predictions and the reference
 
 |  | Model Other | Model War |
 |--|--|--|
-| Levensthein Distance (Char.) | 1 | 21 |
-| Levensthein Distance (Words) | 1 | 21 |
+| Levenshtein Distance (Char.) | 1 | 21 |
+| Levenshtein Distance (Words) | 1 | 21 |
 | Word Error Rate (WER in %) | 0.403 | 8.467 |
 | Char. Error Rate (CER in %) | 0.063 | 1.331 |
 | Word Accuracy (Wacc in %) | 99.596 | 91.532 |
@@ -153,8 +153,8 @@ The number of characters in the prediction is the same for both models, but also
 
 |  | Model Other | Model War |
 |--|--|--|
-| Levensthein Distance (Char.) | 6 | 86 |
-| Levensthein Distance (Words) | 6 | 69 |
+| Levenshtein Distance (Char.) | 6 | 86 |
+| Levenshtein Distance (Words) | 6 | 69 |
 | Word Error Rate (WER in %) | 1.452 | 16.707 |
 | Char. Error Rate (CER in %) | 0.247 | 3.549 |
 | Word Accuracy (Wacc in %) | 98.547 | 83.292 |
@@ -176,8 +176,8 @@ The MO did pretty well and was different from the reference by only one more cha
 
 |  | Model Other | Model War |
 |--|--|--|
-| Levensthein Distance (Char.) | 9 | 65 |
-| Levensthein Distance (Words) | 6 | 37 |
+| Levenshtein Distance (Char.) | 9 | 65 |
+| Levenshtein Distance (Words) | 6 | 37 |
 | Word Error Rate (WER in %) | 3.947 | 24.342 |
 | Char. Error Rate (CER in %) | 1.032 | 7.454 |
 | Word Accuracy (Wacc in %) | 96.052 | 75.657 |
@@ -199,8 +199,8 @@ The MO is wrong by two more characters in its prediction and four more for the M
 
 |  | Model Other | Model War |
 |--|--|--|
-| Levensthein Distance (Char.) | 11 | 56 |
-| Levensthein Distance (Words) | 7 | 44 |
+| Levenshtein Distance (Char.) | 11 | 56 |
+| Levenshtein Distance (Words) | 7 | 44 |
 | Word Error Rate (WER in %) | 2.661 | 16.73 |
 | Char. Error Rate (CER in %) | 0.684 | 3.484 |
 | Word Accuracy (Wacc in %) | 97.338 | 83.269 |
@@ -226,8 +226,8 @@ In conclusion, for this test set, we can say that the MO rather did well on the 
 
 |  | Model War | Model Other |
 |--|--|--|
-| Levensthein Distance (Char.) | 11 | 33 |
-| Levensthein Distance (Words) | 9 | 23 |
+| Levenshtein Distance (Char.) | 11 | 33 |
+| Levenshtein Distance (Words) | 9 | 23 |
 | Word Error Rate (WER in %) | 5.202 | 13.294 |
 | Char. Error Rate (CER in %) | 1.038 | 3.116 |
 | Word Accuracy (Wacc in %) | 94.797 | 86.705 |
@@ -249,8 +249,8 @@ The MW only miss the reference by one, while the MO did it by five less characte
 
 |  | Model War | Model Other |
 |--|--|--|
-| Levensthein Distance (Char.) | 8 | 6 |
-| Levensthein Distance (Words) | 8 | 4 |
+| Levenshtein Distance (Char.) | 8 | 6 |
+| Levenshtein Distance (Words) | 8 | 4 |
 | Word Error Rate (WER in %) | 2.807 | 1.403 |
 | Char. Error Rate (CER in %) | 0.477 | 0.357 |
 | Word Accuracy (Wacc in %) | 97.192 | 98.596 |
@@ -272,8 +272,8 @@ The MW and MO did both very well on this transcription and here, the MO was bett
 
 |  | Model War | Model Other |
 |--|--|--|
-| Levensthein Distance (Char.) | 19 | 50 |
-| Levensthein Distance (Words) | 18 | 38 |
+| Levenshtein Distance (Char.) | 19 | 50 |
+| Levenshtein Distance (Words) | 18 | 38 |
 | Word Error Rate (WER in %) | 6.545 | 13.818 |
 | Char. Error Rate (CER in %) | 1.172 | 3.086 |
 | Word Accuracy (Wacc in %) | 93.454 | 86.181 |
@@ -295,8 +295,8 @@ The MO and MW were rather close in their predictions to the reference (by one) b
 
 |  | Model War | Model Other |
 |--|--|--|
-| Levensthein Distance (Char.) | 21 | 40 |
-| Levensthein Distance (Words) | 20 | 32 |
+| Levenshtein Distance (Char.) | 21 | 40 |
+| Levenshtein Distance (Words) | 20 | 32 |
 | Word Error Rate (WER in %) | 6.734 | 10.774 |
 | Char. Error Rate (CER in %) | 1.213 | 2.312 |
 | Word Accuracy (Wacc in %) | 93.265 | 89.225 |
@@ -318,8 +318,8 @@ Both transcriptions are pretty off for their usual results, with a WER of 6 and 
 
 |  | Model War | Model Other |
 |--|--|--|
-| Levensthein Distance (Char.) | 27 | 59 |
-| Levensthein Distance (Words) | 20 | 35 |
+| Levenshtein Distance (Char.) | 27 | 59 |
+| Levenshtein Distance (Words) | 20 | 35 |
 | Word Error Rate (WER in %) | 10.928 | 19.125 |
 | Char. Error Rate (CER in %) | 2.423 | 5.296 |
 | Word Accuracy (Wacc in %) | 89.071 | 80.874 |
@@ -344,8 +344,8 @@ The MW has been retrained on its own data, in order to double the input and to s
 
 |  | Set Other/Model War Retrained | Set War/Model War Retrained  |
 |--|--|--|
-| Levensthein Distance (Char.) | 3768 | 197 |
-| Levensthein Distance (Words) | 2512 | 174 |
+| Levenshtein Distance (Char.) | 3768 | 197 |
+| Levenshtein Distance (Words) | 2512 | 174 |
 | Word Error Rate (WER in %) | 15.15 | 2.66 |
 | Char. Error Rate (CER in %) | 3.76 |0.51 |
 | Word Accuracy (Wacc in %) | 84.85 | 97.34 |
@@ -364,8 +364,8 @@ In the matter of the prediction, the MWR did a little better on its own set, by 
 
 |  | 1358_4 | 607_3 | 607_17 | 722_1 | 1170_3 | 678_1 | 1000_3 | 1367_1 | 844_1 | 948_1 |
 |--|--|--|--|--|--|--|--|--|--|--|
-| Levensthein Distance (Char.) | 121 | 19 | 84 | 61 | 55 | 8 | 9 | 13 | 6 | 9 |
-| Levensthein Distance (Words) | 43 | 16 | 62 | 37 | 46 | 7 | 8 | 13 | 7 | 8 |
+| Levenshtein Distance (Char.) | 121 | 19 | 84 | 61 | 55 | 8 | 9 | 13 | 6 | 9 |
+| Levenshtein Distance (Words) | 43 | 16 | 62 | 37 | 46 | 7 | 8 | 13 | 7 | 8 |
 | Word Error Rate (WER in %) | 64.179 | 6.451 | 15.012 | 24.342 | 17.49 | 4.046 | 2.807 | 4.727 | 2.356 | 4.371 |
 | Char. Error Rate (CER in %) | 23.679 | 1.204 | 3.466 | 6.995 | 3.422 | 0.755 | 0.536 | 0.802 | 0.346 | 0.807 |
 | Word Accuracy (Wacc in %) | 35.82 | 93.548 | 84.987 | 75.657 | 82.509 | 95.953 | 97.192 | 95.272 | 97.643 | 95.628 |
