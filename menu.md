@@ -14,7 +14,7 @@ Reports of my experiments:
 
 Details on some of the results:
 - [Bar charts (Token analysis)](https://flochiff.github.io/phd/experiments/token_analysis/bar_charts_token_analysis.html)
-- [Comparison of transcriptions errors (Token analysis)](https://flochiff.github.io/phd/experiments/token_analysis/comparison_transcriptions_errors.html)
+- [Comparison of transcriptions errors (Token Error analysis)](https://flochiff.github.io/phd/experiments/token_error_analysis/creating_the_token_error_tables/comparison_transcriptions_errors.html)
 - [Diagrams (POS) (Content analysis)](https://flochiff.github.io/phd/experiments/content_analysis/diagrams_pos_content_analysis.html)
 - [Distribution of the alphabet by characters (Multilingual model)](https://flochiff.github.io/phd/experiments/multilingual_model_ehri/heatmaps_of_alphabet_distribution/distribution_of_alphabet_by_characters.pdf)
 - [Distribution of the alphabet by language (Multilingual model)](https://flochiff.github.io/phd/experiments/multilingual_model_ehri/heatmaps_of_alphabet_distribution/distribution_of_alphabet_by_language.pdf)
